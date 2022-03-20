@@ -299,3 +299,11 @@
 - Always use the `SuppressWarnings` annotation on the smallest scope possible.
 
 ### Prefer lists to arrays
+
+- Arrays are *covariant*.
+- Generics are *invariant*.
+- Arrays are *reified*. Arrays know and enforce their element type at runtime.
+- Generics are implemented by *erasure*. They enforce their type constraints only at compile time and discard (or erase) their element type information at runtime.
+- A non-reifiable type is one whose runtime representation contains less information than its compile-time representation.
+- Because of erasure, the only parameterized types that are reifiable are unbounded wildcard types
+- Arrays are covariant and reified; generics are invariant and erased.
