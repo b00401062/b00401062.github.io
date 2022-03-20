@@ -281,6 +281,8 @@
 ## Generics
 
 - [Don’t use raw types](#dont-use-raw-types)
+- [Eliminate unchecked warnings](#eliminate-unchecked-warnings)
+- [Prefer lists to arrays](#prefer-lists-to-arrays)
 
 ### Don’t use raw types
 
@@ -288,3 +290,12 @@
 - Migration compatibility drove the decisions to support raw types and to implement generics using erasure.
 - The safe alternative to raw collection types is to use unbounded wildcard types.
 - You can’t put any element (other than null) into a `Collection<?>`.
+
+### Eliminate unchecked warnings
+
+- The *diamond operator* tells the compiler to infer the correct actual type parameter.
+- Eliminate every unchecked warning that you can.
+- If the code that provoked the warning is typesafe, then (and only then) suppress the warning with an `@SuppressWarnings("unchecked")` annotation.
+- Always use the `SuppressWarnings` annotation on the smallest scope possible.
+
+### Prefer lists to arrays
