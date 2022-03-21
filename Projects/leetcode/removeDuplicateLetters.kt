@@ -1,7 +1,6 @@
 package leetcode
 
-import java.util.Stack
-import java.lang.StringBuilder
+import java.util.*
 
 fun removeDuplicateLetters(s: String): String {
     val seen = BooleanArray(26)

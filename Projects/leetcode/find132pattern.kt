@@ -1,6 +1,6 @@
 package leetcode
 
-import java.util.Stack
+import java.util.*
 
 fun find132pattern(nums: IntArray): Boolean {
     val n = nums.size
@@ -21,4 +21,4 @@ fun find132pattern(nums: IntArray): Boolean {
     return false
 }
 
-private class Range internal constructor(val min: Int, val max: Int)
+private class Range(val min: Int, val max: Int)

@@ -9,7 +9,7 @@ fun arrayStringsAreEqual(word1: Array<String>, word2: Array<String>): Boolean {
     return !iter1.hasNext() && !iter2.hasNext()
 }
 
-private class CharStream internal constructor(private val words: Array<String>) : Iterable<Char?> {
+private class CharStream(private val words: Array<String>) : Iterable<Char?> {
     override fun iterator(): Iterator<Char?> {
         return object : Iterator<Char?> {
             private var wordIdx = 0

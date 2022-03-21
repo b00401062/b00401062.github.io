@@ -1,7 +1,5 @@
 package leetcode
 
-import java.util.HashMap
-
 fun maxOperations(nums: IntArray, k: Int): Int {
     val table: MutableMap<Int, Int> = HashMap()
     for (num in nums) {

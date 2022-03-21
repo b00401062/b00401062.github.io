@@ -1,8 +1,6 @@
 package leetcode
 
-import java.util.ArrayList
-import java.util.Comparator
-import java.util.PriorityQueue
+import java.util.*
 
 private fun shortestPath(adjList: List<Node>, beginNode: Node, endNode: Node) {
     val pairs = PriorityQueue(
@@ -48,7 +46,7 @@ fun countRestrictedPaths(n: Int, edges: Array<IntArray>): Int {
     return adjList[1].pathCount
 }
 
-private class Node internal constructor(val id: Int) {
+private class Node(val id: Int) {
     val edges: MutableList<Edge> = ArrayList()
     var distance = Int.MAX_VALUE
     var pathCount = 0
@@ -70,13 +68,13 @@ private class Node internal constructor(val id: Int) {
     }
 }
 
-private class Edge internal constructor(val tailNode: Node, val headNode: Node, val weight: Int) {
+private class Edge(val tailNode: Node, val headNode: Node, val weight: Int) {
     fun headNode(): Node {
         return headNode
     }
 }
 
-private class Pair internal constructor(val nodeID: Int, val distance: Int) {
+private class Pair(val nodeID: Int, val distance: Int) {
     fun distance(): Int {
         return distance
     }

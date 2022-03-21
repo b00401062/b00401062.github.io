@@ -1,7 +1,5 @@
 package leetcode
 
-import java.lang.StringBuilder
-
 fun reformatNumber(number: String): String {
     val chars = number.replace("-".toRegex(), "").replace(" ".toRegex(), "").toCharArray()
     val n = chars.size

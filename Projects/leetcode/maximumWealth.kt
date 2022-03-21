@@ -1,7 +1,7 @@
 package leetcode
 
+import java.util.*
 import java.util.function.ToIntFunction
-import java.util.Arrays
 
 private val sum = ToIntFunction { account: IntArray? -> Arrays.stream(account).sum() }
 

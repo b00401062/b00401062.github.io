@@ -1,6 +1,6 @@
 package leetcode
 
-import java.util.Arrays
+import java.util.*
 
 private var cache = intArrayOf(
     1,

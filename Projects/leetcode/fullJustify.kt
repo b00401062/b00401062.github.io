@@ -1,8 +1,5 @@
 package leetcode
 
-import java.lang.StringBuilder
-import java.util.ArrayList
-
 fun fullJustify(words: Array<String>, maxWidth: Int): List<String> {
     val res: MutableList<String> = ArrayList()
     if (words.size > 0 && maxWidth > 0) {

@@ -1,6 +1,6 @@
 package leetcode
 
-import java.util.LinkedList
+import java.util.*
 
 private class Graph(p: String) {
 

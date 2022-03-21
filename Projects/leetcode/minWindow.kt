@@ -1,7 +1,5 @@
 package leetcode
 
-import java.util.HashMap
-
 private fun letterMap(t: String): MutableMap<Char, Int> {
     val letterMap: MutableMap<Char, Int> = HashMap()
     for (c in t.toCharArray()) {
@@ -27,7 +25,7 @@ fun minWindow(s: String, t: String): String {
     return s.substring(minWindow.start, minWindow.end)
 }
 
-private class Window internal constructor(var start: Int, var end: Int) : Comparable<Window> {
+private class Window(var start: Int, var end: Int) : Comparable<Window> {
     override fun compareTo(that: Window): Int {
         val thisLength = end - start
         val thatLength = that.end - that.start

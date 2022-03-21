@@ -1,6 +1,6 @@
 package leetcode
 
-import java.util.Stack
+import java.util.*
 
 fun isValid(s: String): Boolean {
     val stack = Stack<Char>()

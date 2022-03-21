@@ -1,7 +1,5 @@
 package leetcode
 
-import java.lang.StringBuilder
-
 fun getSmallestString(n: Int, k: Int): String {
     var k = k
     val sb = StringBuilder()

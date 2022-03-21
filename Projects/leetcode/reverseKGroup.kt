@@ -1,6 +1,6 @@
 package leetcode
 
-import java.util.Stack
+import java.util.*
 
 fun reverseKGroup(head: ListNode?, k: Int): ListNode? {
     val stack = Stack<ListNode>()

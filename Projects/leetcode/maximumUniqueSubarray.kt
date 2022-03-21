@@ -1,7 +1,5 @@
 package leetcode
 
-import java.util.HashSet
-
 fun maximumUniqueSubarray(nums: IntArray): Int {
     var maxScore = 0
     var curScore = 0

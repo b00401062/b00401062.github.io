@@ -1,8 +1,5 @@
 package leetcode
 
-import java.util.Comparator
-import java.util.HashMap
-
 fun minDeletions(s: String): Int {
     val table: MutableMap<Char, Int> = HashMap()
     for (c in s.toCharArray()) {

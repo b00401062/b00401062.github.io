@@ -1,6 +1,6 @@
 package leetcode
 
-import java.util.Stack
+import java.util.*
 
 fun mostCompetitive(nums: IntArray, k: Int): IntArray {
     val stack = Stack<Int>()

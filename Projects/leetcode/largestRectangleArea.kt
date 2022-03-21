@@ -1,8 +1,8 @@
 package leetcode
 
-import java.util.Stack
+import java.util.*
 
-private class Bar internal constructor(val i: Int, val height: Int)
+private class Bar(val i: Int, val height: Int)
 
 private fun insert(stack: Stack<Bar>, i: Int, height: Int, maxArea: Int): Int {
     var maxArea = maxArea

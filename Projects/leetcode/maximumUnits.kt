@@ -1,7 +1,6 @@
 package leetcode
 
-import java.util.Arrays
-import java.util.Comparator
+import java.util.*
 
 fun maximumUnits(boxTypes: Array<IntArray>, truckSize: Int): Int {
     Arrays.sort(boxTypes, Comparator.comparingInt { boxType: IntArray -> -boxType[1] })

@@ -1,7 +1,7 @@
 package leetcode
 
-import kotlin.math.min
 import kotlin.math.max
+import kotlin.math.min
 
 fun maxArea(height: IntArray): Int {
     var l = 0

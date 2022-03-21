@@ -1,8 +1,6 @@
 package leetcode
 
-import java.util.ArrayList
-import java.util.Arrays
-import java.util.Collections
+import java.util.*
 
 private fun dfs(nums: IntArray, i: Int, sum: Int, subsetSums: MutableList<Int>) {
     if (i == nums.size) {

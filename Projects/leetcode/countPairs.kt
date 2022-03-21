@@ -1,7 +1,5 @@
 package leetcode
 
-import java.util.HashMap
-
 private const val MODULO: Long = 1000000007
 
 fun countPairs(deliciousness: IntArray): Int {

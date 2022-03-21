@@ -1,7 +1,5 @@
 package leetcode
 
-import java.util.Stack
-
 fun maximalRectangle(matrix: Array<CharArray>): Int {
     val I = matrix.size
     if (I == 0) return 0

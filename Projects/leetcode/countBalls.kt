@@ -1,7 +1,5 @@
 package leetcode
 
-import java.util.HashMap
-
 fun countBalls(lowLimit: Int, highLimit: Int): Int {
     val counts: MutableMap<Int, Int> = HashMap()
     for (i in lowLimit..highLimit) {
