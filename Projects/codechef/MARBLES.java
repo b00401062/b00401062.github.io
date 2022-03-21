@@ -1,8 +1,6 @@
 package codechef;
 
-import java.io.*;
-import java.math.*;
-import java.util.*;
+import java.util.Scanner;
 
 public class MARBLES {
     public static void main(String[] args) {

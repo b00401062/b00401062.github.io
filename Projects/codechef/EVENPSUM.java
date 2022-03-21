@@ -1,7 +1,7 @@
 package codechef;
 
 import java.io.*;
-import java.util.*;
+import java.util.Scanner;
 
 class EVENPSUM {
     private static long evenpsum(int a, int b) {

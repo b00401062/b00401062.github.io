@@ -1,7 +1,6 @@
 package codechef;
 
-import java.io.*;
-import java.util.*;
+import java.util.Scanner;
 
 class SMRSTR {
     public static void main(String[] args) throws java.lang.Exception {

@@ -1,6 +1,6 @@
 package codechef;
 
-import java.util.*;
+import java.util.Scanner;
 
 class SC31 {
     public static void main(String[] args) throws java.lang.Exception {

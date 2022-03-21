@@ -1,28 +1,15 @@
 package codechef;
 
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
-import java.util.*;
+import java.util.Arrays;
+import java.util.Comparator;
+import java.util.PriorityQueue;
+import java.util.Scanner;
 
 class DDIMMST {
-    private static class Point {
-        private final int[] x;
-        private int w = 0;
-
-        public Point(int[] x) {
-            this.x = x;
-        }
-
-        public int w() {
-            return this.w;
-        }
-
-        public void set(int w) {
-            this.w = w;
-        }
-    }
-
     private static int distance(Point p1, Point p2) {
         final int D = p1.x.length;
         int w = 0;
@@ -66,5 +53,22 @@ class DDIMMST {
         }
         System.out.println(weight);
         stdin.close();
+    }
+
+    private static class Point {
+        private final int[] x;
+        private int w = 0;
+
+        public Point(int[] x) {
+            this.x = x;
+        }
+
+        public int w() {
+            return this.w;
+        }
+
+        public void set(int w) {
+            this.w = w;
+        }
     }
 }

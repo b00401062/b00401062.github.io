@@ -1,6 +1,6 @@
 package codechef;
 
-import java.io.*;
+import java.io.IOException;
 import java.util.*;
 
 class H1 {

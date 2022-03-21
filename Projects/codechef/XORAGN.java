@@ -1,7 +1,7 @@
 package codechef;
 
-import java.io.*;
-import java.util.*;
+import java.util.Arrays;
+import java.util.Scanner;
 
 class XORAGN {
     public static void main(String[] args) throws java.lang.Exception {

@@ -1,7 +1,7 @@
 package codechef;
 
 import java.io.*;
-import java.util.*;
+import java.util.Scanner;
 
 class ENGXOR {
     public static void main(String[] args) throws IOException {

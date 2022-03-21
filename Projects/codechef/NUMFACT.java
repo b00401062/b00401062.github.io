@@ -1,7 +1,9 @@
 package codechef;
 
-import java.io.*;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+import java.util.Scanner;
 
 class NUMFACT {
     private static int[] getPrimesBelow(int n) {

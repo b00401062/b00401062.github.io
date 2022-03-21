@@ -1,26 +1,12 @@
 package codechef;
 
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 import java.util.*;
 import java.util.stream.Collectors;
 
 public class KNPSK {
-    private static class Record {
-        public final long cost;
-        public final int oneCount;
-        public final int twoCount;
-
-        Record(long cost, int oneCount, int twoCount) {
-            this.cost = cost;
-            this.oneCount = oneCount;
-            this.twoCount = twoCount;
-        }
-
-        public long cost() {
-            return cost;
-        }
-    }
-
     private static long[] solve(List<Integer> ones, List<Integer> twos) {
         Collections.sort(ones);
         Collections.sort(twos);
@@ -64,5 +50,21 @@ public class KNPSK {
                         .collect(Collectors.joining(" "))
         );
         stdin.close();
+    }
+
+    private static class Record {
+        public final long cost;
+        public final int oneCount;
+        public final int twoCount;
+
+        Record(long cost, int oneCount, int twoCount) {
+            this.cost = cost;
+            this.oneCount = oneCount;
+            this.twoCount = twoCount;
+        }
+
+        public long cost() {
+            return cost;
+        }
     }
 }

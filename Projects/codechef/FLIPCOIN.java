@@ -7,6 +7,25 @@ import java.io.PrintWriter;
 import java.util.BitSet;
 
 public class FLIPCOIN {
+    public static void main(String[] args) throws IOException {
+        Reader leer = new Reader();
+        int tam = leer.nextInt();
+        int queries = leer.nextInt();
+        PrintWriter out = new PrintWriter(System.out, true);
+        BitSet b1 = new BitSet(tam);
+        while (queries-- > 0) {
+            int orden = leer.nextInt();
+            int lidx = leer.nextInt();
+            int ridx = leer.nextInt();
+            if (orden == 0) {
+                b1.flip(lidx, ridx + 1);
+            } else {
+                out.println(b1.get(lidx, ridx + 1).cardinality());
+            }
+        }
+
+    }
+
     static class Reader {
         final private int BUFFER_SIZE = 1 << 16;
         private final DataInputStream din;
@@ -107,24 +126,5 @@ public class FLIPCOIN {
                 return;
             din.close();
         }
-    }
-
-    public static void main(String[] args) throws IOException {
-        Reader leer = new Reader();
-        int tam = leer.nextInt();
-        int queries = leer.nextInt();
-        PrintWriter out = new PrintWriter(System.out, true);
-        BitSet b1 = new BitSet(tam);
-        while (queries-- > 0) {
-            int orden = leer.nextInt();
-            int lidx = leer.nextInt();
-            int ridx = leer.nextInt();
-            if (orden == 0) {
-                b1.flip(lidx, ridx + 1);
-            } else {
-                out.println(b1.get(lidx, ridx + 1).cardinality());
-            }
-        }
-
     }
 }

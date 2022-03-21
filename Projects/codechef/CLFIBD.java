@@ -1,7 +1,8 @@
 package codechef;
 
-import java.io.*;
-import java.util.*;
+import java.io.IOException;
+import java.util.Arrays;
+import java.util.Scanner;
 
 class CLFIBD {
     private static boolean check(int[] c) {

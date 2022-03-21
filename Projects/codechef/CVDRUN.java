@@ -1,7 +1,7 @@
 package codechef;
 
 import java.io.*;
-import java.util.*;
+import java.util.Scanner;
 
 class CVDRUN {
     private static int gcd(int n, int k) {

@@ -1,6 +1,7 @@
 package codechef;
 
-import java.util.*;
+import java.util.Arrays;
+import java.util.Scanner;
 
 class SEAVOTE {
     private static boolean solve(int[] bs) {

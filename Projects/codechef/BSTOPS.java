@@ -1,20 +1,9 @@
 package codechef;
 
-import java.io.*;
-import java.util.*;
+import java.io.IOException;
+import java.util.Scanner;
 
 class BSTOPS {
-    private static class Node {
-        Node lt, rt;
-        int x;
-        long p;
-
-        Node(int x, long p) {
-            this.x = x;
-            this.p = p;
-        }
-    }
-
     private static Node insert(Node root, int x, long p) {
         if (root == null) {
             System.out.println(p);
@@ -63,6 +52,17 @@ class BSTOPS {
                     root = delete(root, x);
                     break;
             }
+        }
+    }
+
+    private static class Node {
+        Node lt, rt;
+        int x;
+        long p;
+
+        Node(int x, long p) {
+            this.x = x;
+            this.p = p;
         }
     }
 }

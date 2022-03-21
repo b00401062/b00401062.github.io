@@ -1,6 +1,6 @@
 package codechef;
 
-import java.util.*;
+import java.util.Scanner;
 
 class CHPINTU {
     public static void main(String[] args) {

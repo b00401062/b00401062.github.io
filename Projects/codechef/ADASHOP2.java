@@ -1,28 +1,28 @@
 package codechef;
 
-import java.util.*;
+import java.util.Scanner;
 
 class ADASHOP2 {
     private static final int[][] TAIL_STEPS = new int[][]{
-        new int[]{2, 2},
-        new int[]{3, 1},
-        new int[]{1, 3},
-        new int[]{2, 4},
-        new int[]{1, 5},
-        new int[]{5, 1},
-        new int[]{6, 2},
-        new int[]{7, 1},
-        new int[]{1, 7},
-        new int[]{2, 8},
-        new int[]{8, 2},
-        new int[]{7, 3},
-        new int[]{8, 4},
-        new int[]{4, 8},
-        new int[]{5, 7},
-        new int[]{6, 8},
-        new int[]{8, 6},
-        new int[]{7, 7},
-        new int[]{8, 8}
+            new int[]{2, 2},
+            new int[]{3, 1},
+            new int[]{1, 3},
+            new int[]{2, 4},
+            new int[]{1, 5},
+            new int[]{5, 1},
+            new int[]{6, 2},
+            new int[]{7, 1},
+            new int[]{1, 7},
+            new int[]{2, 8},
+            new int[]{8, 2},
+            new int[]{7, 3},
+            new int[]{8, 4},
+            new int[]{4, 8},
+            new int[]{5, 7},
+            new int[]{6, 8},
+            new int[]{8, 6},
+            new int[]{7, 7},
+            new int[]{8, 8}
     };
 
     public static void main(String[] args) {

@@ -1,28 +1,12 @@
 package codechef;
 
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.PrintWriter;
 import java.util.*;
 
 class LAZER {
-    private static class Query {
-        protected int x1;
-        protected int x2;
-        protected int y;
-        protected int n;
-
-        Query(int x1, int x2, int y) {
-            this.x1 = x1;
-            this.x2 = x2;
-            this.y = y;
-        }
-    }
-
-    private static class Event {
-        protected List<Integer> xis = new ArrayList<>();
-        protected List<Integer> xos = new ArrayList<>();
-        protected List<Query> queries = new ArrayList<>();
-    }
-
     public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         PrintWriter writer = new PrintWriter(System.out);
@@ -81,5 +65,24 @@ class LAZER {
         reader.close();
         writer.flush();
         writer.close();
+    }
+
+    private static class Query {
+        protected int x1;
+        protected int x2;
+        protected int y;
+        protected int n;
+
+        Query(int x1, int x2, int y) {
+            this.x1 = x1;
+            this.x2 = x2;
+            this.y = y;
+        }
+    }
+
+    private static class Event {
+        protected List<Integer> xis = new ArrayList<>();
+        protected List<Integer> xos = new ArrayList<>();
+        protected List<Query> queries = new ArrayList<>();
     }
 }

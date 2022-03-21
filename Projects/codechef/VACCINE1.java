@@ -1,7 +1,6 @@
 package codechef;
 
-import java.io.*;
-import java.util.*;
+import java.util.Scanner;
 
 class VACCINE1 {
     public static void main(String[] args) throws Exception {

@@ -1,7 +1,8 @@
 package codechef;
 
-import java.io.*;
-import java.util.*;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Scanner;
 
 class COINS {
     private static final Map<Integer, Long> dp = new HashMap<>();
