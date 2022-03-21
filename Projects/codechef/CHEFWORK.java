@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.*;
 
 class CHEFWORK {
-    public static void main (String[] args) throws IOException {
+    public static void main(String[] args) throws IOException {
         Scanner stdin = new Scanner(System.in);
         int n = stdin.nextInt();
         int[] c = new int[n];

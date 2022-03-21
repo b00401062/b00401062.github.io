@@ -1,20 +1,20 @@
 package codechef;
 
-import java.util.*;
 import java.io.*;
 import java.math.*;
+import java.util.*;
 
 public class MARBLES {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int t = sc.nextInt();
+        Scanner stdin = new Scanner(System.in);
+        int t = stdin.nextInt();
         while (t-- != 0) {
             int n = 0, k = 0;
-            if (sc.hasNextInt()) {
-                n = sc.nextInt();
+            if (stdin.hasNextInt()) {
+                n = stdin.nextInt();
             }
-            if (sc.hasNextInt()) {
-                k = sc.nextInt();
+            if (stdin.hasNextInt()) {
+                k = stdin.nextInt();
             }
             if (n == k) {
                 System.out.println(1);

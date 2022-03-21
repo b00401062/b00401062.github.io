@@ -33,11 +33,11 @@ public class POSPREFS {
             int k = stdin.nextInt();
             int[] a = solve(n, k);
             System.out.println(
-                Arrays
-                .stream(a)
-                .skip(1)
-                .mapToObj(Integer::toString)
-                .collect(Collectors.joining(" "))
+                    Arrays
+                            .stream(a)
+                            .skip(1)
+                            .mapToObj(Integer::toString)
+                            .collect(Collectors.joining(" "))
             );
         }
         stdin.close();

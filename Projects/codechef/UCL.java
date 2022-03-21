@@ -1,27 +1,29 @@
 package codechef;
 
-import java.util.*;
-import java.lang.*;
 import java.io.*;
+import java.util.*;
 import java.util.stream.Collectors;
 
 class UCL {
     private static class Team {
         private int point = 0;
         private int goal = 0;
+
         public void plus(int point, int goal) {
             this.point += point;
             this.goal += goal;
         }
+
         public int getPoint() {
             return this.point;
         }
+
         public int getGoal() {
             return this.goal;
         }
     }
 
-    public static void main (String[] args) throws java.lang.Exception {
+    public static void main(String[] args) throws java.lang.Exception {
         Scanner stdin = new Scanner(System.in);
         int t = Integer.parseInt(stdin.nextLine());
         while (t-- > 0) {
@@ -45,18 +47,18 @@ class UCL {
                 teams.get(tokens[4]).plus(0, -diff);
             }
             System.out.println(
-                teams.entrySet()
-                .stream()
-                .sorted(
-                    Map.Entry.comparingByValue(
-                        Comparator.comparingInt(Team::getPoint)
-                        .thenComparingInt(Team::getGoal)
-                        .reversed()
-                    )
-                )
-                .limit(2)
-                .map(Map.Entry::getKey)
-                .collect(Collectors.joining(" "))
+                    teams.entrySet()
+                            .stream()
+                            .sorted(
+                                    Map.Entry.comparingByValue(
+                                            Comparator.comparingInt(Team::getPoint)
+                                                    .thenComparingInt(Team::getGoal)
+                                                    .reversed()
+                                    )
+                            )
+                            .limit(2)
+                            .map(Map.Entry::getKey)
+                            .collect(Collectors.joining(" "))
             );
         }
     }

@@ -1,17 +1,16 @@
 package codechef;
 
-import java.util.*;
-import java.lang.*;
 import java.io.*;
+import java.util.*;
 
 class VACCINE1 {
-    public static void main (String[] args) throws java.lang.Exception {
-        Scanner sc = new Scanner(System.in);
-        int D1 = sc.nextInt();
-        int v1 = sc.nextInt();
-        int D2 = sc.nextInt();
-        int v2 = sc.nextInt();
-        int p = sc.nextInt();
+    public static void main(String[] args) throws Exception {
+        Scanner stdin = new Scanner(System.in);
+        int D1 = stdin.nextInt();
+        int v1 = stdin.nextInt();
+        int D2 = stdin.nextInt();
+        int v2 = stdin.nextInt();
+        int p = stdin.nextInt();
         int countVaccine = 0;
         int count = 0;
         while (countVaccine < p) {
@@ -22,7 +21,7 @@ class VACCINE1 {
                 countVaccine += v2;
             }
             count++;
-         }
-         System.out.println(count - 1);
+        }
+        System.out.println(count - 1);
     }
 }

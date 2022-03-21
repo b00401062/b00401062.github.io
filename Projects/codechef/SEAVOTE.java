@@ -15,7 +15,7 @@ class SEAVOTE {
         while (t-- > 0) {
             int n = stdin.nextInt();
             int[] bs = new int[n];
-            for (int i  = 0; i < n; i++) {
+            for (int i = 0; i < n; i++) {
                 bs[i] = stdin.nextInt();
             }
             boolean res = solve(bs);

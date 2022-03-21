@@ -3,7 +3,7 @@ package codechef;
 import java.util.*;
 
 class SC31 {
-    public static void main (String[] args) throws java.lang.Exception {
+    public static void main(String[] args) throws java.lang.Exception {
         Scanner stdin = new Scanner(System.in);
         int T = stdin.nextInt();
         while (T-- > 0) {

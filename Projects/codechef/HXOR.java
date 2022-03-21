@@ -38,13 +38,13 @@ public class HXOR {
             int x = stdin.nextInt();
             stdin.nextLine();
             int[] a = Arrays.stream(
-                stdin.nextLine().split(" ")
+                    stdin.nextLine().split(" ")
             ).mapToInt(Integer::valueOf).toArray();
             solve(a, x);
             System.out.println(
-                Arrays.stream(a)
-                .mapToObj(Integer::toString)
-                .collect(Collectors.joining(" "))
+                    Arrays.stream(a)
+                            .mapToObj(Integer::toString)
+                            .collect(Collectors.joining(" "))
             );
         }
         stdin.close();

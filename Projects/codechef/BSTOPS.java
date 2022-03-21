@@ -1,14 +1,14 @@
 package codechef;
 
-import java.util.*;
-import java.lang.*;
 import java.io.*;
+import java.util.*;
 
 class BSTOPS {
     private static class Node {
         Node lt, rt;
         int x;
         long p;
+
         Node(int x, long p) {
             this.x = x;
             this.p = p;
@@ -48,20 +48,20 @@ class BSTOPS {
         return root;
     }
 
-    public static void main (String[] args) throws IOException {
-        Scanner in = new Scanner(System.in);
-        int n = in.nextInt();
+    public static void main(String[] args) throws IOException {
+        Scanner stdin = new Scanner(System.in);
+        int n = stdin.nextInt();
         Node root = null;
         while (n-- > 0) {
-            char c = in.next().charAt(0);
-            int x = in.nextInt();
+            char c = stdin.next().charAt(0);
+            int x = stdin.nextInt();
             switch (c) {
-            case 'i':
-                root = insert(root, x, 1);
-                break;
-            case 'd':
-                root = delete(root, x);
-                break;
+                case 'i':
+                    root = insert(root, x, 1);
+                    break;
+                case 'd':
+                    root = delete(root, x);
+                    break;
             }
         }
     }

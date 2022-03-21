@@ -1,9 +1,9 @@
 package codechef;
 
 import java.io.*;
-import java.util.*;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
+import java.util.*;
 
 class DDIMMST {
     private static class Point {

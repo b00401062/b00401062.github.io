@@ -1,11 +1,10 @@
 package codechef;
 
-import java.util.*;
-import java.lang.*;
 import java.io.*;
+import java.util.*;
 
 class CHNUM {
-    public static void main (String[] args) throws java.lang.Exception {
+    public static void main(String[] args) throws java.lang.Exception {
         Scanner stdin = new Scanner(System.in);
         int t = stdin.nextInt();
         while (t-- > 0) {
@@ -15,9 +14,9 @@ class CHNUM {
                 c[(int) Math.signum(stdin.nextInt()) + 1]++;
             }
             System.out.printf(
-                "%d %d\n",
-                Math.max(c[0], c[2]) + c[1],
-                Arrays.stream(c).filter(a -> a > 0).min().getAsInt()
+                    "%d %d\n",
+                    Math.max(c[0], c[2]) + c[1],
+                    Arrays.stream(c).filter(a -> a > 0).min().getAsInt()
             );
         }
     }

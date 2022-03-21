@@ -3,16 +3,16 @@ package codechef;
 import java.util.Scanner;
 
 class BINIM {
-    private static Integer ZERO = (int) '0';
-    private static Integer ONE = (int) '1';
-    private static String[] PLAYERS = new String[] { "Dee", "Dum" };
+    private static final Integer ZERO = (int) '0';
+    private static final Integer ONE = (int) '1';
+    private static final String[] PLAYERS = new String[]{"Dee", "Dum"};
 
-    public static void main (String[] args) throws java.lang.Exception {
+    public static void main(String[] args) throws java.lang.Exception {
         Scanner stdin = new Scanner(System.in);
         int T = stdin.nextInt();
         while (T-- > 0) {
             int N = stdin.nextInt();
-            int turn = stdin.next() == "Dum" ? 1 : 0;
+            int turn = stdin.next().equals("Dum") ? 1 : 0;
             int[] counts = new int[2];
             while (N-- > 0) {
                 String stack = stdin.next();

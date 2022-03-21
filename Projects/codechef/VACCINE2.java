@@ -17,7 +17,7 @@ class VACCINE2 {
             int n = stdin.nextInt();
             int d = stdin.nextInt();
             int[] ages = new int[n];
-            for (int i  = 0; i < n; i++) {
+            for (int i = 0; i < n; i++) {
                 ages[i] = stdin.nextInt();
             }
             int day = solve(ages, d);

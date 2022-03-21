@@ -1,11 +1,10 @@
 package codechef;
 
-import java.util.*;
-import java.lang.*;
 import java.io.*;
+import java.util.*;
 
 class COINS {
-    private static Map<Integer, Long> dp = new HashMap<>();
+    private static final Map<Integer, Long> dp = new HashMap<>();
 
     public static long exchange(int n) {
         if (n < 12) {
@@ -19,9 +18,9 @@ class COINS {
         return dp.get(n);
     }
 
-    public static void main (String[] args) throws java.lang.Exception {
+    public static void main(String[] args) throws java.lang.Exception {
         Scanner stdin = new Scanner(System.in);
-        while(stdin.hasNextLine()) {
+        while (stdin.hasNextLine()) {
             int n = Integer.parseInt(stdin.nextLine());
             System.out.println(exchange(n));
         }
