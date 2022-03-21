@@ -1,6 +1,6 @@
 package leetcode
 
-internal class LRUCache(private val capacity: Int) {
+class LRUCache(private val capacity: Int) {
     private class ListNode(var key: Int, var value: Int) {
         var prev: ListNode? = null
         var next: ListNode? = null
