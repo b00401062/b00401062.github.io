@@ -1,6 +1,6 @@
 package leetcode
 
-const val MODULO = 1000000007
+private const val MODULO = 1000000007
 
 private fun leftShift(n: Int, bitShift: Int): Int {
     var n = n
