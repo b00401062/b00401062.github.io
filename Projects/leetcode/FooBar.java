@@ -2,7 +2,7 @@ package leetcode;
 
 import java.util.concurrent.Semaphore;
 
-public class FooBar {
+class FooBar {
 
     private final int n;
     private final Semaphore can_foo = new Semaphore(1);
