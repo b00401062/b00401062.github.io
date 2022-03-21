@@ -1,14 +1,6 @@
 package leetcode;
 
 class SortList {
-    private static class ListNode {
-        int val;
-        ListNode next;
-        ListNode() {}
-        ListNode(int val) { this.val = val; }
-        ListNode(int val, ListNode next) { this.val = val; this.next = next; }
-    }
-
     private static int size(ListNode head) {
         int size = 0;
         for (ListNode ptr = head; ptr != null; ptr = ptr.next) size++;

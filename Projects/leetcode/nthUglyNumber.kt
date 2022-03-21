@@ -1,6 +1,6 @@
 package leetcode
 
-val cache = mutableListOf(1, 2, 3, 4, 5, 6, 8, 9, 10, 12)
+private val cache = mutableListOf(1, 2, 3, 4, 5, 6, 8, 9, 10, 12)
 
 fun isUgly(i: Int): Boolean {
     var i = i
