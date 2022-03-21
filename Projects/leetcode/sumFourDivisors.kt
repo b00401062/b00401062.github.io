@@ -3,7 +3,7 @@ private fun getPrimesBelow(n: Int): IntArray {
     val marked = BooleanArray(n + 1)
     marked[0] = true
     marked[1] = true
-    for (i in 2 .. n) {
+    for (i in 2..n) {
         var p = i shl 1
         while (p < n) {
             marked[p] = true
@@ -11,7 +11,7 @@ private fun getPrimesBelow(n: Int): IntArray {
         }
     }
     val primes = mutableListOf<Int>()
-    for (i in 0 .. n) {
+    for (i in 0..n) {
         if (!marked[i]) {
             primes.add(i)
         }
@@ -20,7 +20,7 @@ private fun getPrimesBelow(n: Int): IntArray {
 }
 
 fun sumFourDivisors(nums: IntArray): Int {
-    val maxNum = nums.max()!!
+    val maxNum = nums.maxOrNull()!!
     if (maxNum == 1) return 0
     var primes = getPrimesBelow(maxNum)
     var res = 0

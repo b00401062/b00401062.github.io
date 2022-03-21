@@ -6,7 +6,7 @@ internal class LRUCache(private val capacity: Int) {
         var next: ListNode? = null
     }
 
-    private class List() {
+    private class List {
         private val head: ListNode = ListNode(-1, -1)
         private val tail: ListNode = ListNode(-1, -1)
 

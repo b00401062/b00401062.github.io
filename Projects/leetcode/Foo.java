@@ -4,8 +4,8 @@ import java.util.concurrent.Semaphore;
 
 class Foo {
 
-    private Semaphore checkpoint1 = new Semaphore(1);
-    private Semaphore checkpoint2 = new Semaphore(1);
+    private final Semaphore checkpoint1 = new Semaphore(1);
+    private final Semaphore checkpoint2 = new Semaphore(1);
 
     public Foo() {
         try {

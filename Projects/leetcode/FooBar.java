@@ -4,9 +4,9 @@ import java.util.concurrent.Semaphore;
 
 public class FooBar {
 
-    private int n;
-    private Semaphore can_foo = new Semaphore(1);
-    private Semaphore can_bar = new Semaphore(1);
+    private final int n;
+    private final Semaphore can_foo = new Semaphore(1);
+    private final Semaphore can_bar = new Semaphore(1);
 
     public FooBar(int n) {
         this.n = n;

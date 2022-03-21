@@ -5,9 +5,9 @@ import java.util.function.IntConsumer;
 
 class FizzBuzz {
 
-    private int n;
+    private final int n;
     private int i = 1;
-    private Semaphore[] locks = new Semaphore[4];
+    private final Semaphore[] locks = new Semaphore[4];
 
     public FizzBuzz(int n) {
         this.n = n;

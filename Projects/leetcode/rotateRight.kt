@@ -7,8 +7,8 @@ fun rotateRight(head: ListNode?, k: Int): ListNode? {
     var tail: ListNode? = null
     while (ptr != null) {
         n += 1
-        if (ptr?.next == null) tail = ptr
-        ptr = ptr?.next
+        if (ptr.next == null) tail = ptr
+        ptr = ptr.next
     }
     if (k % n == 0) return head
     ptr = head

@@ -4,7 +4,7 @@ class ListNode {
     var `val` = 0
     var next: ListNode? = null
 
-    constructor() {}
+    constructor()
     constructor(`val`: Int) {
         this.`val` = `val`
     }

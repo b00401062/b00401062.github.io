@@ -5,7 +5,7 @@ class TreeNode {
     var left: TreeNode? = null
     var right: TreeNode? = null
 
-    constructor() {}
+    constructor()
     constructor(`val`: Int) {
         this.`val` = `val`
     }

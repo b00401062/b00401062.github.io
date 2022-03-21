@@ -20,13 +20,13 @@ fun spiralOrder(matrix: Array<IntArray>): List<Int> {
         n--
         if (r <= m) {
             for (j in n downTo c) {
-              list.add(matrix[m][j])
+                list.add(matrix[m][j])
             }
             m--
         }
         if (c <= n) {
             for (i in m downTo r) {
-              list.add(matrix[i][c])
+                list.add(matrix[i][c])
             }
             c++
         }

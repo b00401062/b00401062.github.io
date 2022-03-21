@@ -7,8 +7,8 @@ import java.util.concurrent.Semaphore;
 class H2O {
 
     private final Semaphore[] locks = new Semaphore[]{
-        new Semaphore(2),
-        new Semaphore(1)
+            new Semaphore(2),
+            new Semaphore(1)
     };
 
     private final CyclicBarrier barrier = new CyclicBarrier(3, () -> {

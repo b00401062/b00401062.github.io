@@ -9,7 +9,7 @@ fun isNumber(s: String): Boolean {
                 "exp" -> "exp_sign"
                 else -> "dead"
             }
-            in '0' .. '9' -> when (state) {
+            in '0'..'9' -> when (state) {
                 "init", "num", "sign" -> "num"
                 "dot", "frac" -> "frac"
                 "exp", "exp_num", "exp_sign" -> "exp_num"

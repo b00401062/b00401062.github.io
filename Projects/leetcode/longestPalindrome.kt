@@ -7,7 +7,7 @@ private fun check(s: String, l: Int, r: Int): String {
         l--
         r++
     }
-    return s.substring(l+1, r)
+    return s.substring(l + 1, r)
 }
 
 fun longestPalindrome(s: String): String {
@@ -15,10 +15,10 @@ fun longestPalindrome(s: String): String {
     for (i in s.indices) {
         val candidates = arrayOf(
             palindrome,
-            check(s, i-1, i+1),
-            check(s, i, i+1)
+            check(s, i - 1, i + 1),
+            check(s, i, i + 1)
         )
-        palindrome = candidates.maxBy(String::length)!!
+        palindrome = candidates.maxByOrNull(String::length)!!
     }
     return palindrome
 }

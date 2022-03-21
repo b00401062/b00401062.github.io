@@ -3,7 +3,7 @@ package leetcode
 fun isHappy(n: Int): Boolean {
     var curr = n
     val seen = HashSet<Int>()
-    while (curr != 1 && curr !in seen){
+    while (curr != 1 && curr !in seen) {
         seen.add(curr)
         var next = 0
         while (curr != 0) {

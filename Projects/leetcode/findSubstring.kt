@@ -12,7 +12,7 @@ fun findSubstring(s: String, words: Array<String>): List<Int> {
     val hash_map = mutableMapOf<String, Int>()
     for (i in words.indices)
         hash_map[words[i]] = hash_map.getOrPut(words[i]) { 0 } + 1
-    for (i in 0 .. s.length - total_len) {
+    for (i in 0..s.length - total_len) {
         var j = i
         val temp_map = HashMap<String, Int>(hash_map)
         var temp_cnt = word_cnt

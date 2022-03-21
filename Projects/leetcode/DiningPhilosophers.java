@@ -4,7 +4,7 @@ import java.util.concurrent.Semaphore;
 
 class DiningPhilosophers {
 
-    private Semaphore[] locks = new Semaphore[5];
+    private final Semaphore[] locks = new Semaphore[5];
 
     public DiningPhilosophers() {
         for (int i = 0; i < 5; i++) {
@@ -13,12 +13,12 @@ class DiningPhilosophers {
     }
 
     public void wantsToEat(
-        int philosopher,
-        Runnable pickLeftFork,
-        Runnable pickRightFork,
-        Runnable eat,
-        Runnable putLeftFork,
-        Runnable putRightFork
+            int philosopher,
+            Runnable pickLeftFork,
+            Runnable pickRightFork,
+            Runnable eat,
+            Runnable putLeftFork,
+            Runnable putRightFork
     ) throws InterruptedException {
         if (philosopher % 2 == 0) {
             locks[philosopher].acquire();

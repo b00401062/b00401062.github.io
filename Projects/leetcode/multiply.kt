@@ -12,8 +12,5 @@ fun multiply(num1: String, num2: String): String {
         product[it + 1] += product[it] / 10
         product[it] %= 10
     }
-    return product.
-        reversed().
-        joinToString("", transform = Int::toString).
-        trimStart('0')
+    return product.reversed().joinToString("", transform = Int::toString).trimStart('0')
 }

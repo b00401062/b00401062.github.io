@@ -6,7 +6,7 @@ private fun solve(
     row: Array<BooleanArray>,
     box: Array<BooleanArray>,
     n: Int
-    ): Boolean {
+): Boolean {
     val i = n / 9
     val j = n % 9
     if (n == 81)

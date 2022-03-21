@@ -16,7 +16,7 @@ private fun recur(candidates: IntArray, target: Int): List<List<Int>> {
         else if (target == candidate) {
             res.add(listOf(candidate))
             break
-        } else for (n in 1..min(target/candidate, table[candidate]!!)) {
+        } else for (n in 1..min(target / candidate, table[candidate]!!)) {
             recur(
                 candidates.sliceArray(i + 1 until candidates.size),
                 target - candidate * n
