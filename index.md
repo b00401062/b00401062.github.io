@@ -78,6 +78,7 @@ title: Life Code
 - [codechef](https://github.com/b00401062/b00401062.github.io/tree/master/Projects/codechef): Collection of Java programs solving [CodeChef](https://www.codechef.com) problems.
 - [dlc](Projects/dlc): Pipeline for merchandise detection and classification.
 - [leetcode](https://github.com/b00401062/b00401062.github.io/tree/master/Projects/leetcode): Collection of Kotlin programs solving [LeetCode](https://leetcode.com/problemset/all/) problems.
+- [mave](Projects/mave): Multiplexed assays of variant effects.
 - [nmmi](Projects/nmmi): Pipeline to create a normative model for microstructural integrity of the white matter tracts.
 - [osccm](Projects/osccm): Pipeline for metagenomics analysis to study association between microbiota and cancer.
 - [rosalind](https://github.com/b00401062/b00401062.github.io/tree/master/Projects/rosalind): Collection of Java programs solving [ROSALIND](http://rosalind.info/problems/locations/) problems.
