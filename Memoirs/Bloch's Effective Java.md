@@ -283,6 +283,8 @@
 - [Don’t use raw types](#dont-use-raw-types)
 - [Eliminate unchecked warnings](#eliminate-unchecked-warnings)
 - [Prefer lists to arrays](#prefer-lists-to-arrays)
+- Favor generic types
+- Favor generic methods
 
 ### Don’t use raw types
 
@@ -307,3 +309,5 @@
 - A non-reifiable type is one whose runtime representation contains less information than its compile-time representation.
 - Because of erasure, the only parameterized types that are reifiable are unbounded wildcard types
 - Arrays are covariant and reified; generics are invariant and erased.
+
+### Favor generic methods
