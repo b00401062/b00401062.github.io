@@ -237,6 +237,14 @@
 - Chemotherapy
 - Postoperation
 
+## Mechanisms of Action of Prokinetics
+
+|Mechanism|Medication|
+|-|-|
+|D<sub>2</sub> antagonists|Metoclopramide<br>Prochlorperazine<br>Domperidone<br>Droperidol|
+|5-HT<sub>4</sub> agonists|Cisapride<br>Mosapride|
+|Stimulants|Macrolides|
+
 ## Mechanisms of Action of Antiemetics
 
 |Mechanism|Medication|Indications|
@@ -249,13 +257,16 @@
 |Cannabinoid agonists|Dronabinol|Chemotherapy|
 |-|Corticosteroids|Chemotherapy|
 
-## Mechanisms of Action of Prokinetics
+## Mechanisms of Action of Laxatives {SHELB}
 
 |Mechanism|Medication|
 |-|-|
-|D<sub>2</sub> antagonists|Metoclopramide<br>Prochlorperazine<br>Domperidone<br>Droperidol|
 |5-HT<sub>4</sub> agonists|Cisapride<br>Mosapride|
-|Stimulants|Macrolides|
+|Stimulants|Senna<br>Bisacodyl|
+|Hyperosmotics|Magnesium<br>Polyethylene glycol<br>Lactulose<br>Enema|
+|Emollients|Docusate|
+|Lubricants|Mineral oil|
+|Bulk-formers|Psyllium|
 
 ## Etiology of Diarrhea
 
@@ -295,17 +306,6 @@
 - Clostridium difficile
 - Entamoeba histolytica
 - EHEC & EIEC
-
-## Mechanisms of Action of Laxatives {SHELB}
-
-|Mechanism|Medication|
-|-|-|
-|Stimulants|Senna<br>Bisacodyl|
-|5-HT<sub>4</sub> agonists|Cisapride<br>Mosapride|
-|Hyperosmotics|Magnesium<br>Polyethylene glycol<br>Lactulose<br>Enema|
-|Emollients|Docusate|
-|Lubricants|Mineral oil|
-|Bulk-formers|Psyllium|
 
 ## Rome Criteria for Irritable Bowel Syndrome (IBS)
 
