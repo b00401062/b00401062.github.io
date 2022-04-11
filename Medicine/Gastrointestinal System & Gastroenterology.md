@@ -143,8 +143,8 @@
 |Mechanism|Medication|Indications|
 |-|-|-|
 |M antagonists|Scopolamine|Motion sickness|
-|D<sub>2</sub> antagonists|Metoclopramide<br>Prochlorperazine<br>Domperidone<br>Droperidol|Gastroparesis<br>Chemotherapy|
-|5-HT<sub>3</sub> antagonists|-Setrons|Chemotherapy|
+|D<sub>2</sub> antagonists|Metoclopramide<br>Prochlorperazine<br>Domperidone<br>Droperidol|Postoperation<br>Chemotherapy|
+|5-HT<sub>3</sub> antagonists|-Setrons|Postoperation<br>Chemotherapy|
 |H<sub>1</sub> antagonists|1° Antihistamines|Motion sickness<br>Morning sickness|
 |Neurokinin antagonists|Aprepitant|Chemotherapy|
 |Cannabinoid agonists|Dronabinol|Chemotherapy|
