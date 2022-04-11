@@ -129,27 +129,6 @@
 
 ![](../Figures/Signs%20of%20Retroperitoneal%20Hemorrhage.png)
 
-## Etiology of Nausea and Vomiting
-
-- Gastroparesis
-- Motion sickness
-- Morning sickness
-- Radiation
-- Chemotherapy
-- Postoperation
-
-## Mechanisms of Action of Antiemetics
-
-|Mechanism|Medication|Indications|
-|-|-|-|
-|M antagonists|Scopolamine|Motion sickness|
-|D<sub>2</sub> antagonists|Metoclopramide<br>Prochlorperazine<br>Domperidone<br>Droperidol|Postoperation<br>Chemotherapy|
-|5-HT<sub>3</sub> antagonists|-Setrons|Postoperation<br>Chemotherapy|
-|H<sub>1</sub> antagonists|1° Antihistamines|Motion sickness<br>Morning sickness|
-|Neurokinin antagonists|Aprepitant|Chemotherapy|
-|Cannabinoid agonists|Dronabinol|Chemotherapy|
-|-|Corticosteroids|Chemotherapy|
-
 ## Etiology of Gastritis
 
 - Achlorhydria
@@ -248,6 +227,35 @@
 - Rovsing sign
 - Obturator sign
 - McBurney's point
+
+## Etiology of Nausea and Vomiting
+
+- Gastroparesis
+- Motion sickness
+- Morning sickness
+- Radiation
+- Chemotherapy
+- Postoperation
+
+## Mechanisms of Action of Antiemetics
+
+|Mechanism|Medication|Indications|
+|-|-|-|
+|M antagonists|Scopolamine|Motion sickness|
+|D<sub>2</sub> antagonists|Metoclopramide<br>Prochlorperazine<br>Domperidone<br>Droperidol|Postoperation<br>Chemotherapy|
+|5-HT<sub>3</sub> antagonists|-Setrons|Postoperation<br>Chemotherapy|
+|H<sub>1</sub> antagonists|1° Antihistamines|Motion sickness<br>Morning sickness|
+|Neurokinin antagonists|Aprepitant|Chemotherapy|
+|Cannabinoid agonists|Dronabinol|Chemotherapy|
+|-|Corticosteroids|Chemotherapy|
+
+## Mechanisms of Action of Prokinetics
+
+|Mechanism|Medication|
+|-|-|
+|D<sub>2</sub> antagonists|Metoclopramide<br>Prochlorperazine<br>Domperidone<br>Droperidol|
+|5-HT<sub>4</sub> agonists|Cisapride<br>Mosapride|
+|Stimulants|Macrolides|
 
 ## Etiology of Diarrhea
 
