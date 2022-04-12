@@ -90,10 +90,10 @@
   - Proximal ulnar fracture
   - Radial head dislocation 
 - Galeazzi fracture
-  - Distal radius fracture
+  - Distal radial fracture
   - Distal radioulnar joint dislocation
 - Colles fracture
-  - Distal radius fracture
+  - Distal radial fracture
 - Scaphoid fracture
 - Hook of hamate fracture
 
