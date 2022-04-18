@@ -48,7 +48,7 @@ title: Life Code
 - [Integumentary System & Dermatology](Medicine/Integumentary%20System%20&%20Dermatology.html)
 - [Medicine](Medicine/Medicine.html)
 - [Microbiology & Infectious Diseases](Medicine/Microbiology%20&%20Infectious%20Diseases.html)
-- [Musculoskeletal System & Orthopedics](Medicine/Musculoskeletal%20System%20&%20&%20Orthopedics.html)
+- [Musculoskeletal System & Orthopedics](Medicine/Musculoskeletal%20System%20&%20Orthopedics.html)
 - [Nervous System & Neurology](Medicine/Nervous%20System%20&%20Neurology.html)
 - [Oncology](Medicine/Oncology.html)
 - [Pathology](Medicine/Pathology.html)
