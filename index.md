@@ -37,7 +37,7 @@ title: Life Code
 - [Biochemistry](Medicine/Biochemistry.html)
 - [Biostatistics](Medicine/Biostatistics.html)
 - [Cardiac System & Cardiology](Medicine/Cardiac%20System%20&%20Cardiology.html)
-- [Digestive System & Gastroenterology](Medicine/Gigestive%20System%20&%20Gastroenterology.html)
+- [Digestive System & Gastroenterology](Medicine/Digestive%20System%20&%20Gastroenterology.html)
 - [Embryology & Obstetrics](Medicine/Embryology%20&%20Obstetrics.html)
 - [Endocrine System & Endocrinology](Medicine/Endocrine%20System%20&%20Endocrinology.html)
 - [Equations & Formula](Medicine/Equations%20&%20Formula.html)
