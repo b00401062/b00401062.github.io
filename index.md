@@ -37,10 +37,10 @@ title: Life Code
 - [Biochemistry](Medicine/Biochemistry.html)
 - [Biostatistics](Medicine/Biostatistics.html)
 - [Cardiac System & Cardiology](Medicine/Cardiac%20System%20&%20Cardiology.html)
+- [Digestive System & Gastroenterology](Medicine/Gigestive%20System%20&%20Gastroenterology.html)
 - [Embryology & Obstetrics](Medicine/Embryology%20&%20Obstetrics.html)
 - [Endocrine System & Endocrinology](Medicine/Endocrine%20System%20&%20Endocrinology.html)
 - [Equations & Formula](Medicine/Equations%20&%20Formula.html)
-- [Digestive System & Gastroenterology](Medicine/Gigestive%20System%20&%20Gastroenterology.html)
 - [Genetics](Medicine/Genetics.html)
 - [Hematopoietic System & Hematology](Medicine/Hematopoietic%20System%20&%20Hematology.html)
 - [Histology](Medicine/Histology.html)
@@ -62,6 +62,7 @@ title: Life Code
 - [Surgery](Medicine/Surgery.html)
 - [Toxicology](Medicine/Toxicology.html)
 - [Urinary System & Nephrology & Urology](Medicine/Urinary%20System%20&%20Nephrology%20&%20Urology.html)
+- [Vascular System & Angiology](Medicine/Vascular%20System%20&%20Angiology.html)
 
 ## Memoirs
 
