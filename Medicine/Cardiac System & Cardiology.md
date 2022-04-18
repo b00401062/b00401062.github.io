@@ -14,16 +14,6 @@
 |Big|Bulbus cordis|Smooth part of RV & LV|
 |Turbulence|Truncus arteriosus|Aortic & Pulmonary trunk|
 
-## Layers of Arteries
-
-|Layer|Elastic Artery|Muscular Artery|Arteriole|
-|-|-|-|-|
-|Tunica adventitia|+|+|+|
-|External elastic layer|-|Elastin|-|
-|Tunica media|Elastin|Smooth muscle|Smooth muscle|
-|Internal elastic layer|-|Elastin|-|
-|Tunica intima|+|+|+|
-
 ## Action Potential of Cardiac Muscle Cells
 
 |Phase|SA & AV Nodes|Atria & Ventricles|
