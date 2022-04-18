@@ -32,3 +32,24 @@
 |Bradykinin|B<sub>1</sub>|Vasodilation|
 |Substance P|NK<sub>1</sub>|Vasodilation|
 |Nitric oxide|-|Vasodilation|
+
+## Mechanisms of Action of Vasodilators
+
+|Mechanism|Medication|
+|-|-|
+|K channel activators|Minoxidil<br>Diazoxide|
+|Ca channel blockers|-Dipines|
+|α<sub>1</sub> antagonists|Terazosin<br>Doxazosin<br>Prazosin|
+|α<sub>2</sub> agonists|Methyldopa<br>Clonidine<br><br>Guanfacine|
+|D<sub>1</sub> agonists|Fenoldopam|
+|A<sub>1</sub> agonists|Adenosine|
+|ET<sub>A</sub> antagonists|Bosentan|
+|PDE inhibitors|Dipyridamole<br>Cilostazol|
+|Nitrates|Nitroprusside<br>Hydralazine|
+
+## Mechanisms of Action of Venodilators
+
+|Mechanism|Medication|
+|-|-|
+|μ-opioid agonists|Morphine|
+|Nitrates|Nitroglycerin<br>Isosorbide|
