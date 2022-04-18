@@ -263,6 +263,29 @@
 - Strokes
 - Syncope
 
+## Classification of Shock
+
+|Shock|PCWP|CO|SVR|MAP|Treatment|
+|-|-|-|-|-|-|
+|Hypovolemic|↓ (1°)|↓|↑|↓|Fluids|
+|Cardiogenic|↑|↓ (1°)|↑|↓|Inotropes<br>Diuretics<br>Venodilators|
+|Distributive|-|↑|↓ (1°)|↓|Vasopressors|
+
+## Types of Distributive Shock
+
+- Anaphylactic shock
+- Septic shock
+- Neurogenic shock
+
+## Classification of Hypovolemic Shock
+
+|Class|Loss|HR|BP|RR|Urine|
+|-|-|-|-|-|-|
+|I|< 15%|< 100|-|12 ~ 20|> 30 mL/h|
+|II|15 ~ 30%|100 ~ 120|-|20 ~ 30|20 ~ 30 mL/h|
+|III|30 ~ 40%|120 ~ 140|↓|30 ~ 40|5 ~ 15 mL/h|
+|IV|> 40%|> 140|↓|> 35|< 5 mL/h|
+
 ## Etiology of Hypoxemia
 
 - PaCO<sub>2</sub> :: normal
