@@ -1,4 +1,4 @@
-# Musculoskeletal System & Physiatry & Orthopedics
+# Musculoskeletal System & Orthopedics
 
 ## Physical Examinations for Musculoskeletal Injuries
 
@@ -28,20 +28,6 @@
 |Apley Test|Knee meniscus|
 |Patellar grind test|Patellofemoral pain syndrome|
 |Thompson test|Achilles tendon tear|
-
-## Electromyograghy (EMG)
-
-|Condition|Rest|Amplitude|Duration|Phase|Recruitment|
-|-|-|-|-|-|-|
-|Normal|-|0.2 ~ 2 mV|5 ~ 15 ms|Triphasic|-|
-|Neuropathy :: UMN|-|-|-|Triphasic|-|
-|Neuropathy :: LMN|Fibrillations|↑|↑|Polyphasic|↓|
-|Myopathy ::<br/>non-inflammatory|-|↓|↓|Polyphasic|↑|
-|Myopathy ::<br/>inflammatory|Fibrillations|↓|↓|Polyphasic|↑|
-
-## Evoked Electromyography (EMG)
-
-![](../Figures/Evoked%20Electromyography%20(EMG).png)
 
 ## Mechanisms of Action of Muscle Relaxants
 
