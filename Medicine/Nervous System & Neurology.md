@@ -667,6 +667,20 @@
 |Hoffmann sign|Upper motor neuron lesion|
 |Babinski sign|Upper motor neuron lesion|
 
+## Evoked Electromyography (EMG)
+
+![](../Figures/Evoked%20Electromyography%20(EMG).png)
+
+## Interpretation of Electromyograghy (EMG)
+
+|Condition|Rest|Amplitude|Duration|Phase|Recruitment|
+|-|-|-|-|-|-|
+|Normal|-|0.2 ~ 2 mV|5 ~ 15 ms|Triphasic|-|
+|Neuropathy :: UMN|-|-|-|Triphasic|-|
+|Neuropathy :: LMN|Fibrillations|↑|↑|Polyphasic|↓|
+|Myopathy ::<br/>non-inflammatory|-|↓|↓|Polyphasic|↑|
+|Myopathy ::<br/>inflammatory|Fibrillations|↓|↓|Polyphasic|↑|
+
 ## Spinal Cord Lesions
 
 |Lesion|Dorsal Column|Spinothalamic Tract|Corticospinal Tract|Anterior Horn|
