@@ -346,6 +346,9 @@
 
 ![](../Figures/Types%20of%20Pre-excitation.png)
 
+- Wolff-Parkinson-White (WPW) syndrome
+- Lown-Ganong-Levine syndrome (LGL) syndrome
+
 ## Risk of Stroke from Atrial Fibrillation
 
 ### CHADS<sub>2</sub> Score
@@ -427,9 +430,8 @@
 - Sinus bradycardia :: < 40 & symptomatic
 - Sick sinus syndrome
 - AV blocks :: 2nd & 3rd degree
+- Pre-excitation syndrome
 - QT prolongation
-- Wolff-Parkinson-White (WPW) syndrome
-- Cardiogenic shock
 
 ## Indications for Defibrillation
 
