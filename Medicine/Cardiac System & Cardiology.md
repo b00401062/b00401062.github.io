@@ -433,16 +433,20 @@
 
 ## Indications for Defibrillation
 
-- VF: 120 ~ 200 J
-- Pulseless VT: 120 ~ 200 J
-- Unstable polymorphic VT: 120 ~ 200 J
+|Condition|Energy (J)|
+|-|-|
+|VF|120 ~ 200|
+|Pulseless VT|120 ~ 200|
+|Unstable polymorphic VT|120 ~ 200|
 
 ## Indications for Synchronized Cardioversion
 
-- Unstable narrow-QRS tachycardia: 50 ~ 100 J
-- Unstable atrial flutter: 50 ~ 100 J
-- Unstable atrial fibrillation: 120 ~ 200 J
-- Unstable monomorphic VT: > 100 J
+|Condition|Energy (J)|
+|-|-|
+|Unstable narrow-QRS tachycardia|50 ~ 100|
+|Unstable atrial flutter|50 ~ 100|
+|Unstable atrial fibrillation|120 ~ 200|
+|Unstable monomorphic VT|> 100|
 
 ## Indications for Permanent Pacemaker
 
