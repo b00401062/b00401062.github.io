@@ -427,9 +427,13 @@
 
 ## Contraindications for Amiodarone
 
-- Sinus bradycardia :: < 40 & symptomatic
+- Sinus bradycardia
+  - < 40/min
+  - Symptomatic
 - Sick sinus syndrome
-- AV blocks :: 2nd & 3rd degree
+- AV blocks
+  - 2nd degree Mobitz II
+  - 3rd degree
 - Pre-excitation syndrome
 - QT prolongation
 
@@ -452,9 +456,13 @@
 
 ## Indications for Permanent Pacemaker
 
-- Sinus bradycardia :: < 40/min & symptomatic
+- Sinus bradycardia
+  - < 40/min
+  - Symptomatic
 - Sick sinus syndrome
-- AV blocks :: 2nd degree Mobitz II & 3rd degree
+- AV blocks
+  - 2nd degree Mobitz II
+  - 3rd degree
 
 ## Etiology of ST Segment Elevation
 
