@@ -73,7 +73,7 @@
 
 ## Disorders in Psychiatry
 
-### Neurodevelopmental Disorder
+### Neurodevelopmental Disorders
 
 - Intellectual disability
 - Communication disorder
@@ -83,7 +83,7 @@
   - Tic disorder
   - Tourette syndrome
 
-### Neurocognitive Disorder
+### Neurocognitive Disorders
 
 - Delirium
 - Dementia due to Parkinson disease
@@ -92,13 +92,13 @@
 - Dementia due to prion disease
 - Dementia due to Huntington disease
 
-### Personality Disorder
+### Personality Disorders
 
 - Cluster A: Paranoid & Schizoid & Schizotypal
 - Cluster B: Antisocial & Borderline & Histrionic & Narcissistic
 - Cluster C: Avoidant & Obsessive-compulsive & Dependent
 
-### Psychotic Disorder
+### Psychotic Disorders
 
 - Delusional disorder
 - Brief psychotic disorder: < 1 month
@@ -106,7 +106,7 @@
 - Schizophrenia: > 6 months
 - Schizoaffective disorder
 
-### Mood Disorder
+### Mood Disorders
 
 - Bipolar I/II disorder
 - Cyclothymia: > 2 years
@@ -114,7 +114,7 @@
 - Persistent depressive disorder [Dysthymia]: > 2 years
 - Seasonal affective disorder (SAD)
 
-### Anxiety Disorder
+### Anxiety Disorders
 
 - Adjustment disorder: < 6 months
 - Generalized anxiety disorder: > 6 months
@@ -130,13 +130,13 @@
 - Separation anxiety disorder
 - Selective mutism
 
-### Dissociative Disorder
+### Dissociative Disorders
 
 - Dissociative amnesia & fugue
 - Dissociative identity disorder
 - Depersonalization & Derealization disorder
 
-### Somatic Disorder
+### Somatic Disorders
 
 - Malingering
 - Factitious disorder
@@ -144,7 +144,7 @@
 - Conversion disorder
 - Illness anxiety disorder
 
-### Feeding & Eating Disorder
+### Feeding & Eating Disorders
 
 - Pica
 - Anorexia nervosa
@@ -157,7 +157,7 @@
 - Orgasmic disorder
 - Sexual pain disorder
 
-### Sleep-wake Disorder
+### Sleep-wake Disorders
 
 - Insomnia
 - Hypersomnia
@@ -169,7 +169,7 @@
 - Sleep terror disorder
 - Restless legs disorder
 
-### Disruptive Behavior Disorder
+### Disruptive Behavior Disorders
 
 - Oppositional defiant disorder
 - Intermittent explosive disorder
@@ -352,7 +352,7 @@
 |α<sub>2</sub> agonists|Clonidine<br>Guanfacine|
 |D<sub>2</sub> antagonists|Antipsychotics|
 
-## Somatic Disorders
+## Clinical Features of Somatic Disorders
 
 |Disorder|Symptoms|Motivation|
 |-|-|-|
