@@ -301,6 +301,17 @@
 |D<sub>2</sub> antagonists|2° Antipsychotics|
 |Na channel blockers|Valproate<br>Carbamazepine<br>Lamotrigine|
 
+## Clinical Features of Anxiety Disorders
+
+|Disorder|Preceding Stressor|Identifical Trigger|Duration|
+|-|-|-|-|
+|Adjustment disorder|+|-|< 6 months|
+|Generalized anxiety disorder|±|-|> 6 months|
+|Acute stress disorder|+|+|< 1 month|
+|Post-traumatic stress disorder (PTSD)|+|+|> 1 month|
+|Panic disorder|-|±|> 1 month|
+|Phobias|-|+|> 6 months|
+
 ## Mechanisms of Action of Anxiolytics
 
 |Mechanism|Medication|
