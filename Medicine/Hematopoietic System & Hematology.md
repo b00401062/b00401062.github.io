@@ -406,9 +406,11 @@
 
 ## Virchow Triad for Thrombosis {SHE}
 
-- Stasis → VTE
-- Hypercoagulability → ATE / VTE
-- Endothelial injury → ATE
+|Cause|Effect|
+|-|-|
+|Stasis|VTE|
+|Hypercoagulability|ATE / VTE|
+|Endothelial injury|ATE|
 
 ## Etiology of Hypocoagulability
 
