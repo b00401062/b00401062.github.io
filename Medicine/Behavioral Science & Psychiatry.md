@@ -240,16 +240,15 @@
 |NMDA antagonists|Amantadine|
 |GABA<sub>A</sub> agonists|Benzodiazepines|
 
-## Presentation of Major Depressive Episode {FDA-GPS}
+## Presentation of Major Depressive Episode {SIG-E-CAPS}
 
-- Fatigue
-- Depression
-- Anhedonia
-- Appetite changes :: anorexia & hyperphagia
-- Attention deficit
-- Guilt
-- Psychomotor agitation & retardation
 - Sleep disturbances :: insomnia & hypersomnia
+- Interest
+- Guilt
+- Energy
+- Concentration
+- Appetite changes :: anorexia & hyperphagia
+- Psychomotor agitation & retardation
 - Suicidal ideation
 
 ## Effects of Depression on Sleep-Wake Cycle
