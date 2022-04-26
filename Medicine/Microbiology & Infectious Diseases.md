@@ -661,14 +661,6 @@
 |Marrow toxicity|Chloramphenicol<br>Trimethoprim|
 |QT prolongation|Macrolides<br>Fluoroquinolones|
 
-## Prophylactic Antibiotics
-
-|Pathogen|Antibiotics|
-|-|-|
-|GPC|1° Cephalosporins|
-|MRSA|Vancomycin|
-|Anaerobes|Clindamycin<br>Metronidazole|
-
 ## Therapeutic Antibiotics
 
 |Pathogens|Antibiotics|
@@ -703,6 +695,7 @@
 |Chlamydia|Tetracyclines<br>Macrolides|
 |Rickettsia|Tetracyclines<br>Macrolides|
 |Pneumocystis jiroveci|Trimethoprim<br>Sulfamethoxazole|
+|Anaerobes|β-lactams & β-lactamase inhibitors<br>Carbapenems<br>Clindamycin<br>Metronidazole|
 
 ## Therapeutic Antibiotics for Drug-resistant Bacteria
 
