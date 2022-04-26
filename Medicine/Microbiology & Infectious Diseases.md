@@ -695,7 +695,7 @@
 |Chlamydia|Tetracyclines<br>Macrolides|
 |Rickettsia|Tetracyclines<br>Macrolides|
 |Pneumocystis jiroveci|Trimethoprim<br>Sulfamethoxazole|
-|Anaerobes|β-lactams & β-lactamase inhibitors<br>Carbapenems<br>Clindamycin<br>Metronidazole|
+|Anaerobes|β-lactams & β-lactamase inhibitors<br>Carbapenems<br>Fluoroquinolones<br>Clindamycin<br>Metronidazole|
 
 ## Therapeutic Antibiotics for Drug-resistant Bacteria
 
