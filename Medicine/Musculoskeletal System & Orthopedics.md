@@ -123,12 +123,13 @@
 |-|-|-|-|-|-|
 |Osteopetrosis|-|-|-|-|-|
 |Osteopenia & Osteoporosis|-|-|-|-|-|-|
+|Paget disease|-|-|-|↑|-|
 |Osteitis fibrosa cystica|↑ (1°)|↑|↓|↑|1° Hyperparathyroidism|
 |Renal osteodystrophy|↑|↓ (1°)|↑ (1°)|↑|2° Hyperparathyroidism<br>3° Hyperparathyroidism|
 |Rickets<br>Osteomalacia|↑|↓ (1°)|↓ (1°)|↑|Vitamin D deficiency|
 |Hypophosphatemic rickets|-|-|↓ (1°)|↑|-|
 |Albright hereditary osteodystrophy|↑|↓ (1°)|↑ (1°)|↑|Pseudohypoparathyroidism (PHP)|
-|Paget disease|-|-|-|↑|-|
+|Polyostotic fibrous dysplasia|-|-|-|-|McCune-Albright syndrome|
 
 ## Presentation of Osteogenesis Imperfecta
 
