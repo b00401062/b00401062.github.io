@@ -67,6 +67,15 @@
 - Nulliparity
 - Early menarche
 - Late menopause
+- Hormone replacement therapy (HRT)
+
+## Side Effects of Oral Contraceptive Pills (OCP)
+
+- ↑ Thromboembolic events
+- ↑ Breast cancer
+- ↑ Cervical cancer
+- ↓ Endometrial cancer
+- ↓ Ovarian cancer
 
 ## Etiology of Abnormal Uterine Bleeding (AUB) {PALM-COEIN}
 
