@@ -140,11 +140,6 @@
 - Liver failure → Hyperammonemia
 - End stage renal disease (ESRD) → Uremia
 
-## Pain Relieved By Leaning Forward
-
-- Pericarditis
-- Pancreatitis
-
 ## Collagen Synthesis
 
 |Steps|Enzyme|Cofactor|Diseases|
@@ -172,3 +167,70 @@
 - Marfan syndrome
 - Multiple endocrine neoplasia (MEN) 2B
 - Homocystinuria
+
+## Glycogen Storage Diseases (GSD)
+
+|Disease|Defects|Hypoglycemia|Hepatomegaly|Myopathy|
+|-|-|-|-|-|
+|Von Gierke disease|Glucose-6-phosphatase|+|+|-|
+|Pompe disease|α-1,4-Glucosidase :: lysosomal|-|+|+|
+|Cori disease|Debranching enzyme|+|+|+|
+|Anderson disease|Branching enzyme|-|+|-|
+|McArdle disease|Glycogen phosphorylase :: musclular|-|-|+|
+|Hers disease|Glycogen phosphorylase :: hepatic|+|+|-|
+
+## Lysosomal Storage Diseases (LSD)
+
+### Glycogenosis
+
+|Disease|Defects|Findings|Hepatomegaly|
+|-|-|-|-|
+|Pompe disease|α-1,4-Glucosidase|-|+|
+
+### Sphingolipidosis
+
+|Disease|Defects|Findings|Hepatomegaly|
+|-|-|-|-|
+|Gaucher disease|Glucocerebrosidase|Gaucher cell|+|
+|Niemann-Pick disease|Sphingomyelinase|Cherry-red spot|+|
+|Tay-Sachs disease|Hexosaminidase|Cherry-red spot|-|
+|Fabry disease|α-Galactosidase|Peripheral neuropathy|-|
+|Krabbe disease|Galactocerebrosidase|Leukodystrophy|-|
+|Metachromatic leukodystrophy|Arylsulfatase|Leukodystrophy|-|
+
+### Mucolipidosis
+
+|Disease|Defects|Findings|Hepatomegaly|
+|-|-|-|-|
+|I-cell disease|Phosphotransferase|Corneal clouding|+|
+
+### Mucopolysaccharidosis
+
+|Disease|Defects|Findings|Hepatomegaly|
+|-|-|-|-|
+|Hurler syndrome|α-Iduronidase|Corneal clouding|+|
+|Hunter syndrome: XR|Iduronate sulfatase|-|-|
+
+## Metabolic Disorders
+
+|Disorder|Defects|Effects|
+|-|-|-|
+|Alkaptonuria (AKU)|Homogentisate oxidase|↑ Homogentisic acid|
+|Cystinuria|Amino acid transporter|↓ COLA|
+|Hartnup disease|Amino acid transporter|↓ Tryptophan|
+|Homocystinuria|Cystathionine synthase|↑ Homocysteine<br>↓ Cysteine|
+||Methionine synthase|↑ Homocysteine<br>↓ Methionine|
+|Lesch-Nyhan syndrome|HGPRT|↑ Uric acid|
+|Maple syrup urine disease (MSUD)|Branched-chain α-ketoacid dehydrogenase|↑ α-ketoacids|
+|Methylmalonic acidemia|Methylmalonyl-CoA mutase|↑ Methylmalonic acid|
+|Ornithine transcarbamylase deficiency|Ornithine transcarbamylase|↑ Orotic acid<br>↑ Ammonia<br>↓ Urea|
+|Orotic aciduria|UMP synthase|↑ Orotic acid<br>↓ DNA|
+|Phenylketonuria (PKU)|Phenylalanine hydroxylase<br>Tetrahydrobiopterin|↑ Phenylalanine<br>↓ Tyrosine|
+
+## Symptoms of Lesch-Nyhan Syndrome {HGPRT}
+
+- Hyperuricemia
+- Gout
+- Psychosis :: aggression & self-mutilation
+- Retardation :: intellectual disability
+- Dystonia
