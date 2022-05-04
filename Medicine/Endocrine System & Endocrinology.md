@@ -39,6 +39,17 @@
 ||-|-|Insulin|↓ Glucose|
 |Kidney|-|-|EPO|↑ O<sub>2</sub> & Hb|
 
+## Glucose Regulating Hormones
+
+|Hormones|Glucose|Degradation|Synthesis|
+|-|-|-|-|
+|GH|↑|Lipid|Protein|
+|TH|↑|Glycogen & Protein & Lipid|Glucose|
+|Glucocorticoid|↑|Protein & Lipid|Glucose|
+|Catecholamine|↑|Glycogen & Lipid|Glucose|
+|Glucagon|↑|Glycogen & Lipid|Glucose|
+|Insulin|↓|Glucose|Glycogen & Protein & Lipid|
+
 ## Growth Hormone Disorders
 
 |Disorder|GHRH|GH|IGF-1|
@@ -233,16 +244,54 @@
 |Androgen insensitive syndrome (AIS)|↑|↑|↑|
 |Polycystic ovary syndrome (PCOS)|↑/↓|↑/↓|↓/↑|
 
-## Glucose Regulating Hormones
+## ADH Disorders
 
-|Hormones|Glucose|Degradation|Synthesis|
-|-|-|-|-|
-|GH|↑|Lipid|Protein|
-|TH|↑|Glycogen & Protein & Lipid|Glucose|
-|Glucocorticoid|↑|Protein & Lipid|Glucose|
-|Catecholamine|↑|Glycogen & Lipid|Glucose|
-|Glucagon|↑|Glycogen & Lipid|Glucose|
-|Insulin|↓|Glucose|Glycogen & Protein & Lipid|
+|Diagnosis|ADH|Osmolarity|
+|-|-|-|
+|Polydipsia|↓|↓ (1°)|
+|Central DI|↓ (1°)|↑|
+|Nephrogenic DI|↑|↑ (1°)|
+|SIADH|↑ (1°)|↓|
+
+## Etiology of Nephrogenic Diabetes Insipidus (DI)
+
+- Mutations
+  - Vasopressin receptor
+  - Aquaporin
+- Electrolyte disturbances
+  - Hypercalcemia
+  - Hypokalemia
+- Hematologic disorders
+  - Sickle cell disease
+  - Multiple myeloma
+- Rheumatic diseases
+  - Sjogren syndrome
+  - sarcoidosis
+- Amyloidosis
+- Drugs
+  - Lithium
+  - Demeclocycline
+
+## Etiology of Syndrome of Inappropriate Secretion of ADH (SIADH)
+
+- Malignancies :: small cell carcinoma
+- CNS disorders
+- Pulmonary diseases
+  - Tuberculosis
+  - Pneumonia
+- Drugs
+  - Carbamazepine
+  - Cyclophosphamide
+  - SSRIs
+
+## Treatment of Syndrome of Inappropriate Secretion of ADH (SIADH)
+
+- Fluid restriction
+- Fluids :: hypertonic saline
+- V<sub>2</sub> antagonists: -Vaptans
+- Nephrogenic DI-inducing drugs
+  - Lithium
+  - Demeclocycline
 
 ## Insulin Disorders
 
@@ -303,54 +352,24 @@
 - Bicarbonate if indicated
 - Phosphate if indicated
 
-## ADH Disorders
+## Presentation of Hyperlipidemia
 
-|Diagnosis|ADH|Osmolarity|
-|-|-|-|
-|Polydipsia|↓|↓ (1°)|
-|Central DI|↓ (1°)|↑|
-|Nephrogenic DI|↑|↑ (1°)|
-|SIADH|↑ (1°)|↓|
+- Xanthomas
+- Xanthelasma
+- Corneal arcus
 
-## Etiology of Nephrogenic Diabetes Insipidus (DI)
+## Mechanisms of Action of Medications for Hyperlipidemia {OECSNF}
 
-- Mutations
-  - Vasopressin receptor
-  - Aquaporin
-- Electrolyte disturbances
-  - Hypercalcemia
-  - Hypokalemia
-- Hematologic disorders
-  - Sickle cell disease
-  - Multiple myeloma
-- Rheumatic diseases
-  - Sjogren syndrome
-  - sarcoidosis
-- Amyloidosis
-- Drugs
-  - Lithium
-  - Demeclocycline
+|Mechanism|Medication|LDL|HDL|Triglyceride|
+|-|-|-|-|-|
+|Pancreatic lipase inhibitors|Orlistat|↓↓|-|-|
+|Cholesterol absorption inhibitors|Ezetimibe|↓↓|-|-|
+|Bile acid resin|Cholestyramine<br>Colestipol<br>Colesevelam|↓↓|-|-|
+|HMG-CoA reductase inhibitors|Statins|↓↓↓|↑|↓|
+|HSL & VLDL synthesis inhibitors|Niacin (B3)|↓↓|↑↑|↓|
+|LPL & PPAR-α inducers|Fibrates|↓|↑|↓↓↓|
 
-## Etiology of Syndrome of Inappropriate Secretion of ADH (SIADH)
-
-- Malignancies :: small cell carcinoma
-- CNS disorders
-- Pulmonary diseases
-  - Tuberculosis
-  - Pneumonia
-- Drugs
-  - Carbamazepine
-  - Cyclophosphamide
-  - SSRIs
-
-## Treatment of Syndrome of Inappropriate Secretion of ADH (SIADH)
-
-- Fluid restriction
-- Fluids :: hypertonic saline
-- V<sub>2</sub> antagonists: -Vaptans
-- Nephrogenic DI-inducing drugs
-  - Lithium
-  - Demeclocycline
+![](../Figures/Mechanisms%20of%20Action%20of%20Medications%20for%20Hyperlipidemia.png)
 
 ## Insensitivity of Endocrine Receptors
 
@@ -378,35 +397,6 @@
 |Oral glucose tolerance test|-|Diabetes mellitus|-|
 |Water deprivation test|Polyuria|Diabetes insipidus|Polydipsia|
 |Desmopressin challenge test|Diabetes insipidus|Nephrogenic DI|Central DI|
-
-## Metabolic Syndrome
-
-- Abdominal obesity
-- Hypertension: BP ≥ 130/85 mmHg
-- Hyperglycemia: FBG ≥ 100 mg/dL
-- Hypertriglycemia: triglyceride ≥ 150 mg/dL
-- Low HDL cholesterol
-  - HDL < 40 mg/dL in men
-  - HDL < 50 mg/dL in women
-
-## Presentation of Hyperlipidemia
-
-- Xanthomas
-- Xanthelasma
-- Corneal arcus
-
-## Mechanisms of Action of Medications for Hyperlipidemia {OECSNF}
-
-|Mechanism|Medication|LDL|HDL|Triglyceride|
-|-|-|-|-|-|
-|Pancreatic lipase inhibitors|Orlistat|↓↓|-|-|
-|Cholesterol absorption inhibitors|Ezetimibe|↓↓|-|-|
-|Bile acid resin|Cholestyramine<br>Colestipol<br>Colesevelam|↓↓|-|-|
-|HMG-CoA reductase inhibitors|Statins|↓↓↓|↑|↓|
-|HSL & VLDL synthesis inhibitors|Niacin (B3)|↓↓|↑↑|↓|
-|LPL & PPAR-α inducers|Fibrates|↓|↑|↓↓↓|
-
-![](../Figures/Mechanisms%20of%20Action%20of%20Medications%20for%20Hyperlipidemia.png)
 
 ## Neuroendocrine Tumors (NET)
 
