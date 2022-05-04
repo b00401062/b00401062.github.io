@@ -1,5 +1,32 @@
 # Nutrition & Metabolism
 
+## Collagen Synthesis
+
+|Steps|Enzyme|Cofactor|Diseases|
+|-|-|-|-|
+|Hydroxylation|Proline hydroxylase<br>Lysine hydroxylase|Vitamin C|Scurvy|
+|Glycosylation|-|-|Osteogenesis imperfecta|
+|Exocytosis|-|-|-|
+|Cleavage|-|-|-|
+|Crosslinking|Lysyl oxidase|Cu|Menkes disease|
+
+## Collagen Releated Diseases
+
+|Component|Diseases|
+|-|-|
+|Type 1 collagen|Osteogenesis imperfecta|
+|Type 2 collagen|-|
+|Type 3 collagen|Vascular Ehlers-Danlos syndrome (EDS)|
+|Type 4 collagen|Alport syndrome<br>Goodpasture syndrome|
+|Type 5 collagen|Classical Ehlers-Danlos syndrome (EDS)|
+|Elastin|α<sub>1</sub>-antitrypsin deficiency|
+|Fibrillin|Marfan syndrome|
+
+## Causes of Marfanoid Habitus
+
+- Marfan syndrome
+- Multiple endocrine neoplasia (MEN) 2B
+- Homocystinuria
 
 ## Presentation of Vitamin Deficiency
 
@@ -135,39 +162,6 @@
 - Dysgeusia
 - Anosmia
 
-## Indications for Low-Protein Diet
-
-- Liver failure → Hyperammonemia
-- End stage renal disease (ESRD) → Uremia
-
-## Collagen Synthesis
-
-|Steps|Enzyme|Cofactor|Diseases|
-|-|-|-|-|
-|Hydroxylation|Proline hydroxylase<br>Lysine hydroxylase|Vitamin C|Scurvy|
-|Glycosylation|-|-|Osteogenesis imperfecta|
-|Exocytosis|-|-|-|
-|Cleavage|-|-|-|
-|Crosslinking|Lysyl oxidase|Cu|Menkes disease|
-
-## Collagen Releated Diseases
-
-|Component|Diseases|
-|-|-|
-|Type 1 collagen|Osteogenesis imperfecta|
-|Type 2 collagen|-|
-|Type 3 collagen|Vascular Ehlers-Danlos syndrome (EDS)|
-|Type 4 collagen|Alport syndrome<br>Goodpasture syndrome|
-|Type 5 collagen|Classical Ehlers-Danlos syndrome (EDS)|
-|Elastin|α<sub>1</sub>-antitrypsin deficiency|
-|Fibrillin|Marfan syndrome|
-
-## Causes of Marfanoid Habitus
-
-- Marfan syndrome
-- Multiple endocrine neoplasia (MEN) 2B
-- Homocystinuria
-
 ## Glycogen Storage Diseases (GSD)
 
 |Disease|Defects|Hypoglycemia|Hepatomegaly|Myopathy|
@@ -244,3 +238,8 @@
 - Low HDL cholesterol
   - HDL < 40 mg/dL in men
   - HDL < 50 mg/dL in women
+
+## Indications for Low-Protein Diet
+
+- Liver failure → Hyperammonemia
+- End stage renal disease (ESRD) → Uremia
