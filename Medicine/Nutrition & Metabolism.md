@@ -234,3 +234,13 @@
 - Psychosis :: aggression & self-mutilation
 - Retardation :: intellectual disability
 - Dystonia
+
+## Metabolic Syndrome
+
+- Abdominal obesity
+- Hypertension: BP ≥ 130/85 mmHg
+- Hyperglycemia: FBG ≥ 100 mg/dL
+- Hypertriglycemia: triglyceride ≥ 150 mg/dL
+- Low HDL cholesterol
+  - HDL < 40 mg/dL in men
+  - HDL < 50 mg/dL in women
