@@ -367,6 +367,13 @@
 - Chvostek sign
 - Trousseau sign
 
+## Etiology of Hypocalcemia
+
+- Chronic kidney disease
+- 1° Hypoparathyroidism
+- Vitamin D deficiency
+- Pseudohypoparathyroidism (PHP)
+
 ## Presentation of Hypercalcemia
 
 - Tachycardia
