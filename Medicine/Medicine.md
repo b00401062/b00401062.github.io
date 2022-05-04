@@ -404,6 +404,11 @@
 - Glucocorticoids
 - Dialysis
 
+## Pain Relieved By Leaning Forward
+
+- Pericarditis
+- Pancreatitis
+
 ## Routine Screening
 
 |Disease|Population|Age (years)|Tests|Interval (years)|
