@@ -458,7 +458,7 @@
 |Antithrombin inducers|Unfractionated heparin (UFH)|
 ||Low-molecular-weight heparin (LMWH):<br>Enoxaparin<br>Dalteparin|
 ||Fondaparinux|
-|Factor 10a inhibitors|Apixaban<br>Rivaroxaban|
+|Factor 10a inhibitors|Apixaban<br>Edoxaban<br>Rivaroxaban|
 |Factor 2a inhibitors|Hirudin<br>Bivalirudin<br>Argatroban<br>Dabigatran|
 |Tissue plasminogen activators (tPAs)|Urokinase<br>Streptokinase<br>Alteplase<br>Reteplase<br>Tenecteplase|
 
