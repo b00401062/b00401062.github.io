@@ -4,19 +4,21 @@
 
 ### Leading Cancer Cases
 
-1. Breast
-2. Prostate
-3. Lung
-4. Colorectal
-5. Melanoma
+|Rank|Female|Male|
+|-|-|-|
+|1|Breast|Prostate|
+|2|Lung|Lung|
+|3|Colorectal|Colorectal|
+|4|Melanoma|Melanoma|
 
 ### Leading Cancer Deaths
 
-1. Lung
-2. Colorectal
-3. Pancreas
-4. Breast
-5. Prostate
+|Rank|Female|Male|
+|-|-|-|
+|1|Lung|Lung|
+|2|Colorectal|Colorectal|
+|3|Pancreas|Pancreas|
+|4|Breast|Prostate|
 
 ## Cancer Screening
 
