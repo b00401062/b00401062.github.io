@@ -164,7 +164,14 @@
 - Renal cell carcinoma (RCC)
 - Pheochromocytoma
 
-## Disorders Associated with Wilms Tumor
+## Li-Fraumeni [SBLA] Syndrome {SBLA}
+
+- Sarcoma
+- Breast cancer
+- Leukemia
+- Adrenal tumor
+
+## Syndromes Associated with Wilms Tumor
 
 ### WAGR Syndrome {WAGR}
 
@@ -183,7 +190,9 @@
 - Wilms tumor [Nephroblastoma]
 - Embryonal tumors
 
-## Gardner Syndrome
+## Syndromes Associated with Colorectal Cancer
+
+### Gardner Syndrome
 
 - Familial adenomatous polyposis (FAP)
 - Osteomas
@@ -191,7 +200,7 @@
 - Congenital hypertrophy of retinal pigment epithelium (RPE)
 - Impacted / Supernumerary teeth
 
-## Turcot Syndrome
+### Turcot Syndrome
 
 - Colorectal cancer
   - Familial adenomatous polyposis (FAP)
@@ -200,17 +209,10 @@
   - Medulloblastoma
   - Glioma
 
-## Lynch Syndrome
+### Lynch Syndrome
 
 - Hereditary nonpolyposis colorectal cancer (HNPCC)
 - Endometrial cancer
-
-## Li-Fraumeni [SBLA] Syndrome {SBLA}
-
-- Sarcoma
-- Breast cancer
-- Leukemia
-- Adrenal tumor
 
 ## Immunotherapy
 
