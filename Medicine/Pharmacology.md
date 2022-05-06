@@ -501,6 +501,10 @@
 |Calcineurin inhibitors|Cyclosporine<br>Tacrolimus|Immunosuppression|
 |mTOR inhibitors|Sirolimus<br>Everolimus|Immunosuppression|
 
+## Target Therapy
+
+![](../Figures/Target%20Therapy.png)
+
 ## Mechanisms of Action of Monoclonal Antibodies
 
 |Mechanism|Medication|Indications|
@@ -533,10 +537,6 @@
 |VEGFR inhibitors|Sunitinib<br>Sorafenib|-|
 ||Pegaptanib|Age-related macular degeneration (AMD)|
 |JAK2 inhibitors|Ruxolitinib|Polycythemia vera (PCV)<br>Essential thrombocytosis<br>Myelofibrosis|
-
-## Target Therapy
-
-![](../Figures/Target%20Therapy.png)
 
 ## Medications Causing QT Prolongation {ABCDE}
 
