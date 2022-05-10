@@ -200,8 +200,8 @@
 
 ## Empirical Antibiotics for Osteomyelitis
 
-- Anti-staphylococcal penicillin / Vancomycin
-- Anti-pseudomonal β-lactams / Fluoroquinolones
+- Anti-staphylococcal penicillin<br>Vancomycin
+- Anti-pseudomonal β-lactams<br>Fluoroquinolones
 - Clindamycin
 
 ## Bone Tumors
