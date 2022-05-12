@@ -223,9 +223,9 @@
 |Mechanism|Medication|
 |-|-|
 |TLR7 activators|Imiquimod|
-|Anti-CTLA-4|Ipilimumab|
-|Anti-PD-1|Nivolumab<br>Pembrolizumab|
-|Anti-PD-L1|Atezolizumab<br>Avelumab<br>Durvalumab|
+|CTLA-4 inhibitors|Ipilimumab|
+|PD-1 inhibitors|Nivolumab<br>Pembrolizumab|
+|PD-L1 inhibitors|Atezolizumab<br>Avelumab<br>Durvalumab|
 
 ## Side Effects of Chemotherapy
 
