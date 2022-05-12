@@ -54,26 +54,6 @@
 |μ-opioid agonists|Morphine|
 |Nitrates|Nitroglycerin<br>Isosorbide|
 
-## Blood Pressure
-
-- Hypotension: BP < 90/60 mmHg
-- Hypertension: BP > 140/90 mmHg
-- Hypertensive urgency: BP > 180/120 mmHg
-
-## Treatment of Hypertension {ABVD}
-
-- ACEI & ARB
-- β<sub>1</sub> antagonists
-- Vasodilators
-- Diuretics
-
-## Treatment of Hypertensive Emergency
-
-- β<sub>1</sub> antagonists :: Labetalol
-- Venodilators & Vasodilators
-  - Nitrates
-  - Ca channel blockers
-
 ## Thromboembolic Diseases
 
 ### Arterial Thromboembolism
