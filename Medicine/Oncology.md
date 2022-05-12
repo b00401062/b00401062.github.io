@@ -214,6 +214,10 @@
 - Hereditary nonpolyposis colorectal cancer (HNPCC)
 - Endometrial cancer
 
+## Target Therapy
+
+![](../Figures/Target%20Therapy.png)
+
 ## Immunotherapy
 
 |Mechanism|Medication|
