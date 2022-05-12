@@ -506,7 +506,7 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|ABL1 inhibitors|Imatinib|CML|
+|ABL1 inhibitors|Imatinib|Chronic myelogenous leukemia (CML)|
 |BRAF inhibitors|Vemurafenib|Melanoma|
 |C5 inhibitors|Eculizumab|Hemolytic uremic syndrome (HUS)<br>Paroxysmal nocturnal hemoglobinuria (PNH)<br>Neuromyelitis optica|
 |CD20 inhibitors|Rituximab|Immunosuppression<br>Non-Hodgkin lymphoma|
