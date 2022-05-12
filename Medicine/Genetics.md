@@ -155,3 +155,9 @@
 |Ocular albinism|-|-|
 |Ornithine transcarbamylase deficiency|-|Ornithine transcarbamylase|
 |Wiskott-Aldrich syndrome|WAS|WAS protein|
+
+## Presentation of McCune-Albright Syndrome
+
+- Polyostotic fibrous dysplasia
+- Cafe-au-lait spots
+- Precocious puberty
