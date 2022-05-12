@@ -407,7 +407,7 @@
 |Mechanism|Medication|Species|
 |-|-|-|
 |↓ Peptidoglycan crosslinking|Penicillin<br>Cephalosporin<br>Carbapenem<br>Monobactam|Bacterium|
-|↓ Peptidoglycan synthesis|Glycopeptide|Bacterium|
+|↓ Peptidoglycan synthase|Glycopeptide|Bacterium|
 |↓ Enoyl-ACP reductase|Isoniazid|Mycobacterium|
 |↓ Arabinosyl transferase|Ethambutol|Mycobacterium|
 |↓ β-Glucan synthase|Echinocandins [-Fungins]:<br>Anidulafungin<br>Capsofungin<br>Micafungin|Fungus|
@@ -416,7 +416,7 @@
 
 |Mechanism|Medication|Species|
 |-|-|-|
-|↑ Phosphatidylglycerol damage|Daptomycin<br>Polymyxin|Bacterium|
+|↑ Phosphatidylglycerol damage|Daptomycin<br>Polymyxins|Bacterium|
 |↑ Ergosterol damage|Amphotericin B<br>Nystatin|Fungus|
 |↓ Squalene epoxidase|Terbinafine|Fungus|
 |↓ Demethylase|-Conazoles|Fungus|
