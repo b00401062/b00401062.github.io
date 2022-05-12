@@ -202,6 +202,14 @@
 - Strokes
 - Syncope
 
+## Blood Pressure
+
+|Condition|Definition|
+|-|-|
+|Hypotension|< 90/60 mmHg|
+|Hypertension|> 140/90 mmHg|
+|Hypertensive urgency|> 180/120 mmHg|
+
 ## Classification of Shock
 
 |Shock|PCWP|CO|SVR|MAP|Treatment|
@@ -224,12 +232,6 @@
 |II|15 ~ 30%|100 ~ 120|-|20 ~ 30|20 ~ 30 mL/h|
 |III|30 ~ 40%|120 ~ 140|↓|30 ~ 40|5 ~ 15 mL/h|
 |IV|> 40%|> 140|↓|> 35|< 5 mL/h|
-
-## Blood Pressure
-
-- Hypotension: BP < 90/60 mmHg
-- Hypertension: BP > 140/90 mmHg
-- Hypertensive urgency: BP > 180/120 mmHg
 
 ## Treatment of Hypertension {ABVD}
 
