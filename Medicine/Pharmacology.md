@@ -382,6 +382,8 @@
 |ALDH inhibitors|Disulfiram|Alcohol cessation|
 |Xanthine oxidase inhibitors|Allopurinol|Gout :: chronic|
 ||Febuxostat|Gout :: chronic|
+|Nitrates|Nitroprusside<br>Hydralazine|Vasodilators|
+||Nitroglycerin<br>Isosorbide|Venodilators|
 
 ## Mechanisms of Action of Antimicrobials and Antineoplastics
 
