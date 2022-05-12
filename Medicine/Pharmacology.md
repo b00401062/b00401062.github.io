@@ -392,8 +392,9 @@
 |Cell wall inhibitors|Peptidoglycan|Bacterium|
 ||Mycolate|Mycobacterium|
 ||Arabinogalactan|Mycobacterium|
-||β-glucan|Fungus|
-|Cell membrane inhibitors|Ergosterol|Fungus|
+||β-Glucan|Fungus|
+|Cell membrane inhibitors|Phosphatidylglycerol|Bacterium|
+||Ergosterol|Fungus|
 ||Cholesterol|Human|
 |Nucleotide inhibitors|Folate<br>Purine<br>Pyrimidine|-|
 |DNA inhibitors|DNA|-|
@@ -403,96 +404,96 @@
 
 ### Cell Wall Inhibitors
 
-|Mechanism|Target|Medication|Species|
-|-|-|-|-|
-|↓ Peptidoglycan crosslinking|Penicillin binding protein|Penicillin<br>Cephalosporin<br>Carbapenem<br>Monobactam|Bacterium|
-|↓ Peptidoglycan synthesis|Peptidoglycan|Glycopeptide|Bacterium|
-|↓ Mycolate synthesis|Enoyl-ACP reductase|Isoniazid|Mycobacterium|
-|↓ Arabinogalactan synthesis|Arabinosyl transferase|Ethambutol|Mycobacterium|
-|↓ β-glucan synthesis|Glucan synthase|Echinocandins [-Fungins]:<br>Anidulafungin<br>Capsofungin<br>Micafungin|Fungus|
+|Mechanism|Medication|Species|
+|-|-|-|
+|↓ Peptidoglycan crosslinking|Penicillin<br>Cephalosporin<br>Carbapenem<br>Monobactam|Bacterium|
+|↓ Peptidoglycan synthesis|Glycopeptide|Bacterium|
+|↓ Enoyl-ACP reductase|Isoniazid|Mycobacterium|
+|↓ Arabinosyl transferase|Ethambutol|Mycobacterium|
+|↓ β-Glucan synthase|Echinocandins [-Fungins]:<br>Anidulafungin<br>Capsofungin<br>Micafungin|Fungus|
 
 ### Cell Membrane Inhibitors
 
-|Mechanism|Target|Medication|Species|
-|-|-|-|-|
-|↑ Cell membrane damage|-|Daptomycin<br>Polymyxin|Bacterium|
-||Ergosterol|Amphotericin B<br>Nystatin|Fungus|
-|↓ Cell membrane synthesis|Squalene epoxidase|Terbinafine|Fungus|
-||Demethylase|-Conazoles|Fungus|
+|Mechanism|Medication|Species|
+|-|-|-|
+|↑ Phosphatidylglycerol damage|Daptomycin<br>Polymyxin|Bacterium|
+|↑ Ergosterol damage|Amphotericin B<br>Nystatin|Fungus|
+|↓ Squalene epoxidase|Terbinafine|Fungus|
+|↓ Demethylase|-Conazoles|Fungus|
 
 ### Nucleotide Inhibitors
 
-|Mechanism|Target|Medication|Species|
-|-|-|-|-|
-|↓ Folate synthesis|Dihydropteroate synthase|Sulfonamides:<br>Sulfamethoxazole<br>Sulfisoxazole<br>Sulfadiazine<br>Sulfapyridine|Bacterium<br>Protozoa|
-||Dihydrofolate reductase|Trimethoprim|Bacterium|
-|||Pyrimethamine|Protozoa|
-|||Methotrexate|Human|
-|↓ Purine synthesis|IMP dehydrogenase|Ribavirin|Virus|
-|||Mycophenolate|Human|
-||PRPP amidotransferase|Azathioprine|Human|
-|||6-Mercaptopurine (6-MP)|Human|
-|||6-Thioguanine (6-TG)|Human|
-|↓ Pyrimidine synthesis|Dihydroorotate dehydrogenase|Leflunomide|Human|
-||Thymidylate synthase|Flucytosine|Fungus|
-|||5-Fluorouracil (5-FU)|Human|
-|↓ dNTP synthesis|Ribonucleotide reductase|Hydroxyurea|Human|
+|Mechanism|Medication|Species|
+|-|-|-|
+|↓ Dihydropteroate synthase|Sulfonamides:<br>Sulfamethoxazole<br>Sulfisoxazole<br>Sulfadiazine<br>Sulfapyridine|Bacterium<br>Protozoa|
+|↓ Dihydrofolate reductase|Trimethoprim|Bacterium|
+||Pyrimethamine|Protozoa|
+||Methotrexate|Human|
+|↓ IMP dehydrogenase|Ribavirin|Virus|
+||Mycophenolate|Human|
+|↓ PRPP amidotransferase|Azathioprine|Human|
+||6-Mercaptopurine (6-MP)|Human|
+||6-Thioguanine (6-TG)|Human|
+|↓ Dihydroorotate dehydrogenase|Leflunomide|Human|
+|↓ Thymidylate synthase|Flucytosine|Fungus|
+||5-Fluorouracil (5-FU)|Human|
+|↓ Ribonucleotide reductase|Hydroxyurea|Human|
 
 ### DNA Inhibitors
 
-|Mechanism|Target|Medication|Species|
-|-|-|-|-|
-|↓ DNA synthesis|Reverse transcriptase|NRTI<br>NNRTI|Virus|
-||DNA polymerase|Acyclovir<br>Famciclovir<br>Ganciclovir<br>Cidofovir<br>Foscarnet|Virus|
-|||Cladribine<br>Cytarabine<br>Gemcitabine|Human|
-||Topoisomerase|Fluoroquinolone|Bacterium|
-||Topoisomerase 1|Camptothecins [-Tecans]|Human|
-||Topoisomerase 2|Podophyllotoxins [-Posides]|Human|
-|↓ DNA methylation|DNA methyltransferase|Azacitidine|Human|
-|||Decitabine|Human|
-|↑ DNA intercalation|DNA|Metronidazole|Bacterium|
-|||Benznidazole|Parasite|
-|||Streptomycin|Mycobacterium|
-|||Anthracyclines [-Rubicins]:<br>Doxorubicin<br>Daunorubicin|Human|
-|||Bleomycin|Human|
-|||Dactinomycin|Human|
-|↑ DNA crosslinking|DNA|Busulfan|Human|
-|||Cyclophosphamide|Human|
-|||Nitrosoureas|Human|
-|||Platinums [-Platins]|Human|
+|Mechanism|Medication|Species|
+|-|-|-|
+|↓ Reverse transcriptase|NRTI<br>NNRTI|Virus|
+|↓ DNA polymerase|Acyclovir<br>Famciclovir<br>Ganciclovir<br>Cidofovir<br>Foscarnet|Virus|
+||Cladribine<br>Cytarabine<br>Gemcitabine|Human|
+|↓ Topoisomerase|Fluoroquinolone|Bacterium|
+|↓ Topoisomerase 1|Camptothecins [-Tecans]|Human|
+|↓ Topoisomerase 2|Podophyllotoxins [-Posides]|Human|
+|↓ DNA methyltransferase|Azacitidine|Human|
+||Decitabine|Human|
+|↑ DNA intercalation|Metronidazole|Bacterium|
+||Benznidazole|Parasite|
+||Streptomycin|Mycobacterium|
+||Anthracyclines [-Rubicins]:<br>Doxorubicin<br>Daunorubicin|Human|
+||Bleomycin|Human|
+||Dactinomycin|Human|
+|↑ DNA crosslinking|Busulfan|Human|
+||Cyclophosphamide|Human|
+||Nitrosoureas|Human|
+||Platinums [-Platins]|Human|
 
 ### RNA Inhibitors
 
-|Mechanism|Target|Medication|Species|
-|-|-|-|-|
-|↓ RNA synthesis|RNA polymerase|Rifampin|Mycobacterium|
-|||α-Amanitin|Human|
+|Mechanism|Medication|Species|
+|-|-|-|
+|↓ RNA polymerase|Rifampin|Mycobacterium|
+||α-Amanitin|Human|
 
 ### Microtubule Inhibitors
 
-|Mechanism|Target|Medication|Species|
-|-|-|-|-|
-|↓ Microtubule assembly|Microtubule|Benzimidazole|Parasite|
-|||Griseofulvin|Fungus|
-|||Colchicine|Human|
-|||Vinca alkaloids:<br>Vinblastine<br>Vincristine|Human|
-|↓ Microtubule disassembly|Microtubule|Taxanes [-Taxels]|Human|
+|Mechanism|Medication|Species|
+|-|-|-|
+|↓ Microtubule assembly|Benzimidazole|Parasite|
+||Griseofulvin|Fungus|
+||Colchicine|Human|
+||Vinca alkaloids:<br>Vinblastine<br>Vincristine|Human|
+|↑ Microtubule disassembly|Taxanes [-Taxels]|Human|
 
 ### Protein Inhibitors
 
-|Mechanism|Target|Medication|Species|
-|-|-|-|-|
-|↓ Protein synthesis|-|IFN-α|Virus|
-||30S ribosome :: initiation complex|Aminoglycosides|Bacterium|
-||50S ribosome :: initiation complex|Linezolid|Bacterium|
-||30S ribosome :: tRNA binding|Tetracycline|Bacterium|
-||50S ribosome :: peptidyl transferase|Chloramphenicol|Bacterium|
-||50S ribosome :: mRNA translocation|Macrolide|Bacterium|
-|||Clindamycin|Bacterium|
-||Elongation factor (EF-2)|Diphtheria toxin|Human|
-|||Exotoxin A|Human|
-||60S ribosome|Shiga toxin|Human|
-|||Shiga-like toxin|Human|
+|Mechanism|Medication|Species|
+|-|-|-|
+|-|IFN-α|Virus|
+|↓ 30S ribosome :: initiation complex|Aminoglycosides|Bacterium|
+|↓ 50S ribosome :: initiation complex|Linezolid|Bacterium|
+|↓ 30S ribosome :: tRNA binding|Tetracycline|Bacterium|
+|↓ 50S ribosome :: peptidyl transferase|Chloramphenicol|Bacterium|
+|↓ 50S ribosome :: mRNA translocation|Macrolide|Bacterium|
+||Clindamycin|Bacterium|
+|↓ Elongation factor (EF-2)|Diphtheria toxin|Human|
+||Exotoxin A|Human|
+|↓ 60S ribosome|Shiga toxin|Human|
+||Shiga-like toxin|Human|
 
 ### Miscellaneous Intracellular Targets
 
