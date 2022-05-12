@@ -394,12 +394,12 @@
 
 |Mechanism|Medication|
 |-|-|
-|β<sub>2</sub> agonists|Terbutaline<br>Ritodrine|
-|COX inhibitors|Indomethacin|
+|-|MgSO<sub>4</sub>|
 |Ca channel blockers|Nifedipine|
-|MgSO<sub>4</sub>|MgSO<sub>4</sub>|
-|Nitrates|Nitroglycerin|
+|β<sub>2</sub> agonists|Terbutaline<br>Ritodrine|
 |Oxytocin antagonists|Atosiban|
+|COX inhibitors|Indomethacin|
+|Nitrates|Nitroglycerin|
 
 ## Contraindications for Tocolysis
 
