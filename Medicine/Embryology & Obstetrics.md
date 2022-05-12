@@ -191,7 +191,7 @@
 
 - Abortion
 - Ectopic pregnancy
-- Trophoblastic diseases (GTD)
+- Gestational trophoblastic diseases (GTD)
   - Hydatidiform moles
   - Germ cell tumors (GCT)
 - Aneuploidy
