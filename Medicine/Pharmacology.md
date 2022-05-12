@@ -494,18 +494,13 @@
 ||60S ribosome|Shiga toxin|Human|
 |||Shiga-like toxin|Human|
 
-### Miscellaneous
+### Miscellaneous Intracellular Targets
 
 |Mechanism|Medication|Indications|
 |-|-|-|
 |NF-κB inhibitors|Corticosteroids<br>Mesalazine|Immunosuppression|
-|TNF-α inhibitors|Etanercept|Immunosuppression|
 |Calcineurin inhibitors|Cyclosporine<br>Tacrolimus|Immunosuppression|
 |mTOR inhibitors|Sirolimus<br>Everolimus|Immunosuppression|
-
-## Target Therapy
-
-![](../Figures/Target%20Therapy.png)
 
 ## Mechanisms of Action of Monoclonal Antibodies
 
@@ -517,7 +512,7 @@
 |IgE inhibitors|Omalizumab|Asthma|
 |IL-2R inhibitors|Basiliximab<br>Daclizumab|Immunosuppression|
 |IL-6R inhibitors|Tocilizumab|Immunosuppression|
-|TNF-α inhibitors|Infliximab<br>Adalimumab|Immunosuppression|
+|TNF-α inhibitors|Etanercept<br>Infliximab<br>Adalimumab|Immunosuppression|
 |CD20 inhibitors|Rituximab|Immunosuppression<br>Non-Hodgkin lymphoma|
 ||Ocrelizumab|Multiple sclerosis|
 |CD52 inhibitors|Alemtuzumab|Chronic lymphocytic leukemia (CLL)<br>Multiple sclerosis|
