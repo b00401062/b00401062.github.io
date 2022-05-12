@@ -502,38 +502,33 @@
 |Calcineurin inhibitors|Cyclosporine<br>Tacrolimus|Immunosuppression|
 |mTOR inhibitors|Sirolimus<br>Everolimus|Immunosuppression|
 
-## Mechanisms of Action of Monoclonal Antibodies
-
-|Mechanism|Medication|Indications|
-|-|-|-|
-|Gp2b/3a inhibitors|Abciximab|Antiplatelet|
-|RANKL inhibitors|Denosumab|Osteoporosis|
-|C5 inhibitors|Eculizumab|Hemolytic uremic syndrome (HUS)<br>Paroxysmal nocturnal hemoglobinuria (PNH)<br>Neuromyelitis optica|
-|IgE inhibitors|Omalizumab|Asthma|
-|IL-2R inhibitors|Basiliximab<br>Daclizumab|Immunosuppression|
-|IL-6R inhibitors|Tocilizumab|Immunosuppression|
-|TNF-α inhibitors|Etanercept<br>Infliximab<br>Adalimumab|Immunosuppression|
-|CD20 inhibitors|Rituximab|Immunosuppression<br>Non-Hodgkin lymphoma|
-||Ocrelizumab|Multiple sclerosis|
-|CD52 inhibitors|Alemtuzumab|Chronic lymphocytic leukemia (CLL)<br>Multiple sclerosis|
-|α4-integrin inhibitors|Natalizumab|Multiple sclerosis<br>Crohn disease|
-|EGFR inhibitors|Cetuximab|Colorectal cancer|
-|HER2 inhibitors|Trastuzumab|Breast cancer|
-|VEGF inhibitors|Bevacizumab|Solid tumors<br>Diabetic retinopathy<br>Age-related macular degeneration (AMD)|
-||Ranibizumab|Diabetic retinopathy<br>Age-related macular degeneration (AMD)|
-|F protein inhibitors|Palivizumab|RSV|
-
-## Mechanisms of Action of Tyrosine Kinase Inhibitors
+## Mechanisms of Action of Medications with Miscellaneous Targets
 
 |Mechanism|Medication|Indications|
 |-|-|-|
 |ABL1 inhibitors|Imatinib|CML|
 |BRAF inhibitors|Vemurafenib|Melanoma|
+|C5 inhibitors|Eculizumab|Hemolytic uremic syndrome (HUS)<br>Paroxysmal nocturnal hemoglobinuria (PNH)<br>Neuromyelitis optica|
+|CD20 inhibitors|Rituximab|Immunosuppression<br>Non-Hodgkin lymphoma|
+||Ocrelizumab|Multiple sclerosis|
+|CD52 inhibitors|Alemtuzumab|Chronic lymphocytic leukemia (CLL)<br>Multiple sclerosis|
 |C-KIT inhibitors|Imatinib|Gastrointestinal stromal tumor (GIST)|
-|EGFR inhibitors|Gefitinib<br>Erlotinib|Non-small cell lung cancer (NSCLC)|
-|VEGFR inhibitors|Sunitinib<br>Sorafenib|-|
-||Pegaptanib|Age-related macular degeneration (AMD)|
+|EGFR inhibitors|Cetuximab|Colorectal cancer|
+||Gefitinib<br>Erlotinib|Non-small cell lung cancer (NSCLC)|
+|F protein inhibitors|Palivizumab|RSV|
+|Gp2b/3a inhibitors|Abciximab|Antiplatelet|
+|HER2 inhibitors|Trastuzumab|Breast cancer|
+|IgE inhibitors|Omalizumab|Asthma|
+|IL-2R inhibitors|Basiliximab<br>Daclizumab|Immunosuppression|
+|IL-6R inhibitors|Tocilizumab|Immunosuppression|
 |JAK2 inhibitors|Ruxolitinib|Polycythemia vera (PCV)<br>Essential thrombocytosis<br>Myelofibrosis|
+|RANKL inhibitors|Denosumab|Osteoporosis|
+|TNF-α inhibitors|Etanercept<br>Infliximab<br>Adalimumab|Immunosuppression|
+|VEGF inhibitors|Bevacizumab|Solid tumors<br>Diabetic retinopathy<br>Age-related macular degeneration (AMD)|
+||Ranibizumab|Diabetic retinopathy<br>Age-related macular degeneration (AMD)|
+|VEGFR inhibitors|Sunitinib<br>Sorafenib|Cancer|
+||Pegaptanib|Age-related macular degeneration (AMD)|
+|α4-integrin inhibitors|Natalizumab|Multiple sclerosis<br>Crohn disease|
 
 ## Medications Causing QT Prolongation {ABCDE}
 
