@@ -483,7 +483,7 @@
 
 |Mechanism|Medication|Species|
 |-|-|-|
-|-|IFN-α|Virus|
+|↓ Protein synthesis|IFN-α|Virus|
 |↓ 30S ribosome :: initiation complex|Aminoglycosides|Bacterium|
 |↓ 50S ribosome :: initiation complex|Linezolid|Bacterium|
 |↓ 30S ribosome :: tRNA binding|Tetracycline|Bacterium|
