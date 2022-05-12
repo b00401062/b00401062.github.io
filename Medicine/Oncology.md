@@ -216,14 +216,12 @@
 
 ## Immunotherapy
 
-|Mechanism|Medication|Indications|
-|-|-|-|
-|Anti-CTLA-4|Ipilimumab|Cancer|
-|Anti-PD-1|Nivolumab|Cancer|
-||Pembrolizumab|Cancer|
-|Anti-PD-L1|Atezolizumab|Cancer|
-||Avelumab|Cancer|
-||Durvalumab|Cancer|
+|Mechanism|Medication|
+|-|-|
+|TLR7 activators|Imiquimod|
+|Anti-CTLA-4|Ipilimumab|
+|Anti-PD-1|Nivolumab<br>Pembrolizumab|
+|Anti-PD-L1|Atezolizumab<br>Avelumab<br>Durvalumab|
 
 ## Side Effects of Chemotherapy
 
