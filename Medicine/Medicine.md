@@ -225,6 +225,28 @@
 |III|30 ~ 40%|120 ~ 140|↓|30 ~ 40|5 ~ 15 mL/h|
 |IV|> 40%|> 140|↓|> 35|< 5 mL/h|
 
+## Blood Pressure
+
+- Hypotension: BP < 90/60 mmHg
+- Hypertension: BP > 140/90 mmHg
+- Hypertensive urgency: BP > 180/120 mmHg
+
+## Treatment of Hypertension {ABVD}
+
+- ACEI & ARB
+- β<sub>1</sub> antagonists
+- Vasodilators
+- Diuretics
+
+## Treatment of Hypertensive Urgency
+
+- ACEI
+- β<sub>1</sub> antagonists :: Labetalol
+- Venodilators & Vasodilators
+  - Ca channel blockers
+  - α<sub>2</sub> agonists
+  - Nitrates
+
 ## Etiology of Hypoxemia
 
 - PaCO<sub>2</sub> :: normal
