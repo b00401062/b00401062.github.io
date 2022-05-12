@@ -257,8 +257,8 @@
   - Bisoprolol
   - Metoprolol
 - Vasodilators :: Nitrates
-- Digitalis
 - Diuretics :: Spironolactone
+- Digitalis
 
 ## Etiology of Dilated Cardiomyopathy (DCMP) {ABCD}
 
