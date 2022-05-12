@@ -242,7 +242,7 @@
 
 ## Treatment of Hypertensive Urgency
 
-- ACEI
+- ACEI :: Captopril
 - β<sub>1</sub> antagonists :: Labetalol
 - Venodilators & Vasodilators
   - Ca channel blockers
