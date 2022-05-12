@@ -40,7 +40,7 @@
 |K channel activators|Minoxidil<br>Diazoxide|
 |Ca channel blockers|-Dipines|
 |α<sub>1</sub> antagonists|Terazosin<br>Doxazosin<br>Prazosin|
-|α<sub>2</sub> agonists|Methyldopa<br>Clonidine<br><br>Guanfacine|
+|α<sub>2</sub> agonists|Methyldopa<br>Clonidine<br>Guanfacine|
 |D<sub>1</sub> agonists|Fenoldopam|
 |A<sub>1</sub> agonists|Adenosine|
 |ET<sub>A</sub> antagonists|Bosentan|
