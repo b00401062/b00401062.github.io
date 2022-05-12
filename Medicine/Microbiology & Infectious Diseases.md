@@ -566,45 +566,42 @@
 
 ### Cell Wall Inhibitors
 
-|Mechanism|Targets|Mnemonic|Medication|
-|-|-|-|-|
-|↓ Peptidoglycan crosslinking|Penicillin binding protein|Primary|Penicillin|
-|↓ Peptidoglycan crosslinking|Penicillin binding protein|Critical|Cephalosporins|
-|↓ Peptidoglycan crosslinking|Penicillin binding protein|Care|Carbapenems|
-|↓ Peptidoglycan crosslinking|Penicillin binding protein|Medical|Monobactams|
-|↓ Peptidoglycan synthesis|Peptidoglycan|Group|Glycopeptides:<br>Vancomycin<br>Teicoplanin|
+|Mechanism|Medication|
+|-|-|
+|↓ Peptidoglycan crosslinking|Penicillin<br>Cephalosporins<br>Carbapenems<br>Monobactams|
+|↓ Peptidoglycan synthesis|Glycopeptides:<br>Vancomycin<br>Teicoplanin|
 
 ### Protein Inhibitors
 
-|Mechanism|Targets|Mnemonic|Medication|
-|-|-|-|-|
-|↓ Protein synthesis|30S ribosome :: initiation complex|A|Aminoglycosides|
-|↓ Protein synthesis|30S ribosome :: tRNA binding|T|Tetracyclines|
-|↓ Protein synthesis|50S ribosome :: initiation complex|Locations|Linezolid|
-|↓ Protein synthesis|50S ribosome :: peptidyl transferase|Causing|Chloramphenicol|
-|↓ Protein synthesis|50S ribosome :: mRNA translocation|Major|Macrolides|
-|↓ Protein synthesis|50S ribosome :: mRNA translocation|Casualties|Clindamycin|
+|Mechanism|Medication|
+|-|-|
+|↓ 30S ribosome :: initiation complex|Aminoglycosides|
+|↓ 30S ribosome :: tRNA binding|Tetracyclines|
+|↓ 50S ribosome :: initiation complex|Linezolid|
+|↓ 50S ribosome :: peptidyl transferase|Chloramphenicol|
+|↓ 50S ribosome :: mRNA translocation|Macrolides|
+|↓ 50S ribosome :: mRNA translocation|Clindamycin|
 
 ### Cell Membrane Inhibitors
 
-|Mechanism|Targets|Medication|
-|-|-|-|
-|↑ Cell membrane damage|-|Daptomycin|
-|↑ Cell membrane damage|-|Polymyxins:<br>Polymyxin B<br>Colistin|
+|Mechanism|Medication|
+|-|-|
+|↑ Phosphatidylglycerol damage|Daptomycin|
+|↑ Phosphatidylglycerol damage|Polymyxins:<br>Polymyxin B<br>Colistin|
 
 ### Metabolite Inhibitors
 
-|Mechanism|Targets|Medication|
-|-|-|-|
-|↓ Folate synthesis|Dihydrofolate reductase|Trimethoprim|
-|↓ Folate synthesis|Dihydropteroate synthase|Sulfonamides|
+|Mechanism|Medication|
+|-|-|
+|↓ Dihydrofolate reductase|Trimethoprim|
+|↓ Dihydropteroate synthase|Sulfonamides|
 
 ### DNA Inhibitors
 
-|Mechanism|Targets|Medication|
-|-|-|-|
-|↓ DNA synthesis|Topoisomerase|Fluoroquinolones|
-|↑ DNA intercalation|DNA|Metronidazole|
+|Mechanism|Medication|
+|-|-|
+|↓ Topoisomerase|Fluoroquinolones|
+|↑ DNA intercalation|Metronidazole|
 
 ![](../Figures/Mechanisms%20of%20Action%20of%20Antibiotics.png)
 
@@ -717,15 +714,15 @@
 
 ## Mechanisms of Action of Antifungals
 
-|Mechanism|Target|Medication|Indications|
-|-|-|-|-|
-|↓ β-glucan synthesis|Glucan synthase|Echinocandins [-Fungins]:<br>Anidulafungin<br>Capsofungin<br>Micafungin|Candida<br>Aspergillus|
-|↑ Cell membrane damage|Ergosterol|Amphotericin B|Fungus|
-|||Nystatin|Candida|
-|↓ Cell membrane synthesis|Squalene epoxidase|Terbinafine|Dermatophytes|
-||Demethylase|-Conazoles|Fungus|
-|↓ Pyrimidine synthesis|Thymidylate synthase|Flucytosine|Cryptococcus|
-|↓ Microtubule assembly|Microtubule|Griseofulvin|Dermatophytes|
+|Mechanism|Medication|Indications|
+|-|-|-|
+|↓ β-Glucan synthase|Echinocandins [-Fungins]:<br>Anidulafungin<br>Capsofungin<br>Micafungin|Candida<br>Aspergillus|
+|↑ Ergosterol damage|Amphotericin B|Fungus|
+||Nystatin|Candida|
+|↓ Squalene epoxidase|Terbinafine|Dermatophytes|
+|↓ Demethylase|-Conazoles|Fungus|
+|↓ Thymidylate synthase|Flucytosine|Cryptococcus|
+|↓ Microtubule assembly|Griseofulvin|Dermatophytes|
 
 ![](../Figures/Mechanisms%20of%20Action%20of%20Antifungals.png)
 
