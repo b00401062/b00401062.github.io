@@ -739,9 +739,9 @@
 ||Abacavir<br>Emtricitabine<br>Stavudine<br>Zidovudine<br>Didanosine|HIV|
 ||Lamivudine<br>Tenofovir|HBV & HIV|
 |↓ Reverse transcriptase<br>:: non-nucleoside (NNRTI)|Delavirdine<br>Efavirenz<br>Nevirapine|HIV|
-|↓ Integrase (INSTI)|Gravirs|HIV|
+|↓ Integrase (INSTI)|-Gravirs|HIV|
 |↓ Protease (PI) :: Pol|-Navirs|HIV|
-|↓ Protease (PI) :: NS3/4A|Previrs|HCV|
+|↓ Protease (PI) :: NS3/4A|-Previrs|HCV|
 |↓ DNA polymerase|Acyclovir|HSV & VZV|
 ||Famciclovir|HSV & VZV|
 ||Ganciclovir|CMV|
