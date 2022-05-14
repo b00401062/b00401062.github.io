@@ -291,9 +291,9 @@
 |LSIL|> 25|-|Repeat screening in 1 year|
 |Consecutive<br>Otherwise|Any|±/?|Colposcopy ± Biopsy|
 
-## Treatment of Cervical Intraepithelial Neoplasia (CIN)
+## Management of Cervical Intraepithelial Neoplasia (CIN)
 
-|CIN|Treatment|
+|CIN|Management|
 |-|-|
 |I|Repeat screening in 1 year|
 |II<br>III|Loop electrosurgical excision procedure (LEEP)<br>Conization<br>Cryotherapy<br>Laser ablation|
