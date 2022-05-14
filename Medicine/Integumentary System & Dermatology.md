@@ -130,6 +130,6 @@
 
 |Cancer|Management|
 |-|-|
-|Squamous cell carcinoma|Cryosurgery<br>Electrodesiccation<br>Surgical excision<br>Mohs micrographic surgery|
-|Basal cell carcinoma|Cryosurgery<br>Electrodesiccation<br>Surgical excision<br>Mohs micrographic surgery|
+|Squamous cell carcinoma|Cryotherapy<br>Electrodesiccation<br>Surgical excision<br>Mohs micrographic surgery|
+|Basal cell carcinoma|Cryotherapy<br>Electrodesiccation<br>Surgical excision<br>Mohs micrographic surgery|
 |Melanoma|Surgical excision|
