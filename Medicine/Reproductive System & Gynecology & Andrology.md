@@ -289,7 +289,7 @@
 |ASC-US|> 25|?|Repeat screening in 1 year|
 |LSIL|< 25|±/?|Repeat screening in 1 year|
 |LSIL|> 25|-|Repeat screening in 1 year|
-|Consecutive<br>Otherwise|Any|±/?|Colposcopy ± LEEP|
+|Consecutive<br>Otherwise|Any|±/?|Colposcopy ± Biopsy|
 
 ## Treatment of Cervical Intraepithelial Neoplasia (CIN)
 
