@@ -216,6 +216,16 @@
 
 ## Target Therapy
 
+|Mechanism|Medication|Indications|
+|-|-|-|
+|BRAF inhibitors|Vemurafenib|Melanoma|
+|C-KIT inhibitors|Imatinib|Gastrointestinal stromal tumor (GIST)|
+|EGFR inhibitors|Cetuximab|Colorectal cancer|
+||Gefitinib<br>Erlotinib|Non-small cell lung cancer (NSCLC)|
+|HER2 inhibitors|Trastuzumab|Breast cancer|
+|VEGF inhibitors|Bevacizumab|Solid tumors|
+|VEGFR inhibitors|Sunitinib<br>Sorafenib|Cancer|
+
 ![](../Figures/Target%20Therapy.png)
 
 ## Immunotherapy
