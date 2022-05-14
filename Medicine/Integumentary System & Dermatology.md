@@ -125,3 +125,11 @@
 - Acral lentiginous melanoma
 
 ![](../Figures/Types%20of%20Melanoma.jpg)
+
+## Management of Skin Cancer
+
+|Cancer|Management|
+|-|-|
+|Squamous cell carcinoma|Cryosurgery<br>Electrodesiccation<br>Surgical excision<br>Mohs micrographic surgery|
+|Basal cell carcinoma|Cryosurgery<br>Electrodesiccation<br>Surgical excision<br>Mohs micrographic surgery|
+|Melanoma|Surgical excision|
