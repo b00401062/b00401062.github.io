@@ -296,7 +296,7 @@
 |CIN|Management|
 |-|-|
 |I|Repeat screening in 1 year|
-|II<br>III|Loop electrosurgical excision procedure (LEEP)<br>Conization<br>Cryotherapy<br>Laser ablation|
+|II<br>III|Cryotherapy<br>Laser ablation<br>Conization<br>Loop electrosurgical excision procedure (LEEP)|
 
 ## Management of Seminoma
 
