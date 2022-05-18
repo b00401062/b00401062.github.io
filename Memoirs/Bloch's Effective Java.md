@@ -284,7 +284,9 @@
 - [Eliminate unchecked warnings](#eliminate-unchecked-warnings)
 - [Prefer lists to arrays](#prefer-lists-to-arrays)
 - Favor generic types
-- Favor generic methods
+- [Favor generic methods](#favor-generic-methods)
+- [Use bounded wild cards to increase API flexibility](#use-bounded-wild-cards-to-increase-api-flexibility)
+- [Combine generics and varargs judiciously](#combine-generics-and-varargs-judiciously)
 
 ### Don’t use raw types
 
@@ -311,3 +313,16 @@
 - Arrays are covariant and reified; generics are invariant and erased.
 
 ### Favor generic methods
+
+- *Generic singleton factory* is a generic meethod that creates singletons of a generic type.
+- **Recursive type bound** allows for a type parameter to be bounded by some expression involving that type parameter itself.
+- `E extends Comparable<E>` may be read as "any type E that can be compared to itself,"
+
+### Use bounded wild cards to increase API flexibility
+
+- For maximum flexibility, use wildcard types on input parameters that represent producers or consumers.
+- **PECS**:producer-extends, consumer-super.
+- Do not use bounded wildcard types as return types.
+- There is a duality between type parameters and wildcards.
+
+### Combine generics and varargs judiciously
