@@ -238,7 +238,7 @@
 
 ![](../Figures/ACC-AHA%20Stages%20of%20Heart%20Failure.png)
 
-## Treatment of Heart failure (HF)
+## Management of Heart Failure (HF)
 
 ### Decompensated {LMNOP}
 
@@ -516,7 +516,7 @@
 - Cardiac enzymes
 - ST changes > 0.5 mm
 
-## Treatment of Acute Coronary Syndrome (ACS) {MONA}
+## Management of Acute Coronary Syndrome (ACS) {MONAB}
 
 - Oxygen
 - Venodilators
