@@ -233,14 +233,16 @@
 |III|30 ~ 40%|120 ~ 140|↓|30 ~ 40|5 ~ 15 mL/h|
 |IV|> 40%|> 140|↓|> 35|< 5 mL/h|
 
-## Treatment of Hypertension {ABVD}
+## Management of Hypertension {ABVD}
+
+### Non-Urgency
 
 - ACEI & ARB
 - β<sub>1</sub> antagonists
 - Vasodilators
 - Diuretics
 
-## Treatment of Hypertensive Urgency
+### Urgency
 
 - ACEI :: Captopril
 - β<sub>1</sub> antagonists :: Labetalol
