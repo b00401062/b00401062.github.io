@@ -287,6 +287,7 @@
 - [Favor generic methods](#favor-generic-methods)
 - [Use bounded wild cards to increase API flexibility](#use-bounded-wild-cards-to-increase-api-flexibility)
 - [Combine generics and varargs judiciously](#combine-generics-and-varargs-judiciously)
+- [Consider typesafe heterogeneous containers](#consider-typesafe-heterogeneous-containers)
 
 ### Don’t use raw types
 
@@ -326,3 +327,18 @@
 - There is a duality between type parameters and wildcards.
 
 ### Combine generics and varargs judiciously
+
+- Varargs methods and generics do not interact gracefully.
+- Varargs is a *leaky abstraction* the array that hold the varargs parameters is visible.
+- *Heap pollution* occurs when a variable of a parameterized type refers to an object that is not of that type.
+- It is unsafe to store a value in a generic varargs array parameter.
+- The `SafeVarargs` annotation constitutes a promise by the author of a method that it is typesafe.
+- It is unsafe to give another method access to a generic varargs parameter array.
+- Use `@SafeVarargs` on every method with a varargs parameter of a generic or parameterized type.
+
+### Consider typesafe heterogeneous containers
+
+- The normal use of generics requires a fixed number of type parameters per container.
+- The restriction can be got around by placing the type parameter on the key rather than the container.
+- `Class` objects are used as keys for such typesafe heterogeneous containers.
+- A `Class` object used in this fashion is called a **type token**.
