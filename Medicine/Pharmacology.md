@@ -528,6 +528,7 @@
 |VEGF inhibitors|Bevacizumab|Solid tumors<br>Diabetic retinopathy<br>Age-related macular degeneration (AMD)|
 ||Ranibizumab|Diabetic retinopathy<br>Age-related macular degeneration (AMD)|
 |VEGFR inhibitors|Sunitinib<br>Sorafenib|Cancer|
+||Regorafenib|Colorectal cancer (CRC)|
 ||Pegaptanib|Age-related macular degeneration (AMD)|
 |α4-integrin inhibitors|Natalizumab|Multiple sclerosis<br>Crohn disease|
 
