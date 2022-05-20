@@ -225,6 +225,7 @@
 |HER2 inhibitors|Trastuzumab|Breast cancer|
 |VEGF inhibitors|Bevacizumab|Solid tumors|
 |VEGFR inhibitors|Sunitinib<br>Sorafenib|Cancer|
+||Regorafenib|Colorectal cancer (CRC)|
 
 ![](../Figures/Target%20Therapy.png)
 
