@@ -484,8 +484,8 @@
 |Variant [Prinzmetal] angina|Coronary artery spasm|HTW|STE|-|Drugs|-|
 |Stable angina|Coronary artery thrombosis|-|STD|-|Exertion|-|
 |Unstable angina|Coronary artery thrombosis|TWI|STD|-|Anytime|-|
-|NSTEMI [NQMI]|Subendocardial infarction|TWI|STD|-|Anytime|↑|
-|STEMI [QWMI]|Transmural infarction|HTW|STE|PQW|Anytime|↑|
+|NSTEMI|Subendocardial infarction|TWI|STD|-|Anytime|↑|
+|STEMI|Transmural infarction|HTW|STE|PQW|Anytime|↑|
 
 ## Risk Factors for Coronay Artery Disease (CAD)
 
@@ -506,7 +506,7 @@
 |3 ~ 14|Granulation tissue|Pseudo-aneurysm<br>Free wall rupture<br>Papillary muscle rupture|
 |> 14|Contracted scar|Aneurysm<br>Mural thrombus<br>Dressler syndrome|
 
-## Thrombolysis in Myocardial Infarction (TIMI) Score for NSTEMI {ACS}
+## TIMI Risk Score (TRS) for Unstable Angina and NSTEMI {ACS}
 
 - Age > 65 years
 - Aspirin use
@@ -516,7 +516,14 @@
 - Cardiac enzymes
 - ST changes > 0.5 mm
 
-## Management of Acute Coronary Syndrome (ACS) {MONAB}
+|TRS|Risk|
+|-|-|
+|< 3|Low|
+|≥ 3|High|
+
+## Management of Acute Coronary Syndrome (ACS)
+
+### Acute {MONAB}
 
 - Oxygen
 - Venodilators
@@ -525,12 +532,20 @@
 - Antiplatelets
   - Aspirin
   - ADP antagonists
+  - Gp2b/3a inhibitors
 - Anticoagulants :: Heparin
 - β<sub>1</sub> antagonists
 - Revascularization
   - Thrombolysis: duration < 12 ~ 24 hours
   - Percutaneous intervention (PCI)
   - Coronary artery bypass grafting (CABG)
+
+### Long-Term
+
+- ACEI & ARB
+- Antiplatelets
+- β<sub>1</sub> antagonists
+- Statins
 
 ## Ideal Door-to-Reperfusion Time for ACS
 
