@@ -235,13 +235,6 @@
 
 ## Management of Hypertension
 
-### Hypertension {ABVD}
-
-- ACEI & ARB
-- β<sub>1</sub> antagonists
-- Vasodilators
-- Diuretics
-
 ### Hypertensive Urgency
 
 - ACEI :: Captopril
@@ -250,6 +243,13 @@
   - Ca channel blockers
   - α<sub>2</sub> agonists
   - Nitrates
+
+### Hypertension {ABVD}
+
+- ACEI & ARB
+- β<sub>1</sub> antagonists
+- Vasodilators
+- Diuretics
 
 ## Etiology of Hypoxemia
 
