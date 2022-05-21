@@ -561,11 +561,11 @@
 
 ## Types of Grafts for Coronary Artery Bypass Grafting (CABG)
 
-- Saphenous vein graft
-- Internal mammary artery (IMA) graft
-  - Left internal mammary artery (LIMA) graft
-  - Right internal mammary artery (RIMA) graft
-- Radial artery graft
+- Saphenous vein
+- Internal mammary artery (IMA)
+  - Left internal mammary artery (LIMA)
+  - Right internal mammary artery (RIMA)
+- Radial artery
 
 ## Comparison Between Biosprosthetic and Mechanical Heart Valves
 
