@@ -68,7 +68,7 @@
 |<sup>133</sup>Xe|V/Q scan :: ventilation scan|
 |<sup>99m</sup>Tc-macroaggregated albumin (MAA)|V/Q scan :: perfusion scan|
 |<sup>123</sup>I|Thyroid|
-|<sup>99m</sup>Tc-pertechnetate|Thyroid|
+|<sup>99m</sup>Tc-pertechnetate|Meckel diverticulum|
 |<sup>99m</sup>Tc-sestamibi|Heart & Parathyroid|
 |<sup>131</sup>I-iodocholesterol|Adrenal adenoma|
 |<sup>123</sup>I-metaiodobenzylguanidine (MIBG)|Pheochromocytoma|
