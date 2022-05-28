@@ -134,18 +134,6 @@
 |5|+|Partially off|
 |6|+|Completely off|
 
-## Valvular Heart Diseases and Murmurs
-
-|Disease|Phase|↑ Preload|↑ Afterload|
-|-|-|-|-|
-|AS|Systolic|↑|↓|
-|AR|Diastolic|↑|↑|
-|MS|Diastolic|↑|↑|
-|MR|Systolic|↑|-|
-|MVP|Systolic|↓|↓|
-|HOCM|Systolic|↓|↓|
-|VSD|Systolic|↑|↑|
-
 ## Approach to ECG
 
 - Rate
@@ -187,6 +175,18 @@
   - Thallium-201
   - Technetium-99 sestamibi
   - Technetium-99m tetrofosmin
+
+## Valvular Heart Diseases and Murmurs
+
+|Disease|Phase|↑ Preload|↑ Afterload|
+|-|-|-|-|
+|AS|Systolic|↑|↓|
+|AR|Diastolic|↑|↑|
+|MS|Diastolic|↑|↑|
+|MR|Systolic|↑|-|
+|MVP|Systolic|↓|↓|
+|HOCM|Systolic|↓|↓|
+|VSD|Systolic|↑|↑|
 
 ## Atrial Septal Defects (ASD)
 
