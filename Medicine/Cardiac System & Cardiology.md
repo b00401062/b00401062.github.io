@@ -180,13 +180,13 @@
 
 |Disease|Phase|↑ Preload|↑ Afterload|
 |-|-|-|-|
+|VSD|Systolic|↑|↑|
 |AS|Systolic|↑|↓|
 |AR|Diastolic|↑|↑|
 |MS|Diastolic|↑|↑|
 |MR|Systolic|↑|-|
 |MVP|Systolic|↓|↓|
 |HOCM|Systolic|↓|↓|
-|VSD|Systolic|↑|↑|
 
 ## Atrial Septal Defects (ASD)
 
