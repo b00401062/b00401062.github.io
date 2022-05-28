@@ -183,8 +183,8 @@
 |VSD|Systolic|↑|↑|
 |AS|Systolic|↑|↓|
 |AR|Diastolic|↑|↑|
-|MS|Diastolic|↑|↑|
-|MR|Systolic|↑|-|
+|MS|Diastolic|↑|-|
+|MR|Systolic|↑|↑|
 |MVP|Systolic|↓|↓|
 |HOCM|Systolic|↓|↓|
 
