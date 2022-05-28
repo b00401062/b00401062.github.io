@@ -102,9 +102,19 @@
 - Ca channel blockers
 - Digitalis
 
-## Physical Examination for Cardiovascular System
+## Effects of Special Maneuvers
 
-|Finding|Indications|
+|Maneuver|Effect|
+|-|-|
+|Valsalva|↓ Preload|
+|Standing|↓ Preload|
+|Squatting|↑ Preload|
+|Leg rasie|↑ Preload|
+|Hand grip|↑ Afterload|
+
+## Conditions Associated with Physical Examination Findings
+
+|Finding|Conditions|
 |-|-|
 |Kussmaul sign|Cardiac tamponade<br>Right heart failure<br>Restrictive cardiomyopathy|
 |Pulsus paradoxus|Cardiac tamponade<br>Obstructive lung diseases|
