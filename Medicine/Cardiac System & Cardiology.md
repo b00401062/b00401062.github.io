@@ -102,16 +102,6 @@
 - Ca channel blockers
 - Digitalis
 
-## Effects of Special Maneuvers
-
-|Maneuver|Effect|
-|-|-|
-|Valsalva|↓ Preload|
-|Standing|↓ Preload|
-|Squatting|↑ Preload|
-|Leg rasie|↑ Preload|
-|Hand grip|↑ Afterload|
-
 ## Conditions Associated with Physical Examination Findings
 
 |Finding|Conditions|
@@ -123,6 +113,16 @@
 |Differential cyanosis|Eisenmenger syndrome of PDA|
 |Reverse differential cyanosis|Transposition of great artery (TGA)|
 
+## Effects of Special Maneuvers
+
+|Maneuver|Effect|
+|-|-|
+|Valsalva|↓ Preload|
+|Standing|↓ Preload|
+|Squatting|↑ Preload|
+|Leg rasie|↑ Preload|
+|Hand grip|↑ Afterload|
+
 ## Grading of Murmurs
 
 |Grade|Thrill|Stethoscope|
@@ -133,6 +133,18 @@
 |4|+|Against|
 |5|+|Partially off|
 |6|+|Completely off|
+
+## Valvular Heart Diseases and Murmurs
+
+|Disease|Phase|↑ Preload|↑ Afterload|
+|-|-|-|-|
+|AS|Systolic|↑|↓|
+|AR|Diastolic|↑|↑|
+|MS|Diastolic|↑|↑|
+|MR|Systolic|↑|-|
+|MVP|Systolic|↓|↓|
+|HOCM|Systolic|↓|↓|
+|VSD|Systolic|↑|↑|
 
 ## Approach to ECG
 
