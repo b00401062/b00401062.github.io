@@ -1,16 +1,14 @@
-package leetcode
+package leetcode;
 
-fun winnerSquareGame(n: Int): Boolean {
-    val winners = BooleanArray(n + 1)
-    for (i in 0..n) {
+public static boolean winnerSquareGame(final int n) {
+    final boolean[] winners = new boolean[n + 1];
+    for (int i = 0; i <= n; i++) {
         if (winners[i]) {
-            continue
+            continue;
         }
-        var k = 1
-        while (i + k * k <= n) {
-            winners[i + k * k] = true
-            k++
+        for (int k = 1; i + k * k <= n; k++) {
+            winners[i + k * k] = true;
         }
     }
-    return winners[n]
+    return winners[n];
 }

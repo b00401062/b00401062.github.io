@@ -1,8 +1,9 @@
-package leetcode
+package leetcode;
 
-import java.util.*
+import java.util.Arrays;
 
-private var cache = intArrayOf(
+
+private int[] cache = new int[] {
     1,
     1,
     2,
@@ -20,24 +21,24 @@ private var cache = intArrayOf(
     2674440,
     9694845,
     35357670
-)
+};
 
-private fun numCacheTrees(n: Int): Int {
-    assert(cache.size > n)
+private int numCacheTrees(int n) {
+    assert cache.length > n;
     if (cache[n] != 0) {
-        return cache[n]
+        return cache[n];
     }
-    var sol = 0
-    for (i in 1..n) {
-        sol += numCacheTrees(i - 1) * numCacheTrees(n - i)
+    int sol = 0;
+    for (int i = 1; i <= n; i++) {
+        sol += numCacheTrees(i - 1) * numCacheTrees(n - i);
     }
-    return sol
+    return sol;
 }
 
-fun numTrees(n: Int): Int {
-    if (n >= cache.size) {
-        cache = Arrays.copyOf(cache, n + 1)
+public int numTrees(int n) {
+    if (n >= cache.length) {
+        cache = Arrays.copyOf(cache, n + 1);
     }
-    cache[0] = 1
-    return numCacheTrees(n)
+    cache[0] = 1;
+    return numCacheTrees(n);
 }

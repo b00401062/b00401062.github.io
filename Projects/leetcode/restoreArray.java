@@ -1,26 +1,33 @@
-package leetcode
+package leetcode;
 
-private fun insertEdge(edges: MutableMap<Int, MutableList<Int>>, v0: Int, v1: Int) {
-    val neighbors = edges.getOrDefault(v0, ArrayList())
-    neighbors.add(v1)
-    edges.putIfAbsent(v0, neighbors)
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+private static void insertEdge(Map<Integer, List<Integer>> edges, int v0, int v1) {
+    final List<Integer> neighbors = edges.getOrDefault(v0, new ArrayList<>());
+    neighbors.add(v1);
+    edges.putIfAbsent(v0, neighbors);
 }
 
-fun restoreArray(adjacentPairs: Array<IntArray>): IntArray {
-    val edges: MutableMap<Int, MutableList<Int>> = HashMap()
-    for (pair in adjacentPairs) {
-        insertEdge(edges, pair[0], pair[1])
-        insertEdge(edges, pair[1], pair[0])
+public static int[] restoreArray(int[][] adjacentPairs) {
+    final Map<Integer, List<Integer>> edges = new HashMap<>();
+    for (int[] pair : adjacentPairs) {
+        insertEdge(edges, pair[0], pair[1]);
+        insertEdge(edges, pair[1], pair[0]);
     }
-    val head = edges.entries.stream()
-        .filter { (_, value): Map.Entry<Int, List<Int>> -> value.size == 1 }
-        .findFirst().get().key
-    val restoredArray = IntArray(adjacentPairs.size + 1)
-    restoredArray[0] = head
-    for (i in 1 until restoredArray.size) {
-        val neighbors: List<Int> = edges[restoredArray[i - 1]]!!
-        restoredArray[i] =
-            if (neighbors.size == 1) neighbors[0] else neighbors[0] xor neighbors[1] xor restoredArray[i - 2]
+    int head = edges.entrySet().stream()
+    .filter(entry -> entry.getValue().size() == 1)
+    .findFirst().get().getKey();
+    int[] restoredArray = new int[adjacentPairs.length + 1];
+    restoredArray[0] = head;
+    for (int i = 1; i < restoredArray.length; i++) {
+        List<Integer> neighbors = edges.get(restoredArray[i - 1]);
+        restoredArray[i] = (
+            neighbors.size() == 1 ? neighbors.get(0) :
+            neighbors.get(0) ^ neighbors.get(1) ^ restoredArray[i - 2]
+        );
     }
-    return restoredArray
+    return restoredArray;
 }

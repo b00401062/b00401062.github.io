@@ -1,60 +1,79 @@
-package leetcode
+package leetcode;
 
-class LRUCache(private val capacity: Int) {
-    private class ListNode(var key: Int, var value: Int) {
-        var prev: ListNode? = null
-        var next: ListNode? = null
-    }
+import java.util.HashMap;
 
-    private class List {
-        private val head: ListNode = ListNode(-1, -1)
-        private val tail: ListNode = ListNode(-1, -1)
+class LRUCache {
+    private static class ListNode {
+        int key;
+        int value;
+        ListNode prev;
+        ListNode next;
 
-        init {
-            head.next = tail
-            tail.prev = head
-        }
-
-        fun remove(node: ListNode?) {
-            node!!.prev!!.next = node.next
-            node.next!!.prev = node.prev
-        }
-
-        fun push(node: ListNode) {
-            node.prev = head
-            node.next = head.next
-            head.next!!.prev = node
-            head.next = node
-        }
-
-        fun pop(): ListNode? {
-            val node = tail.prev
-            remove(node)
-            return node
+        ListNode(int key, int value) {
+            this.key = key;
+            this.value = value;
         }
     }
 
-    private val cache: HashMap<Int, ListNode> = HashMap(capacity)
-    private val list: List = List()
+    private static class List {
+        private final ListNode head;
+        private final ListNode tail;
 
-    operator fun get(key: Int): Int {
-        val node = this.cache[key] ?: return -1
-        val value = node.value
-        list.remove(node)
-        list.push(node)
-        return value
+        List() {
+            this.head = new ListNode(-1, -1);
+            this.tail = new ListNode(-1, -1);
+            this.head.next = this.tail;
+            this.tail.prev = this.head;
+        }
+
+        public void remove(ListNode node) {
+            node.prev.next = node.next;
+            node.next.prev = node.prev;
+        }
+
+        public void push(ListNode node) {
+            node.prev = this.head;
+            node.next = this.head.next;
+            this.head.next.prev = node;
+            this.head.next = node;
+        }
+
+        public ListNode pop() {
+            final ListNode node = this.tail.prev;
+            remove(node);
+            return node;
+        }
     }
 
-    fun put(key: Int, value: Int) {
+    private final int capacity;
+    private final HashMap<Integer, ListNode> cache;
+    private final List list;
+
+    public LRUCache(int capacity) {
+        this.capacity = capacity;
+        this.cache = new HashMap<>(capacity);
+        this.list = new List();
+    }
+
+    public int get(int key) {
+        final ListNode node = this.cache.get(key);
+        if (node == null) return -1;
+        final int value = node.value;
+        this.list.remove(node);
+        this.list.push(node);
+        return value;
+    }
+
+    public void put(int key, int value) {
         if (this.cache.containsKey(key)) {
-            this[key]
-            this.cache[key]!!.value = value
-            return
+            this.get(key);
+            this.cache.get(key).value = value;
+            return;
         }
-        val node = ListNode(key, value)
-        this.cache[key] = node
-        list.push(node)
-        if (this.cache.size <= capacity) return
-        this.cache.remove(list.pop()!!.key)
+        final ListNode node = new ListNode(key, value);
+        this.cache.put(key, node);
+        this.list.push(node);
+        if (this.cache.size() <= this.capacity) return;
+        this.cache.remove(this.list.pop().key);
     }
 }

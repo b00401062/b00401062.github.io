@@ -1,10 +1,12 @@
-package leetcode
+package leetcode;
 
-fun minElements(nums: IntArray, limit: Int, goal: Int): Int {
-    var sum: Long = 0
-    for (num in nums) {
-        sum += num.toLong()
+import java.util.Arrays;
+
+public static int minElements(int[] nums, int limit, int goal) {
+    long sum = 0;
+    for (int num : nums) {
+        sum += num;
     }
-    val deficit = goal - sum
-    return Math.abs(deficit / limit).toInt() + if (deficit % limit == 0L) 0 else 1
+    long deficit = goal - sum;
+    return (int) Math.abs(deficit / limit) + (deficit % limit == 0 ? 0 : 1);
 }

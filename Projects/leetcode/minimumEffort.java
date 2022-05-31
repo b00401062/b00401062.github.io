@@ -1,12 +1,13 @@
-package leetcode
+package leetcode;
 
-import java.util.*
+import java.util.Arrays;
+import java.util.Comparator;
 
-fun minimumEffort(tasks: Array<IntArray>): Int {
-    Arrays.sort(tasks, Comparator.comparingInt { task: IntArray -> task[1] - task[0] })
-    var minimumEffort = 0
-    for (task in tasks) {
-        minimumEffort = Math.max(minimumEffort + task[0], task[1])
+public static int minimumEffort(int[][] tasks) {
+    Arrays.sort(tasks, Comparator.comparingInt(task -> task[1] - task[0]));
+    int minimumEffort = 0;
+    for (int[] task : tasks) {
+        minimumEffort = Math.max(minimumEffort + task[0], task[1]);
     }
-    return minimumEffort
+    return minimumEffort;
 }

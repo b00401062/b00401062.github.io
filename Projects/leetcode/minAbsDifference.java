@@ -1,44 +1,47 @@
-package leetcode
+package leetcode;
 
-import java.util.*
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
 
-private fun dfs(nums: IntArray, i: Int, sum: Int, subsetSums: MutableList<Int>) {
-    if (i == nums.size) {
-        subsetSums.add(sum)
-        return
+private static void dfs(int[] nums, int i, int sum, List<Integer> subsetSums) {
+    if (i == nums.length) {
+        subsetSums.add(sum);
+        return;
     }
-    dfs(nums, i + 1, sum + nums[i], subsetSums)
-    dfs(nums, i + 1, sum, subsetSums)
+    dfs(nums, i + 1, sum + nums[i], subsetSums);
+    dfs(nums, i + 1, sum, subsetSums);
 }
 
-private fun sortedSubsetSums(nums: IntArray, beginIdx: Int, endIdx: Int): List<Int> {
-    val subsetSums: MutableList<Int> = ArrayList()
-    dfs(Arrays.copyOfRange(nums, beginIdx, endIdx), 0, 0, subsetSums)
-    Collections.sort(subsetSums)
-    return subsetSums
+private static List<Integer> sortedSubsetSums(int[] nums, int beginIdx, int endIdx) {
+    List<Integer> subsetSums = new ArrayList<>();
+    dfs(Arrays.copyOfRange(nums, beginIdx, endIdx), 0, 0, subsetSums);
+    Collections.sort(subsetSums);
+    return subsetSums;
 }
 
-fun minAbsDifference(nums: IntArray, goal: Int): Int {
-    var minAbsDifference = Int.MAX_VALUE
-    val frontSubsetSums = sortedSubsetSums(nums, 0, nums.size / 2)
-    val backSubsetSums = sortedSubsetSums(nums, nums.size / 2, nums.size)
-    for (frontSubsetSum in frontSubsetSums) {
-        val remainingSetsetSum = goal - frontSubsetSum
-        val matchedIdx = Collections.binarySearch(backSubsetSums, remainingSetsetSum)
-        if (matchedIdx >= 0) return 0
-        val insertedAtIdx = -1 * (matchedIdx + 1)
+public static int minAbsDifference(int[] nums, int goal) {
+    int minAbsDifference = Integer.MAX_VALUE;
+    List<Integer> frontSubsetSums = sortedSubsetSums(nums, 0, nums.length / 2);
+    List<Integer> backSubsetSums = sortedSubsetSums(nums, nums.length / 2, nums.length);
+    for (int frontSubsetSum : frontSubsetSums) {
+        int remainingSetsetSum = goal - frontSubsetSum;
+        int matchedIdx = Collections.binarySearch(backSubsetSums, remainingSetsetSum);
+        if (matchedIdx >= 0) return 0;
+        int insertedAtIdx = -1 * (matchedIdx + 1);
         if (insertedAtIdx > 0) {
             minAbsDifference = Math.min(
                 minAbsDifference,
-                Math.abs(remainingSetsetSum - backSubsetSums[insertedAtIdx - 1])
-            )
+                Math.abs(remainingSetsetSum - backSubsetSums.get(insertedAtIdx - 1))
+            );
         }
-        if (insertedAtIdx < backSubsetSums.size) {
+        if (insertedAtIdx < backSubsetSums.size()) {
             minAbsDifference = Math.min(
                 minAbsDifference,
-                Math.abs(remainingSetsetSum - backSubsetSums[insertedAtIdx])
-            )
+                Math.abs(remainingSetsetSum - backSubsetSums.get(insertedAtIdx))
+            );
         }
     }
-    return minAbsDifference
+    return minAbsDifference;
 }

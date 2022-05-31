@@ -1,41 +1,44 @@
-package leetcode
+package leetcode;
 
-private fun swapVal(n1: TreeNode?, n2: TreeNode?) {
-    val `val` = n1!!.`val`
-    n1.`val` = n2!!.`val`
-    n2.`val` = `val`
+import java.util.ArrayList;
+import java.util.List;
+
+private static void swapVal(TreeNode n1, TreeNode n2) {
+    int val = n1.val;
+    n1.val = n2.val;
+    n2.val = val;
 }
 
-fun recoverTree(root: TreeNode?) {
-    var preNode: TreeNode? = TreeNode(Int.MIN_VALUE)
-    var curNode = root
-    var pairIsFound = false
-    val candNodes: MutableList<TreeNode?> = ArrayList()
+public static void recoverTree(TreeNode root) {
+    TreeNode preNode = new TreeNode(Integer.MIN_VALUE);
+    TreeNode curNode = root;
+    boolean pairIsFound = false;
+    List<TreeNode> candNodes = new ArrayList<>();
     while (curNode != null) {
         if (curNode.left == null) {
-            pairIsFound = true
+            pairIsFound = true;
         } else {
-            var tmpNode = curNode.left
-            while (tmpNode!!.right != null && tmpNode.right !== curNode) {
-                tmpNode = tmpNode.right
+            TreeNode tmpNode = curNode.left;
+            while (tmpNode.right != null && tmpNode.right != curNode) {
+                tmpNode = tmpNode.right;
             }
-            if (tmpNode.right !== curNode) {
-                tmpNode.right = curNode
-                curNode = curNode.left
-                pairIsFound = false
+            if (tmpNode.right != curNode) {
+                tmpNode.right = curNode;
+                curNode = curNode.left;
+                pairIsFound = false;
             } else {
-                tmpNode.right = null
-                pairIsFound = true
+                tmpNode.right = null;
+                pairIsFound = true;
             }
         }
         if (pairIsFound) {
-            if (curNode!!.`val` < preNode!!.`val`) {
-                candNodes.add(preNode)
-                candNodes.add(curNode)
+            if (curNode.val < preNode.val) {
+                candNodes.add(preNode);
+                candNodes.add(curNode);
             }
-            preNode = curNode
-            curNode = curNode.right
+            preNode = curNode;
+            curNode = curNode.right;
         }
     }
-    swapVal(candNodes[0], candNodes[candNodes.size - 1])
+    swapVal(candNodes.get(0), candNodes.get(candNodes.size() - 1));
 }

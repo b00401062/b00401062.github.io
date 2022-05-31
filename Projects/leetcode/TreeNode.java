@@ -1,18 +1,19 @@
-package leetcode
+package leetcode;
 
 class TreeNode {
-    var `val` = 0
-    var left: TreeNode? = null
-    var right: TreeNode? = null
+    int val;
+    TreeNode left;
+    TreeNode right;
 
-    constructor()
-    constructor(`val`: Int) {
-        this.`val` = `val`
+    TreeNode() {}
+
+    TreeNode(int val) {
+        this.val = val;
     }
 
-    constructor(`val`: Int, left: TreeNode?, right: TreeNode?) {
-        this.`val` = `val`
-        this.left = left
-        this.right = right
+    TreeNode(int val, TreeNode left, TreeNode right) {
+        this.val = val;
+        this.left = left;
+        this.right = right;
     }
 }

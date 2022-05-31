@@ -1,25 +1,28 @@
-package leetcode
+package leetcode;
 
-fun maximumUniqueSubarray(nums: IntArray): Int {
-    var maxScore = 0
-    var curScore = 0
-    var head = 0
-    val set: MutableSet<Int> = HashSet()
-    for (tail in nums.indices) {
-        val num = nums[tail]
+import java.util.HashSet;
+import java.util.Set;
+
+public static int maximumUniqueSubarray(int[] nums) {
+    int maxScore = 0;
+    int curScore = 0;
+    int head = 0;
+    Set<Integer> set = new HashSet<>();
+    for (int tail = 0; tail < nums.length; tail++) {
+        final int num = nums[tail];
         if (set.contains(num)) {
-            maxScore = Math.max(maxScore, curScore)
+            maxScore = Math.max(maxScore, curScore);
             while (nums[head] != num) {
-                val removedNum = nums[head++]
-                set.remove(removedNum)
-                curScore -= removedNum
+                int removedNum = nums[head++];
+                set.remove(removedNum);
+                curScore -= removedNum;
             }
-            head++
+            head++;
         } else {
-            set.add(num)
-            curScore += num
+            set.add(num);
+            curScore += num;
         }
     }
-    maxScore = Math.max(maxScore, curScore)
-    return maxScore
+    maxScore = Math.max(maxScore, curScore);
+    return maxScore;
 }

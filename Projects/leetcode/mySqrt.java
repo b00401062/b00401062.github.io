@@ -1,12 +1,16 @@
-package leetcode
+package leetcode;
 
-private fun myRecursiveSqrt(guess: Long, x: Int): Long {
-    return if (guess * guess <= x && x < (guess + 1) * (guess + 1)) guess else myRecursiveSqrt(
-        (guess + x / guess) / 2,
-        x
-    )
+private static long myRecursiveSqrt(final long guess, final int x) {
+    return (
+        guess * guess <= x && x < (guess + 1) * (guess + 1) ? guess :
+        myRecursiveSqrt((guess + x / guess) / 2, x)
+    );
 }
 
-fun mySqrt(x: Int): Int {
-    return if (x == 0) 0 else if (x == 1) 1 else myRecursiveSqrt((x / 2).toLong(), x).toInt()
+public static int mySqrt(final int x) {
+    return (
+        x == 0 ? 0 :
+        x == 1 ? 1 :
+        (int) myRecursiveSqrt(x / 2, x)
+    );
 }

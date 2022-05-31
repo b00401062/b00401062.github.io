@@ -1,35 +1,36 @@
-package leetcode
+package leetcode;
 
 private class Cache {
-    var diag = 0
-    var dist = 0
-    fun update(diag: Int, dist: Int) {
-        this.diag = diag
-        this.dist = dist
+    int diag;
+    int dist;
+    
+    public void update(int diag, int dist) {
+        this.diag = diag;
+        this.dist = dist;
     }
 }
 
-fun minDistance(word1: String, word2: String): Int {
-    val dp = IntArray(word2.length + 1)
-    for (j in 0..word2.length) {
-        dp[j] = j
+public int minDistance(String word1, String word2) {
+    int[] dp = new int[word2.length() + 1];
+    for (int j = 0; j <= word2.length(); j++) {
+        dp[j] = j;
     }
-    val cache: Cache = Cache()
-    for (i in 0 until word1.length) {
-        val c1 = word1[i]
-        cache.update(dp[0], i + 1)
-        dp[0] = cache.dist
-        for (j in 0 until word2.length) {
-            val c2 = word2[j]
+    Cache cache = new Cache();
+    for (int i = 0; i < word1.length(); i++) {
+        final char c1 = word1.charAt(i);
+        cache.update(dp[0], i + 1);
+        dp[0] = cache.dist;
+        for (int j = 0; j < word2.length(); j++) {
+            final char c2 = word2.charAt(j);
             cache.update(
                 dp[j + 1],
                 Math.min(
-                    cache.diag + if (c1 == c2) 0 else 1,
+                    cache.diag + (c1 == c2 ? 0 : 1),
                     Math.min(dp[j], dp[j + 1]) + 1
                 )
-            )
-            dp[j + 1] = cache.dist
+            );
+            dp[j + 1] = cache.dist;
         }
     }
-    return dp[word2.length]
+    return dp[word2.length()];
 }

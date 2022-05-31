@@ -1,10 +1,11 @@
-package leetcode
+package leetcode;
 
-import java.util.*
-import java.util.function.ToIntFunction
+import java.util.Arrays;
+import java.util.function.ToIntFunction;
 
-private val sum = ToIntFunction { account: IntArray? -> Arrays.stream(account).sum() }
+private static ToIntFunction<int[]> sum = account ->
+    Arrays.stream(account).sum();
 
-fun maximumWealth(accounts: Array<IntArray>?): Int {
-    return Arrays.stream(accounts).mapToInt(sum).max().asInt
+public static int maximumWealth(int[][] accounts) {
+    return Arrays.stream(accounts).mapToInt(sum).max().getAsInt();
 }

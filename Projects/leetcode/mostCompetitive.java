@@ -1,17 +1,21 @@
-package leetcode
+package leetcode;
 
-import java.util.*
+import java.util.Stack;
 
-fun mostCompetitive(nums: IntArray, k: Int): IntArray {
-    val stack = Stack<Int>()
-    for (i in nums.indices) {
-        val num = nums[i]
-        while (!stack.isEmpty() && stack.peek() > num && k - stack.size < nums.size - i) {
-            stack.pop()
+public int[] mostCompetitive(int[] nums, int k) {
+    Stack<Integer> stack = new Stack<>();
+    for (int i = 0; i < nums.length; i++) {
+        final int num = nums[i];
+        while (
+            !stack.isEmpty() &&
+            stack.peek() > num &&
+            k - stack.size() < nums.length - i
+        ) {
+            stack.pop();
         }
-        if (stack.size < k) {
-            stack.push(num)
+        if (stack.size() < k) {
+            stack.push(num);
         }
     }
-    return stack.stream().mapToInt { obj: Int -> obj }.toArray()
+    return stack.stream().mapToInt(Integer::intValue).toArray();
 }

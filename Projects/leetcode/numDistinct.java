@@ -1,13 +1,13 @@
-package leetcode
+package leetcode;
 
-fun numDistinct(s: String, t: String): Int {
-    val table = IntArray(t.length + 1)
-    table[0] = 1
-    for (s_i in s.toCharArray()) {
-        for (j in t.length - 1 downTo 0) {
-            val t_j = t[j]
-            if (s_i == t_j) table[j + 1] += table[j]
+public int numDistinct(String s, String t) {
+    int[] table = new int[t.length() + 1];
+    table[0] = 1;
+    for (char s_i : s.toCharArray()) {
+        for (int j = t.length() - 1; j >= 0; j--) {
+            char t_j = t.charAt(j);
+            if (s_i == t_j) table[j + 1] += table[j];
         }
     }
-    return table[t.length]
+    return table[t.length()];
 }

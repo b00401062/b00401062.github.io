@@ -1,14 +1,17 @@
-package leetcode
+package leetcode;
 
-private fun construct(nums: IntArray, lt: Int, rt: Int): TreeNode? {
-    val md = (lt + rt) / 2
-    return if (lt >= rt) null else TreeNode(
-        nums[md],
-        construct(nums, lt, md),
-        construct(nums, md + 1, rt)
-    )
+private static TreeNode construct(int[] nums, int lt, int rt) {
+    final int md = (lt + rt) / 2;
+    return (
+        lt >= rt ? null :
+        new TreeNode(
+            nums[md],
+            construct(nums, lt, md),
+            construct(nums, md + 1, rt)
+        )
+    );
 }
 
-fun sortedArrayToBST(nums: IntArray): TreeNode? {
-    return construct(nums, 0, nums.size)
+public static TreeNode sortedArrayToBST(int[] nums) {
+    return construct(nums, 0, nums.length);
 }

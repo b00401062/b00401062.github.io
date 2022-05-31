@@ -1,5 +1,5 @@
-package leetcode
+package leetcode;
 
-fun minPartitions(n: String): Int {
-    return n.chars().map { x: Int -> x - '0'.code }.max().asInt
+public static int minPartitions(String n) {
+    return n.chars().map(x -> x - '0').max().getAsInt();
 }
