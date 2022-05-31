@@ -1,12 +1,11 @@
-package leetcode
+package leetcode;
 
-fun getSmallestString(n: Int, k: Int): String {
-    var k = k
-    val sb = StringBuilder()
-    for (i in n - 1 downTo 0) {
-        val c = Math.min(26, k - i)
-        k -= c
-        sb.append(('a'.code + c - 1).toChar())
+public static String getSmallestString(int n, int k) {
+    final StringBuilder sb = new StringBuilder();
+    for (int i = n - 1; i >= 0; i--) {
+        int c = Math.min(26, k - i);
+        k -= c;
+        sb.append((char) ('a' + c - 1));
     }
-    return sb.reverse().toString()
+    return sb.reverse().toString();
 }

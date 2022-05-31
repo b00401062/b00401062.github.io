@@ -1,20 +1,19 @@
-package leetcode
+package leetcode;
 
-private const val MODULO = 1000000007
+static final int MODULO = 1000000007;
 
-private fun leftShift(n: Int, bitShift: Int): Int {
-    var n = n
-    for (i in 0 until bitShift) {
-        n = (n shl 1) % MODULO
+private static int leftShift(int n, int bitShift) {
+    for (int i = 0; i < bitShift; i++) {
+        n = (n << 1) % MODULO;
     }
-    return n
+    return n;
 }
 
-fun concatenatedBinary(n: Int): Int {
-    var numerator = 0
-    for (i in 1..n) {
-        val bitShift = (Math.log(i.toDouble()) / Math.log(2.0)).toInt() + 1
-        numerator = (leftShift(numerator, bitShift) + i) % MODULO
+public static int concatenatedBinary(int n) {
+    int numerator = 0;
+    for (int i = 1; i <= n; i++) {
+        int bitShift = (int) (Math.log(i) / Math.log(2)) + 1;
+        numerator = (leftShift(numerator, bitShift) + i) % MODULO;
     }
-    return numerator
+    return numerator;
 }

@@ -1,9 +1,11 @@
-package leetcode
+package leetcode;
 
-fun createTargetArray(nums: IntArray, index: IntArray): IntArray {
-    val res = mutableListOf<Int>()
-    for (i in nums.indices) {
-        res.add(index[i], nums[i])
+import java.util.*;
+
+public int[] createTargetArray(int[] nums, int[] index) {
+    List<Integer> res = new ArrayList<>();
+    for (int i = 0; i < nums.length; i++) {
+        res.add(index[i], nums[i]);
     }
-    return res.stream().mapToInt { obj: Int -> obj }.toArray()
+    return res.stream().mapToInt(Integer::intValue).toArray();
 }

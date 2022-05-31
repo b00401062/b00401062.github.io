@@ -1,5 +1,5 @@
-package leetcode
+package leetcode;
 
-fun checkOnesSegment(s: String): Boolean {
-    return s.split("0+".toRegex()).toTypedArray().size == 1
+public static boolean checkOnesSegment(String s) {
+    return s.split("0+").length == 1;
 }

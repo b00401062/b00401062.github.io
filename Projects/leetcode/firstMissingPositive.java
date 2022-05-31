@@ -1,23 +1,23 @@
-package leetcode
+package leetcode;
 
-fun firstMissingPositive(nums: IntArray): Int {
-    val n = nums.size
-    for (i in 0 until n) {
+public int firstMissingPositive(int[] nums) {
+    int n = nums.length;
+    for (int i = 0; i < n; i++) {
         if (nums[i] <= 0) {
-            nums[i] = Int.MAX_VALUE
+            nums[i] = Integer.MAX_VALUE;
         }
     }
-    for (num in nums) {
-        val pos = Math.abs(num) - 1
-        if (pos >= n) continue
+    for (int num : nums) {
+        int pos = Math.abs(num) - 1;
+        if (pos >= n) continue;
         if (nums[pos] > 0) {
-            nums[pos] = -nums[pos]
+            nums[pos] = -nums[pos];
         }
     }
-    for (i in 0 until n) {
+    for (int i = 0; i < n; i++) {
         if (nums[i] > 0) {
-            return i + 1
+            return i + 1;
         }
     }
-    return n + 1
+    return n + 1;
 }

@@ -1,6 +1,6 @@
-package leetcode
+package leetcode;
 
-fun deleteNode(node: ListNode) {
-    node.`val` = node.next!!.`val`
-    node.next = node.next!!.next
+public void deleteNode(ListNode node) {
+    node.val = node.next.val;
+    node.next = node.next.next;
 }

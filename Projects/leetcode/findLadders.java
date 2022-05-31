@@ -1,94 +1,110 @@
-package leetcode
+package leetcode;
 
-import java.util.*
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Queue;
+import java.util.Stack;
+import java.util.stream.Collectors;
 
-private fun distance(w1: String, w2: String): Int {
-    assert(w1.length == w2.length)
-    val n = w1.length
-    var distance = 0
-    for (i in 0 until n) {
-        if (w1[i] == w2[i]) continue
-        distance++
-    }
-    return distance
+private static enum Color {
+    WHITE,
+    GRAY,
+    BLACK
 }
 
-private fun ladder(stack: Stack<Node>): List<String?> {
-    val ladder: MutableList<String?> = ArrayList()
-    ladder.addAll(stack.map { obj: Node -> obj.word }.toList())
-    ladder.reverse()
-    return ladder
+private static class Node {
+    public final String word;
+    public Color color = Color.WHITE;
+    public int distance = Integer.MAX_VALUE;
+    public final List<Node> neighbors = new ArrayList<>();
+    public final List<Node> parents = new ArrayList<>();
+
+    Node(String word) {
+        this.word = word;
+    }
+
+    public String word() {
+        return word;
+    }
+
+    public Node color(Color color) {
+        this.color = color;
+        return this;
+    }
+
+    public Node distance(int distance) {
+        this.distance = distance;
+        return this;
+    }
 }
 
-private fun traverse(beginWord: String, ladders: MutableList<List<String?>>, stack: Stack<Node>) {
-    if (stack.peek().word === beginWord) {
-        ladders.add(ladder(stack))
-        return
+private static int distance(String w1, String w2) {
+    assert w1.length() == w2.length();
+    final int n = w1.length();
+    int distance = 0;
+    for (int i = 0; i < n; i++) {
+        if (w1.charAt(i) == w2.charAt(i)) continue;
+        distance++;
     }
-    for (parent in stack.peek().parents) {
-        stack.push(parent)
-        traverse(beginWord, ladders, stack)
-        stack.pop()
+    return distance;
+}
+
+private static List<String> ladder(Stack<Node> stack) {
+    List<String> ladder = new ArrayList<>();
+    ladder.addAll(stack.stream().map(Node::word).collect(Collectors.toList()));
+    Collections.reverse(ladder);
+    return ladder;
+}
+
+private static void traverse(String beginWord, List<List<String>> ladders, Stack<Node> stack) {
+    if (stack.peek().word == beginWord) {
+        ladders.add(ladder(stack));
+        return;
+    }
+    for (Node parent : stack.peek().parents) {
+        stack.push(parent);
+        traverse(beginWord, ladders, stack);
+        stack.pop();
     }
 }
 
-fun findLadders(beginWord: String, endWord: String, wordList: List<String>): List<List<String?>> {
-    val n = wordList.size
-    val nodes = wordList.map { word: String -> Node(word) }
-    val beginNode = Node(beginWord)
-    val endNodeIdx = wordList.indexOf(endWord)
-    if (endNodeIdx == -1) return ArrayList()
-    val endNode = nodes[endNodeIdx]
-    for (i in 0 until n) {
-        if (distance(beginWord, wordList[i]) != 1) continue
-        beginNode.neighbors.add(nodes[i])
-        nodes[i].neighbors.add(beginNode)
+public static List<List<String>> findLadders(String beginWord, String endWord, List<String> wordList) {
+    final int n = wordList.size();
+    final Node[] nodes = wordList.stream().map(Node::new).toArray(Node[]::new);
+    final Node beginNode = new Node(beginWord);
+    final int endNodeIdx = wordList.indexOf(endWord);
+    if (endNodeIdx == -1) return new ArrayList<>();
+    final Node endNode = nodes[endNodeIdx];
+    for (int i = 0; i < n; i++) {
+        if (distance(beginWord, wordList.get(i)) != 1) continue;
+        beginNode.neighbors.add(nodes[i]);
+        nodes[i].neighbors.add(beginNode);
     }
-    for (i in 0 until n) {
-        for (j in i + 1 until n) {
-            if (distance(wordList[i], wordList[j]) != 1) continue
-            nodes[i].neighbors.add(nodes[j])
-            nodes[j].neighbors.add(nodes[i])
+    for (int i = 0; i < n; i++) {
+        for (int j = i + 1; j < n; j++) {
+            if (distance(wordList.get(i), wordList.get(j)) != 1) continue;
+            nodes[i].neighbors.add(nodes[j]);
+            nodes[j].neighbors.add(nodes[i]);
         }
     }
-    val queue: Queue<Node> = LinkedList()
-    queue.add(beginNode.color(Color.GRAY).distance(0))
+    final Queue<Node> queue = new LinkedList<>();
+    queue.add(beginNode.color(Color.GRAY).distance(0));
     while (!queue.isEmpty()) {
-        val curNode = queue.remove()
-        if (curNode === endNode) break
-        for (neighbor in curNode.neighbors) {
-            if (neighbor.color == Color.BLACK) continue
-            if (neighbor.distance < curNode.distance + 1) continue
-            neighbor.distance(curNode.distance + 1)
-            neighbor.parents.add(curNode)
-            if (neighbor.color == Color.GRAY) continue
-            queue.add(neighbor.color(Color.GRAY))
+        final Node curNode = queue.remove();
+        if (curNode == endNode) break;
+        for (Node neighbor : curNode.neighbors) {
+            if (neighbor.color == Color.BLACK) continue;
+            if (neighbor.distance < curNode.distance + 1) continue;
+            neighbor.distance(curNode.distance + 1);
+            neighbor.parents.add(curNode);
+            if (neighbor.color == Color.GRAY) continue;
+            queue.add(neighbor.color(Color.GRAY));
         }
     }
-    val ladders: MutableList<List<String?>> = ArrayList()
-    val stack: Stack<Node> = Stack()
-    stack.push(endNode)
-    traverse(beginWord, ladders, stack)
-    return ladders
-}
-
-private enum class Color {
-    WHITE, GRAY, BLACK
-}
-
-private class Node(val word: String) {
-    var color = Color.WHITE
-    var distance = Int.MAX_VALUE
-    val neighbors: MutableList<Node> = ArrayList()
-    val parents: MutableList<Node> = ArrayList()
-
-    fun color(color: Color): Node {
-        this.color = color
-        return this
-    }
-
-    fun distance(distance: Int): Node {
-        this.distance = distance
-        return this
-    }
+    final List<List<String>> ladders = new ArrayList<>();
+    final Stack<Node> stack = new Stack<>() {{ push(endNode); }};
+    traverse(beginWord, ladders, stack);
+    return ladders;
 }

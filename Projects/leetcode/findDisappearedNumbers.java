@@ -1,14 +1,17 @@
-package leetcode
+package leetcode;
 
-fun findDisappearedNumbers(nums: IntArray): List<Int> {
-    val disappearedNumbers: MutableList<Int> = ArrayList()
-    for (num in nums) {
-        val i = Math.abs(num) - 1
-        if (nums[i] > 0) nums[i] *= -1
+import java.util.ArrayList;
+import java.util.List;
+
+public List<Integer> findDisappearedNumbers(int[] nums) {
+    List<Integer> disappearedNumbers = new ArrayList<>();
+    for (int num : nums) {
+        final int i = Math.abs(num) - 1;
+        if (nums[i] > 0) nums[i] *= -1;
     }
-    for (i in nums.indices) {
-        if (nums[i] < 0) continue
-        disappearedNumbers.add(i + 1)
+    for (int i = 0; i < nums.length; i++) {
+        if (nums[i] < 0) continue;
+        disappearedNumbers.add(i + 1);
     }
-    return disappearedNumbers
+    return disappearedNumbers;
 }

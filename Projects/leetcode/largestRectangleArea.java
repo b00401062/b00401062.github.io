@@ -1,28 +1,35 @@
-package leetcode
+package leetcode;
 
-import java.util.*
+import java.util.Stack;
 
-private class Bar(val i: Int, val height: Int)
+private static class Bar {
+    final int i;
+    final int height;
 
-private fun insert(stack: Stack<Bar>, i: Int, height: Int, maxArea: Int): Int {
-    var maxArea = maxArea
-    var startIndex = i
-    while (stack.peek().height >= height) {
-        val bar = stack.pop()
-        startIndex = bar.i
-        maxArea = Math.max(maxArea, bar.height * (i - startIndex))
+    Bar(int i, int height) {
+        this.i = i;
+        this.height = height;
     }
-    stack.push(Bar(startIndex, height))
-    return maxArea
 }
 
-fun largestRectangleArea(heights: IntArray): Int {
-    val stack = Stack<Bar>()
-    stack.push(Bar(-1, -1))
-    var maxArea = 0
-    for (i in heights.indices) {
-        maxArea = insert(stack, i, heights[i], maxArea)
+public static int insert(Stack<Bar> stack, int i, int height, int maxArea) {
+    int startIndex = i;
+    while (stack.peek().height >= height) {
+        Bar bar = stack.pop();
+        startIndex = bar.i;
+        maxArea = Math.max(maxArea, bar.height * (i - startIndex));
     }
-    maxArea = insert(stack, heights.size, 0, maxArea)
-    return maxArea
+    stack.push(new Bar(startIndex, height));
+    return maxArea;
+}
+
+public static int largestRectangleArea(int[] heights) {
+    final Stack<Bar> stack = new Stack<>();
+    stack.push(new Bar(-1, -1));
+    int maxArea = 0;
+    for (int i = 0; i < heights.length; i++) {
+        maxArea = insert(stack, i, heights[i], maxArea);
+    }
+    maxArea = insert(stack, heights.length, 0, maxArea);
+    return maxArea;
 }

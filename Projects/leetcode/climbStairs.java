@@ -1,25 +1,30 @@
-package leetcode
+package leetcode;
 
-import java.util.stream.StreamSupport
+import java.util.Iterator;
+import java.util.stream.StreamSupport;
 
-fun climbStairs(n: Int): Int {
-    return StreamSupport.stream(Fibonacci().spliterator(), false).skip(n.toLong()).findFirst().get()
+private static class Fibonacci implements Iterable<Integer> {
+    @Override
+    public Iterator<Integer> iterator() {
+        return new Iterator<Integer>() {
+            int[] cache = new int[] { 1, 1 };
+
+            @Override
+            public boolean hasNext() {
+                return true;
+            }
+
+            @Override
+            public Integer next() {
+                int value = cache[0];
+                cache[0] = cache[1];
+                cache[1] = value + cache[0];
+                return value;
+            }
+        };
+    }
 }
 
-private class Fibonacci : Iterable<Int?> {
-    override fun iterator(): Iterator<Int?> {
-        return object : Iterator<Int?> {
-            var cache = intArrayOf(1, 1)
-            override fun hasNext(): Boolean {
-                return true
-            }
-
-            override fun next(): Int {
-                val value = cache[0]
-                cache[0] = cache[1]
-                cache[1] = value + cache[0]
-                return value
-            }
-        }
-    }
+public static int climbStairs(int n) {
+    return StreamSupport.stream(new Fibonacci().spliterator(), false).skip(n).findFirst().get();
 }

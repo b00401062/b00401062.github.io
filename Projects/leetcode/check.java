@@ -1,9 +1,11 @@
-package leetcode
+package leetcode;
 
-fun check(nums: IntArray): Boolean {
-    var isFlipped = false
-    for (i in 1 until nums.size) {
-        isFlipped = if (nums[i - 1] <= nums[i]) continue else if (isFlipped) return false else true
+public static boolean check(int[] nums) {
+    boolean isFlipped = false;
+    for (int i = 1; i < nums.length; i++) {
+        if (nums[i - 1] <= nums[i]) continue;
+        else if (isFlipped) return false;
+        else isFlipped = true;
     }
-    return nums[0] >= nums[nums.size - 1]
+    return !isFlipped || isFlipped && nums[0] >= nums[nums.length - 1];
 }

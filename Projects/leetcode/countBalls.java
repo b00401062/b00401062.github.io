@@ -1,10 +1,13 @@
-package leetcode
+package leetcode;
 
-fun countBalls(lowLimit: Int, highLimit: Int): Int {
-    val counts: MutableMap<Int, Int> = HashMap()
-    for (i in lowLimit..highLimit) {
-        val sum = Integer.toString(i).chars().map { c: Int -> c - '0'.code }.sum()
-        counts[sum] = counts.getOrDefault(sum, 0) + 1
+import java.util.HashMap;
+import java.util.Map;
+
+public static int countBalls(int lowLimit, int highLimit) {
+    final Map<Integer, Integer> counts = new HashMap<>();
+    for (int i = lowLimit; i <= highLimit; i++) {
+        final int sum = Integer.toString(i).chars().map(c -> c - '0').sum();
+        counts.put(sum, counts.getOrDefault(sum, 0) + 1);
     }
-    return counts.values.stream().mapToInt { c: Int? -> c!! }.max().asInt
+    return counts.values().stream().mapToInt(c -> c).max().getAsInt();
 }

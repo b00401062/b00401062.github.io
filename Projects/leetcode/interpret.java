@@ -1,5 +1,5 @@
-package leetcode
+package leetcode;
 
-fun interpret(command: String): String {
-    return command.replace("()", "o").replace("(al)", "al")
+public static String interpret(String command) {
+    return command.replace("()", "o").replace("(al)", "al");
 }

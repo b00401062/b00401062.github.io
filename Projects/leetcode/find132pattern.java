@@ -1,24 +1,32 @@
-package leetcode
+package leetcode;
 
-import java.util.*
+import java.util.Stack;
 
-fun find132pattern(nums: IntArray): Boolean {
-    val n = nums.size
-    val stack = Stack<Range>()
-    stack.push(Range(Int.MAX_VALUE, Int.MAX_VALUE))
-    for (num in nums) {
-        val min = Math.min(num, stack.peek().min)
-        while (stack.peek().max <= num) {
-            stack.pop()
-        }
-        val range = stack.peek()
-        if (num <= range.min) {
-            stack.push(Range(min, num))
-        } else if (range.min < num && num < range.max) {
-            return true
-        }
+private static class Range {
+    final int min;
+    final int max;
+
+    Range(int min, int max) {
+        this.min = min;
+        this.max = max;
     }
-    return false
 }
 
-private class Range(val min: Int, val max: Int)
+public static boolean find132pattern(int[] nums) {
+    final int n = nums.length;
+    final Stack<Range> stack = new Stack<>();
+    stack.push(new Range(Integer.MAX_VALUE, Integer.MAX_VALUE));
+    for (final int num : nums) {
+        final int min = Math.min(num, stack.peek().min);
+        while (stack.peek().max <= num) {
+            stack.pop();
+        }
+        final Range range = stack.peek();
+        if (num <= range.min) {
+            stack.push(new Range(min, num));
+        } else if (range.min < num && num < range.max) {
+            return true;
+        }
+    }
+    return false;
+}

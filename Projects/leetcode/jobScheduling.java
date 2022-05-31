@@ -1,33 +1,43 @@
-package leetcode
+package leetcode;
 
-import java.util.*
+import java.util.Arrays;
+import java.util.Comparator;
 
-private fun prevJobIdx(jobs: Array<Job?>, i: Int): Int {
-    var i = i
-    val job = jobs[i]
-    while (--i >= 0 && jobs[i]!!.endTime > job!!.startTime);
-    return i
+private static class Job {
+    public final int startTime;
+    public final int endTime;
+    public final int profit;
+
+    Job(int startTime, int endTime, int profit) {
+        this.startTime = startTime;
+        this.endTime = endTime;
+        this.profit = profit;
+    }
+
+    public int endTime() {
+        return endTime;
+    }
 }
 
-fun jobScheduling(startTime: IntArray, endTime: IntArray, profit: IntArray): Int {
-    val n = profit.size
-    val jobs = arrayOfNulls<Job>(n)
-    for (i in 0 until n) {
-        jobs[i] = Job(startTime[i], endTime[i], profit[i])
-    }
-    Arrays.sort(jobs, Comparator.comparingInt { obj: Job? -> obj!!.endTime() })
-    val cache = IntArray(n)
-    cache[0] = jobs[0]!!.profit
-    for (i in 1 until n) {
-        val job = jobs[i]
-        val prevJobIdx = prevJobIdx(jobs, i)
-        cache[i] = Math.max(cache[i - 1], job!!.profit + if (prevJobIdx == -1) 0 else cache[prevJobIdx])
-    }
-    return cache[n - 1]
+private static int prevJobIdx(Job[] jobs, int i) {
+    final Job job = jobs[i];
+    while (--i >= 0 && jobs[i].endTime > job.startTime);
+    return i;
 }
 
-private class Job(val startTime: Int, val endTime: Int, val profit: Int) {
-    fun endTime(): Int {
-        return endTime
+public static int jobScheduling(int[] startTime, int[] endTime, int[] profit) {
+    final int n = profit.length;
+    final Job[] jobs = new Job[n];
+    for (int i = 0; i < n; i++) {
+        jobs[i] = new Job(startTime[i], endTime[i], profit[i]);
     }
+    Arrays.sort(jobs, Comparator.comparingInt(Job::endTime));
+    final int[] cache = new int[n];
+    cache[0] = jobs[0].profit;
+    for (int i = 1; i < n; i++) {
+        final Job job = jobs[i];
+        final int prevJobIdx = prevJobIdx(jobs, i);
+        cache[i] = Math.max(cache[i - 1], job.profit + (prevJobIdx == -1 ? 0 : cache[prevJobIdx]));
+    }
+    return cache[n - 1];
 }

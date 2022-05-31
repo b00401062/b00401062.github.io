@@ -1,25 +1,26 @@
-package leetcode
+package leetcode;
 
-private fun canEat(cumulativeCounts: LongArray, query: IntArray): Boolean {
-    val favoriteType = query[0]
-    val favoriteDay = query[1].toLong()
-    val dailyCap = query[2].toLong()
-    val maxCandyCap = (favoriteDay + 1) * dailyCap
-    val minCount = if (favoriteType == 0) 0 else cumulativeCounts[favoriteType - 1]
-    val maxCount = cumulativeCounts[favoriteType]
-    return maxCount > favoriteDay && maxCandyCap > minCount
+private static boolean canEat(long[] cumulativeCounts, int[] query) {
+    int favoriteType = query[0];
+    long favoriteDay = query[1];
+    long dailyCap = query[2];
+    long minCandyCap = favoriteDay;
+    long maxCandyCap = (favoriteDay + 1) * dailyCap;
+    long minCount = favoriteType == 0 ? 0 : cumulativeCounts[favoriteType - 1];
+    long maxCount = cumulativeCounts[favoriteType];
+    return maxCount > minCandyCap && maxCandyCap > minCount;
 }
 
-fun canEat(candiesCount: IntArray, queries: Array<IntArray>): BooleanArray {
-    val cumulativeCounts = LongArray(candiesCount.size)
-    cumulativeCounts[0] = candiesCount[0].toLong()
-    for (i in 1 until candiesCount.size) {
-        cumulativeCounts[i] = cumulativeCounts[i - 1] + candiesCount[i]
+public static boolean[] canEat(int[] candiesCount, int[][] queries) {
+    final long[] cumulativeCounts = new long[candiesCount.length];
+    cumulativeCounts[0] = candiesCount[0];
+    for (int i = 1; i < candiesCount.length; i++) {
+        cumulativeCounts[i] = cumulativeCounts[i - 1] + candiesCount[i];
     }
-    val canEats = BooleanArray(queries.size)
-    for (i in queries.indices) {
-        val query = queries[i]
-        canEats[i] = canEat(cumulativeCounts, query)
+    boolean[] canEats = new boolean[queries.length];
+    for (int i = 0; i < queries.length; i++) {
+        int[] query = queries[i];
+        canEats[i] = canEat(cumulativeCounts, query);
     }
-    return canEats
+    return canEats;
 }

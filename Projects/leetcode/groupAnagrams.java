@@ -1,16 +1,19 @@
-package leetcode
+package leetcode;
 
-private fun str2code(str: String): Int {
-    val counter = IntArray(26) { 0 }
-    str.forEach { counter[it - 'a'] += 1 }
-    return counter.contentHashCode()
-}
+import java.util.*;
+import java.util.stream.*;
 
-fun groupAnagrams(strs: Array<String>): List<List<String>> {
-    val dict = mutableMapOf<Int, MutableList<String>>()
-    for (str in strs) {
-        val list = dict.getOrPut(str2code(str)) { mutableListOf() }
-        list.add(str)
+public List<List<String>> groupAnagrams(String[] strs) {
+    HashMap<Map<Character, Integer>, List<String>> groups = new HashMap<>();
+    for (String str : strs) {
+        HashMap<Character, Integer> counter = new HashMap<>();
+        for (Character chr : str.toCharArray()) {
+            int count = counter.getOrDefault(chr, 0) + 1;
+            counter.put(chr, count);
+        }
+        List<String> group = groups.getOrDefault(counter, new ArrayList<>());
+        group.add(str);
+        groups.put(counter, group);
     }
-    return dict.values.toList()
+    return groups.values().stream().collect(Collectors.toList());
 }
