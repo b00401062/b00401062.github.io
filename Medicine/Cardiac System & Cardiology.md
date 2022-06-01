@@ -52,7 +52,9 @@
 |S<sub>3</sub>|Ventricular gallop & Opening snap|MV & TV opening|Volume overload|HF & DCMP & MR & TR|
 |S<sub>4</sub>|Atrial gallop & Atrial kick|Atrial contraction|Diastolic dysfunction|HF & HCMP|
 
-## Splitting
+![](../Figures/Heart%20Sounds.jpg)
+
+## Splitting of Heart Sounds
 
 |Type|Etiology|
 |-|-|
