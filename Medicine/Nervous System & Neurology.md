@@ -493,12 +493,15 @@
 |Duration|15 minutes ~ 3 hours|4 hours ~ 3 days|30 minutes ~ 7 days|
 |Triggers|-|+|+|
 
+![](../Figures/Primary%20Headaches.jpg)
+
 ## Treatment of Primary Headaches
 
 ### Cluster Headache
 
 - 100% O<sub>2</sub>
-- 5-HT<sub>1</sub> agonists :: -Triptans
+- 5-HT<sub>1</sub> agonists
+  - -Triptans
 - Verapamil
 
 ### Migraine
@@ -515,6 +518,7 @@
 ### Tension Headache
 
 - NSAIDs
+- Acetaminophen
 - Reuptake inhibitors :: TCAs
 - Lifestyle modification
 
