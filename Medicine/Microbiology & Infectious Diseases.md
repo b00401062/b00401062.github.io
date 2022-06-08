@@ -1002,7 +1002,7 @@
 
 |Pathogen|Source|Immunity|Management|
 |-|-|-|-|
-|HIV|+|±/?|HAART|
+|HIV|+/?|±/?|HAART|
 |HBV|+|-/?|Vaccine & IVIG|
 ||?|-/?|Vaccine|
 |VZV|+|-/?|Vaccine / IVIG|
