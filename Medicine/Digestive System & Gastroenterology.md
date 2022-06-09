@@ -181,21 +181,21 @@
 - Distal gastrectomy
 - Total gastrectomy
 
-## Gastric Reconstruction Following Gastrectomy
+## Gastric Reconstruction
 
-### Gastric Reconstruction Following Proximal Gastrectomy
+### Proximal Gastrectomy
 
 ![](../Figures/Gastric%20Reconstruction%20Following%20Proximal%20Gastrectomy.jpg)
 
-### Gastric Reconstruction Following Segmental Gastrectomy
+### Segmental Gastrectomy
 
 ![](../Figures/Gastric%20Reconstruction%20Following%20Segmental%20Gastrectomy.jpg)
 
-### Gastric Reconstruction Following Distal Gastrectomy
+### Distal Gastrectomy
 
 ![](../Figures/Gastric%20Reconstruction%20Following%20Distal%20Gastrectomy.jpg)
 
-### Gastric Reconstruction Following Total Gastrectomy
+### Total Gastrectomy
 
 ![](../Figures/Gastric%20Reconstruction%20Following%20Total%20Gastrectomy.jpg)
 
