@@ -104,7 +104,7 @@
 - Ca channel blockers
 - Digitalis
 
-## Conditions Associated with Physical Examination Findings
+## Physical Examination Findings
 
 |Finding|Conditions|
 |-|-|
