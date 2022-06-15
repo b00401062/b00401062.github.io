@@ -50,6 +50,15 @@
 - Interstitial lung diseases
 - V/Q mismatch
 
+## Physical Examination Findings
+
+|Finding|Mechanism|Conditions|
+|-|-|-|
+|Hyperresonant percussion|↓ Density|Pneumothorax<br>Emphysema|
+|Dull percussion|↑ Density|Pleural effusion<br>Lung consolidation|
+|↓ Fremitus|Accumulation in pleural space|Pleural effusion|
+|↑ Fremitus|Accumulation in lung|Lung consolidation|
+
 ## Breathing Patterns
 
 ![](../Figures/Respiratory%20Patterns.png)
