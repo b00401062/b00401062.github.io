@@ -74,6 +74,17 @@
 - Uricemia
 - Lactic acidosis
 
+## Etiology of DLCO Changes
+
+### Decreased DLCO
+
+- Emphysema
+- Interstitial lung diseases
+
+### Increased DLCO
+
+- Asthma
+
 ## Light Criteria for Pleural Fluid (PF)
 
 |PF|PF ÷ Serum Protein|PF ÷ Serum LDH|PF LDH|
