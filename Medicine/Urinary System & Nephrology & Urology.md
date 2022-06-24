@@ -80,7 +80,7 @@
 
 |Finding|Contents|Diseases|
 |-|-|-|
-|WBC casts|WBCs|Pyelonephritis|
+|WBC casts|WBCs|UTI<br>Glomerulonephritis<br>Acute interstitial nephritis (AIN)|
 |RBC casts|RBCs|Glomerulonephritis|
 |Fatty casts|Lipids|Nephrosis|
 |Granular casts|-|Acute tubular necrosis (ATN)|
