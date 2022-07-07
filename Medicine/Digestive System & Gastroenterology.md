@@ -367,11 +367,11 @@
 
 ||SAAG < 1.1|SAAG > 1.1|
 |-|-|-|
-|TAP < 2.5|Nephrosis|Cirrhosis|
-|TAP > 2.5|Cancer<br>Infection|Right heart failure<br>Budd-Chiari syndrome|
+|Ascites TP < 2.5|Nephrosis|Cirrhosis|
+|Ascites TP > 2.5|Cancer<br>Infection|Right heart failure<br>Budd-Chiari syndrome|
 
 - Serum-Ascites albumin gradient (SAAG)
-- Total ascites protein (TAP)
+- Total protein (TP)
 
 ## Child-Pugh Score for Cirrhosis {ABATE}
 
