@@ -87,10 +87,13 @@
 
 ## Light Criteria for Pleural Fluid (PF)
 
-|PF|PF ÷ Serum Protein|PF ÷ Serum LDH|PF LDH|
+|PF|PF ÷ Serum TP|PF ÷ Serum LDH|PF LDH|
 |-|-|-|-|
 |Transudate|< 0.5|< 0.6|< 2/3 Serum LDH upper limit|
 |Exudate|> 0.5|> 0.6|> 2/3 Serum LDH upper limit|
+
+- Total protein (TP)
+- Lactate dehydrogenase (LDH)
 
 ## Comparison Between Obstructive and Restrictive Lung Diseases
 
