@@ -704,14 +704,6 @@
 |ESBL|Carbapenems<br>Tigecycline<br>Polymyxins|
 |CRE|Tigecycline<br>Polymyxins|
 
-## Antibiotics for Anaerobic Infection
-
-- β-lactams & β-lactamase inhibitors
-- Carbapenems
-- Vancomycin
-- Clindamycin
-- Metronidazole
-
 ## Mechanisms of Action of Antifungals
 
 |Mechanism|Medication|Indications|
