@@ -450,6 +450,17 @@
 - Glucocorticoids
 - Dialysis
 
+## Etiology of Lactic Acidosis
+
+- Shock
+
+## Etiology of Elevated LDH
+
+- Hemolytic anemia
+- Germ cell tumors
+- Tumor lysis syndrome
+- Drugs :: Metformin
+
 ## Pain Relieved By Leaning Forward
 
 - Pericarditis
