@@ -273,20 +273,21 @@
 
 ## Workup of Metabolic Acidosis
 
-- Anion gap :: normal {HARDDS}
+- Anion gap :: normal
   - Urine anion gap :: negative
-    - **Hyperalimentation**
-    - **Diarrhea**
     - **Saline**
-  - Urine anion gap :: positive
+    - **Diarrhea**
+    - **VIPoma**
+  - Urine anion gap :: positive {HARD}
+    - **Hypoaldosteronism**
     - **Adrenal insufficiency**
     - **Renal tubular acidosis (RTA)**
-    - **Diuretics** :: Acetazolamide & K-sparing diuretics
     - **Renal failure**
+    - **Diuretics** :: Acetazolamide & K-sparing diuretics
 - Anion gap :: high {MUDPILES}
   - **Methanol**
   - **Uremia**
-  - **DKA**
+  - **Diabetic ketoacidosis (DKA)**
   - **Propylene glycol**
   - **Iron & Isoniazid**
   - **Lactate**
@@ -297,7 +298,6 @@
 
 - Urine Cl < 20 [Saline-responsive]
   - **Vomiting**
-  - **Laxatives**
   - **Cystic fibrosis**
 - Urine Cl > 20 [Saline-resistant]
   - Normotensive
@@ -364,16 +364,29 @@
 
 - Extra-renal losses
   - Vomiting
-  - Laxatives
+  - Cystic fibrosis
   - Diarrhea
+  - VIPoma
 - Renal losses
+  - Hyperaldosteronism
   - Renal tubular acidosis (RTA) :: type 1 & 2
   - Diuretics :: Acetazolamide & Loop diuretics & Thiazide
   - Bartter syndrome
   - Gitelman syndrome
-  - Hyperaldosteronism
   - Liddle syndrome
   - Syndrome of apparent mineralocorticoid excess (SAME)
+
+## Etiology of Hyperkalemia
+
+- Pseudohypokalemia
+- Insulin deficiency
+- β antagonists
+- Hypoaldosteronism
+- Adrenal insufficiency
+- Renal tubular acidosis (RTA) :: type 4
+- Renal failure
+- Diuretics :: K-sparing diuretics
+- High Anion Gap Metabolic Acidosis
 
 ## Treatment of Hyperkalemia
 
