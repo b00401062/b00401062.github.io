@@ -386,7 +386,7 @@
 - Renal tubular acidosis (RTA) :: type 4
 - Renal failure
 - Diuretics :: K-sparing diuretics
-- High Anion Gap Metabolic Acidosis
+- High anion gap metabolic acidosis
 
 ## Treatment of Hyperkalemia
 
