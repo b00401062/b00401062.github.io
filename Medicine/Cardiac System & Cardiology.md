@@ -45,13 +45,13 @@
 
 ## Heart Sounds
 
-|Heart Sound|Synonym|Mechanism|Causes|
+|Heart Sound|Synonym|Mechanism|Diseases|
 |-|-|-|-|
 |S<sub>1</sub>|-|MV & TV closure|-|
 |S<sub>2</sub>|-|AV & PV closure|-|
 |-|Opening snap|MV & TV opening|MS & TS|
-|S<sub>3</sub>|Ventricular gallop|Volume overload|HF & DCMP & MR & TR|
-|S<sub>4</sub>|Atrial gallop|Diastolic dysfunction|HF & HCMP|
+|S<sub>3</sub>|Ventricular gallop|Ventricular filling<br>Volume overload|HF & DCMP & MR & TR|
+|S<sub>4</sub>|Atrial gallop|Atrial contraction<br>Diastolic dysfunction|HF & HCMP|
 
 ![](../Figures/Heart%20Sounds.jpg)
 
