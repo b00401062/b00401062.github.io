@@ -655,10 +655,10 @@
 |Mechanism|Medication|Indications|
 |-|-|-|
 |NF-κB inhibitors|Corticosteroids|Multiple sclerosis|
-|-|Plasmapheresis|Multiple sclerosis|
 |CD20 inhibitors|Ocrelizumab|Multiple sclerosis|
 |CD52 inhibitors|Alemtuzumab|Multiple sclerosis|
 |α4-integrin inhibitors|Natalizumab|Multiple sclerosis|
+|-|Plasmapheresis|Multiple sclerosis|
 
 ## Physical Examinations for Nerve Injuries
 
