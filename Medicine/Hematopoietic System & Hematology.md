@@ -218,7 +218,7 @@
 - Penicillin prophylaxis
 - Folate supplementation
 - Transfusion
-- Exchange transfusion
+- Hemapheresis
 - Hydroxyurea
 - Bone marrow transplantation
 
@@ -507,7 +507,7 @@
 - Immunosuppression
   - Corticosteroids
   - Rituximab
-- Plasma exchange (PEX)
+- Plasmapheresis
 
 ## Triad of Hemolytic Uremic Syndrome (HUS)
 
