@@ -13,7 +13,7 @@
 |Arsenic [As]<br>Mercury [Hg]<br>Gold [Au]|Succimer<br>Dimercaprol|
 |Iron [Fe]|Deferasirox<br>Deferoxamine<br>Deferiprone|
 |Copper [Cu]|Penicillamin<br>Trientine|
-|Lead [Pb]|EDTA<br>Dimercaprol<br>Succimer<br>Penicillamine|
+|Lead [Pb]|Succimer<br>Dimercaprol<br>EDTA|
 |Methanol<br>Propylene glycol<br>Ethylene glycol|Fomepizole<br>Ethanol|
 |Barbiturates|NaHCO<sub>3</sub>|
 |Benzodiazepines|Flumazenil|
