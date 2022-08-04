@@ -479,10 +479,12 @@
 
 ## Management of Shoulder Dystocia
 
-- Suprapubic pressure
 - McRoberts maneuver
-- Woods screw maneuver
+- Suprapubic pressure
 - Episiotomy
+- Woods screw maneuver
+- Rubin maneuver
+- Zavanelli maneuver
 
 ## Classification of Perineal Lacerations
 
