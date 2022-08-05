@@ -114,6 +114,13 @@
 - Chemotherapy
 - Substance abuse
 
+## Conditions Associated with Enlarged Anterior Fontanel
+
+- Congenital hypothyroidism
+- Rickets
+- Achondroplasia
+- Elevated intracranial pressure (ICP)
+
 ## VACTERL Association {VACTERL}
 
 - Vertebral anomalies
