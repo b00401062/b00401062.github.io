@@ -91,19 +91,29 @@
 - Papules
 - Plaques
 
+## Treatment of Acne Vulgaris
+
+- Topical benzoyl peroxide
+- Topical tretinoin
+- Topical antibiotics
+- Oral antibiotics
+- Oral isotretinoin
+
+## Treatment of Seborrheic Dermatitis
+
+- Topical tar
+- Topical zinc pyrithione
+- Topical selenium disulfide
+- Topical antifungals
+- Topical steroids
+- Oral antifungals
+- Oral steroids
+
 ## Empirical Antibiotics of Necrotizing Fasciitis
 
 - Anti-MRSA
 - β-lactams & β-lactamase inhibitors<br>Carbapenems
 - Clindamycin
-
-## Treatment of Acne Vulgaris
-
-- Topical benzoyl peroxide
-- Topical retinoids
-- Topical antibiotics
-- Oral antibiotics
-- Isotretinoin
 
 ## Types of Melanocytic Nevi
 
