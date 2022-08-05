@@ -47,6 +47,7 @@
 |Herpes zoster [Shingles]|VZV|Dermatome|
 |Measles|Measles virus|Head → Toe|
 |Molluscum contagiosum|Poxvirus|Anywhere|
+|Pityriasis rosea|Roseolovirus|Trunk|
 |Rocky Mountain spotted fever|Rickettsia rickettsii|Extremities → Trunk|
 |Roseola infantum|Roseolovirus|Trunk → Face & Extremities|
 |Rubella|Rubella virus|Head → Toe|
