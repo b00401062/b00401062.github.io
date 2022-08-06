@@ -547,6 +547,14 @@
 - Cryoprecipitate
 - Factor concentrate
 
+## Indications of Plasma Products
+
+|Product|Indications|
+|-|-|
+|FFP / PCC|Warfarin toxicity|
+|Cryoprecipitate|Fibrinogen deficiency<br>Hemophilia A<br>Von Willebrand disease (VWD)<br>Uremic bleeding|
+|Factor concentrate|Factor deficiency|
+
 ## Amyloidosis
 
 |Disease|Amyloid|Precursor|
