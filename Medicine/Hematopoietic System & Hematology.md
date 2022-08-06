@@ -505,7 +505,7 @@
 ## Treatment of Thrombotic Thrombocytopenic Purpura (TTP)
 
 - Immunosuppression
-  - Corticosteroids
+  - Steroids
   - Rituximab
 - Plasmapheresis
 
