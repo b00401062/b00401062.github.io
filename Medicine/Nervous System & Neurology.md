@@ -562,6 +562,11 @@
   - TCAs
   - SNRIs
 
+## Treatment of Essential Tremor
+
+- β antagonists :: Propranolol
+- Primidone
+
 ## Neurodegenerative Disorders
 
 |Disorder|Lesions|Findings|Precursor|
