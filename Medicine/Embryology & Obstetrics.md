@@ -166,7 +166,7 @@
 |20 ~ 24|Level II ultrasonagraphy|
 |24 ~ 28|100-g OGTT|
 |26 ~ 28|± RhoGAM|
-|28 ~ 32|± Corticosteroids|
+|28 ~ 32|± Steroids|
 |35 ~ 37|GBS culture|
 
 ## Causes of Size/Date Discrepancy
