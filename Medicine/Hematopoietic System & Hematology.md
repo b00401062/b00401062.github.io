@@ -543,7 +543,7 @@
 ## Plasma Products
 
 - Fresh frozen plasma (FFP)
-- Prothrombin complex concentrate
+- Prothrombin complex concentrate (PCC)
 - Cryoprecipitate
 - Factor concentrate
 
