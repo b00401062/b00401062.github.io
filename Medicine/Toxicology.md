@@ -21,7 +21,7 @@
 |Valproate|L-carnitine|
 |Salicylate<br>TCAs|NaHCO<sub>3</sub>|
 |Digitalis|Anti-digitalis<br>K & Mg|
-|Warfarin|Fresh frozen plasma (FFP)<br>Vitamin K|
+|Warfarin|FFP / PCC<br>Vitamin K|
 |Heparin|Protamine sulfate|
 |Factor 10a inhibitors|Andexanet alfa|
 |tPAs|Aminocaproic acid|
