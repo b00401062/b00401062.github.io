@@ -139,7 +139,7 @@
 - Burns → Curling ulcer
 - Drugs
   - NSAIDs
-  - Corticosteroids
+  - Steroids
 - Ischemia
 - Smoking
 - Stress
@@ -255,7 +255,7 @@
 |H<sub>1</sub> antagonists|1° Antihistamines|Motion sickness<br>Morning sickness|
 |Neurokinin antagonists|Aprepitant|Chemotherapy|
 |Cannabinoid agonists|Dronabinol|Chemotherapy|
-|-|Corticosteroids|Chemotherapy|
+|-|Steroids|Chemotherapy|
 
 ## Mechanisms of Action of Laxatives {SHELB}
 
