@@ -134,7 +134,7 @@
 |-|-|
 |β<sub>2</sub> agonists|Albuterol<br>Salmeterol<br>Formoterol|
 |M antagonists|Ipratropium<br>Tiotropium|
-|NF-κB inhibitors|Corticosteroids|
+|NF-κB inhibitors|Steroids|
 |LOX inhibitors|Zileuton|
 |LTD<sub>4</sub> antagonists|Montelukast<br>Zafirlukast|
 |Mast cell inhibitors|Cromolyn<br>Nedocromil|
