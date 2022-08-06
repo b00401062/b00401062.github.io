@@ -518,7 +518,7 @@
 ## Treatment of Immune Thrombocytopenic Purpura (ITP)
 
 - Immunosuppression
-  - Corticosteroids
+  - Steroids
   - Rituximab
 - Intravenous immunoglobulin (IVIG)
 - Splenectomy
