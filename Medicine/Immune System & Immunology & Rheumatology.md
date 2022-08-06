@@ -388,7 +388,7 @@
 |↓ Pyrimidine synthesis|Leflunomide|
 |↑ DNA crosslinking|Cyclophosphamide|
 |-|Chloroquine|
-|NF-κB inhibitors|Corticosteroids<br>Mesalazine|
+|NF-κB inhibitors|Steroids<br>Mesalazine|
 |TNF-α inhibitors|Infliximab<br>Adalimumab|
 |CD20 inhibitors|Rituximab|
 
@@ -467,7 +467,7 @@
 |↓ Purine synthesis|Mycophenolate<br>Azathioprine|Immunosuppression|
 |↓ Pyrimidine synthesis|Leflunomide|Immunosuppression|
 |↑ DNA crosslinking|Cyclophosphamide|Immunosuppression|
-|NF-κB inhibitors|Corticosteroids<br>Mesalazine|Immunosuppression|
+|NF-κB inhibitors|Steroids<br>Mesalazine|Immunosuppression|
 |Calcineurin inhibitors|Cyclosporine<br>Tacrolimus|Immunosuppression|
 |mTOR inhibitors|Sirolimus<br>Everolimus|Immunosuppression|
 |IL-2R inhibitors|Basiliximab<br>Daclizumab|Immunosuppression|
