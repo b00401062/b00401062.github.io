@@ -67,9 +67,9 @@
 |Erythema multiforme|Stevens-Johnson syndrome (SJS)<br>Toxic epidermal necrolysis (TEN)|Anywhere|
 |Erythema nodosum|Inflammatory bowel disease (IBD)<br>Sarcoidosis<br>Non-Hodgkins lymphoma|Anywhere|
 |Erythema toxicum|Neonates|Face & Trunk & Extremities|
-|Migratory thrombophlebitis|Pancreatic adenocarcinoma|
+|Migratory thrombophlebitis|Pancreatic adenocarcinoma|Veins|
 |Necrolytic migratory erythema|Glucagonoma|Face & Extremities|
-|Pyoderma gangrenosum|Inflammatory bowel disease (IBD)|
+|Pyoderma gangrenosum|Inflammatory bowel disease (IBD)|Anywhere|
 |Seborrheic keratosis|Visceral malignancy|Trunk|
 
 ## Etiology of Erythema Nodosum {DOSUM}
