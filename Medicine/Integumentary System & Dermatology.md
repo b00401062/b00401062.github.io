@@ -38,10 +38,12 @@
 |-|-|-|
 |Condyloma accumulata|HPV|Genital|
 |Condyloma lata|Treponema pallidum|Genital|
+|Ecthyma gangrenosum|Pseudomonas aeruginosa|Anywhere|
 |Erythema infectiosum [Fifth disease]|Parvovirus B19|Face → Trunk & Extremities|
 |Erythema marginatum|Group A streptococcus (GAS)|Trunk|
 |Erythema migrans|Borrelia burgdorferi|Anywhere|
 |Erythema multiforme|Mycoplasma & HSV|Anywhere|
+|Erythema nodosum|Tuberculosis<br>Leprosy<br>Histoplasmosis|Anywhere|
 |Hand-foot-mouth disease|Coxsackie A virus|Extremities → Trunk|
 |Herpes simplex|HSV1 & HSV2|Mouth & Genital|
 |Herpes zoster [Shingles]|VZV|Dermatome|
@@ -63,10 +65,11 @@
 |Acanthosis nigricans|Insulin resistance<br>Visceral malignancy|Axilla & Neck|
 |Atopic dermatitis|-|Joints|
 |Erythema multiforme|Stevens-Johnson syndrome (SJS)<br>Toxic epidermal necrolysis (TEN)|Anywhere|
-|Erythema nodosum|Inflammatory bowel disease<br>Sarcoidosis<br>Non-Hodgkins lymphoma|Anywhere|
+|Erythema nodosum|Inflammatory bowel disease (IBD)<br>Sarcoidosis<br>Non-Hodgkins lymphoma|Anywhere|
 |Erythema toxicum|Neonates|Face & Trunk & Extremities|
 |Migratory thrombophlebitis|Pancreatic adenocarcinoma|
 |Necrolytic migratory erythema|Glucagonoma|Face & Extremities|
+|Pyoderma gangrenosum|Inflammatory bowel disease (IBD)|
 |Seborrheic keratosis|Visceral malignancy|Trunk|
 
 ## Etiology of Erythema Nodosum {DOSUM}
