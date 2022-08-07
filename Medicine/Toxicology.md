@@ -6,6 +6,7 @@
 |-|-|
 |Acetaminophen|N-acetylcysteine|
 |Anticholinesterases<br>Organophosphates|Atropine<br>Pralidoxime|
+|Botulism|Antitoxin|
 |Anticholinergics|Physostigmine|
 |Carbon monoxide [CO]|100% O<sub>2</sub><br>Hyperbaric O<sub>2</sub>|
 |Cyanide|Hydroxocobalamin<br>Thiosulfate<br>Nitrites|
