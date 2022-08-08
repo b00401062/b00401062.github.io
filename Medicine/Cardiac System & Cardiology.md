@@ -529,6 +529,7 @@
   - Age ≥ 45 years in males
   - Age ≥ 55 years in females
 - Family history
+- Diabetes
 - Hypertension
 - HDL < 40 mg/dL
 - Cigarette smoking
