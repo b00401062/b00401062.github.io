@@ -341,7 +341,6 @@
 |-|-|
 |Reuptake inhibitors|NRI ::<br>Atomoxetine|
 ||NDRI ::<br>Methylphenidate|
-|α<sub>2</sub> agonists|Clonidine<br>Guanfacine|
 
 ## Mechanisms of Action of Medications for Tourette Syndrome
 
