@@ -504,10 +504,10 @@
 
 ## Treatment of Thrombotic Thrombocytopenic Purpura (TTP)
 
+- Plasmapheresis
 - Immunosuppression
   - Steroids
   - Rituximab
-- Plasmapheresis
 
 ## Triad of Hemolytic Uremic Syndrome (HUS)
 
