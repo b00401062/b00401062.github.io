@@ -140,6 +140,12 @@
 
 ![](../Figures/Types%20of%20Melanoma.jpg)
 
+## Treatment of Precancerous Skin Lesions
+
+- Topical 5-fluorouracil
+- Topical Imiquimod
+- Photodynamic therapy
+
 ## Management of Skin Cancer
 
 |Cancer|Management|
