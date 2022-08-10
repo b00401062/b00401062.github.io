@@ -700,9 +700,9 @@
 |-|-|
 |MRSA|Clindamycin<br>Ceftaroline<br>Vancomycin<br>Teicoplanin<br>Linezolid<br>Daptomycin|
 |VRE|Teicoplanin<br>Linezolid<br>Daptomycin|
-|MDRAB|Tigecyclin<br>Polymyxins|
 |ESBL|Carbapenems<br>Tigecycline<br>Polymyxins|
 |CRE|Tigecycline<br>Polymyxins|
+|MDRAB|Tigecyclin<br>Polymyxins|
 
 ## Mechanisms of Action of Antifungals
 
