@@ -96,8 +96,7 @@
 |Mechanism|Medication|Indications|
 |-|-|-|
 |Tyrosine uptake inhibitors|-|-|
-|VMAT2 inhibitors|Reserpine|Huntington disease|
-||Tetrabenazine|Huntington disease<br>Tourette syndrome|
+|VMAT2 inhibitors|Reserpine<br>Tetrabenazine<br>Valbenazine|Huntington disease<br>Tourette syndrome|
 |NE release inhibitors|Bretylium|Arrhythmia|
 ||Guanethidine|Hypertension|
 |NE release inducers|Ephedrine|Decongestant|
