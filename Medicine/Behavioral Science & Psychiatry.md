@@ -221,7 +221,7 @@
 |4 hours|Dystonia|1° Antihistamines<br>M antagonists|
 |4 days|Bradykinesia|1° Antihistamines<br>M antagonists|
 |4 weeks|Akathisia|β antagonists<br>Benzodiazepines|
-|4 months|Tardive dyskinesia|Valbenazine|
+|4 months|Tardive dyskinesia|Tetrabenazine<br>Valbenazine|
 
 ## Presentation of Neuroleptic Malignant Syndrome (NMS) {FEVER}
 
