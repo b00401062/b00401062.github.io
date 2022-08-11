@@ -346,7 +346,7 @@
 
 |Mechanism|Medication|
 |-|-|
-|Vesicular transporter inhibitors|Tetrabenazine<br>Valbenazine|
+|VMAT2 inhibitors|Tetrabenazine<br>Valbenazine|
 |α<sub>2</sub> agonists|Clonidine<br>Guanfacine|
 |D<sub>2</sub> antagonists|Antipsychotics|
 
