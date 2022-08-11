@@ -214,14 +214,14 @@
 - Metabolic syndrome
 - Neuroleptic malignant syndrome (NMS)
 
-## Evolution of Extrapyramidal Symptoms (EPS)
+## Extrapyramidal Symptoms (EPS)
 
-|Onset|Symptoms|
-|-|-|
-|4 hours|Dystonia|
-|4 days|Bradykinesia|
-|4 weeks|Akathisia|
-|4 months|Tardive dyskinesia|
+|Onset|Symptoms|Treatment|
+|-|-|-|
+|4 hours|Dystonia|1° Antihistamines<br>M antagonists|
+|4 days|Bradykinesia|1° Antihistamines<br>M antagonists|
+|4 weeks|Akathisia|β antagonists<br>Benzodiazepines|
+|4 months|Tardive dyskinesia|Valbenazine|
 
 ## Presentation of Neuroleptic Malignant Syndrome (NMS) {FEVER}
 
