@@ -146,13 +146,14 @@
 - Topical 5-fluorouracil
 - Topical imiquimod
 - Cryotherapy
-- Surgical excisio
+- Surgical excision
 
 ## Treatment of Precancerous Skin Lesions
 
 - Topical 5-fluorouracil
 - Topical imiquimod
 - Photodynamic therapy
+- Cryotherapy
 
 ## Management of Skin Cancer
 
