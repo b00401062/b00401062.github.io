@@ -138,7 +138,7 @@
 - Lentigo maligna melanoma
 - Acral lentiginous melanoma
 
-![](../Figures/Types%20of%20Melanoma.jpg)
+![](../Figures/Types%20of%20Melanoma.png)
 
 ## Treatment of Verruca Vulgaris [Wart]
 
