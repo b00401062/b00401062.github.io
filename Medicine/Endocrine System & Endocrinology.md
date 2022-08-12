@@ -120,16 +120,6 @@
 - Macroglossia
 - Umbilical hernia
 
-## Workup of 1° Hyperthyroidism
-
-|Cause|RAI|Thyroglobulin|
-|-|-|-|
-|Graves disease|↑|↑|
-|Multinodular goiter|↑|-|
-|Toxic adenoma|↑|-|
-|Thyroiditis|↓|↑|
-|Exogenous TH|↓|↓|
-
 ## Presentation of Hyperthyroidism {SWEATING}
 
 - Sweating
@@ -142,6 +132,16 @@
 - Intolerance to heat
 - Nervousness
 - Goiter
+
+## Workup of 1° Hyperthyroidism
+
+|Cause|RAI|Thyroglobulin|
+|-|-|-|
+|Graves disease|↑|↑|
+|Multinodular goiter|↑|-|
+|Toxic adenoma|↑|-|
+|Thyroiditis|↓|↑|
+|Exogenous TH|↓|↓|
 
 ## Treatment of Hyperthyroidism
 
