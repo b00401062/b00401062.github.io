@@ -140,10 +140,18 @@
 
 ![](../Figures/Types%20of%20Melanoma.jpg)
 
+## Treatment of Verruca Vulgaris [Wart]
+
+- Topical salicylic acid
+- Topical 5-fluorouracil
+- Topical imiquimod
+- Cryotherapy
+- Surgical excisio
+
 ## Treatment of Precancerous Skin Lesions
 
 - Topical 5-fluorouracil
-- Topical Imiquimod
+- Topical imiquimod
 - Photodynamic therapy
 
 ## Management of Skin Cancer
