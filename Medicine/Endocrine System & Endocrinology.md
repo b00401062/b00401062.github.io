@@ -125,6 +125,7 @@
 - Sweating
 - Weight loss
 - Emotional lability
+- Edema :: pretibial myxedema
 - ↑ Appetite
 - Tremor
 - Tachycardia
