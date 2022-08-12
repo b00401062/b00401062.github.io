@@ -497,11 +497,14 @@
 
 ## Indications for Cesarean Delivery
 
-- Risk for prolonged labor
+- Prolonged labor
+- Cephalopelvic disproportion
+  - Macrosomia
+  - Unfavorable pelvis
+- Malpresentation
 - Non-reassuring fetal status
-- Abnormal placentation
-  - Placenta accreta
-  - Placenta previa
+- Placenta accreta
+- Placenta previa
 - Vasa previa
 - Cord prolapse
 - Prior uterine surgery
