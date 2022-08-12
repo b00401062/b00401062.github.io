@@ -450,9 +450,15 @@
 - Glucocorticoids
 - Dialysis
 
-## Etiology of Lactic Acidosis
+## Etiology of Syncope
 
-- Shock
+- Orthostatic
+- Cardiac
+- Neurologic
+- Reflex
+  - Vasovagal
+  - Situational
+- Psychogenic
 
 ## Etiology of Elevated LDH
 
