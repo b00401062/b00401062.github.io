@@ -295,6 +295,7 @@
 - Vasodilators :: Nitrates
 - Diuretics :: Spironolactone
 - Digitalis
+- SGLT-2 inhibitors
 
 ## Etiology of Dilated Cardiomyopathy (DCMP) {ABCD}
 
