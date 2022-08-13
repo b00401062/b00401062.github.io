@@ -346,7 +346,7 @@
 |||2° Sulfonylureas:<br>Glimepiride<br>Glipizide<br>Glyburide|DM type 2|
 |||Meglitinides [-Glinides]|DM type 2|
 |DPP-4 inhibitors|↑ Insulin<br>↓ Glucagon|-Gliptins|DM type 2|
-|GLP-1 analogs|↑ Insulin<br>↓ Glucagon|Exenatide<br>Liraglutide|DM type 2|
+|GLP-1 analogs|↑ Insulin<br>↓ Glucagon|Exenatide<br>Liraglutide<br>Semaglutide|DM type 2|
 |Amylin analogs|↓ Glucagon|Pramlintide|DM|
 |α-Glucosidase inhibitors|↓ Glucose|Acarbose<br>Miglitol|DM type 2|
 |SGLT-2 inhibitors|↓ Glucose|-Gliflozins|DM type 2|
