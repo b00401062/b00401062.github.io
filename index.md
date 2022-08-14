@@ -76,7 +76,6 @@ title: Life Code
 
 ## Projects
 
-- [ascp](Projects/ascp): Retrospective case series of pancreatic adenosquamous carcinoma.
 - [codechef](https://github.com/b00401062/b00401062.github.io/tree/master/Projects/codechef): Collection of Java programs solving [CodeChef](https://www.codechef.com) problems.
 - [dlc](Projects/dlc): Pipeline for merchandise detection and classification.
 - [leetcode](https://github.com/b00401062/b00401062.github.io/tree/master/Projects/leetcode): Collection of Java programs solving [LeetCode](https://leetcode.com/problemset/all/) problems.
