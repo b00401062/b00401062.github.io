@@ -304,9 +304,10 @@
 
 |Patient|Antibiotics|
 |-|-|
-|Outpatient|Nitrofurantoin<br>TMP-SMX<br>Aminoglycosides<br>Amoxicillin<br>3° Cephalosporins<br>Fluoroquinolones|
+|Outpatient|Nitrofurantoin<br>TMP-SMX<br>Aminoglycosides<br>Amoxicillin<br>1° Cephalosporins
+|Outpatient & Complicated|3° Cephalosporins<br>Fluoroquinolones|
 |Inpatient|3° Cephalosporins<br>Fluoroquinolones|
-|Inpatient & ICU|Vancomycin & Carbapenems|
+|Inpatient & Complicated|Vancomycin & Carbapenems|
 
 ### Complicated Outpatients
 
