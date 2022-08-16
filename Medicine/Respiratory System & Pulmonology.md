@@ -172,7 +172,7 @@
 
 ## Management of Suspected Pulmonary Embolism
 
-|Points|Risk|Management|
+|Score|Risk|Management|
 |-|-|-|
 |0 ~ 1|Low|D-dimer|
 |2 ~ 6|Intermediate|CT angiography<br>V/Q scan|
