@@ -175,8 +175,8 @@
 |Points|Risk|Management|
 |-|-|-|
 |0 ~ 1|Low|D-dimer|
-|2 ~ 6|Intermediate|CT angiography|
-|≥ 7|High|Anticoagulants|
+|2 ~ 6|Intermediate|CT angiography<br>V/Q scan|
+|≥ 7|High|Treatment|
 
 ## Evaluation for Pulmonary Embolism
 
