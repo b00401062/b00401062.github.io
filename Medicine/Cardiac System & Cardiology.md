@@ -554,7 +554,7 @@
 - Cardiac enzymes
 - ST changes > 0.5 mm
 
-|TRS|Risk|Management|
+|Score|Risk|Management|
 |-|-|-|
 |< 3|Low|Cardiac stress test|
 |≥ 3|High|Coronary angiography|
