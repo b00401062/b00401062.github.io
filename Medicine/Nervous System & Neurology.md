@@ -355,24 +355,41 @@
 - CSF rhinorrhea
 - Hemotympanum
 
+## Cortical Signs
+
+|Lobe|Area|Signs|
+|-|-|-|
+|Frontal|Prefrontal cortex|Personality changes|
+||Frontal eye fields (FEF)|Ipsilateral conjugate deviation|
+||Broca area :: dominant|Broca aphasia|
+||Motor cortex|Contralateral paralysis|
+|Parietal|Sensory cortex|Contralateral paresthesia|
+||Arcuate fasciculus :: dominant|Conduction aphasia|
+||Association cortex :: dominant|Gerstmann syndrome:<br>Acalculia<br>Agraphia<br>Finger agnosia|
+||Association cortex :: nondominant|Contralateral hemineglect<br>Constructional apraxia<br>Dressing apraxia|
+||Superior optic radiation|Contralateral inferior quadrantanopia|
+|Temporal|Wernicke area :: dominant|Wernicke aphasia|
+||Meyer loop|Contralateral superior quadrantanopia|
+|Occipital|Visual cortex|Contralateral hemianopia|
+
 ## Hemorrhage
 
 ### Extracranial
 
-|Hemorrhage|Vessels|Cross Sutures|
+|Hemorrhage|Vessels|Bounded|
 |-|-|-|
-|Caput succedaneum|Soft tissues|+|
-|Subgaleal|Subgaleal vessels|+|
-|Cephalohematoma|Subperiosteal vessels|-|
+|Caput succedaneum|Soft tissues|-|
+|Subgaleal|Subgaleal vessels|-|
+|Cephalohematoma|Subperiosteal vessels|+|
 
 ### Intracranial
 
-|Hemorrhage|Vessels|Cross Sutures|
+|Hemorrhage|Vessels|Bounded|
 |-|-|-|
-|Epidural|Middle meningeal artery|-|
-|Subdural|Bridging veins|+|
-|Subarachnoid|Aneurysm<br>Arteriovenous malformation (AVM)|+|
-|Intraparenchymal|Microaneurysm<br>Lipohyalinosis<br>Amyloid angiopathy|+|
+|Epidural|Middle meningeal artery|+|
+|Subdural|Bridging veins|-|
+|Subarachnoid|Aneurysm<br>Arteriovenous malformation (AVM)|-|
+|Intraparenchymal|Microaneurysm<br>Lipohyalinosis<br>Amyloid angiopathy|-|
 
 ## Risk of Progression of TIA to Ischemic Stroke {ABCD2}
 
@@ -396,23 +413,6 @@
 |Anterior inferior cerebellar artery (AICA)|CN VII & CN VIII<br>Sympathetic fibers<br>Cerebellar peduncles|Lateral pontine syndrome:<br>Ipsilateral facial palsy<br>Ipsilateral deafness<br>Ipsilateral vertigo<br>Ipsilateral Horner syndrome<br>Ipsilateral ataxia|
 |Posterior inferior cerebellar artery (PICA)|Ambiguous nucleus<br>Sympathetic fibers<br>Cerebellar peduncle<br>Lateral spinothalamic tract|Lateral medullary [Wallenberg] syndrome:<br>Dysphagia<br>Dysarthria<br>↓ Gag reflex<br>Contralateral palate deviation<br>Ipsilateral Horner syndrome<br>Ipsilateral ataxia<br>Contralateral paresthesia|
 |Anterior spinal artery (ASA)|CN XII<br>Corticospinal tract<br>Medial lemniscus|Medial medullary syndrome:<br>Ipsilateral tongue deviation<br>Contralateral paralysis<br>Contralateral paresthesia|
-
-## Cortical Signs
-
-|Lobe|Area|Signs|
-|-|-|-|
-|Frontal|Prefrontal cortex|Personality changes|
-||Frontal eye fields (FEF)|Ipsilateral conjugate deviation|
-||Broca area :: dominant|Broca aphasia|
-||Motor cortex|Contralateral paralysis|
-|Parietal|Sensory cortex|Contralateral paresthesia|
-||Arcuate fasciculus :: dominant|Conduction aphasia|
-||Association cortex :: dominant|Gerstmann syndrome:<br>Acalculia<br>Agraphia<br>Finger agnosia|
-||Association cortex :: nondominant|Contralateral hemineglect<br>Constructional apraxia<br>Dressing apraxia|
-||Superior optic radiation|Contralateral inferior quadrantanopia|
-|Temporal|Wernicke area :: dominant|Wernicke aphasia|
-||Meyer loop|Contralateral superior quadrantanopia|
-|Occipital|Visual cortex|Contralateral hemianopia|
 
 ## Management of Ischemic Stroke
 
