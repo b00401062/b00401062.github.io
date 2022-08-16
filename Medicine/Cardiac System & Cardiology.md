@@ -554,10 +554,10 @@
 - Cardiac enzymes
 - ST changes > 0.5 mm
 
-|TRS|Risk|
-|-|-|
-|< 3|Low|
-|≥ 3|High|
+|TRS|Risk|Management|
+|-|-|-|
+|< 3|Low|Cardiac stress test|
+|≥ 3|High|Coronary angiography|
 
 ## Management of Acute Coronary Syndrome (ACS)
 
