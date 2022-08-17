@@ -143,6 +143,8 @@
 ## Treatment of Verruca Vulgaris [Wart]
 
 - Topical salicylic acid
+- Topical trichloroacetic acid
+- Topical podophyllin
 - Topical 5-fluorouracil
 - Topical imiquimod
 - Cryotherapy
