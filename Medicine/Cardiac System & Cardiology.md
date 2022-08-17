@@ -535,14 +535,15 @@
 - HDL < 40 mg/dL
 - Cigarette smoking
 
-## Complications of Myocardial Infarction
+## Diagnosis of STEMI
 
-|Time (days)|Histology|Complications|
-|-|-|-|
-|< 1|Coagulative necrosis<br>Contraction bank<br>Wavy fiber|Cardiogenic shock<br>Arrhythmia<br>Heaert failure|
-|1 ~ 3|-|Fibrinous pericarditis|
-|3 ~ 14|Granulation tissue|Pseudo-aneurysm<br>Free wall rupture<br>Papillary muscle rupture|
-|> 14|Contracted scar|Aneurysm<br>Mural thrombus<br>Dressler syndrome|
+- ST elevation
+  - In all leads except V2 and V3: > 1 mm 
+  - In V2 and V3
+    - > 1.5 mm in females
+    - > 2 mm in males age ≥ 40 years
+    - > 2.5 mm in males age < 40 years
+- Left bundle branch block (LBBB)
 
 ## TIMI Risk Score (TRS) for Unstable Angina and NSTEMI {ACS}
 
@@ -604,6 +605,15 @@
   - Left internal mammary artery (LIMA)
   - Right internal mammary artery (RIMA)
 - Radial artery
+
+## Complications of Myocardial Infarction
+
+|Time (days)|Histology|Complications|
+|-|-|-|
+|< 1|Coagulative necrosis<br>Contraction bank<br>Wavy fiber|Cardiogenic shock<br>Arrhythmia<br>Heaert failure|
+|1 ~ 3|-|Fibrinous pericarditis|
+|3 ~ 14|Granulation tissue|Pseudo-aneurysm<br>Free wall rupture<br>Papillary muscle rupture|
+|> 14|Contracted scar|Aneurysm<br>Mural thrombus<br>Dressler syndrome|
 
 ## Comparison Between Biosprosthetic and Mechanical Heart Valves
 
