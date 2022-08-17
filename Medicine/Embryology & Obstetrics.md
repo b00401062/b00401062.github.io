@@ -322,6 +322,13 @@
 - ↑ Liver enzymes
 - ↓ Platelet count
 
+## Management of Preeclampsia
+
+|Condition|GA (weeks)|Management|
+|-|-|-|
+|Mild|< 37|Deliver at 37 weeks|
+||≥ 37|Deliver|
+
 ## Fetal Complications of Gestational Diabetes
 
 - Polyhydramnios
