@@ -540,9 +540,9 @@
 - ST elevation
   - In all leads except V2 and V3: > 1 mm 
   - In V2 and V3
-    - > 1.5 mm in females
-    - > 2 mm in males age ≥ 40 years
-    - > 2.5 mm in males age < 40 years
+    - In females: > 1.5 mm
+    - In males age ≥ 40 years: > 2 mm
+    - In males age < 40 years: > 2.5 mm
 - Left bundle branch block (LBBB)
 
 ## TIMI Risk Score (TRS) for Unstable Angina and NSTEMI {ACS}
