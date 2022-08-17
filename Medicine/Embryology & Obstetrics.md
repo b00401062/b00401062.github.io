@@ -306,28 +306,27 @@
 ### Severe Preeclampsia
 
 - BP > 160/110 mmHg
-- Epigastric pain
-- ↑ Liver enzymes
-- Proteinuria > 5.0 g/d
-- Creatinine > 1.1 mg/dL
-- Edema
 - Headache
 - Visual disturbances
-- Thrombocytopenia :: platelet count ≤ 100,000/µL
-- Disseminated intravascular coagulation (DIC)
+- Epigastric pain
+- ↑ Liver enzymes
+- Platelet count ≤ 100,000/µL
+- Creatinine > 1.1 mg/dL
+- Pulmonary edema
 
 ### HELLP Syndrome
 
-- Hemolysis :: intravascular
+- Hemolysis :: microangiopathic
 - ↑ Liver enzymes
 - ↓ Platelet count
 
-## Management of Preeclampsia
+## Management of Preeclampsia and Eclampsia
 
-|Condition|GA (weeks)|Management|
-|-|-|-|
-|Mild|< 37|Deliver at 37 weeks|
-||≥ 37|Deliver|
+|Condition|Management|
+|-|-|
+|Mild preeclampsia|< 37|Deliver at 37 weeks|
+|Severe preeclampsia|Deliver at 34 weeks<br>Magnesium sulfate<br>Antihypertensives<br>Steroids|
+|Eclampsia|Deliver<br>Magnesium sulfate<br>Antihypertensives|
 
 ## Fetal Complications of Gestational Diabetes
 
