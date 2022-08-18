@@ -324,7 +324,7 @@
 
 |Condition|Management|
 |-|-|
-|Mild preeclampsia|< 37|Deliver at 37 weeks|
+|Mild preeclampsia|Deliver at 37 weeks|
 |Severe preeclampsia|Deliver at 34 weeks<br>Magnesium sulfate<br>Antihypertensives<br>Steroids|
 |Eclampsia|Deliver<br>Magnesium sulfate<br>Antihypertensives|
 
