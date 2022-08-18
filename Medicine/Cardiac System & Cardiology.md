@@ -158,6 +158,17 @@
 
 ![](../Figures/Localization%20on%20ECG.png)
 
+## ECG Findings
+
+|Finding|Conditions|
+|-|-|
+|Diffuse ST elevation|Acute pericarditis|
+|Electrical alternans|Pericardial effusion|
+|Low voltage|Pericardial effusion|
+|S1Q3T3|Pulmonary embolism|
+|U waves|Hypokalemia|
+|Sine waves|Hyperkalemia|
+
 ## Views of Echocardiography
 
 ![](../Figures/Views%20of%20Echocardiography.png)
