@@ -820,6 +820,14 @@
 |-|-|Pyrazinamide|
 |↓ Arabinogalactan synthesis|Arabinosyl transferase|Ethambutol|
 
+## Treatment of Latent Tuberculosis
+
+|Regimen|Medication|Duration (months)|
+|-|-|-|
+|9H|Isoniazid|9|
+|4R|Rifampin|4|
+|3HR|Isoniazid & Rifampin|3|
+
 ## Classification of Leprosy [Hansen Disease]
 
 ||Tuberculoid|Lepromatous|
