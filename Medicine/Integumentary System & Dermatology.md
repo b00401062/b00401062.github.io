@@ -119,6 +119,23 @@
 - β-lactams & β-lactamase inhibitors<br>Carbapenems
 - Clindamycin
 
+## Treatment of Verruca Vulgaris [Wart]
+
+- Topical salicylic acid
+- Topical trichloroacetic acid
+- Topical podophyllin
+- Topical 5-fluorouracil
+- Topical imiquimod
+- Cryotherapy
+- Surgical excision
+
+## Treatment of Precancerous Skin Lesions
+
+- Topical 5-fluorouracil
+- Topical imiquimod
+- Photodynamic therapy
+- Cryotherapy
+
 ## Types of Melanocytic Nevi
 
 ![](../Figures/Types%20of%20Melanocytic%20Nevi.jpg)
@@ -139,23 +156,6 @@
 - Acral lentiginous melanoma
 
 ![](../Figures/Types%20of%20Melanoma.png)
-
-## Treatment of Verruca Vulgaris [Wart]
-
-- Topical salicylic acid
-- Topical trichloroacetic acid
-- Topical podophyllin
-- Topical 5-fluorouracil
-- Topical imiquimod
-- Cryotherapy
-- Surgical excision
-
-## Treatment of Precancerous Skin Lesions
-
-- Topical 5-fluorouracil
-- Topical imiquimod
-- Photodynamic therapy
-- Cryotherapy
 
 ## Management of Skin Cancer
 
