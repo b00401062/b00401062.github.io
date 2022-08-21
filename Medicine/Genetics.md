@@ -94,6 +94,15 @@
 
 ![](../Figures/Presentation%20of%20Autosomal%20Trisomies.jpg)
 
+## Presentation of Turner Syndrome
+
+- Short stature
+- Webbed neck
+- Coarctation of the aorta
+- Bicuspid aortic valve
+- Horseshoe kidney
+- Streak ovaries
+
 ## Hereditary Disorders
 
 ### Autosomal Dominant (AD)
