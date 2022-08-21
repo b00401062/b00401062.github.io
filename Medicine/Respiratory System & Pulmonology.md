@@ -257,6 +257,13 @@
 |3|↓|↑|↑|Mixed|
 |4|↓|↑|-|Sepsis|
 
+## Indications for Mechanical Ventilation
+
+- GCS ≤ 8
+- PaCO<sub>2</sub> > 50 mmHg
+- PaO<sub>2</sub> < 60 mmHg
+- SpO<sub>2</sub> < 90%
+
 ## Ventilator Modes
 
 |Sequence|Control|Trigger|Mode|
