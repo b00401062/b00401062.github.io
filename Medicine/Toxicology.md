@@ -8,6 +8,8 @@
 |Anticholinesterases<br>Organophosphates|Atropine<br>Pralidoxime|
 |Botulism|Antitoxin|
 |Anticholinergics|Physostigmine|
+|β antagonists|Glucagon|
+|Ca channel blockers|Calcium|
 |Carbon monoxide [CO]|100% O<sub>2</sub><br>Hyperbaric O<sub>2</sub>|
 |Cyanide|Hydroxocobalamin<br>Thiosulfate<br>Nitrites|
 |Methemoglobin|Methylene blue<br>Vitamin C|
