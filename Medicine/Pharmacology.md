@@ -580,7 +580,7 @@
 
 ## Medications Causing Osteoporosis
 
-- Corticosteroid
+- Steroids
 - Heparin
 
 ## Medications Causing Photosensitivity {FAST}
