@@ -998,6 +998,12 @@
 |Subunit|Hepatitis B virus (HBV)<br>Human papillomavirus (HPV)<br>Pneumococcus<br>Meningococcus<br>Haemophilus influenzae type B (Hib)<br>Pertusis|
 |Toxoid|Diphtheria<br>Tetanus|
 
+## Contraindications to Live Attenuated Vaccines
+
+- Pregnancy
+- Immunodeficiencies
+- IVIG within a year
+
 ## Post-Exposure Prophylaxis
 
 |Pathogen|Source|Immunity|Management|
