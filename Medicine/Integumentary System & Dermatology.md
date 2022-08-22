@@ -70,6 +70,7 @@
 |Migratory thrombophlebitis|Pancreatic adenocarcinoma|Veins|
 |Necrolytic migratory erythema|Glucagonoma|Face & Extremities|
 |Pyoderma gangrenosum|Inflammatory bowel disease (IBD)|Anywhere|
+|Seborrheic dermatitis|Parkinson disease<br>HIV infection|Anywhere|
 |Seborrheic keratosis|Visceral malignancy|Trunk|
 
 ## Etiology of Erythema Nodosum {DOSUM}
