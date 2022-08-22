@@ -408,6 +408,7 @@
 |Oral glucose tolerance test|-|Diabetes mellitus|-|
 |Water deprivation test|Polyuria|Diabetes insipidus|Polydipsia|
 |Desmopressin challenge test|Diabetes insipidus|Nephrogenic DI|Central DI|
+|Saline suppression test|Hyperaldosteronism|1° Hyperaldosteronism|-|
 
 ## Neuroendocrine Tumors (NET)
 
