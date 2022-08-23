@@ -68,6 +68,13 @@
 - Early menarche
 - Late menopause
 
+## Side Effects of Unopposed Estrogen
+
+- ↑ Thromboembolic events
+- ↑ Breast cancer
+- ↑ Endometrial cancer
+- ↑ Bone mineral density
+
 ## Etiology of Abnormal Uterine Bleeding (AUB) {PALM-COEIN}
 
 - Pregnancy
@@ -139,10 +146,21 @@
 
 ## Treatment of Menopause
 
-- Hormone replacement therapy (HRT)
 - Topical estrogen
+- Hormone replacement therapy (HRT)
 - SSRIs & SNRIs
 - Calcium & Vitamin D supplements
+
+## Side Effects of Hormone Replacement Therapy (HRT)
+
+- ↑ Thromboembolic events
+- Breast cancer
+  - ↑ if estrogen + progesterone
+  - ↓ if estrogen alone
+- Endometrial cancer
+  - ↓ if estrogen + progesterone
+  - ↑ if estrogen alone
+- ↓ Fractures
 
 ## Hormones Changes in PCOS
 
@@ -295,11 +313,10 @@
 - Radiotherapy
 - Chemotherapy
 
-## Side Effects of Oral Contraceptive Pills (OCP)
+## Side Effects of Oral Contraceptives (OCPs)
 
 - ↑ Thromboembolic events
 - ↑ Breast cancer
-- ↑ Cervical cancer
 - ↓ Endometrial cancer
 - ↓ Ovarian cancer
 
