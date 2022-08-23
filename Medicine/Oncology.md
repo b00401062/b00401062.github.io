@@ -106,13 +106,20 @@
 - Retinoblastoma
 - Nephroblastoma
 
-## Common Metastases to Bone
+## Common Bone Metastases
 
-- Breat
-- Prostate
-- Lung
-- Kidney
-- Thyroid
+- Breast cancer
+- Prostate cancer
+- Lung cancer
+- Kidney cancer
+- Thyroid cancer
+
+## Workup of Suspected Bone Metastases
+
+|Imaging|Indications|
+|-|-|
+|Bone scan|Prostate cancer<br>Small cell lung cancer<br>Hodgkin lymphoma|
+|PET|Breast cancer<br>Multiple myeloma<br>Non-small cell lung cancer<br>Non-Hodgkin lymphoma|
 
 ## Presentation of Neurofibromatosis Type 1
 
