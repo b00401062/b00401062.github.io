@@ -98,13 +98,26 @@
 |TRAP|Hairy cell leukemia|
 |Vimentin|Sarcoma|
 
-## Embryonal Tumors
+## Paraneoplastic Syndromes
 
-- Neuroblastoma
-- Medulloblastoma
-- Pineoblastoma
-- Retinoblastoma
-- Nephroblastoma
+|Syndrome|Cancer|
+|-|-|
+|ACTH|Small cell carcinoma|
+|hCG|Large cell carcinoma|
+|Lambert-Eaton myasthenic syndrome|Small cell carcinoma|
+|Myasthenia gravis|Thymoma|
+|PTHrP|Squamous cell carcinoma<br>Renal cell carcinoma|
+|SIADH|Small cell carcinoma|
+
+## Cancers Associated with Virus
+
+|Virus|Cancers|
+|-|-|
+|HBV<br>HCV|Liver cancer|
+|HPV|Cervical cancer<br>Oropharyngeal cancer|
+|EBV|Burkitt lymphoma<br>CNS lymphoma<br>Nasopharyngeal cancer<br>Lymphoproliferative disease|
+|HHV8|Kaposi sarcoma|
+|HTLV|T-cell leukemia|
 
 ## Common Bone Metastases
 
@@ -120,6 +133,14 @@
 |-|-|
 |Bone scan|Prostate cancer<br>Small cell lung cancer<br>Hodgkin lymphoma|
 |PET|Breast cancer<br>Multiple myeloma<br>Non-small cell lung cancer<br>Non-Hodgkin lymphoma|
+
+## Embryonal Tumors
+
+- Neuroblastoma
+- Medulloblastoma
+- Pineoblastoma
+- Retinoblastoma
+- Nephroblastoma
 
 ## Presentation of Neurofibromatosis Type 1
 
@@ -268,14 +289,3 @@
 |Y|Lymphoma|
 |Cure|Cervical|
 |Possible|Prostate|
-
-## Paraneoplastic Syndromes
-
-|Syndrome|Cancer|
-|-|-|
-|ACTH|Small cell carcinoma|
-|hCG|Large cell carcinoma|
-|Lambert-Eaton myasthenic syndrome|Small cell carcinoma|
-|Myasthenia gravis|Thymoma|
-|PTHrP|Squamous cell carcinoma<br>Renal cell carcinoma|
-|SIADH|Small cell carcinoma|
