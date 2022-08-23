@@ -198,6 +198,11 @@
 |Clostridium botulinum|Botulinum toxin|SNARE|↓ ACh release|
 |Clostridium tetani|Tetanus toxin|SNARE|↓ GABA & Glycine release|
 
+## Pathogens Producing Shiga Toxin
+
+- Shigella dysenteriae serotype 1
+- Shiga-toxin-producing Escherichia coli (STEC)
+
 ## Aerobes & Anaerobes
 
 ### Obligate Aerobes
@@ -506,7 +511,7 @@
 |HHV5|Cytomegalovirus (CMV)|
 |HHV6|Roseolovirus|
 |HHV7|Roseolovirus|
-|HHV8|Kaposi's sarcoma-associated herpesvirus (KSHV)|
+|HHV8|Kaposi sarcoma-associated herpesvirus (KSHV)|
 
 ## Subspecies of Picornavirus {PERCH}
 
