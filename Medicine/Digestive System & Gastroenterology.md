@@ -293,7 +293,7 @@
 - Cryptosporidium
 - Adenovirus
 - Vibrio cholerae
-- ETEC: heat-stable & heat-labile
+- ETEC & EPEC
 - Rotavirus
 - Norovirus
 
@@ -303,8 +303,8 @@
 - Shigella
 - Yersinia enterocolitica
 - Campylobacter
-- Entamoeba histolytica
 - EHEC & EIEC
+- Entamoeba histolytica
 
 ## Rome Criteria for Irritable Bowel Syndrome (IBS)
 
