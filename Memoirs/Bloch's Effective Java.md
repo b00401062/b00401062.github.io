@@ -322,7 +322,7 @@
 ### Use bounded wild cards to increase API flexibility
 
 - For maximum flexibility, use wildcard types on input parameters that represent producers or consumers.
-- **PECS**:producer-extends, consumer-super.
+- **PECS**: producer-extends, consumer-super.
 - Do not use bounded wildcard types as return types.
 - There is a duality between type parameters and wildcards.
 
