@@ -6,6 +6,20 @@
 - Small for gestational age (SGA)
 - Sudden infant death syndrome (SIDS)
 
+## Risk Factors for Sudden Infant Death Syndrome (SIDS)
+
+### Maternal Factors
+
+- Substance use disorder
+- Age < 20 years
+
+### Infant Factors
+
+- Prematurity
+- Low birth weight
+- Sleep environment
+- Smoke exposure
+
 ## Classification of Gestational Ages (GA)
 
 |Classification|GA (weeks)|
