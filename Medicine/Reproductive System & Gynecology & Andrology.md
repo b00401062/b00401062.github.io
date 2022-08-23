@@ -62,20 +62,11 @@
 |Estradiol|Granulosa cells|Testosterone|Theca cells|Aromatase|Non-pregnancy|
 |Estriol|Placenta|DHEA sulfate (DHEAS)|Adrenal gland|Sulfatase|Pregnancy|
 
-## Incresed Exposure to Estrogen
+## Etiology of Incresed Exposure to Estrogen
 
 - Nulliparity
 - Early menarche
 - Late menopause
-- Hormone replacement therapy (HRT)
-
-## Side Effects of Oral Contraceptive Pills (OCP)
-
-- ↑ Thromboembolic events
-- ↑ Breast cancer
-- ↑ Cervical cancer
-- ↓ Endometrial cancer
-- ↓ Ovarian cancer
 
 ## Etiology of Abnormal Uterine Bleeding (AUB) {PALM-COEIN}
 
@@ -303,6 +294,22 @@
 - Radical orchiectomy
 - Radiotherapy
 - Chemotherapy
+
+## Side Effects of Oral Contraceptive Pills (OCP)
+
+- ↑ Thromboembolic events
+- ↑ Breast cancer
+- ↑ Cervical cancer
+- ↓ Endometrial cancer
+- ↓ Ovarian cancer
+
+## Contraindications to Intrauterine Device (IUD)
+
+- Pregnancy
+- Unexplained vaginal bleeding
+- Endometrial cancer
+- Cervical cancer
+- Pelvic inflammatory disease (PID)
 
 ## Reference Limits of Semen Analysis
 
