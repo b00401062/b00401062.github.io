@@ -303,7 +303,6 @@
 - Shigella
 - Yersinia enterocolitica
 - Campylobacter
-- Clostridium difficile
 - Entamoeba histolytica
 - EHEC & EIEC
 
