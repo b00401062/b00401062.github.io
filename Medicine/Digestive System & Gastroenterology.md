@@ -306,6 +306,13 @@
 - EHEC & EIEC
 - Entamoeba histolytica
 
+## Indications of Antibiotic Treatment of Diarrhea
+
+- Without Shiga toxin 
+- Pathogen w/ low infectious dose
+- Immunodeficiencies
+- Hemodynamic instability
+
 ## Rome Criteria for Irritable Bowel Syndrome (IBS)
 
 - Recurrent abdominal discomfort
