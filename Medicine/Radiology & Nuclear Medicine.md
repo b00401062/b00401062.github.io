@@ -16,7 +16,7 @@
 - Previous adverse reactions
 - Gastrointestinal perforation
 
-### Iodine :: soluble
+### Iodine
 
 - Previous adverse reactions
 - Upper gastrointestinal series
