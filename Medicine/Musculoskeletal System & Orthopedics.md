@@ -122,7 +122,7 @@
 |Disorder|PTH|Ca|P|ALP|Etiology|
 |-|-|-|-|-|-|
 |Osteopetrosis|-|-|-|-|-|
-|Osteopenia & Osteoporosis|-|-|-|-|-|-|
+|Osteopenia<br>Osteoporosis|-|-|-|-|-|
 |Paget disease|-|-|-|↑|-|
 |Osteitis fibrosa cystica|↑ (1°)|↑|↓|↑|1° Hyperparathyroidism|
 |Renal osteodystrophy|↑|↓ (1°)|↑ (1°)|↑|2° Hyperparathyroidism<br>3° Hyperparathyroidism|
