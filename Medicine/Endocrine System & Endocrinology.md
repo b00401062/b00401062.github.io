@@ -397,18 +397,18 @@
 
 |Test|Indication|Positive|Negative|
 |-|-|-|-|
-|GH stimulation test|-|Hypopituitarism|-|
-|GnRH stimulation test|-|Hypopituitarism|-|
+|GH stimulation test|↓ Pituitary|Hypopituitarism|-|
+|GnRH stimulation test|↓ Pituitary|Hypopituitarism|-|
 ||Precocious puberty|Peripheral precocious puberty|Central precocious puberty|
-|Progestin challenge test|2° Amenorrhea|Anovulation|Non-anovulation|
-|TRH stimulation test|-|Hypopituitarism|-|
-|ACTH stimulation test|Adrenal insufficiency|1° AI|2° AI|
-|Dexamethasone suppression test :: low-dose|-|Cushing syndrome|-|
+|Progestin challenge test|2° Amenorrhea|Non-anovulation|Anovulation|
+|TRH stimulation test|↓ Pituitary|Hypopituitarism|-|
+|ACTH stimulation test|↓ Cortisol|1° Adrenal insufficiency|2° Adrenal insufficiency|
+|Dexamethasone suppression test :: low-dose|↑ Cortisol|Cushing syndrome|-|
 |Dexamethasone suppression test :: high-dose|ACTH-dependent Cushing syndrome|Ectopic ACTH|Cushing disease|
-|Oral glucose tolerance test|-|Diabetes mellitus|-|
+|Saline suppression test|↑ Aldosterone|1° Hyperaldosteronism|-|
+|Oral glucose tolerance test|↑ Glucose|Diabetes mellitus|-|
 |Water deprivation test|Polyuria|Diabetes insipidus|Polydipsia|
 |Desmopressin challenge test|Diabetes insipidus|Nephrogenic DI|Central DI|
-|Saline suppression test|Hyperaldosteronism|1° Hyperaldosteronism|-|
 
 ## Neuroendocrine Tumors (NET)
 
