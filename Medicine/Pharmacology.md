@@ -650,6 +650,12 @@
 |Concentrate|Cyclophosphamide|
 |Sodium|SSRIs|
 
+## Side Effects of Lithium
+
+- Hypothyroidism
+- Nephrogenic diabetes insipidus
+- Ebstein anomaly
+
 ## Medications Following Zero-order Elimination {APE}
 
 - Aspirin
