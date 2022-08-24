@@ -310,7 +310,7 @@
 
 - Without Shiga toxin 
 - Pathogen w/ low infectious dose
-- Immunodeficiencies
+- Immunodeficiency
 - Hemodynamic instability
 
 ## Rome Criteria for Irritable Bowel Syndrome (IBS)
