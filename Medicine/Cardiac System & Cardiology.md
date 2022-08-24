@@ -318,30 +318,6 @@
 - Doxorubicin
 - Duchenne muscular dystrophy
 
-## ECG Changes in Electrolyte Disturbances
-
-### Hypokalemia
-
-- Flattened T waves
-- U waves
-
-### Hyperkalemia
-
-- Flattened P waves
-- Widened QRS complexes
-- Peaked T waves
-- Sine waves
-
-### Hypocalcemia
-
-- Prolonged QT interval
-- Bradycardia
-
-### Hypercalcemia
-
-- Shortened QT interval
-- Tachycardia
-
 ## Etiology of Arrhythmia {HIS-BEDS}
 
 - Hypoxia
