@@ -100,8 +100,8 @@
 |Haptoglobin|↓|-|
 |Hemoglobin|↑|-|
 |Hematuria|+|-|
-|Serum indirect bilirubin|-|↑|
-|Serum direct bilirubin|-|-|
+|Indirect bilirubin|-|↑|
+|Direct bilirubin|-|-|
 |Urine bilirubin|-|-|
 |Urine urobilinogen|-|↑|
 |LDH|↑|↑|
