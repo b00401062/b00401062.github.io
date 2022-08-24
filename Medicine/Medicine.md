@@ -171,7 +171,7 @@
 - Thrombosis :: pulmonary embolism
 - Toxin
 
-## Etiology of Desaturation in Intubated Patients
+## Etiology of Desaturation in Intubated Patients {DOPE}
 
 - Displacement
 - Obstruction
@@ -308,6 +308,30 @@
     - **Hyperaldosteronism**
     - **Liddle syndrome**
     - **Syndrome of apparent mineralocorticoid excess (SAME)**
+
+## ECG Changes in Electrolyte Disturbances
+
+### Hypokalemia
+
+- Flattened T waves
+- U waves
+
+### Hyperkalemia
+
+- Flattened P waves
+- Widened QRS complexes
+- Peaked T waves
+- Sine waves
+
+### Hypocalcemia
+
+- Prolonged QT interval
+- Bradycardia
+
+### Hypercalcemia
+
+- Shortened QT interval
+- Tachycardia
 
 ## Workup of Hyponatremia
 
