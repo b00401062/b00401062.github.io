@@ -295,6 +295,13 @@
 |Intermittent mandatory|Presure (PC)<br>Volume (VC)|Time<br>Patient|Synchronized intermittent mandatory ventilation (SIMV)|
 |Continuous spontaneous|-|Patient|Pressure support ventilation (PSV)|
 
+## Etiology of Post-intubation Desaturation {DOPE}
+
+- Displacement
+- Obstruction
+- Pneumothorax
+- Equipment failure
+
 ## Ventilation Weaning Parameters
 
 |Parameter|Normal Adult Range|Weaning Threshold|
