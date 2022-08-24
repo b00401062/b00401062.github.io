@@ -1006,7 +1006,7 @@
 ## Contraindications to Live Attenuated Vaccines
 
 - Pregnancy
-- Immunodeficiencies
+- Immunodeficiency
 - IVIG within a year
 
 ## Post-Exposure Prophylaxis
