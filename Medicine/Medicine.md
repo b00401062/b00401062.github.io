@@ -171,13 +171,6 @@
 - Thrombosis :: pulmonary embolism
 - Toxin
 
-## Etiology of Desaturation in Intubated Patients {DOPE}
-
-- Displacement
-- Obstruction
-- Pneumothorax
-- Equipment failure
-
 ## Classification of Edema
 
 |Edema|Etiology|Pitting|
