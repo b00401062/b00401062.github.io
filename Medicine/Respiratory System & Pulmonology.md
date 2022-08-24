@@ -106,6 +106,29 @@
 
 ![](../Figures/Comparison%20Between%20Obstructive%20and%20Restrictive%20Lung%20Diseases.png)
 
+## Types of Obstructive Lung Diseases
+
+- Asthma
+- Chronic obstructive pulmonary disease (COPD)
+  - Chronic bronchitis
+  - Emphysema
+    - Centriacinar emphysema
+    - Panacinar emphysema
+- Bronchiectasis
+  - Central bronchiectasis
+  - Peripheral bronchiectasis
+
+## Etiology of Obstructive Lung Diseases
+
+|Disease|Etiology|
+|-|-|
+|Asthma|Hypersensitivity|
+|Chronic bronchitis|Smoking|
+|Centriacinar emphysema|Smoking|
+|Panacinar emphysema|α1-antitrypsin deficiency|
+|Central bronchiectasis|Allergic bronchopulmonary aspergillosis (ABPA)<br>Cystic fibrosis|
+|Peripheral bronchiectasis|Primary ciliary dyskinesia<br>Immunodeficiency|
+
 ## Classification of Asthma Severity
 
 |Asthma|Attacks|Awakenings|SABA Uses|FEV<sub>1</sub>|FEV<sub>1</sub>/FVC|
@@ -114,15 +137,6 @@
 |Mild persistent|2 ~ 7 days/week|3 ~ 4/month|2 ~ 7 days/week|> 80%|Normal|
 |Moderate persistent|Daily|> 1/week|Daily|60 ~ 80%|↓ < 0.05|
 |Severe persistent|Throughout|Daily|Throughout|< 60%|↓ > 0.05|
-
-## GOLD Staging of Chronic Obstructive Pulmonary Disease (COPD)
-
-|Stage|Severity|FEV<sub>1</sub>|
-|-|-|-|
-|1|Mild|> 80%|
-|2|Moderate|50 ~ 80%|
-|3|Severe|30 ~ 50%|
-|4|Very severe|< 30%|
 
 ## Treatment of Asthma
 
@@ -139,6 +153,15 @@
 |LTD<sub>4</sub> antagonists|Montelukast<br>Zafirlukast|
 |Mast cell inhibitors|Cromolyn<br>Nedocromil|
 |IgE inhibitors|Omalizumab|
+
+## GOLD Staging of Chronic Obstructive Pulmonary Disease (COPD)
+
+|Stage|Severity|FEV<sub>1</sub>|
+|-|-|-|
+|1|Mild|> 80%|
+|2|Moderate|50 ~ 80%|
+|3|Severe|30 ~ 50%|
+|4|Very severe|< 30%|
 
 ## Types of Pneumoconioses
 
