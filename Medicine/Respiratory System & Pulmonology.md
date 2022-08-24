@@ -110,10 +110,10 @@
 
 - Asthma
 - Chronic obstructive pulmonary disease (COPD)
-  - Chronic bronchitis
   - Emphysema
     - Centriacinar emphysema
     - Panacinar emphysema
+  - Chronic bronchitis
 - Bronchiectasis
   - Central bronchiectasis
   - Peripheral bronchiectasis
@@ -123,11 +123,11 @@
 |Disease|Etiology|
 |-|-|
 |Asthma|Hypersensitivity|
-|Chronic bronchitis|Smoking|
 |Centriacinar emphysema|Smoking|
 |Panacinar emphysema|α1-antitrypsin deficiency|
-|Central bronchiectasis|Allergic bronchopulmonary aspergillosis (ABPA)<br>Cystic fibrosis|
-|Peripheral bronchiectasis|Primary ciliary dyskinesia<br>Immunodeficiency|
+|Chronic bronchitis|Smoking|
+|Central bronchiectasis|Allergic bronchopulmonary aspergillosis (ABPA)|
+|Peripheral bronchiectasis|Cystic fibrosis<br>Primary ciliary dyskinesia<br>Immunodeficiency|
 
 ## Classification of Asthma Severity
 
