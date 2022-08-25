@@ -156,6 +156,7 @@
 |Mentzer index = MCV ÷ RBC|< 13|> 13|
 |RDW|-|↑|
 |Iron profile|Normal|Abnormal|
+|Blood smear|Target cells|-|
 
 ## Subtypes of Porphyria
 
