@@ -40,14 +40,15 @@
 - Field
 - Gastric
 
-## MR Images & Repetition Time (TR) & Echo Time (TE)
+## Magnetic Resonance (MR) Imaging Mechanism
 
 ||Short TE|Long TE|
 |-|-|-|
 |**Short TR**|T1-weighted (T1)|-|
 |**Long TR**|Proton density (PD)|T2-weighted (T2)|
 
-## Magnetic Resonance (MR) Imaging
+- Repetition time (TR)
+- Echo time (TE)
 
 ![](../Figures/Magnetic%20Resonance%20(MR)%20Imaging.png)
 
