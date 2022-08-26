@@ -837,3 +837,12 @@
 |Locked-in syndrome|+|+|±|+|
 |Persistent vegetative state|-|+|±|+|
 |Brain death|-|-|-|-|
+
+## Neurologic Exam for Brain Death
+
+- Posturing
+- Pupillary reflex
+- Corneal reflex
+- Vestibulo-ocular reflex
+- Gag reflex
+- Cough reflex
