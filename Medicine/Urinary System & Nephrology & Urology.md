@@ -200,7 +200,8 @@
 |IgA nephropathy [Berger disease]|+|-|Mesangial proliferation|Mesangial|Mesangial|-|HSP|
 |Alport syndrome|+|-|GBM thinning<br>GBM splitting<br>Basket-weave appearance|-|-|-|-|
 |Anti-GBM disease [Goodpasture syndrome]|+|-|Crescent shape|Linear|GBM|-|-|
-|Rapidly progressive glomerulonephritis (RPGN)|+|-|Crescent shape|-|-|-|ANCA|
+|ANCA-associated vasculitis (AAV)|+|-|Crescent shape|-|-|-|-|
+|Rapidly progressive glomerulonephritis (RPGN)|+|-|Crescent shape|-|-|-|Anti-GBM<br>ANCA|
 |Acute proliferative glomerulonephritis (APGN)|+|-|Lumpy-bumpy appearance<br>Starry sky appearance|Granular|Subepithelial|↓|GAS|
 |Membranoproliferative glomerulonephritis (MPGN)|+|+|Mesangial proliferation<br>GBM thickening<br>GBM splitting<br>Tram-track appearance|Granular|Subendothelial|↓|SLE<br>HBV<br>HCV|
 |Diffuse proliferative glomerulonephritis (DPGN)|+|+|Wire looping appearance|Granular|Subendothelial|↓|SLE|
