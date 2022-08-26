@@ -393,6 +393,21 @@
 - Class B: 7 ~ 9
 - Class C: 10 ~ 15
 
+## Complications of Cirrhosis
+
+- Jaundice
+- Spider angioma
+- Palmar erythema
+- Varices
+  - Esophageal varices
+  - Caput medusae
+  - Hemorrhoid
+- Hepatic encephalopathy
+- Hepatopulmonary syndrome
+- Hepatorenal syndrome
+- Hepatocellular carcinoma (HCC)
+- Coagulopathy
+
 ## Triad of Budd-Chiari Syndrome
 
 - Pain :: RUQ
