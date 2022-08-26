@@ -498,6 +498,13 @@
 - Pseudomonas aeruginosa
 - Anaerobes
 
+## Etiology of Acute Pancreatitis
+
+- Gallstones
+- Alcohol
+- Hypertriglyceridemia
+- Drugs
+
 ## Indications for Whipple Procedure
 
 - Cholangiocarcinoma
