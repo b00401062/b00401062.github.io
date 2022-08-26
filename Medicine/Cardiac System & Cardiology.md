@@ -60,9 +60,9 @@
 |Type|Etiology|
 |-|-|
 |Normal|-|
-|Wide|Pulmonary stenosis & RBBB|
+|Wide|Pulmonary stenosis<br>RBBB|
+|Paradoxical|Aortic stenosis<br>LBBB|
 |Fixed|ASD|
-|Paradoxical|Aortic stenosis & LBBB|
 
 ## Effects of Adrenergic Receptors
 
@@ -168,6 +168,7 @@
 |Widened QRS|Ventricular rhythm<br>Hyperkalemia<br>TCA toxicity|
 |Bidirectional VT|Digoxin toxicity|
 |S1Q3T3|Pulmonary embolism|
+|Delta waves|Wolff-Parkinson-White (WPW) syndrome|
 |U waves|Hypokalemia|
 |Sine waves|Hyperkalemia|
 
