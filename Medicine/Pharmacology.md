@@ -320,7 +320,7 @@
 ||Tamoxifen|Breast cancer|
 ||Raloxifene|Breast cancer<br>Osteoporosis|
 |Progesterone agonists|Progestin<br>Medroxyprogesterone<br>Norethindrone<br>Desogestrel|HRT<br>Contraception|
-|Progesterone antagonists|Mifepristone [RU486]|Abortion|
+|Progesterone antagonists|Mifepristone<br>Ulipristal|Abortion|
 |Aromatase inhibitors|Anastrozole<br>Letrozole<br>Exemestane|Breast cancer<br>Anovulation|
 |Androgen agonists|Methyltestosterone|HRT|
 ||Danazol|Endometriosis|
