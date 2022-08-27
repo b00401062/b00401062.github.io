@@ -166,7 +166,7 @@
 |Electrical alternans|Pericardial effusion|
 |Low voltage|Pericardial effusion|
 |Widened QRS|Ventricular rhythm<br>Hyperkalemia<br>TCA toxicity|
-|Bidirectional VT|Digoxin toxicity|
+|Bidirectional VT|Digitalis toxicity|
 |S1Q3T3|Pulmonary embolism|
 |Delta waves|Wolff-Parkinson-White (WPW) syndrome|
 |U waves|Hypokalemia|
