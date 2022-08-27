@@ -115,5 +115,5 @@
 - ECG changes
   - AV blocks
   - Scooped ST segment
-  - Bidirectional ventricular tachycardia
+  - Bidirectional VT
 - GI symptoms
