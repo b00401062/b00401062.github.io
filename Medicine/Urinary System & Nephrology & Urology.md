@@ -211,6 +211,21 @@
 |Diabetic nephropathy|-|+|Nodular sclerosis<br>GBM thickening|-|-|-|-|
 |Amyloid nephropathy|-|+|Nodular sclerosis|-|-|-|-|
 
+## Etiology of Acute Interstitial Nephritis (AIN)
+
+- Drugs
+  - Analgesics :: NSAIDs
+  - Antibiotics
+  - Proton pump inhibitors (PPI)
+- Infections
+  - Tuberculosis
+  - Legionella
+  - CMV
+- Autoimmune
+  - SLE
+  - Sjogren syndrome
+  - Sarcoidosis
+
 ## Etiology of Acute Tubular Necrosis (ATN)
 
 - Ischemia
