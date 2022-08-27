@@ -18,6 +18,7 @@
 |Copper [Cu]|Penicillamin<br>Trientine|
 |Lead [Pb]|Succimer<br>Dimercaprol<br>EDTA|
 |Methanol<br>Propylene glycol<br>Ethylene glycol|Fomepizole<br>Ethanol|
+|Cocaine|Benzodiazepines|
 |Barbiturates|NaHCO<sub>3</sub>|
 |Benzodiazepines|Flumazenil|
 |Opioids|Naloxone|
