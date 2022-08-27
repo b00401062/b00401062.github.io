@@ -332,7 +332,9 @@
 
 ## Classification of Parasites
 
-### Protozoan Parasites :: GI Infections {ECG}
+### Protozoan Parasites
+
+#### GI Infections {ECG}
 
 |Parasite|Disease|Treatment|
 |-|-|-|
@@ -340,7 +342,7 @@
 |Cryptosporidium|Watery diarrhea|Nitazoxanide|
 |Giardia lamblia|Giardiasis & Fatty diarrhea|Metronidazole|
 
-### Protozoan Parasites :: CNS Infections {ANT}
+#### CNS Infections {ANT}
 
 |Parasite|Disease|Treatment|
 |-|-|-|
@@ -349,27 +351,29 @@
 |Toxoplasma gondii|Toxoplasmosis|Pyrimethamine<br>Sulfadiazine|
 |Trypanosoma brucei|African sleeping sickness|Suramin<br>Melarsoprol|
 
-### Protozoan Parasites :: Hematologic Infections {BP}
+#### Hematologic Infections {BP}
 
 |Parasite|Disease|Treatment|
 |-|-|-|
 |Babesia|Babesiosis|Atovaquone<br>Azithromycin|
 |Plasmodium|Malaria|Chloroquine<br>Primaquine<br>Mefloquine<br>Atovaquone-Proguanil<br>Artemisinin|
 
-### Protozoan Parasites :: Visceral Infections
+#### Visceral Infections
 
 |Parasite|Disease|Treatment|
 |-|-|-|
 |Trypanosoma cruzi|Chagas disease|Benznidazole<br>Nifurtimox|
 |Leishmania donovani|Leishmaniasis|Amphotericin B<br>Stibogluconate|
 
-### Protozoan Parasites :: Sexually Transmitted Diseases (STD)
+#### Sexually Transmitted Diseases (STD)
 
 |Parasite|Disease|Treatment|
 |-|-|-|
 |Trichomonas vaginalis|Vaginitis|Metronidazole|
 
-### Animalian Parasites :: Cestodes [Tapeworms]
+### Animalian Parasites
+
+#### Cestodes [Tapeworms]
 
 |Parasite|Disease|Treatment|
 |-|-|-|
@@ -378,7 +382,7 @@
 |Echinococcus|Hydatid cyst disease|Benzimidazole|
 |Diphyllobothrium latum|Vitamin B<sub>12</sub> deficiency|Praziquantel|
 
-### Animalian Parasites :: Trematodes [Flukes]
+#### Trematodes [Flukes]
 
 |Parasite|Disease|Treatment|
 |-|-|-|
@@ -389,7 +393,7 @@
 |Schistosoma mansoni|Portal hypertension|Praziquantel|
 |Schistosoma japonicum|Portal hypertension|Praziquantel|
 
-### Animalian Parasites :: Nematodes [Roundworms] :: Fecal-oral Transmission {EAT}
+#### Nematodes [Roundworms] :: Fecal-oral Transmission {EAT}
 
 |Parasite|Disease|Treatment|
 |-|-|-|
@@ -399,7 +403,7 @@
 |Trichinella spiralis|Myalgia & Periorbital edema|Benzimidazole|
 |Toxocara|Visceral larva migrans|Benzimidazole|
 
-### Animalian Parasites :: Nematodes [Roundworms] :: Contact Transmission {SAN}
+#### Nematodes [Roundworms] :: Contact Transmission {SAN}
 
 |Parasite|Disease|Treatment|
 |-|-|-|
@@ -407,7 +411,7 @@
 |Ancylostoma duodenale|Iron deficiency anemia (IDA)<br>Cutaneous larva migrans|Benzimidazole<br>Pyrantel pamoate|
 |Necator americanus|Iron deficiency anemia (IDA)|Benzimidazole<br>Pyrantel pamoate|
 
-### Animalian Parasites :: Nematodes [Roundworms] :: Arthropod-Borne {WOLD}
+#### Nematodes [Roundworms] :: Arthropod-Borne {WOLD}
 
 |Parasite|Disease|Treatment|
 |-|-|-|
