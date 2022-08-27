@@ -171,6 +171,7 @@
 |Delta waves|Wolff-Parkinson-White (WPW) syndrome|
 |U waves|Hypokalemia|
 |Sine waves|Hyperkalemia|
+|Osborn waves|Hypothermia|
 
 ## Views of Echocardiography
 
