@@ -652,6 +652,7 @@
 
 ## Side Effects of Lithium
 
+- Hyperreflexia
 - Hypothyroidism
 - Nephrogenic diabetes insipidus
 - Ebstein anomaly
