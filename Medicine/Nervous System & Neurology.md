@@ -626,8 +626,13 @@
 - Leukodystrophies
 - Tabes dorsalis
 - Subacute combined degeneration (SCD)
-- Guillain-Barre syndrome
+- Guillain-Barre syndrome (GBS)
 - Charcot-Marie-Tooth disease
+
+## Treatment of Guillain-Barre syndrome (GBS)
+
+- Plasmapheresis
+- Intravenous immunoglobulin (IVIG)
 
 ## Charcot Triad of Multiple Sclerosis {SIN}
 
