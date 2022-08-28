@@ -183,7 +183,7 @@
 |Mechanism|Medication|
 |-|-|
 |COX inhibitors|NSAIDs|
-|NF-κB inhibitors|Corticosteroids|
+|NF-κB inhibitors|Steroids|
 |Microtubule inhibitors|Colchicine|
 |Xanthine oxidase inhibitors|Allopurinol<br>Febuxostat|
 |Urate transporter inhibitors|Probenecid|
