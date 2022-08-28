@@ -38,7 +38,7 @@
 |Mycobacterium|Acid fast|Lowenstein-Jensen<br>Middlebrook|
 |Tropheryma|-|-|
 
-### Gram-Positive :: Branched
+### Gram-Positive Branched Bacilli
 
 |Bacteria|Stain|Culture|
 |-|-|-|
@@ -56,7 +56,9 @@
 |Moraxella|-|-|
 |Neisseria|-|Thayer-Martin|
 
-### Gram-Negative Bacilli (GNB) :: Respiratory
+### Gram-Negative Bacilli (GNB)
+
+#### Respiratory
 
 |Bacteria|Stain|Culture|
 |-|-|-|
@@ -65,7 +67,7 @@
 |Haemophilus|-|Chocolate|
 |Legionella|Silver|Charcoal yeast|
 
-### Gram-Negative Bacilli (GNB) :: Enteric {B-SEEK-P-SSPY}
+#### Enteric {B-SEEK-P-SSPY}
 
 |Bacteria|Stain|Culture|Lactose<br>Fermentation|Oxidase|H<sub>2</sub>S|
 |-|-|-|-|-|-|
@@ -80,7 +82,7 @@
 |Proteus|-|-|-|-|+|
 |Yersinia|-|-|-|-|-|
 
-### Gram-Negative Bacilli (GNB) :: Zoonotic
+#### Zoonotic
 
 |Bacteria|Stain|Culture|
 |-|-|-|
@@ -89,7 +91,7 @@
 |Francisella|-|-|
 |Pasteurella|-|-|
 
-### Gram-Negative :: Curved
+#### Curved
 
 |Bacteria|Stain|Culture|Oxidase|
 |-|-|-|-|
@@ -97,7 +99,7 @@
 |Helicobacter|Silver|-|+|
 |Vibrio|-|-|+|
 
-### Gram-Negative :: Spirochete {BLT}
+#### Spirochete {BLT}
 
 |Bacteria|Stain|Culture|
 |-|-|-|
@@ -105,7 +107,7 @@
 |Leptospira|-|-|
 |Treponema|-|-|
 
-### Gram-Negative :: Intracellular
+#### Intracellular
 
 |Bacteria|Stain|Culture|
 |-|-|-|
@@ -114,7 +116,7 @@
 |Rickettsia|Giemsa|-|
 |Ehrlichia|Giemsa|-|
 
-### Gram-Negative :: w/o Cell Wall
+#### Without Cell Wall
 
 |Bacteria|Stain|Culture|
 |-|-|-|
