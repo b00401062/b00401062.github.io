@@ -1,6 +1,6 @@
 # Microbiology & Infectious Diseases
 
-## Routes of Infectious Disease Transmission
+## Routes of Transmission
 
 - Airborne
 - Blood
