@@ -96,11 +96,13 @@
 
 ## Treatment of Peripheral Artery Disease (PAD)
 
-- PDE inhibitors :: Cilostazol
 - Antiplatelets
   - Aspirin
   - ADP antagonists
 - Anticoagulants :: Heparin
+- Statins
+- Supervised exercise therapy
+- PDE inhibitors :: Cilostazol
 - Revascularization
   - Percutaneous transluminal angioplasty (PTA)
   - Arterial bypass surgery
