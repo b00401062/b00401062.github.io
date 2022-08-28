@@ -301,7 +301,7 @@
 |Mechanism|Medication|Indications|
 |-|-|-|
 |Thyroid peroxidase inhibitors|Propylthiouracil<br>Methimazole<br>Iodine [Lugol] solution|Hyperthyroidism|
-|Deiodinase inhibitors|Propylthiouracil<br>Propranolol<br>Corticosteroids|Hyperthyroidism|
+|Deiodinase inhibitors|Propylthiouracil<br>Propranolol<br>Steroids|Hyperthyroidism|
 |TH agonists|Levothyroxine<br>Triiodothyronine|Hypothyroidism|
 
 ## Mechanisms of Action of Medications Targeting Sex Hormones
