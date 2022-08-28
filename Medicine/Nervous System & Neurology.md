@@ -482,7 +482,7 @@
 - Hyperventilation
 - Diuretics :: Mannitol
 - Sedation
-- Corticosteroids
+- Steroids
 - Craniectomy
 
 ## Treatment of Idiopathic Intracranial Hypertension (IIH)
