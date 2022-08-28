@@ -322,6 +322,14 @@
 - Doxorubicin
 - Duchenne muscular dystrophy
 
+## Indications for ICD in HCMP
+
+- Cardiac arrest
+- Ventricular arrhythmia
+- Hypotensive response to exercise
+- Extreme LV hypertrophy
+- Family history of SCD
+
 ## Etiology of Arrhythmia {HIS-BEDS}
 
 - Hypoxia
