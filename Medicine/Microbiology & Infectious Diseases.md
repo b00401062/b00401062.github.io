@@ -28,6 +28,8 @@
 
 ### Gram-Positive Bacilli (GPB)
 
+#### Non-branching
+
 |Bacteria|Stain|Culture|
 |-|-|-|
 |Bacillus|-|-|
@@ -38,7 +40,7 @@
 |Mycobacterium|Acid fast|Lowenstein-Jensen<br>Middlebrook|
 |Tropheryma|-|-|
 
-### Gram-Positive Branched Bacilli
+#### Branching
 
 |Bacteria|Stain|Culture|
 |-|-|-|
