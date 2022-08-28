@@ -514,30 +514,11 @@
 
 ## Treatment of Primary Headaches
 
-### Cluster Headache
-
-- 100% O<sub>2</sub>
-- 5-HT<sub>1</sub> agonists
-  - -Triptans
-- Verapamil
-
-### Migraine
-
-- NSAIDs
-- 5-HT<sub>1</sub> agonists
-  - -Triptans
-  - Ergotamine
-- Reuptake inhibitors :: TCAs
-- Valproate
-- Topiramate
-- Lifestyle modification
-
-### Tension Headache
-
-- NSAIDs
-- Acetaminophen
-- Reuptake inhibitors :: TCAs
-- Lifestyle modification
+|Headache|Acute|Chronic|
+|-|-|-|
+|Cluster headache|100% O<sub>2</sub><br>-Triptans|Verapamil|
+|Migraine|NSAIDs<br>-Triptans<br>Ergotamine|TCAs<br>Valproate<br>Topiramate<br>Lifestyle modification|
+|Tension headache|NSAIDs<br>Acetaminophen|TCAs<br>Lifestyle modification|
 
 ## Red Flags for Secondary Headaches
 
