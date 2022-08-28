@@ -500,7 +500,7 @@
 - Suspected brain abscess
 - Bleeding tendency
 
-## Primary Headaches
+## Types of Primary Headaches
 
 ||Cluster|Migraine|Tension|
 |-|-|-|-|
@@ -516,9 +516,9 @@
 
 |Headache|Acute|Chronic|
 |-|-|-|
-|Cluster headache|100% O<sub>2</sub><br>-Triptans|Verapamil|
+|Cluster|100% O<sub>2</sub><br>-Triptans|Verapamil|
 |Migraine|NSAIDs<br>-Triptans<br>Ergotamine|TCAs<br>Valproate<br>Topiramate<br>Lifestyle modification|
-|Tension headache|NSAIDs<br>Acetaminophen|TCAs<br>Lifestyle modification|
+|Tension|NSAIDs<br>Acetaminophen|TCAs<br>Lifestyle modification|
 
 ## Red Flags for Secondary Headaches
 
