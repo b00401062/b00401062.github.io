@@ -152,7 +152,7 @@
 - Deiodinase inhibitors
   - Propylthiouracil
   - Propranolol
-  - Corticosteroids
+  - Steroids
 - β antagonists :: Propranolol
 - Radioiodine ablation
 - Surgery
