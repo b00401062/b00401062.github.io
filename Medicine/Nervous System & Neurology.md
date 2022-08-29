@@ -604,6 +604,16 @@
 |Dopa decarboxylase inhibitors|Carbidopa<br>Benserazide|
 |NMDA antagonists|Amantadine|
 
+## Treatment of Restless Legs Syndrome (RLS)
+
+- Ca channel blockers
+  - Gabapentin
+  - Pregabalin
+- Levodopa
+- D<sub>2</sub> agonists
+  - Pramipexole
+  - Ropinirole
+
 ## Mechanisms of Action of Medications for Huntington Disease
 
 |Mechanism|Medication|
