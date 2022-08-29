@@ -100,14 +100,14 @@
 
 ## Presentation of Iron Deficiency
 
-- Iron deficiency anemia
+- Iron deficiency anemia (IDA)
 - Koilonychia
 - Pica
 - Plummer-Vinson syndrome
   - Dysphagia
   - Esophageal web
   - Squamous cell carcinoma
-- Restless leg syndrome
+- Restless legs syndrome (RLS)
 
 ## Presentation of Hemochromatosis
 
