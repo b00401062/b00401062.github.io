@@ -108,6 +108,12 @@
 |Myasthenia gravis|Thymoma|
 |PTHrP|Squamous cell carcinoma<br>Renal cell carcinoma|
 |SIADH|Small cell carcinoma|
+|Acanthosis nigricans|Visceral malignancy|
+|Erythema nodosum|Non-Hodgkins lymphoma|
+|Migratory thrombophlebitis<br>Trousseau syndrome|Pancreatic adenocarcinoma|
+|Necrolytic migratory erythema|Glucagonoma|
+|Seborrheic keratosis<br>Leser-Trélat sign|Visceral malignancy|
+|Dermatomyositis|Malignancy|
 
 ## Cancers Associated with Virus
 
