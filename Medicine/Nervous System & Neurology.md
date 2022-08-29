@@ -419,11 +419,24 @@
 |Posterior inferior cerebellar artery (PICA)|Ambiguous nucleus<br>Sympathetic fibers<br>Cerebellar peduncle<br>Lateral spinothalamic tract|Lateral medullary [Wallenberg] syndrome:<br>Dysphagia<br>Dysarthria<br>↓ Gag reflex<br>Contralateral palate deviation<br>Ipsilateral Horner syndrome<br>Ipsilateral ataxia<br>Contralateral paresthesia|
 |Anterior spinal artery (ASA)|CN XII<br>Corticospinal tract<br>Medial lemniscus|Medial medullary syndrome:<br>Ipsilateral tongue deviation<br>Contralateral paralysis<br>Contralateral paresthesia|
 
-## Management of Ischemic Stroke
+## Work upf Ischemic Stroke
 
-- BP < 220/120 mmHg
+- Coagulation panel
+- Non-contrast CT of the head
+- CT angiography of the head and neck
+- MR imaging of the head
+- Carotid ultrasound
+- Electrocardiography (ECG)
+- Echocardiography
+
+## Treatment of Ischemic Stroke
+
+- Antihypertensives
+  - BP < 185/110 mmHg if revascularization
+  - BP < 220/120 mmHg otherwise
+- Antihyperglycemic: glucose 140 ~ 180 mg/dL
 - Antiplatelets
-- Revascularization: BP < 185/110 mmHg
+- Revascularization
   - Thrombolysis: duration < 3 ~ 4.5 hours
   - Thrombectomy: duration < 6 ~ 24 hours
 
