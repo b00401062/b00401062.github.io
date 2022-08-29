@@ -152,22 +152,21 @@
 
 ### Sexual Dysfunction
 
-- Sexual desire disorder
 - Sexual arousal disorder
-- Orgasmic disorder
+- Sexual desire disorder
 - Sexual pain disorder
+- Orgasmic disorder
 
 ### Sleep-wake Disorders
 
 - Insomnia
 - Hypersomnia
 - Narcolepsy
-- Obstructive sleep apnea
-- Central sleep apnea
 - Nightmare disorder
 - Sleepwalking disorder
 - Sleep terror disorder
 - Restless legs disorder
+- Sleep apnea
 
 ### Disruptive Behavior Disorders
 
