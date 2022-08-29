@@ -309,9 +309,14 @@
 |NREM sleep N1|θ wave|-|
 |NREM sleep N2|Sleep spindles<br>K complexes|Bruxism|
 |NREM sleep N3|δ wave|Sleepwalking<br>Bedwetting|
-|REM sleep|β wave|-|
+|REM sleep|β wave|Dreaming<br>Nightmares<br>Tumescence|
 
 ![](../Figures/Sleep-Wake%20Cycle.jpg)
+
+## Indications for Polysomnography
+
+- Sleep apnea
+- Sleep-wake disorders
 
 ## Craniosynostosis
 
