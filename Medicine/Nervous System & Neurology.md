@@ -670,13 +670,14 @@
 
 ## Treatment of Multiple Sclerosis
 
-|Mechanism|Medication|Indications|
-|-|-|-|
-|NF-κB inhibitors|Corticosteroids|Multiple sclerosis|
-|CD20 inhibitors|Ocrelizumab|Multiple sclerosis|
-|CD52 inhibitors|Alemtuzumab|Multiple sclerosis|
-|α4-integrin inhibitors|Natalizumab|Multiple sclerosis|
-|-|Plasmapheresis|Multiple sclerosis|
+|Mechanism|Medication|
+|-|-|
+|NF-κB inhibitors|Corticosteroids|
+|CD20 inhibitors|Ocrelizumab|
+|CD52 inhibitors|Alemtuzumab|
+|α4-integrin inhibitors|Natalizumab|
+|-|Plasmapheresis|
+|-|IFN-β|
 
 ## Physical Examinations for Nerve Injuries
 
