@@ -302,14 +302,14 @@
 
 ## Sleep-Wake Cycle
 
-|Stage|Waves|
-|-|-|
-|Awake :: eyes open|β wave|
-|Awake :: eyes closed|α wave|
-|NREM sleep :: stage 1|θ wave|
-|NREM sleep :: stage 2|Sleep spindles<br>K complexes|
-|NREM sleep :: stage 3 & 4|δ wave|
-|REM sleep|β wave|
+|Stage|Waves|Disorders|
+|-|-|-|
+|Awake :: eyes open|β wave|-|
+|Awake :: eyes closed|α wave|-|
+|NREM sleep N1|θ wave|-|
+|NREM sleep N2|Sleep spindles<br>K complexes|Bruxism|
+|NREM sleep N3|δ wave|Sleepwalking<br>Bedwetting|
+|REM sleep|β wave|-|
 
 ![](../Figures/Sleep-Wake%20Cycle.jpg)
 
