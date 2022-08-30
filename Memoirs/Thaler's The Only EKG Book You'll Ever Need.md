@@ -1,4 +1,4 @@
-# The Only EKG Book You'll Ever Need
+# Thaler's The Only EKG Book You'll Ever Need
 
 - **Publisher**: Wolters Kluwer
 - **Author**: Malcolm S. Thaler
