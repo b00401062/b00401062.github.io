@@ -333,6 +333,14 @@
 - ↓ Endometrial cancer
 - ↓ Ovarian cancer
 
+## Contraindications to Combined Hormonal Contraception
+
+- Age ≥ 35 years<br>Smoking ≥ 15 cigarettes/day
+- History of Thromboembolic events
+- Active breast cancer
+- Liver failure
+- Migraines with aura
+
 ## Contraindications to Intrauterine Device (IUD)
 
 - Pregnancy
