@@ -201,7 +201,10 @@
 
 |Disease|Antibodies|
 |-|-|
-|Allergy & Aanaphylaxis|IgE|
+|Allergic rhinitis|IgE|
+|Asthma|IgE|
+|Atopic dermatitis|IgE|
+|Anaphylaxis|IgE|
 |Transfusion reaction :: allergic|IgE|
 |Urticaria|IgE|
 
