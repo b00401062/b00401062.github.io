@@ -5,25 +5,7 @@
 - **Presenter**: Wen-Bin Luo
 - **Link**: https://www.amazon.com/Effective-Java-Joshua-Bloch-ebook/dp/B078H61SCH
 
-## Contents
-
-- Introduction
-- [Creating and Destroying Objects](#creating-and-destroying-objects)
-- [Methods Common to All Objects](#methods-common-to-all-objects)
-- [Classes and Interfaces](#classes-and-interfaces)
-- [Generics](#generics)
-
 ## Creating and Destroying Objects
-
-- [Consider static factory methods instead of constructors](#consider-static-factory-methods-instead-of-constructors)
-- [Consider a builder when faced with many constructor parameters](#consider-a-builder-when-faced-with-many-constructor-parameters)
-- [Enforce the singleton property with a private constructor or an enum type](#enforce-the-singleton-property-with-a-private-constructor-or-an-enum-type)
-- [Enforce noninstantiability with a private constructor](#enforce-noninstantiability-with-a-private-constructor)
-- [Prefer dependency injection to hardwiring resources](#prefer-dependency-injection-to-hardwiring-resources)
-- [Avoid creating unnecessary objects](#avoid-creating-unnecessary-objects)
-- [Eliminate obsolete object references](#eliminate-obsolete-object-references)
-- [Avoid finalizers and cleaners](#avoid-finalizers-and-cleaners)
-- [Prefer try-with-resources to try-finally](#prefer-try-with-resources-to-try-finally)
 
 ### Consider static factory methods instead of constructors
 
@@ -114,12 +96,6 @@
 
 ## Methods Common to All Objects
 
-- [Obey the general contract when overriding equals](#obey-the-general-contract-when-overriding-equals)
-- [Always override hashCode when you override equals](#always-override-hashcode-when-you-override-equals)
-- [Always override toString](#always-override-tostring)
-- [Override clone judiciously](#override-clone-judiciously)
-- [Consider implementing Comparable](#consider-implementing-comparable)
-
 ### Obey the general contract when overriding equals
 
 - Each instance of the class is inherently unique.
@@ -180,18 +156,6 @@
 - The ordering imposed by the `compareTo` method can be *consistent* or *inconsistent* with `equals`.
 
 ## Classes and Interfaces
-
-- [Minimize the accessibility of classes and members](#minimize-the-accessibility-of-classes-and-members)
-- [In public classes, use accessor methods, not public fields](#in-public-classes-use-accessor-methods-not-public-fields)
-- [Minimize mutability](#minimize-mutability)
-- [Favor composition over inheritance](#favor-composition-over-inheritance)
-- [Design and document for inheritance or else prohibit it](#design-and-document-for-inheritance-or-else-prohibit-it)
-- [Prefer interfaces to abstract classes](#prefer-interfaces-to-abstract-classes)
-- [Design interfaces for posterity](#design-interfaces-for-posterity)
-- [Use interfaces only to define types](#use-interfaces-only-to-define-types)
-- [Prefer class hierarchies to tagged classes](#prefer-class-hierarchies-to-tagged-classes)
-- [Favor static member classes over nonstatic](#favor-static-member-classes-over-nonstatic)
-- [Limit source files to a single top-level class](#limit-source-files-to-a-single-top-level-class)
 
 ### Minimize the accessibility of classes and members
 
@@ -279,15 +243,6 @@
 - Never put multiple top-level classes or interfaces in a single source file.
 
 ## Generics
-
-- [Don’t use raw types](#dont-use-raw-types)
-- [Eliminate unchecked warnings](#eliminate-unchecked-warnings)
-- [Prefer lists to arrays](#prefer-lists-to-arrays)
-- Favor generic types
-- [Favor generic methods](#favor-generic-methods)
-- [Use bounded wild cards to increase API flexibility](#use-bounded-wild-cards-to-increase-api-flexibility)
-- [Combine generics and varargs judiciously](#combine-generics-and-varargs-judiciously)
-- [Consider typesafe heterogeneous containers](#consider-typesafe-heterogeneous-containers)
 
 ### Don’t use raw types
 
