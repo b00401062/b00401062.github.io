@@ -716,7 +716,7 @@
 |-|Plasmapheresis|
 |-|IFN-β|
 
-## Treatment of Guillain-Barre syndrome (GBS)
+## Treatment of Guillain-Barre Syndrome (GBS)
 
 - Plasmapheresis
 - Intravenous immunoglobulin (IVIG)
