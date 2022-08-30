@@ -148,6 +148,7 @@
 - Infection
 - Autoimmunity
 - Neoplasm
+- Endocrine
 - Drug
 
 ## Workup of Fever
