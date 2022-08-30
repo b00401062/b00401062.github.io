@@ -646,6 +646,30 @@
 |ACh esterase inhibitors|Rivastigmine<br>Galantamine<br>Donepezil|
 |NMDA antagonists|Memantine|
 
+## Etiology of Myelopathy
+
+|Lesion|Dorsal Column|Spinothalamic Tract|Corticospinal Tract|Anterior Horn|
+|-|-|-|-|-|
+|Syringomyelia|-|-|-|-|
+|Poliomyelitis|-|-|-|+|
+|Spinal muscular atrophy (SMA)|-|-|-|+|
+|Amyotrophic lateral sclerosis (ALS)|-|-|+|+|
+|Tabes dorsalis|+|-|-|-|
+|Subacute combined degeneration (SCD)|+|-|+|-|
+|Anterior spinal artery syndrome|-|+|+|+|
+|Brown-Sequard syndrome|+|+|+|+|
+|Transverse myelopathy|+|+|+|+|
+
+## Etiology of Peripheral Neuropathy
+
+- Disbetic neuropathy
+- Porphyria
+- Chemotherapy toxicity
+- Tabes dorsalis
+- Subacute combined degeneration (SCD)
+- Guillain-Barre syndrome
+- Charcot-Marie-Tooth disease
+
 ## Demyelinating Diseases
 
 - Central pontine myelinolysis (CPM)
@@ -656,11 +680,6 @@
 - Subacute combined degeneration (SCD)
 - Guillain-Barre syndrome (GBS)
 - Charcot-Marie-Tooth disease
-
-## Treatment of Guillain-Barre syndrome (GBS)
-
-- Plasmapheresis
-- Intravenous immunoglobulin (IVIG)
 
 ## Charcot Triad of Multiple Sclerosis {SIN}
 
@@ -697,6 +716,11 @@
 |-|Plasmapheresis|
 |-|IFN-β|
 
+## Treatment of Guillain-Barre syndrome (GBS)
+
+- Plasmapheresis
+- Intravenous immunoglobulin (IVIG)
+
 ## Physical Examinations for Nerve Injuries
 
 |Test|Injury|
@@ -721,29 +745,6 @@
 |Neuropathy :: LMN|Fibrillations|↑|↑|Polyphasic|↓|
 |Myopathy ::<br/>non-inflammatory|-|↓|↓|Polyphasic|↑|
 |Myopathy ::<br/>inflammatory|Fibrillations|↓|↓|Polyphasic|↑|
-
-## Spinal Cord Lesions
-
-|Lesion|Dorsal Column|Spinothalamic Tract|Corticospinal Tract|Anterior Horn|
-|-|-|-|-|-|
-|Syringomyelia|-|-|-|-|
-|Poliomyelitis|-|-|-|+|
-|Spinal muscular atrophy (SMA)|-|-|-|+|
-|Amyotrophic lateral sclerosis (ALS)|-|-|+|+|
-|Tabes dorsalis|+|-|-|-|
-|Subacute combined degeneration (SCD)|+|-|+|-|
-|Anterior spinal artery syndrome|-|+|+|+|
-|Brown-Sequard syndrome|+|+|+|+|
-
-## Etiology of Peripheral Neuropathy
-
-- Disbetic neuropathy
-- Porphyria
-- Chemotherapy toxicity
-- Tabes dorsalis
-- Subacute combined degeneration (SCD)
-- Guillain-Barre syndrome
-- Charcot-Marie-Tooth disease
 
 ## Presentation of Horner Syndrome {MAP}
 
