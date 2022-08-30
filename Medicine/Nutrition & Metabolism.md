@@ -239,6 +239,25 @@
   - HDL < 40 mg/dL in men
   - HDL < 50 mg/dL in women
 
+## Presentation of Hyperlipidemia
+
+- Xanthomas
+- Xanthelasma
+- Corneal arcus
+
+## Mechanisms of Action of Medications for Hyperlipidemia {OECSNF}
+
+|Mechanism|Medication|LDL|HDL|Triglyceride|
+|-|-|-|-|-|
+|Pancreatic lipase inhibitors|Orlistat|↓↓|-|-|
+|Cholesterol absorption inhibitors|Ezetimibe|↓↓|-|-|
+|Bile acid resin|Cholestyramine<br>Colestipol<br>Colesevelam|↓↓|-|-|
+|HMG-CoA reductase inhibitors|Statins|↓↓↓|↑|↓|
+|HSL & VLDL synthesis inhibitors|Niacin (B3)|↓↓|↑↑|↓|
+|LPL & PPAR-α inducers|Fibrates|↓|↑|↓↓↓|
+
+![](../Figures/Mechanisms%20of%20Action%20of%20Medications%20for%20Hyperlipidemia.png)
+
 ## Indications for Low-Protein Diet
 
 - Liver failure → Hyperammonemia
