@@ -559,7 +559,7 @@
 |Na channel blockers|Phenytoin<br>Valproate<br>Carbamazepine<br>Lamotrigine<br>Topiramate|
 |Ca channel blockers|Ethosuximide<br>Gabapentin<br>Pregabalin|
 |SV2A antagonists|Levetiracetam|
-|GABA<sub>A</sub> agonists|Barbiturate<br>Benzodiazepine|
+|GABA<sub>A</sub> agonists|Barbiturates<br>Benzodiazepines|
 |GABA reuptake inhibitors|Tiagabine|
 |GABA transaminase inhibitors|Vigabatrin|
 
