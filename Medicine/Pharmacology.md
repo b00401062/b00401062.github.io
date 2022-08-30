@@ -18,7 +18,7 @@
 - Anticonvulsants
 - Theophylline
 - Warfarin
-- Oral contraceptives (OCPs)
+- Oral contraceptive pills (OCPs)
 
 ### Inhibitors {CIGAR-MASQ}
 
