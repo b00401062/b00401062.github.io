@@ -258,7 +258,7 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|GABA<sub>A</sub> agonists|Barbiturates|Anesthesia<br>Seizure|
+|GABA<sub>A</sub> agonists|Barbiturates|Anesthesia<br>Seizure<br>Essential tremor|
 ||Benzodiazepines|Anesthesia<br>Seizure<br>Insomnia<br>NMS|
 ||Propofol|Anesthesia|
 ||Etomidate|Anesthesia|
