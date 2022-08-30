@@ -10,7 +10,7 @@
 
 ### Maternal Factors
 
-- Substance use disorder
+- Substance use
 - Age < 20 years
 
 ### Infant Factors
@@ -122,11 +122,11 @@
 
 - Galactosemia
 - HIV
-- HSV on breast
+- HSV on breasts
 - Tuberculosis
 - Sepsis
 - Chemotherapy
-- Substance abuse
+- Substance use
 
 ## Conditions Associated with Enlarged Anterior Fontanel
 
