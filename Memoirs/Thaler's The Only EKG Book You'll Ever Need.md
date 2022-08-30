@@ -5,19 +5,7 @@
 - **Presenter**: Wen-Bin Luo
 - **Link**: https://www.amazon.com/Only-Book-Youll-Ever-Need/dp/1451119054
 
-## Contents
-
-- The Basics
-- Hypertrophy and Enlargement of the Heart
-- Arrhythmias
-- Conduction Blocks
-- Preexcitation Syndromes
-- Myocardial Ischemia and Infarction
-- Finishing Touches
-
 ## The Basics
-
-- QT interval
 
 ### QT interval
 
@@ -27,11 +15,6 @@
 - A useful rule of thumb is that a normal QT is less than half the preceding RR interval
 
 ## Hypertrophy and Enlargement of the Heart
-
-- Right atrial enlargement (RAE)
-- Left atrial enlargement (LAE)
-- Right ventricular hypertrophy (RVH)
-- Left ventricular hypertrophy (LVH)
 
 ### Right atrial enlargement (RAE)
 
@@ -57,12 +40,6 @@
 - Left axis deviation exceeding −15° is also present
 
 ## Arrhythmias
-
-- Atrial tachycardia (AT)
-- Multifocal atrial tachycardia (MAT)
-- Atrial flutter
-- Atrial fibrillation (AF)
-- AV nodal reentrant tachycardia (AVNRT)
 
 ### Atrial tachycardia (AT)
 
@@ -102,15 +79,6 @@
 - Carotid massage: slows or terminates
 
 ## Conduction Blocks
-
-- First degree AV block
-- Second degree AV block: Mobitz type I (Wenckebach)
-- Second degree AV block: Mobitz type II
-- Third degree AV block
-- Right bundle branch block (RBBB)
-- Left bundle branch block (LBBB)
-- Left anterior hemiblock (LAH)
-- Left posterior hemiblock (LPH)
 
 ### First degree AV block
 
@@ -157,9 +125,6 @@
 
 ## Preexcitation Syndromes
 
-- Wolff-Parkinson-White (WPW) syndrome
-- Lown-Ganong-Levine (LGL) syndrome
-
 ### Wolff-Parkinson-White (WPW) syndrome
 
 - PR interval less than 0.12 seconds
@@ -174,9 +139,6 @@
 
 ## Myocardial Ischemia and Infarction
 
-- Pathological Q wave
-- Non-Q wave myocardial infarction (NQMI)
-
 ### Pathological Q wave
 
 - The Q wave must be greater than 0.04 seconds in duration
@@ -188,15 +150,6 @@
 - ST segment depression persisting for more than 48 hours in the appropriate setting
 
 ## Finishing Touches
-
-- Hyperkalemia
-- Hypokalemia
-- Hypercalcemia
-- Hypocalcemia
-- Hypothermia
-- Digitalis
-- Pericarditis
-- Hypertrophic cardiomyopathy (HCM)
 
 ### Hyperkalemia
 
