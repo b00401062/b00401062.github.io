@@ -198,7 +198,7 @@
 |Score|Risk|Management|
 |-|-|-|
 |0 ~ 1|Low|D-dimer|
-|2 ~ 6|Intermediate|CT angiography<br>V/Q scan|
+|2 ~ 6|Intermediate|CT angiography<br>V/Q scan<br>Bedside echocardiography|
 |≥ 7|High|Treatment|
 
 ## Evaluation for Pulmonary Embolism
@@ -206,6 +206,7 @@
 - D-dimer
 - CT angiography
 - Ventilation/Perfusion (V/Q) scan
+- Bedside echocardiography
 
 ## Treatment of Pulmonary Embolism
 
