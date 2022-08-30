@@ -31,7 +31,7 @@
 |3 ~ 5|Medium|2.9%|
 |≥ 6|High|10.9 ~ 11.5%|
 
-## Revised Cardiac Risk Index (RCRI)
+### Revised Cardiac Risk Index (RCRI)
 
 - High-risk surgery :: vascular & thoracic
 - Ischemic heart disease
