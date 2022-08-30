@@ -23,13 +23,27 @@
 
 ### EuroSCORE
 
-|Risk|Points|Mortality|
-|-|-|-|
-|Low|0 ~ 2|1.3%|
-|Medium|3 ~ 5|2.9%|
-|High|≥ 6|10.9 ~ 11.5%|
-
 ![](../Figures/EuroSCORE.png)
+
+|Score|Level|Mortality|
+|-|-|-|
+|0 ~ 2|Low|1.3%|
+|3 ~ 5|Medium|2.9%|
+|≥ 6|High|10.9 ~ 11.5%|
+
+## Revised Cardiac Risk Index (RCRI)
+
+- High-risk surgery :: vascular & thoracic
+- Ischemic heart disease
+- History of congestive heart failure
+- History of cerebrovascular disesase
+- Insulin-dependent diabetes mellitus
+- Preoperative creatinine > 2 mg/dL
+
+|Score|Level|Cardiac Risk|
+|-|-|-|
+|< 2|Low|< 1%|
+|≥ 2|High|> 1%|
 
 ## Minimal Fasting Time
 
