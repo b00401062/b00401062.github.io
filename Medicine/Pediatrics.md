@@ -118,7 +118,7 @@
 |GBS<br>Escherichia coli<br>Listeria|Pneumonia<br>Meningitis|Intrapartum|
 |Neisseria gonorrhoea<br>Chlamydia trachomatis|Conjunctivitis|Intrapartum|
 
-## Contraindications for Breastfeeding
+## Contraindications to Breastfeeding
 
 - Galactosemia
 - HIV

@@ -461,7 +461,7 @@
 |QRS complex|Ventricle|0|Na|Class 1|
 |QT interval|Ventricle|2 & 3|K|Class 1 & 3|
 
-## Contraindications for Amiodarone
+## Contraindications to Amiodarone
 
 - Sinus bradycardia
   - < 40/min

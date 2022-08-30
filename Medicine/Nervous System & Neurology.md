@@ -330,7 +330,7 @@
 
 ![](../Figures/Craniosynostosis.jpg)
 
-## Indication of CT Imaging for Head Trauma
+## Indications for CT Imaging for Head Trauma
 
 ### PECARN Rule
 
@@ -512,7 +512,7 @@
 - Shunting
 - Optic nerve sheath fenestration
 
-## Contraindications for Lumbar Puncture
+## Contraindications to Lumbar Puncture
 
 - ↑ Intracranial pressure (ICP)
 - Suspected brain abscess

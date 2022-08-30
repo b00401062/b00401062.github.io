@@ -537,7 +537,7 @@
 - Pulmonary embolism (PE)
   - Hemodynamically unstable
 
-## Contraindications for Thrombolytics
+## Contraindications to Thrombolytics
 
 - Intracranial hemorrhage
 - Internal bleeding
@@ -550,7 +550,7 @@
 - Cryoprecipitate
 - Factor concentrate
 
-## Indications of Plasma Products
+## Indications for Plasma Products
 
 |Product|Indications|
 |-|-|

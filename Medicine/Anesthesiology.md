@@ -22,7 +22,7 @@
 ||Isoflurane|Anesthesia :: inhalational|
 ||Sevoflurane|Anesthesia :: inhalational|
 
-## Contraindications for Neuraxial Blockade {CHIPS}
+## Contraindications to Neuraxial Blockade {CHIPS}
 
 - Coagulopathy
 - Hypovolemia

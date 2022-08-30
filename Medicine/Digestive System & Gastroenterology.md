@@ -306,7 +306,7 @@
 - EHEC & EIEC
 - Entamoeba histolytica
 
-## Indications of Antibiotic Treatment of Diarrhea
+## Indications for Antibiotic Treatment of Diarrhea
 
 - Without Shiga toxin 
 - Pathogen w/ low infectious dose

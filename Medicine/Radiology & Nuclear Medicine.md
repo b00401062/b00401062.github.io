@@ -9,7 +9,7 @@
 |SPECT|Emission|γ-ray|-|
 |PET|Emission|γ-ray|-|
 
-## Contraindications for Contrast
+## Contraindications to Contrast
 
 ### Barium
 

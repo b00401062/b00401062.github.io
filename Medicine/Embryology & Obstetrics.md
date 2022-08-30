@@ -336,7 +336,7 @@
 - Hypoglycemia
 - Polycythemia
 
-## Indications of Intrapartum GBS Prophylaxis
+## Indications for Intrapartum GBS Prophylaxis
 
 - Fever
 - History of GBS-affected neonates
@@ -407,7 +407,7 @@
 |COX inhibitors|Indomethacin|
 |Nitrates|Nitroglycerin|
 
-## Contraindications for Tocolysis
+## Contraindications to Tocolysis
 
 - Gestational age (GA) > 34 weeks
 - Intrauterine fetal demise (IUFD)

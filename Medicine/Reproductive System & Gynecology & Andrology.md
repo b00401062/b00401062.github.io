@@ -359,7 +359,7 @@
 - Progressive motility > 32%
 - Total motility > 40%
 
-## Indications of Assisted Reproductive Technology (ART)
+## Indications for Assisted Reproductive Technology (ART)
 
 ### Intrauterine Insemination (IUI)
 
