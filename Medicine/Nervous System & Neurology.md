@@ -581,7 +581,7 @@
 ## Treatment of Essential Tremor
 
 - β antagonists :: Propranolol
-- Primidone
+- Barbiturates :: Primidone
 
 ## Neurodegenerative Disorders
 
