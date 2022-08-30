@@ -118,7 +118,7 @@
 - Diabetes melitus
 - Hypogonadism
 - Arthropathy
-- Chondrocalcinosis
+- Pseudogout
 
 ## Treatment of Hemochromatosis
 
