@@ -1,5 +1,32 @@
 # Toxicology
 
+## Substance Use Disorders
+
+|Mechanism|Medication|Indications|
+|-|-|-|
+|Adenosine antagonists|Caffeine|Stimulant|
+|N<sub>N</sub> [Ganglionic] agonists|Nicotine|Stimulant|
+|NDRI|Cocaine|Stimulant|
+||Amphetamine<br>MDMA [Ecstasy]|Stimulant<br>Hallucinogen|
+|5-HT<sub>2</sub> agonists|Lysergic acid diethylamide (LSD)|Hallucinogen|
+|NMDA antagonists|Ketamine<br>Phencyclidine (PCP) [Angel dust]|Hallucinogen|
+|Cannabinoid agonists|Cannabis [Marijuana]|Hallucinogen|
+|-|Psilocybin|Hallucinogen|
+|GABA<sub>A</sub> agonists|Alcohol|Depressant|
+|GABA<sub>B</sub> agonists|γ-Hydroxybutyrate (GHB)|Depressant|
+|μ-opioid agonists|Heroin|Depressant|
+
+## Treatment of Substance Use Disorders
+
+|Subtance|Toxicity|Withdrawal|Cessation|
+|-|-|-|-|
+|Nicotine|-|-|Nicotine<br>Varenicline<br>Bupropion|
+|Cocaine|Benzodiazepines|-|-|
+|Phencyclidine (PCP)|Benzodiazepines|-|-|
+|Benzodiazepines|Flumazenil|Benzodiazepines|-|
+|Alcohol|-|Benzodiazepines|Disulfiram<br>Naltrexone|
+|Opioids|Naloxone|Opioids<br>Clonidine<br>Guanfacine|Methadone<br>Buprenorphine|
+
 ## Antidotes for Toxins
 
 |Toxin|Antidotes|
@@ -18,11 +45,12 @@
 |Copper [Cu]|Penicillamin<br>Trientine|
 |Lead [Pb]|Succimer<br>Dimercaprol<br>EDTA|
 |Lithium|Hemodialysis|
-|Methanol<br>Propylene glycol<br>Ethylene glycol|Fomepizole<br>Ethanol|
 |Cocaine|Benzodiazepines|
+|Phencyclidine (PCP)|Benzodiazepines|
 |Barbiturates|NaHCO<sub>3</sub>|
 |Benzodiazepines|Flumazenil|
 |Opioids|Naloxone|
+|Methanol<br>Propylene glycol<br>Ethylene glycol|Fomepizole<br>Ethanol|
 |Valproate|L-carnitine|
 |Salicylate<br>TCAs|NaHCO<sub>3</sub>|
 |Digitalis|Anti-digitalis<br>K & Mg|
@@ -30,15 +58,6 @@
 |Heparin|Protamine sulfate|
 |Factor 10a inhibitors|Andexanet alfa|
 |tPAs|Aminocaproic acid|
-
-## Treatment of Substance Use Disorders
-
-|Subtance|Toxicity|Withdrawal|Cessation|
-|-|-|-|-|
-|Benzodiazepines|Flumazenil|Benzodiazepines|-|
-|Alcohol|-|Benzodiazepines|Disulfiram<br>Naltrexone|
-|Opioids|Naloxone|Opioids<br>Clonidine<br>Guanfacine|Methadone<br>Buprenorphine|
-|Cigarette|-|-|Nicotine<br>Varenicline<br>Bupropion|
 
 ## Comparison Between CO Poisoning and Methemoglobinemia
 
@@ -55,22 +74,6 @@
 - Abdominal colic
 - Anemia :: sideroblastic anemia
 - Drops :: wrist & foot drop
-
-## Substance Use Disorders
-
-|Mechanism|Medication|Indications|
-|-|-|-|
-|Adenosine antagonists|Caffeine|Stimulant|
-|N<sub>N</sub> [Ganglionic] agonists|Nicotine|Stimulant|
-|NDRI|Cocaine|Stimulant|
-||Amphetamine<br>MDMA [Ecstasy]|Stimulant<br>Hallucinogen|
-|5-HT<sub>2</sub> agonists|Lysergic acid diethylamide (LSD)|Hallucinogen|
-|NMDA antagonists|Ketamine<br>Phencyclidine (PCP) [Angel dust]|Hallucinogen|
-|Cannabinoid agonists|Cannabis [Marijuana]|Hallucinogen|
-|-|Psilocybin|Hallucinogen|
-|GABA<sub>A</sub> agonists|Alcohol|Depressant|
-|GABA<sub>B</sub> agonists|γ-Hydroxybutyrate (GHB)|Depressant|
-|μ-opioid agonists|Heroin|Depressant|
 
 ## CAGE Questions for Alcohol Use {CAGE}
 
