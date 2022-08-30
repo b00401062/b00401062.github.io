@@ -141,7 +141,7 @@
 
 ![](../Figures/Types%20of%20Melanocytic%20Nevi.jpg)
 
-## ABCDE of Melanoma {ABCDE}
+## Features of Melanoma {ABCDE}
 
 - Asymmetry
 - Border irregularity
