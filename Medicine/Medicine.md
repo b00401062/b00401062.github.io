@@ -137,6 +137,13 @@
 - Disability
 - Exposure
 
+## Coma Cocktail {DONT}
+
+- Dextrose
+- Oxygen
+- Naloxone
+- Thiamine
+
 ## Lethal Triad {CAH}
 
 - Coagulopathy
