@@ -313,7 +313,20 @@
 - Radiotherapy
 - Chemotherapy
 
-## Side Effects of Oral Contraceptives (OCPs)
+## Contraception Methods
+
+- Barrier contraception
+- Combined hormonal contraception
+  - Oral contraceptive pills (OCPs)
+  - Contraceptive patch
+  - contraceptive ring
+- Depot medroxyprogesterone
+- Progestin subdermal implant
+- Intrauterine devices
+  - Progestin intrauterine device
+  - Copper intrauterine device
+
+## Side Effects of Combined Hormonal Contraception
 
 - ↑ Thromboembolic events
 - ↑ Breast cancer
