@@ -308,7 +308,7 @@
 |Awake :: eyes closed|α wave|-|
 |NREM sleep N1|θ wave|-|
 |NREM sleep N2|Sleep spindles<br>K complexes|Bruxism|
-|NREM sleep N3|δ wave|Sleepwalking<br>Bedwetting|
+|NREM sleep N3|δ wave|Sleep terrors<br>Sleepwalking<br>Bedwetting|
 |REM sleep|β wave|Dreaming<br>Nightmares<br>Tumescence|
 
 ![](../Figures/Sleep-Wake%20Cycle.jpg)
