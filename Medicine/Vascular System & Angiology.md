@@ -145,10 +145,11 @@
 - Rashes :: desquamating
 - Edema :: limbs
 
-## Presentation of Hereditary Hemorrhagic Telangiectasia (HHT)
+## Presentation of Hereditary Hemorrhagic Telangiectasia (HHT) [Osler-Weber-Rendu Syndrome]
 
 - Telangiectasia
 - Epistaxis
-- Cerebral AVM
-- Pulmonary AVM
+- Arteriovenous malformation (AVM)
+  - Cerebral AVM
+  - Pulmonary AVM
 - Paradoxical embolism
