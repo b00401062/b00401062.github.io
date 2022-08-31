@@ -746,6 +746,24 @@
 |Myopathy ::<br/>non-inflammatory|-|↓|↓|Polyphasic|↑|
 |Myopathy ::<br/>inflammatory|Fibrillations|↓|↓|Polyphasic|↑|
 
+## Etiology of Myopathy
+
+- Rhabdomyolysis
+- Inflammatory myopathy
+  - Polymyositis
+  - Dermatomyositis
+- Endocrine
+  - Hypothyroidism
+  - Cushing syndrome
+- Metabolic myopathy
+  - Glycogen storage disease (GSD)
+  - Lysosomal Storage Diseases (LSD)
+- Muscular dystrophy
+  - Duchenne muscular dystrophy
+  - Myotonic dystrophy
+  - Limb-girdle muscular dystrophy
+- Drug-induced myopathy
+
 ## Presentation of Horner Syndrome {MAP}
 
 - Miosis
