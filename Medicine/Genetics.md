@@ -139,8 +139,8 @@
 |Thalassemia|-|α-Globin<br>β-Globin|
 |Hemochromatosis|HFE|Iron regulator protein|
 |Wilson disease|ATP7B|Cu channel|
-|Glycogen storage diseases (GSD)|-|-|
-|Lysosomal storage diseases (LSD)|-|-|
+|Glycogen storage diseasess (GSD)|-|-|
+|Lysosomal storage diseasess (LSD)|-|-|
 
 ### X-linked Dominant (XD)
 
