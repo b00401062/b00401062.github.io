@@ -98,7 +98,7 @@
 
 ## Treatment of Atopic Dermatitis
 
-- Moisturizer
+- Moisturizers
 - Topical steroids
 - Topical tacrolimus
 - Phototherapy
@@ -111,7 +111,7 @@
 ## Treatment of Contact Dermatitis
 
 - Allergen avoidance
-- Moisturizer
+- Moisturizers
 - Topical steroids
 - Topical tacrolimus
 - Oral steroids
