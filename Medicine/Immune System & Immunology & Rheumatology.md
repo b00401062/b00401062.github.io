@@ -201,9 +201,7 @@
 
 |Disease|Antibodies|
 |-|-|
-|Allergic rhinitis|IgE|
-|Asthma|IgE|
-|Atopic dermatitis|IgE|
+|Atopy|IgE|
 |Anaphylaxis|IgE|
 |Transfusion reaction :: allergic|IgE|
 |Urticaria|IgE|
@@ -270,6 +268,13 @@
 |Toxic epidermal necrolysis (TEN)|-|
 |Transplant reaction :: acute|-|
 |Transplant reaction :: chronic|-|
+
+## Presentation of Atopy
+
+- Allergic conjunctivitis
+- Allergic rhinitis
+- Asthma
+- Atopic dermatitis
 
 ## HLA Subtypes Associated With Diseases
 
