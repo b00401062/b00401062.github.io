@@ -96,6 +96,32 @@
 - Papules
 - Plaques
 
+## Treatment of Atopic Dermatitis
+
+- Moisturizer
+- Topical steroids
+- Topical tacrolimus
+- Phototherapy
+
+## Treatment of Urticaria
+
+- Oral H<sub>1</sub> antagonists
+- Oral steroids
+
+## Treatment of Contact Dermatitis
+
+- Allergen avoidance
+- Moisturizer
+- Topical steroids
+- Topical tacrolimus
+- Oral steroids
+
+## Empirical Antibiotics of Necrotizing Fasciitis
+
+- Anti-MRSA
+- β-lactams & β-lactamase inhibitors<br>Carbapenems
+- Clindamycin
+
 ## Treatment of Acne Vulgaris
 
 - Topical benzoyl peroxide
@@ -114,12 +140,6 @@
 - Oral antifungals
 - Oral steroids
 
-## Empirical Antibiotics of Necrotizing Fasciitis
-
-- Anti-MRSA
-- β-lactams & β-lactamase inhibitors<br>Carbapenems
-- Clindamycin
-
 ## Treatment of Verruca Vulgaris [Wart]
 
 - Topical salicylic acid
@@ -132,6 +152,7 @@
 
 ## Treatment of Precancerous Skin Lesions
 
+- Topical tretinoin
 - Topical 5-fluorouracil
 - Topical imiquimod
 - Photodynamic therapy
