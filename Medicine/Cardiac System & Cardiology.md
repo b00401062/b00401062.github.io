@@ -204,7 +204,7 @@
 |MS|Diastolic|↑|-|
 |MR|Systolic|↑|↑|
 |MVP|Systolic|↓|↓|
-|HOCM|Systolic|↓|↓|
+|HCMP|Systolic|↓|↓|
 
 ## Atrial Septal Defects (ASD)
 
