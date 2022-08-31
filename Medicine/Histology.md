@@ -14,6 +14,6 @@
 - α<sub>1</sub>-antitrypsin deficiency
 - Acute lymphoblastic leukemia (ALL)
 - Fungal infection
-- Glycogen storage disease (GSD)
+- Glycogen storage diseases (GSD)
 - Nodular glomerulosclerosis
-- Whipple's disease
+- Whipple disease
