@@ -764,6 +764,13 @@
   - Limb-girdle muscular dystrophy
 - Drug-induced myopathy
 
+## Comparison Between Myopathy and Myalgia
+
+||Myopathy|PMR|Fibromyalgia|
+|-|-|-|-|
+|ESR|↑|↑|-|
+|CK|↑|-|-|
+
 ## Presentation of Horner Syndrome {MAP}
 
 - Miosis
