@@ -297,5 +297,3 @@
 - The restriction can be got around by placing the type parameter on the key rather than the container.
 - `Class` objects are used as keys for such typesafe heterogeneous containers.
 - A `Class` object used in this fashion is called a **type token**.
-
-$`a_1`$
