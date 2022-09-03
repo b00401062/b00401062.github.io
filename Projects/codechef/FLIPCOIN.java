@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.BitSet;
 
-public class FLIPCOIN {
+class FLIPCOIN {
     public static void main(String[] args) throws IOException {
         Reader leer = new Reader();
         int tam = leer.nextInt();

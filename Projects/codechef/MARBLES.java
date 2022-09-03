@@ -2,7 +2,7 @@ package codechef;
 
 import java.util.Scanner;
 
-public class MARBLES {
+class MARBLES {
     public static void main(String[] args) {
         Scanner stdin = new Scanner(System.in);
         int t = stdin.nextInt();

@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class KNPSK {
+class KNPSK {
     private static long[] solve(List<Integer> ones, List<Integer> twos) {
         Collections.sort(ones);
         Collections.sort(twos);

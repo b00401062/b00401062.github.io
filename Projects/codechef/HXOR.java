@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 import java.util.stream.Collectors;
 
-public class HXOR {
+class HXOR {
     private static int find(int[] a, int i, int p) {
         final int n = a.length;
         for (int j = i + 1; j < n; j++) {

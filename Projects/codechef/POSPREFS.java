@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 import java.util.stream.Collectors;
 
-public class POSPREFS {
+class POSPREFS {
     private static double formula(int x) {
         return (Math.sqrt(1 + 4 * x) - 1) / 2;
     }
