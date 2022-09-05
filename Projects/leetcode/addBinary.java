@@ -1,23 +1,28 @@
 package leetcode
 
-import kotlin.math.max
+class LeetCode {
+    private static String padAndReverse(String s, int len) {
+        var paddedS = "0".repeat(len - s.length()) + s;
+        var reversedPaddedS = new StringBuilder(paddedS).reverse().toString();
+        return reversedPaddedS;
+    }
 
-fun addBinary(a: String, b: String): String {
-    val res = StringBuilder()
-    var carry = 0
-    val maxlen = max(a.length, b.length)
-    val a = String(CharArray(maxlen - a.length) { '0' }) + a
-    val b = String(CharArray(maxlen - b.length) { '0' }) + b
-    assert(a.length == b.length)
-    for ((ca, cb) in (a zip b).reversed()) {
-        val da = ca - '0'
-        val db = cb - '0'
-        val sum = (da + db + carry).toString(2)
-        carry = sum.length - 1
-        res.append(sum.last())
+    public static String addBinary(String a, String b) {
+        var res = new StringBuilder();
+        var carry = 0;
+        var maxLen = Math.max(a.length(), b.length());
+        var reversedPaddedA = padAndReverse(a, maxLen);
+        var reversedPaddedB = padAndReverse(b, maxLen);
+        for (int i = 0; i < maxLen; i++) {
+            var da = reversedPaddedA.charAt(i) - '0';
+            var db = reversedPaddedB.charAt(i) - '0';
+            var sum = da + db + carry;
+            carry = sum / 2;
+            res.append(String.valueOf(sum % 2));
+        }
+        if (carry == 1) {
+            res.append('1');
+        }
+        return res.reverse().toString();
     }
-    if (carry == 1) {
-        res.append('1')
-    }
-    return res.reverse().toString()
 }
