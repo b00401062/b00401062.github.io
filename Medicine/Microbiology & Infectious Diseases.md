@@ -1021,7 +1021,6 @@
 
 |Pathogen|Source|Immunity|Management|
 |-|-|-|-|
-|HIV|+/?|±/?|HAART|
 |HBV|+|-/?|Vaccine & IVIG|
 ||?|-/?|Vaccine|
 |VZV|+|-/?|Vaccine / IVIG|
@@ -1029,6 +1028,7 @@
 |Rubella|+|-/?|Vaccine / IVIG|
 |Rabies|+/?|-/?|Vaccine & IVIG|
 |||+|Vaccine|
+|HIV|+/?|±/?|HAART|
 |Meningitis|+|±/?|Rifampicin<br>3° Cephalosporins|
 |Pertusis|+|±/?|Antibiotics|
 |Tetanus|+|-/?|Vaccine & IVIG|
