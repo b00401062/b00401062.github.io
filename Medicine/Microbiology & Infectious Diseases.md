@@ -1031,7 +1031,7 @@
 |HIV|+/?|±/?|HAART|
 |Meningitis|+|±/?|Rifampicin<br>3° Cephalosporins|
 |Pertusis|+|±/?|Antibiotics|
-|Tetanus|+|-/?|Vaccine & IVIG|
-|||+|Vaccine|
-||?|±/?|Vaccine|
+|Tetanus|+|-|Vaccine & IVIG|
+|||?|Vaccine|
+||?|-/?|Vaccine|
 |Anthrax|+|±/?|Vaccine & Antibiotics|
