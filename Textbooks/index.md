@@ -1,4 +1,4 @@
-# Memoirs
+# Textbooks
 
 - [Alpaydin's Introduction to Machine Learning](Alpaydin's%20Introduction%20to%20Machine%20Learning.html)
 - [Bloch's Effective Java](Bloch's%20Effective%20Java.html)
