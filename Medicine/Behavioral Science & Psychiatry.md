@@ -199,7 +199,7 @@
 |-|-|
 |D<sub>2</sub> antagonists|1° [Typical] Antipsychotics :: high potency:<br>Haloperidol<br>Trifluoperazine<br>Fluphenazine|
 ||1° [Typical] Antipsychotics :: low potency:<br>Chlorpromazine<br>Thioridazine|
-||2° [Atypical] Antipsychotics:<br>Clozapine<br>Olanzapine<br>Quetiapine<br>Risperidone<br>Ziprasidone|
+||2° [Atypical] Antipsychotics:<br>Aripiprazole<br>Clozapine<br>Olanzapine<br>Quetiapine<br>Risperidone<br>Ziprasidone|
 
 ## Side Effects of Antipsychotics
 
