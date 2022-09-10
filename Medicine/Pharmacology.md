@@ -218,7 +218,7 @@
 ||Pramipexole|Parkinson disease<br>Restless legs syndrome (RLS)|
 ||Ropinirole|Parkinson disease<br>Restless legs syndrome (RLS)|
 |D<sub>2</sub> antagonists|Metoclopramide<br>Prochlorperazine<br>Domperidone<br>Droperidol|Emesis|
-||Antipsychotics|Psychosis<br>Huntington disease<br>Tourette syndrome|
+||Antipsychotics|Psychosis<br>Huntington disease<br>Tourette syndrome<br>Bipolar disorder|
 
 ## Mechanisms of Action of Medications Targeting Serotonin Receptor
 
@@ -227,7 +227,7 @@
 |5-HT<sub>1</sub> agonists|Buspirone|Anxiety|
 ||-Triptans|Cluster headache<br>Migraine|
 ||Ergotamine|Migraine|
-|5-HT<sub>2</sub> antagonists|2° Antipsychotics|Psychosis<br>Bipolar disorder|
+|5-HT<sub>2</sub> antagonists|2° Antipsychotics|Psychosis|
 ||Cyproheptadine|Carcinoid syndrome<br>Serotonin syndrome|
 |5-HT<sub>3</sub> antagonists|-Setrons|Emesis|
 |5-HT<sub>4</sub> agonists|Cisapride<br>Mosapride|Constipation|
