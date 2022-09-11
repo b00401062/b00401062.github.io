@@ -391,14 +391,15 @@
 |Mechanism|Medication|
 |-|-|
 |COX inhibitors|NSAIDs|
+||Sulfasalazine<br>Mesalazine|
 |↓ Folate synthesis|Methotrexate|
 |↓ Purine synthesis|Azathioprine|
 |↓ Pyrimidine synthesis|Leflunomide|
 |↑ DNA crosslinking|Cyclophosphamide|
-|-|Chloroquine|
-|NF-κB inhibitors|Steroids<br>Mesalazine|
+|NF-κB inhibitors|Steroids|
 |TNF-α inhibitors|Infliximab<br>Adalimumab|
 |CD20 inhibitors|Rituximab|
+|-|Chloroquine|
 
 ## Presentation of Limited Scleroderma {CREST}
 
