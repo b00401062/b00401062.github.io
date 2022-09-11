@@ -121,6 +121,8 @@
 |Dihydrorhodamine test|NADPH oxidase|Chronic granulomatous disease (CGD)|
 |EMA binding test|Membrane skeleton|Hereditary spherocytosis|
 |Fluorescent spot test|G6PD|G6PD deficiency|
+|Hydrogen breath test|Lactase|Lactose intolerance|
+||Gut bacteria|Small intestinal bacterial overgrowth (SIBO)|
 |Leukocyte alkaline phosphatase (LAP) stain|Leukocyte alkaline phosphatase (LAP)|AML & CML|
 |Methylene blue reduction stain|G6PD|G6PD deficiency|
 |Nitroblue tetrazolium test|NADPH oxidase|Chronic granulomatous disease (CGD)|
