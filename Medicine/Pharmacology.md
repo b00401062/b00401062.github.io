@@ -46,6 +46,7 @@
 - Thiazides
 - Sulfonamides
 - Sulfonylureas
+- Sulfasalazine
 
 ## Mechanisms of Action of Medications Targeting Ion Channels
 
