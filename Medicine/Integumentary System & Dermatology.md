@@ -53,6 +53,7 @@
 |Rocky Mountain spotted fever|Rickettsia rickettsii|Extremities → Trunk|
 |Roseola infantum|Roseolovirus|Trunk → Face & Extremities|
 |Rubella|Rubella virus|Head → Toe|
+|Seborrheic dermatitis|Malassezia|Anywhere|
 |Tinea [Dermatophytosis]|Dermatophytes|Anywhere|
 |Tinea versicolor|Malassezia|Trunk|
 |Varicella [Chickenpox]|VZV|Face & Trunk → Extremities|
