@@ -1028,10 +1028,10 @@
 |Rubella|+|-/?|Vaccine / IVIG|
 |Rabies|+/?|-/?|Vaccine & IVIG|
 |||+|Vaccine|
-|HIV|+/?|±/?|HAART|
-|Meningitis|+|±/?|Rifampicin<br>3° Cephalosporins|
-|Pertusis|+|±/?|Antibiotics|
+|HIV|+/?|-/?|HAART|
+|Meningitis|+|-/?|Rifampicin<br>3° Cephalosporins|
+|Pertusis|+|-/?|Antibiotics|
 |Tetanus|+|-|Vaccine & IVIG|
 |||?|Vaccine|
 ||?|-/?|Vaccine|
-|Anthrax|+|±/?|Vaccine & Antibiotics|
+|Anthrax|+|-/?|Vaccine & Antibiotics|
