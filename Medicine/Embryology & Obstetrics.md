@@ -192,8 +192,6 @@
 - Abortion
 - Ectopic pregnancy
 - Gestational trophoblastic diseases (GTD)
-  - Hydatidiform moles
-  - Germ cell tumors (GCT)
 - Aneuploidy
 
 ## Etiology of Elevated AFP
@@ -276,6 +274,18 @@
 
 - Labor induction
 - Dilatation and curettage (D&C)
+
+## Gestational Trophoblastic Diseases (GTD)
+
+- Hydatidiform moles
+  - Complete mole
+  - Partial mole
+- Gestational trophoblastic neoplasia (GTN)
+  - Choriocarcinoma
+  - Invasive mole
+  - Trophoblastic tumor
+    - Placental-site trophoblastic tumor
+    - Epithelioid trophoblastic tumor
 
 ## Hydatidiform Moles
 
