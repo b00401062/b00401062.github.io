@@ -333,8 +333,8 @@
 - Mucor & Rhizopus
 - Malassezia
 - Dermatophytes
-  - Microsporum
   - Epidermophyton
+  - Microsporum
   - Trichophyton
 
 ## Classification of Parasites
