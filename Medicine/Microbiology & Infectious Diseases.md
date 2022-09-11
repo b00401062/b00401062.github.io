@@ -540,7 +540,7 @@
 |Elek test|Corynebacterium diphtheriae|
 |Germ tube test|Candida albicans|
 |Latex agglutination test|Cryptococcus neoformans<br>EBV|
-|Monospot test|EBV|
+|Heterophile antibody test<br>Monospot test|EBV|
 |Nitrite test|Gram negative bacteria|
 |PCR|Neisseria gonorrhoeae<br>Chlamydia trachomatis|
 |Quellung reaction|Encapsulated bacteria|
