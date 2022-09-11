@@ -375,13 +375,13 @@
 ||Dipyridamole<br>Cilostazol|Antiplatelet<br>Vasodilation|
 |COX inhibitors|NSAIDs:<br>Aspirin<br>Ibuprofen<br>Naproxen<br>Diclofenac<br>Ketorolac<br>Meloxicam<br>Indomethacin|Antipyresis<br>Analgesia<br>Inflammation<br>Antiplatelet<br>Tocolysis<br>PDA closure|
 ||Acetaminophen|Antipyresis<br>Analgesia|
+||Sulfasalazine<br>Mesalazine|Inflammatory Bowel Disease (IBD)<br>Rheumatoid Arthritis|
 |COX-2 inhibitors|Celecoxib|Arthritis|
 |LOX inhibitors|Zileuton|Asthma|
 |ADH inhibitors|Ethanol|Methanol antidote|
 ||Fomepizole|Methanol antidote|
 |ALDH inhibitors|Disulfiram|Alcohol cessation|
-|Xanthine oxidase inhibitors|Allopurinol|Gout :: chronic|
-||Febuxostat|Gout :: chronic|
+|Xanthine oxidase inhibitors|Allopurinol<br>Febuxostat|Gout|
 |Nitrates|Nitroprusside<br>Hydralazine|Vasodilators|
 ||Nitroglycerin<br>Isosorbide|Venodilators|
 
@@ -499,7 +499,7 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|NF-κB inhibitors|Corticosteroids<br>Mesalazine|Immunosuppression|
+|NF-κB inhibitors|Corticosteroids|Immunosuppression|
 |Calcineurin inhibitors|Cyclosporine<br>Tacrolimus|Immunosuppression|
 |mTOR inhibitors|Sirolimus<br>Everolimus|Immunosuppression|
 
