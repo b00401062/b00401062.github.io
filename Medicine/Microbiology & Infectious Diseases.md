@@ -38,7 +38,7 @@
 |Lactobacillus|-|-|
 |Listeria|-|-|
 |Mycobacterium|Acid fast|Lowenstein-Jensen<br>Middlebrook|
-|Tropheryma|-|-|
+|Tropheryma|PAS|-|
 
 #### Branching
 
@@ -124,52 +124,6 @@
 |-|-|-|
 |Mycoplasma|-|Eaton|
 |Ureaplasma|-|-|
-
-## Stain & Culture Techniques
-
-### Gram Stain Limitation
-
-|Mnemonic|Bacteria|
-|-|-|
-|These|Treponema|
-|Microbes|Mycobacteria|
-|May|Mycoplasma|
-|Lack|Legionella|
-|Real|Rickettsia|
-|Color|Chlamydia|
-
-### Giemsa Stain
-
-|Mnemonic|Bacteria|
-|-|-|
-|Certain|Chlamydia|
-|Bugs|Borrelia|
-|Really|Rickettsia|
-|Try|Trypanosoma|
-|Patience|Plasmodium|
-
-### Acid Fast Stain (AFS)
-
-- Mycobacterium
-- Nocardia
-
-### Silver Stain
-
-- Helicobacter
-- Legionella
-- Fungi
-
-### India Ink Stain
-
-- Encapsulated bacteria
-- Cryptococcus
-
-### MacConkey Agar {SEEK}
-
-- Serratia
-- Escherichia
-- Enterobacter
-- Klebsiella
 
 ## Virulence Factors
 
@@ -532,7 +486,45 @@
 - Coxsackievirus
 - HAV
 
-## Special Laboratory Tests to Identify Pathogens
+
+## Gram Stain Limitation
+
+|Mnemonic|Bacteria|
+|-|-|
+|These|Treponema|
+|Microbes|Mycobacteria|
+|May|Mycoplasma|
+|Lack|Legionella|
+|Real|Rickettsia|
+|Color|Chlamydia|
+
+## Pathogen Detection Techniques
+
+### Special Stain
+
+|Stain|Pathogens|
+|-|-|
+|Periodic acid–Schiff (PAS)|Tropheryma|
+|Giemsa|Chlamydia<br>Borrelia<br>Rickettsia<br>Trypanosoma<br>Plasmodium|
+|Acid-fast|Mycobacterium<br>Nocardia|
+|Silver|Helicobacter<br>Legionella<br>Fungi|
+|India ink|Encapsulated bacteria<br>Cryptococcus|
+
+### Special Culture
+
+|Agar|Pathogens|
+|-|-|
+|Loffler<br>Tellurite|Corynebacterium|
+|Lowenstein-Jensen<br>Middlebrook|Mycobacterium|
+|Thayer-Martin|Neisseria|
+|Bordet-Gengou<br>Regan-Lowe|Bordetella|
+|Chocolate|Haemophilus|
+|Charcoal yeast|Legionella|
+|MacConkey|Serratia<br>Escherichia<br>Enterobacter<br>Klebsiella|
+|Eosin-methylene blue (EMB)|Escherichia|
+|Eaton|Mycoplasma|
+
+## Special Laboratory Tests
 
 |Test|Pathogens|
 |-|-|
@@ -551,7 +543,7 @@
 |Tzanck test|HSV & VZV|
 |Urea breath test<br>Fecal antigen test|Helicobacter pylori|
 |Urine antigen test|Streptococcus pneumoniae<br>Legionella|
-|VDRL/RPR<br>FTA-ABS|Treponema pallidum|
+|Dark-field<br>VDRL/RPR<br>FTA-ABS|Treponema pallidum|
 |Weil-Felix test|Rickettsia|
 
 ## Arthropod-Borne Pathogens
