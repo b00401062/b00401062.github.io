@@ -71,7 +71,7 @@
 
 #### Enteric {B-SEEK-P-SSPY}
 
-|Bacteria|Stain|Culture|Lactose<br>Fermentation|Oxidase|H<sub>2</sub>S|
+|Bacteria|Stain|Culture|Lactose|Oxidase|H<sub>2</sub>S|
 |-|-|-|-|-|-|
 |Bacteroides|-|-|+|±|-|
 |Serratia|-|MacConkey|+|-|-|
@@ -524,7 +524,7 @@
 |Eosin-methylene blue (EMB)|Escherichia|
 |Eaton|Mycoplasma|
 
-## Special Laboratory Tests
+### Special Laboratory Tests
 
 |Test|Pathogens|
 |-|-|
