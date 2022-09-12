@@ -37,7 +37,7 @@
 |Corynebacterium|-|Loffler<br>Tellurite|
 |Lactobacillus|-|-|
 |Listeria|-|-|
-|Mycobacterium|Acid fast|Lowenstein-Jensen<br>Middlebrook|
+|Mycobacterium|Acid-fast|Lowenstein-Jensen<br>Middlebrook|
 |Tropheryma|PAS|-|
 
 #### Branching
@@ -45,7 +45,7 @@
 |Bacteria|Stain|Culture|
 |-|-|-|
 |Actinomyces|-|-|
-|Nocardia|Acid fast|-|
+|Nocardia|Acid-fast|-|
 
 ## Gram Negative Lab Algorithm
 
@@ -504,7 +504,7 @@
 
 |Stain|Pathogens|
 |-|-|
-|Periodic acid–Schiff (PAS)|Tropheryma|
+|PAS|Tropheryma|
 |Giemsa|Chlamydia<br>Borrelia<br>Rickettsia<br>Trypanosoma<br>Plasmodium|
 |Acid-fast|Mycobacterium<br>Nocardia|
 |Silver|Helicobacter<br>Legionella<br>Fungi|
