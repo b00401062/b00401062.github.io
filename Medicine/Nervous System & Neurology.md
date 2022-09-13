@@ -871,6 +871,14 @@
 - Neurofibroma
 - Melanoma
 
+## Management of Pituitary Adenoma
+
+||Asymptomatic|Symptomatic|
+|-|-|-|
+|Prolactinoma|Observation|Pharmacotherapy|
+|Non-PRL secretory|Observation|Surgery|
+|Non-secretory|Observation|Surgery|
+
 ## Disorders of Consciousness
 
 ||Aware|Sleep-wake cycles|Brainstem reflexes|Respiration|
