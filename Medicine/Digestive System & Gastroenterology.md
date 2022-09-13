@@ -494,6 +494,15 @@
   - Hepatitis
   - Cirrhosis
 
+## Comparison Between Biliary Diseases
+
+|Disease|Pain|Fever|Bil|
+|-|-|-|-|
+|Cholelithiasis|±|-|-|
+|Cholecystitis|+|+|-|
+|Choledocholithiasis|±|-|↑|
+|Cholangitis|+|+|↑|
+
 ## Charcot Triad of Cholangitis
 
 - Pain :: RUQ
