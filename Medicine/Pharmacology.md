@@ -125,9 +125,9 @@
 |NDRIs|Methylphenidate|ADHD<br>Narcolepsy|
 ||Cocaine<br>Amphetamine<br>MDMA [Ecstasy]|-|
 ||Bupropion|Depression<br>Smoking cessation|
-|TCAs|-Triptylines<br>-Pramines|Neuropathic pain<br>Depression<br>Anxiety<br>OCD|
-|SSRIs|Fluoxetine<br>Paroxetine<br>Sertraline<br>Citalopram|Depression<br>Anxiety<br>OCD|
-|SNRIs|Venlafaxine<br>Duloxetine|Neuropathic pain<br>Depression<br>Anxiety<br>OCD|
+|TCAs|-Triptylines<br>-Pramines|Neuropathic pain<br>Depression<br>Anxiety<br>OCD<br>Cataplexy|
+|SSRIs|Fluoxetine<br>Paroxetine<br>Sertraline<br>Citalopram|Depression<br>Anxiety<br>OCD<br>Cataplexy|
+|SNRIs|Venlafaxine<br>Duloxetine|Neuropathic pain<br>Depression<br>Anxiety<br>OCD<br>Cataplexy|
 |GRIs|Tiagabine|Seizure|
 
 - Norepinephrine reuptake inhibitors (NRIs)
