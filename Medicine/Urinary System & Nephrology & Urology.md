@@ -91,13 +91,13 @@
 
 ## Mechanisms of Action of Diuretics
 
-|Mechanism|Mnemonic|Medication|Indications|Location|Serum K|Serum H|Serum Ca|
-|-|-|-|-|-|-|-|-|
-|Carbonic anhydrase inhibitors|Abnormal|Acetazolamide|Diuretics|Proximal convoluted tubule (PCT)|↓|↑|-|
-|Na-K-2Cl sympoter blockers|Loss|Loop diuretics:<br>Furosemide<br>Bumetanide<br>Torsemide|Diuretics|Ascending loop of Henle|↓|↓|↓|
-|Na-Cl sympoter blockers|Through|Thiazide|Diuretics|Distal convoluted tubule (DCT)|↓|↓|↑|
-|Na channel blockers|Kidney|K-sparing diuretics:<br>Amiloride<br>Triamterene|Diuretics|Collecting tubule (CT)|↑|↑|-|
-|Aldosterone antagonists|Kidney|K-sparing diuretics:<br>Spironolactone<br>Eplerenone|Diuretics|Collecting tubule (CT)|↑|↑|-|
+|Mechanism|Mnemonic|Medication|Location|Serum K|Serum H|Serum Ca|
+|-|-|-|-|-|-|-|
+|Carbonic anhydrase inhibitors|Abnormal|Acetazolamide|Proximal convoluted tubule (PCT)|↓|↑|-|
+|Na-K-2Cl sympoter blockers|Loss|Loop diuretics:<br>Furosemide<br>Bumetanide<br>Torsemide|Ascending loop of Henle|↓|↓|↓|
+|Na-Cl sympoter blockers|Through|Thiazide|Distal convoluted tubule (DCT)|↓|↓|↑|
+|Na channel blockers|Kidney|K-sparing diuretics:<br>Amiloride<br>Triamterene|Collecting tubule (CT)|↑|↑|-|
+|Aldosterone antagonists|Kidney|K-sparing diuretics:<br>Spironolactone<br>Eplerenone|Collecting tubule (CT)|↑|↑|-|
 
 ## Indications for Acute Dialysis {AEIOU}
 
