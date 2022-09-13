@@ -470,7 +470,7 @@
 - No vascular invasion
 - No extrahepatic metastasis
 
-## Etiology of Hyperbilirubinemia & Jaundice
+## Etiology of Hyperbilirubinemia
 
 ||Indirect|Direct|Mixed|
 |-|-|-|-|
