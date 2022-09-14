@@ -91,7 +91,7 @@
 
 ## Mechanisms of Action of Diuretics
 
-|Mechanism|Mnemonic|Medication|Location|Serum K|Serum H|Serum Ca|
+|Mechanism|Mnemonic|Medication|Location|K|H|Ca|
 |-|-|-|-|-|-|-|
 |Carbonic anhydrase inhibitors|Abnormal|Acetazolamide|Proximal convoluted tubule (PCT)|↓|↑|-|
 |Na-K-2Cl sympoter blockers|Loss|Loop diuretics:<br>Furosemide<br>Bumetanide<br>Torsemide|Ascending loop of Henle|↓|↓|↓|
