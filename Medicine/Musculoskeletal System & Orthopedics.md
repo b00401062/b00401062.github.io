@@ -31,13 +31,26 @@
 
 ## Mechanisms of Action of Muscle Relaxants
 
-|Mechanism|Medication|
+### Antispastics
+
+|Mechanism|Medication|Indications|
 |-|-|
-|ACh release inhibitors|Botulinum toxin|
-|N<sub>M</sub> [Neuromuscular] agonists|Succinylcholine|
-|N<sub>M</sub> [Neuromuscular] antagonists|Atracurium<br>Rocuronium|
-|α<sub>2</sub> agonists|Tizanidine|
-|GABA<sub>B</sub> agonists|Baclofen|
+|Ca channel blockers|Dantrolene|Malignant hyperthermia<br>NMS|
+|ACh release inhibitors|Botulinum toxin|Muscle relaxant|
+|N<sub>M</sub> [Neuromuscular] agonists|Succinylcholine|Anesthesia|
+|N<sub>M</sub> [Neuromuscular] antagonists|Atracurium<br>Rocuronium|Anesthesia|
+|α<sub>2</sub> agonists|Tizanidine|Multiple sclerosis<br>Cerebral palsy|
+|NMDA antagonists|Riluzole|Amyotrophic lateral sclerosis (ALS)|
+|GABA<sub>B</sub> agonists|Baclofen|Multiple sclerosis<br>Cerebral palsy|
+
+### Antispasmodics
+
+- Carisoprodol
+- Chlorzoxazone
+- Cyclobenzaprine
+- Metaxalone
+- Methocarbamol
+- Orphenadrine
 
 ## Types of Fracture
 
