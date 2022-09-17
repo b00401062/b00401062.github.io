@@ -162,9 +162,9 @@
 ||Antipsychotics|-|
 ||Antidepressants :: TCAs|-|
 ||1° Antihistamines|-|
-|N<sub>N</sub> [Ganglionic] antagonists|Hexamethonium|-|
+|N<sub>N</sub> antagonists|Hexamethonium|-|
 ||Mecamylamine|-|
-|N<sub>M</sub> [Neuromuscular] antagonists|Atracurium<br>Rocuronium|Muscle relaxant|
+|N<sub>M</sub> antagonists|Atracurium<br>Rocuronium|Muscle relaxant|
 
 ## Mechanisms of Action of Adrenergic Agonists
 
