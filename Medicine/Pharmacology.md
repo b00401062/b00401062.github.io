@@ -145,9 +145,9 @@
 ||Methacholine|Asthma diagnosis|
 ||Carbachol|Glaucoma|
 ||Pilocarpine|Glaucoma<br>Xerophthalmia<br>Xerostomia|
-|N<sub>N</sub> [Ganglionic] agonists|Nicotine|Stimulant|
+|N<sub>N</sub> agonists|Nicotine|Stimulant|
 ||Varenicline|Smoking cessation|
-|N<sub>M</sub> [Neuromuscular] agonists|Succinylcholine|Muscle relaxant|
+|N<sub>M</sub> agonists|Succinylcholine|Muscle relaxant|
 
 ## Mechanisms of Action of Cholinergic Antagonists
 
