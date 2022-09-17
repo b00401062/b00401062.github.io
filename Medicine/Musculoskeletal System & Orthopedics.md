@@ -37,8 +37,8 @@
 |-|-|
 |Ca channel blockers|Dantrolene|Malignant hyperthermia<br>NMS|
 |ACh release inhibitors|Botulinum toxin|Muscle relaxant|
-|N<sub>M</sub> [Neuromuscular] agonists|Succinylcholine|Anesthesia|
-|N<sub>M</sub> [Neuromuscular] antagonists|Atracurium<br>Rocuronium|Anesthesia|
+|N<sub>M</sub> agonists|Succinylcholine|Anesthesia|
+|N<sub>M</sub> antagonists|Atracurium<br>Rocuronium|Anesthesia|
 |α<sub>2</sub> agonists|Tizanidine|Multiple sclerosis<br>Cerebral palsy|
 |NMDA antagonists|Riluzole|Amyotrophic lateral sclerosis (ALS)|
 |GABA<sub>B</sub> agonists|Baclofen|Multiple sclerosis<br>Cerebral palsy|
