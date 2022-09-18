@@ -542,7 +542,7 @@
 |Strep test|GAS :: Streptococcus pyogenes|
 |Tzanck test|HSV & VZV|
 |Urea breath test<br>Fecal antigen test|Helicobacter pylori|
-|Urine antigen test|Streptococcus pneumoniae<br>Legionella|
+|Urine antigen test|Streptococcus pneumoniae<br>Legionella<br>Histoplasma|
 |Dark-field<br>VDRL/RPR<br>FTA-ABS|Treponema pallidum|
 |Weil-Felix test|Rickettsia|
 
