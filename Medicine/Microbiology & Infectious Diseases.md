@@ -125,41 +125,27 @@
 |Mycoplasma|-|Eaton|
 |Ureaplasma|-|-|
 
-## Virulence Factors
+## Gram Stain Limitation
 
-|Factor|Bacteria|
+|Mnemonic|Bacteria|
 |-|-|
-|A protein|Staphylococcus aureus|
-|Biofilm|-|
-|Capsule|-|
-|Endotoxin|Gram negative bacteria|
-|Exotoxin|Gram positive & negative bacteria|
-|Fimbria|Gram negative bacteria|
-|IgA protease|-|
-|M protein|Streptococcus pyogenes|
-|Pili|-|
-|Teichoic acid|Gram positive bacteria|
+|These|Treponema|
+|Microbes|Mycobacteria|
+|May|Mycoplasma|
+|Lack|Legionella|
+|Real|Rickettsia|
+|Color|Chlamydia|
 
-## Exotoxins
+## Hemolysis
 
-|Bacteria|Exotoxin|Target|Mechanism|
-|-|-|-|-|
-|Corynebacterium diphtheriae|Diphtheria toxin|Elongation factor (EF-2)|↓ Protein synthesis|
-|Pseudomonas aeruginosa|Exotoxin A|Elongation factor (EF-2)|↓ Protein synthesis|
-|Shigella|Shiga toxin|60S ribosome|↓ Protein synthesis|
-|EHEC|Shiga-like toxin|60S ribosome|↓ Protein synthesis|
-|ETEC|Heat-stable toxin (ST)|↑ G<sub>s</sub>PCR|↑ cGMP → ↑ fluid secretion|
-|ETEC|Heat-labile toxin (LT)|↑ G<sub>s</sub>PCR|↑ cAMP → ↑ fluid secretion|
-|Vibrio cholerae|Cholera toxin|↑ G<sub>s</sub>PCR|↑ cAMP → ↑ fluid secretion|
-|Bacillus anthracis|Edema toxin|↑ G<sub>s</sub>PCR|↑ cAMP → ↑ fluid secretion|
-|Bordetella pertussis|Pertussis toxin|↓ G<sub>i</sub>PCR|↑ cAMP → ↓ phagocytosis|
-|Clostridium botulinum|Botulinum toxin|SNARE|↓ ACh release|
-|Clostridium tetani|Tetanus toxin|SNARE|↓ GABA & Glycine release|
+![](../Figures/Hemolysis.png)
 
-## Pathogens Producing Shiga Toxin
+### β-Hemolytic Bacteria {LABS}
 
-- Shigella dysenteriae serotype 1
-- Shiga-toxin-producing Escherichia coli (STEC)
+- Listeria monocytogenes
+- GAS :: Streptococcus pyogenes
+- GBS :: Streptococcus agalactiae
+- Staphylococcus aureus
 
 ## Aerobes & Anaerobes
 
@@ -239,18 +225,49 @@
 - Klebsiella
 - Staphylococcus
 
-## Hemolysis
+## Spore-forming Bacteria
 
-![](../Figures/Hemolysis.png)
+- Bacillus
+- Clostridium
+- Coxiella
 
-## β-Hemolytic Bacteria {LABS}
+## Virulence Factors
 
-- Listeria monocytogenes
-- GAS :: Streptococcus pyogenes
-- GBS :: Streptococcus agalactiae
-- Staphylococcus aureus
+|Factor|Bacteria|
+|-|-|
+|A protein|Staphylococcus aureus|
+|Biofilm|-|
+|Capsule|-|
+|Endotoxin|Gram negative bacteria|
+|Exotoxin|Gram positive & negative bacteria|
+|Fimbria|Gram negative bacteria|
+|IgA protease|-|
+|M protein|Streptococcus pyogenes|
+|Pili|-|
+|Teichoic acid|Gram positive bacteria|
 
-## Specialized Transduction Through Lysogenic Phages {ABCDE}
+## Exotoxins
+
+|Bacteria|Exotoxin|Target|Mechanism|
+|-|-|-|-|
+|Corynebacterium diphtheriae|Diphtheria toxin|Elongation factor (EF-2)|↓ Protein synthesis|
+|Pseudomonas aeruginosa|Exotoxin A|Elongation factor (EF-2)|↓ Protein synthesis|
+|Shigella|Shiga toxin|60S ribosome|↓ Protein synthesis|
+|EHEC|Shiga-like toxin|60S ribosome|↓ Protein synthesis|
+|ETEC|Heat-stable toxin (ST)|↑ G<sub>s</sub>PCR|↑ cGMP → ↑ fluid secretion|
+|ETEC|Heat-labile toxin (LT)|↑ G<sub>s</sub>PCR|↑ cAMP → ↑ fluid secretion|
+|Vibrio cholerae|Cholera toxin|↑ G<sub>s</sub>PCR|↑ cAMP → ↑ fluid secretion|
+|Bacillus anthracis|Edema toxin|↑ G<sub>s</sub>PCR|↑ cAMP → ↑ fluid secretion|
+|Bordetella pertussis|Pertussis toxin|↓ G<sub>i</sub>PCR|↑ cAMP → ↓ phagocytosis|
+|Clostridium botulinum|Botulinum toxin|SNARE|↓ ACh release|
+|Clostridium tetani|Tetanus toxin|SNARE|↓ GABA & Glycine release|
+
+## Pathogens Producing Shiga Toxin
+
+- Shigella dysenteriae serotype 1
+- Shiga-toxin-producing Escherichia coli (STEC)
+
+## Pathogens with Toxins Carried on Lysogenic Phages {ABCDE}
 
 |Toxin|Bacteria|
 |-|-|
@@ -259,12 +276,6 @@
 |Cholera toxin|Vibrio cholera|
 |Diphtheria toxin|Corynebacterium diphtheria|
 |Erythrogenic toxin|Streptococcus pyogenes|
-
-## Spore-forming Bacteria
-
-- Bacillus
-- Clostridium
-- Coxiella
 
 ## Classification of Fungi
 
@@ -485,18 +496,6 @@
 - Rhinovirus
 - Coxsackievirus
 - HAV
-
-
-## Gram Stain Limitation
-
-|Mnemonic|Bacteria|
-|-|-|
-|These|Treponema|
-|Microbes|Mycobacteria|
-|May|Mycoplasma|
-|Lack|Legionella|
-|Real|Rickettsia|
-|Color|Chlamydia|
 
 ## Pathogen Detection Techniques
 
