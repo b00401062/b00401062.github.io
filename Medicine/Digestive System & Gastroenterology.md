@@ -284,7 +284,9 @@
 - Tropical sprue
 - Whipple disease
 
-## Pathogens of Watery Diarrhea {GBS-CAVERN}
+## Pathogens of Infectious Diarrhea
+
+### Watery {GBS-CAVERN}
 
 - Giardia lamblia
 - Bacillus cereus
@@ -297,7 +299,7 @@
 - Rotavirus
 - Norovirus
 
-## Pathogens of Bloody Diarrhea {SYCE}
+### Bloody {SYCE}
 
 - Salmonella
 - Shigella
