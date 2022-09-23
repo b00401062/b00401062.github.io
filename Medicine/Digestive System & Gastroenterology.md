@@ -320,6 +320,26 @@
 - Onset a/w frequency of stool
 - Onset a/w appearance of stool
 
+## Etiology of Hematochezia
+
+### Painless
+
+- Meckel diverticulum
+- Diverticulosis
+- Angiodysplasia
+- Hemorrhoids
+- Malignancy
+
+### Painful
+
+- Intussusception
+- Anal fissures
+- Inflammatory bowel disease
+- Infectious colitis
+- Diverticulitis
+- Necrotizing enterocolitis (NEC)
+- Ischemic colitis
+
 ## Classification of Inflammatory Bowel Disease (IBD)
 
 ||Crohn Disease|Ulcerative Colitis|
