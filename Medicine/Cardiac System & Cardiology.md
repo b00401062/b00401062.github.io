@@ -674,3 +674,12 @@
 
 - Anti-MRSA
 - Gentamycin<br>Anti-pseudomonal β-lactams
+
+## Management of Pericarditis
+
+|Etiology|Management|
+|-|-|
+|Bacterial|Antibiotics|
+|Viral|Aspirin|
+|Fibrinous|NSAIDs<br>Colchicine|
+|Uremic|Steroids|
