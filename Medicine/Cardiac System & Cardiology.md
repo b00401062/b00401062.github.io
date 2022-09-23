@@ -673,7 +673,9 @@
 ## Empirical Antibiotics for Infective Endocarditis
 
 - Anti-MRSA
-- Gentamycin<br>Anti-pseudomonal β-lactams
+- Anti-pseudomonal β-lactams
+- ± Aminoglycosides
+- ± Clindamycin
 
 ## Management of Pericarditis
 
