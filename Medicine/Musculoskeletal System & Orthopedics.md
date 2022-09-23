@@ -213,7 +213,7 @@
 
 ## Empirical Antibiotics for Osteomyelitis
 
-- Anti-staphylococcal penicillin<br>Vancomycin
+- Anti-staphylococcal penicillin<br>Anti-MRSA
 - Anti-pseudomonal β-lactams<br>Fluoroquinolones
 - Clindamycin
 
