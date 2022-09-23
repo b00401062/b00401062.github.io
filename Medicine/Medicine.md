@@ -302,7 +302,7 @@
   - **Cystic fibrosis**
 - Urine Cl > 20 [Saline-resistant]
   - Normotensive
-    - **Diuretics** :: Loop diuretics & Thiazide
+    - **Diuretics** :: Loop diuretics & Thiazides
     - **Bartter syndrome**
     - **Gitelman syndrome**
   - Hypertensive
@@ -395,7 +395,7 @@
 - Renal losses
   - Hyperaldosteronism
   - Renal tubular acidosis (RTA) :: type 1 & 2
-  - Diuretics :: Acetazolamide & Loop diuretics & Thiazide
+  - Diuretics :: Acetazolamide & Loop diuretics & Thiazides
   - Bartter syndrome
   - Gitelman syndrome
   - Liddle syndrome

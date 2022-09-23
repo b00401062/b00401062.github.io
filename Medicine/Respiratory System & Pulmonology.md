@@ -142,7 +142,7 @@
 
 ![](../Figures/Treatment%20of%20Asthma.gif)
 
-## Mechanisms of Action of Medications for Asthma
+## Medications for Asthma
 
 |Mechanism|Medication|
 |-|-|

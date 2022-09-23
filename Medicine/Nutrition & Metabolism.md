@@ -245,7 +245,7 @@
 - Xanthelasma
 - Corneal arcus
 
-## Mechanisms of Action of Medications for Hyperlipidemia {OECSNF}
+## Medications for Hyperlipidemia {OECSNF}
 
 |Mechanism|Medication|LDL|HDL|Triglyceride|
 |-|-|-|-|-|

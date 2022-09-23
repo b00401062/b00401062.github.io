@@ -444,7 +444,7 @@
 |Nephrosis|↓ Protein C/S|
 |Pregnancy|↑ Factor 1|
 
-## Mechanisms of Action of Antiplatelets
+## Antiplatelets
 
 |Mechanism|Medication|
 |-|-|
@@ -453,7 +453,7 @@
 |PDE inhibitors|Dipyridamole<br>Cilostazol|
 |COX inhibitors|NSAIDs|
 
-## Mechanisms of Action of Anticoagulants
+## Anticoagulants
 
 |Mechanism|Medication|
 |-|-|

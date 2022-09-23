@@ -73,7 +73,7 @@
 |β<sub>1</sub>|↑ (1°)|-|↑|
 |β<sub>2</sub>|↑|↓ (1°)|↓|
 
-## Mechanisms of Action of Inotropes
+## Inotropes
 
 |Mechanism|Medication|
 |-|-|
@@ -311,6 +311,7 @@
 - Diuretics :: Spironolactone
 - Digitalis
 - SGLT-2 inhibitors
+- Cardiac resynchronization therapy (CRT)
 
 ## Etiology of Dilated Cardiomyopathy (DCMP) {ABCD}
 
@@ -320,7 +321,7 @@
 - Cocaine
 - Chagas disease
 - Doxorubicin
-- Duchenne muscular dystrophy
+- Duchenne muscular dystrophy (DMD)
 
 ## Indications for ICD in HCMP
 
@@ -438,7 +439,7 @@
   - Hypomagnesemia
 - Congenital long QT syndrome
 
-## Mechanisms of Action of Antiarrhythmics
+## Antiarrhythmics
 
 |Class|Mechanism|Medication|
 |-|-|-|
@@ -535,7 +536,7 @@
 ## Diagnosis of STEMI
 
 - ST elevation
-  - In all leads except V2 and V3: > 1 mm 
+  - In all leads except V2 and V3: > 1 mm
   - In V2 and V3
     - In females: > 1.5 mm
     - In males age ≥ 40 years: > 2 mm

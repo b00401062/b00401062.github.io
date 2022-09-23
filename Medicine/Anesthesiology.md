@@ -6,7 +6,7 @@
 - Analgesia
 - Muscle relaxation
 
-## Mechanisms of Action of Medications for General Anesthesia
+## Medications for General Anesthesia
 
 |Mechanism|Medication|Indications|
 |-|-|-|

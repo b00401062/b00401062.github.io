@@ -66,7 +66,7 @@
 - Clonidine
 - Propranolol
 
-## Mechanisms of Action of Medications for Acromegaly
+## Medications for Acromegaly
 
 |Mechanism|Medication|
 |-|-|
@@ -334,7 +334,7 @@
 - Fasting hypoglycemia :: < 50 mg/dL
 - Relief of symptoms on IV glucose
 
-## Mechanisms of Action of Medications for Diabetes Mellitus
+## Medications for Diabetes Mellitus
 
 |Mechanism|Effects|Medication|Indications|
 |-|-|-|-|

@@ -89,13 +89,13 @@
 |Rhomboid crystals|Uric acid|Hyperuricemia|
 |Hexagonal crystals|Cystine|Cystinuria|
 
-## Mechanisms of Action of Diuretics
+## Diuretics
 
 |Mechanism|Mnemonic|Medication|Location|K|H|Ca|
 |-|-|-|-|-|-|-|
 |Carbonic anhydrase inhibitors|Abnormal|Acetazolamide|Proximal convoluted tubule (PCT)|↓|↑|-|
 |Na-K-2Cl sympoter blockers|Loss|Loop diuretics:<br>Furosemide<br>Bumetanide<br>Torsemide|Ascending loop of Henle|↓|↓|↓|
-|Na-Cl sympoter blockers|Through|Thiazide|Distal convoluted tubule (DCT)|↓|↓|↑|
+|Na-Cl sympoter blockers|Through|Thiazides:<br>Hydrochlorothiazide<br>Chlorthalidone|Distal convoluted tubule (DCT)|↓|↓|↑|
 |Na channel blockers|Kidney|K-sparing diuretics:<br>Amiloride<br>Triamterene|Collecting tubule (CT)|↑|↑|-|
 |Aldosterone antagonists|Kidney|K-sparing diuretics:<br>Spironolactone<br>Eplerenone|Collecting tubule (CT)|↑|↑|-|
 

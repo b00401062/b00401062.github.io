@@ -33,7 +33,7 @@
 |Substance P|NK<sub>1</sub>|Vasodilation|
 |Nitric oxide|-|Vasodilation|
 
-## Mechanisms of Action of Vasodilators
+## Vasodilators
 
 |Mechanism|Medication|
 |-|-|
@@ -47,7 +47,7 @@
 |PDE inhibitors|Dipyridamole<br>Cilostazol|
 |Nitrates|Nitroprusside<br>Hydralazine|
 
-## Mechanisms of Action of Venodilators
+## Venodilators
 
 |Mechanism|Medication|
 |-|-|

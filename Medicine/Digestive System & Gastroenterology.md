@@ -92,7 +92,7 @@
 - Cholesterol
 - Phospholipids
 
-## Treatment of Esophageal Spasm
+## Treatment of Diffuse Esophageal Spasm (DES)
 
 - Ca channel blockers :: -Dipines
 - Reuptake inhibitors :: TCAs
@@ -151,7 +151,7 @@
 - Inability to vomit
 - Difficult passage of nasogastric (NG) tube
 
-## Mechanisms of Action of Medications for PUD
+## Medications for PUD
 
 |Mechanism|Medication|
 |-|-|
@@ -237,7 +237,7 @@
 - Chemotherapy
 - Postoperation
 
-## Mechanisms of Action of Prokinetics
+## Prokinetics
 
 |Mechanism|Medication|
 |-|-|
@@ -245,7 +245,7 @@
 |5-HT<sub>4</sub> agonists|Cisapride<br>Mosapride|
 |Stimulants|Macrolides|
 
-## Mechanisms of Action of Antiemetics
+## Antiemetics
 
 |Mechanism|Medication|Indications|
 |-|-|-|
@@ -257,7 +257,7 @@
 |Cannabinoid agonists|Dronabinol|Chemotherapy|
 |-|Steroids|Chemotherapy|
 
-## Mechanisms of Action of Laxatives {SHELB}
+## Laxatives {SHELB}
 
 |Mechanism|Medication|
 |-|-|
@@ -310,7 +310,7 @@
 
 ## Indications for Antibiotic Treatment of Diarrhea
 
-- Without Shiga toxin 
+- Without Shiga toxin
 - Pathogen w/ low infectious dose
 - Immunodeficiency
 - Hemodynamic instability

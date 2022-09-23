@@ -463,11 +463,11 @@
 |Acute|T-cell|Days ~ Weeks|
 |Chronic|T-cell|Months ~ Years|
 
-## Mechanisms of Action of Immunosuppressants
+## Immunosuppressants
 
 ![](../Figures/Mechanisms%20of%20Action%20of%20Immunosuppressants.png)
 
-## Mechanisms of Action of Immunosuppressants
+## Immunosuppressants
 
 |Mechanism|Medication|Indications|
 |-|-|-|

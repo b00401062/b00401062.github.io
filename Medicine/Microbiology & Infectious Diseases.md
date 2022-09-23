@@ -569,7 +569,7 @@
 |Trypanosoma cruzi|Reduviid bug [Kissing bug]|Chagas disease|
 |Leishmania donovani|Sandfly|Leishmaniasis|
 
-## Mechanisms of Action of Antibiotics
+## Antibiotics
 
 ### Cell Wall Inhibitors
 
@@ -711,7 +711,7 @@
 |CRE|Tigecycline<br>Polymyxins|
 |MDRAB|Tigecyclin<br>Polymyxins|
 
-## Mechanisms of Action of Antifungals
+## Antifungals
 
 |Mechanism|Medication|Indications|
 |-|-|-|
@@ -725,7 +725,7 @@
 
 ![](../Figures/Mechanisms%20of%20Action%20of%20Antifungals.png)
 
-## Mechanisms of Action of Antivirals
+## Antivirals
 
 |Mechanism|Medication|Indications|
 |-|-|-|

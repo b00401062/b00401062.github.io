@@ -220,7 +220,7 @@
 |Cremasteric reflex|-|+|
 |Blood flow|↓|↑|
 
-## Mechanisms of Action of Medications for BPH
+## Medications for BPH
 
 |Mechanism|Medication|
 |-|-|

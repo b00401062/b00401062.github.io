@@ -29,7 +29,7 @@
 |Patellar grind test|Patellofemoral pain syndrome|
 |Thompson test|Achilles tendon tear|
 
-## Mechanisms of Action of Muscle Relaxants
+## Muscle Relaxants
 
 ### Antispastics
 
@@ -87,7 +87,7 @@
 - Rotator cuff injury
 - Monteggia fracture
   - Proximal ulnar fracture
-  - Radial head dislocation 
+  - Radial head dislocation
 - Galeazzi fracture
   - Distal radial fracture
   - Distal radioulnar joint dislocation
@@ -151,7 +151,7 @@
 - Hearing loss :: conductive
 - Opalescent teeth
 
-## Mechanisms of Action of Medications for Osteoporosis
+## Medications for Osteoporosis
 
 |Mechanism|Medication|
 |-|-|
@@ -191,7 +191,7 @@
 |Birefringent|-|+|
 |Presentation|Tophus|Chondrocalcinosis|
 
-## Mechanisms of Action of Medications for Gouty Arthritis
+## Medications for Gouty Arthritis
 
 |Mechanism|Medication|
 |-|-|

@@ -90,7 +90,7 @@
 - Non-reactive pupil
 - Mydriasis
 
-## Mechanisms of Action of Medications for Glaucoma
+## Medications for Glaucoma
 
 |Mechanism|Medication|
 |-|-|

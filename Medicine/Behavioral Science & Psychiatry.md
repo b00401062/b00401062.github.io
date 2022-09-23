@@ -193,7 +193,7 @@
 - Catatonia
 - Negative symptoms
 
-## Mechanisms of Action of Antipsychotics
+## Antipsychotics
 
 |Mechanism|Medication|
 |-|-|
@@ -230,7 +230,7 @@
 - Enzyme elevation :: creatine kinase (CK)
 - Rigidity
 
-## Mechanisms of Action of Medications for Neuroleptic Malignant Syndrome (NMS)
+## Medications for Neuroleptic Malignant Syndrome (NMS)
 
 |Mechanism|Medication|
 |-|-|
@@ -255,7 +255,7 @@
 - ↓ REM latency
 - ↑ Total REM sleep
 
-## Mechanisms of Action of Antidepressants
+## Antidepressants
 
 |Mechanism|Medication|
 |-|-|
@@ -291,7 +291,7 @@
 - Sleep deprivation
 - Talkativeness
 
-## Mechanisms of Action of Medications for Bipolar Disorder
+## Medications for Bipolar Disorder
 
 |Mechanism|Medication|
 |-|-|
@@ -310,7 +310,7 @@
 |Panic disorder|-|±|> 1 month|
 |Phobias|-|+|> 6 months|
 
-## Mechanisms of Action of Anxiolytics
+## Anxiolytics
 
 |Mechanism|Medication|
 |-|-|
@@ -320,7 +320,7 @@
 |5-HT<sub>1</sub> agonists|Buspirone|
 |GABA<sub>A</sub> agonists|Benzodiazepines|
 
-## Mechanisms of Action of Medications for Insomnia
+## Medications for Insomnia
 
 |Mechanism|Medication|
 |-|-|
@@ -328,20 +328,20 @@
 |GABA<sub>A</sub> agonists|Benzodiazepines|
 ||Zolpidem<br>Zaleplon<br>Eszopiclone|
 
-## Mechanisms of Action of Medications for OCD
+## Medications for OCD
 
 |Mechanism|Medication|
 |-|-|
 |Reuptake inhibitors|TCAs<br>SSRIs<br>SNRIs|
 
-## Mechanisms of Action of Medications for ADHD
+## Medications for ADHD
 
 |Mechanism|Medication|
 |-|-|
 |Reuptake inhibitors|NRI ::<br>Atomoxetine|
 ||NDRI ::<br>Methylphenidate|
 
-## Mechanisms of Action of Medications for Tourette Syndrome
+## Medications for Tourette Syndrome
 
 |Mechanism|Medication|
 |-|-|

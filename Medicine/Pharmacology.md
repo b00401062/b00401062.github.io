@@ -48,7 +48,7 @@
 - Sulfonylureas
 - Sulfasalazine
 
-## Mechanisms of Action of Medications Targeting Ion Channels
+## Medications Targeting Ion Channels
 
 |Mechanism|Medication|Indications|
 |-|-|-|
@@ -73,10 +73,10 @@
 ||Ouabain|-|
 |H-K pump blockers<br>[Proton pump inhibitors (PPI)]|-Prazoles|PUD|
 |Na-K-2Cl sympoter blockers|Loop diuretics:<br>Furosemide<br>Bumetanide<br>Torsemide|Diuretics|
-|Na-Cl sympoter blockers|Thiazide|Diuretics|
+|Na-Cl sympoter blockers|Thiazides:<br>Hydrochlorothiazide<br>Chlorthalidone|Diuretics|
 |Na-I sympoter blockers|Thiocyanate<br>Perchlorate<br>Iodine|Hyperthyroidism|
 
-## Mechanisms of Action of Medications Targeting Cholinergic Neurons
+## Medications Targeting Cholinergic Neurons
 
 |Mechanism|Medication|Indications|
 |-|-|-|
@@ -92,7 +92,7 @@
 ||Organophosphates<br>Sarin|Glaucoma|
 |ACh reuptake inhibitors|-|
 
-## Mechanisms of Action of Medications Targeting Adrenergic Neurons
+## Medications Targeting Adrenergic Neurons
 
 |Mechanism|Medication|Indications|
 |-|-|-|
@@ -106,7 +106,7 @@
 |COMT inhibitors|-Capones|Parkinson disease|
 |Reuptake inhibitors|NRIs<br>DRIs<br>NDRIs<br>TCAs<br>SSRIs<br>SNRIs|-|
 
-## Mechanisms of Action of Medications Targeting GABAergic Neurons
+## Medications Targeting GABAergic Neurons
 
 |Mechanism|Medication|Indications|
 |-|-|-|
@@ -116,7 +116,7 @@
 |GABA transaminase inhibitors|Vigabatrin|Seizure|
 |GABA reuptake inhibitors|Tiagabine|Seizure|
 
-## Mechanisms of Action of Medications Targeting Neurotransmitter Reuptake
+## Medications Targeting Neurotransmitter Reuptake
 
 |Mechanism|Medication|Indications|
 |-|-|-|
@@ -137,7 +137,7 @@
 - Serotonin-norepinephrine reuptake inhibitors (SNRIs)
 - GABA reuptake inhibitors (GRIs)
 
-## Mechanisms of Action of Cholinergic Agonists
+## Cholinergic Agonists
 
 |Mechanism|Medication|Indications|
 |-|-|-|
@@ -149,7 +149,7 @@
 ||Varenicline|Smoking cessation|
 |N<sub>M</sub> agonists|Succinylcholine|Muscle relaxant|
 
-## Mechanisms of Action of Cholinergic Antagonists
+## Cholinergic Antagonists
 
 |Mechanism|Medication|Indications|
 |-|-|-|
@@ -166,7 +166,7 @@
 ||Mecamylamine|-|
 |N<sub>M</sub> antagonists|Atracurium<br>Rocuronium|Muscle relaxant|
 
-## Mechanisms of Action of Adrenergic Agonists
+## Adrenergic Agonists
 
 |Mechanism|Medication|Indications|
 |-|-|-|
@@ -184,7 +184,7 @@
 |αβ agonists|Norepinephrine|Hypotension|
 ||Epinephrine|Hypotension<br>Asthma|
 
-## Mechanisms of Action of Adrenergic Antagonists
+## Adrenergic Antagonists
 
 |Mechanism|Medication|Indications|
 |-|-|-|
@@ -208,7 +208,7 @@
 |αβ antagonists|Carvedilol|Arrhythmia<br>Heart failure (HF)|
 ||Labetalol|Hypertension|
 
-## Mechanisms of Action of Medications Targeting Dopamine Receptor
+## Medications Targeting Dopamine Receptor
 
 |Mechanism|Medication|Indications|
 |-|-|-|
@@ -221,7 +221,7 @@
 |D<sub>2</sub> antagonists|Metoclopramide<br>Prochlorperazine<br>Domperidone<br>Droperidol|Emesis|
 ||Antipsychotics|Psychosis<br>Huntington disease<br>Tourette syndrome<br>Bipolar disorder|
 
-## Mechanisms of Action of Medications Targeting Serotonin Receptor
+## Medications Targeting Serotonin Receptor
 
 |Mechanism|Medication|Indications|
 |-|-|-|
@@ -234,7 +234,7 @@
 |5-HT<sub>4</sub> agonists|Cisapride<br>Mosapride|Constipation|
 |5-HT modulators|Trazodone|Depression<br>Insomnia|
 
-## Mechanisms of Action of Medications Targeting Histamine Receptor
+## Medications Targeting Histamine Receptor
 
 |Mechanism|Medication|Indications|
 |-|-|-|
@@ -244,7 +244,7 @@
 ||Antidepressants :: TCAs|-|
 |H<sub>2</sub> antagonists|Cimetidine<br>Ranitidine<br>Famotidine<br>Nizatidine|PUD|
 
-## Mechanisms of Action of Medications Targeting Glutamate Receptor
+## Medications Targeting Glutamate Receptor
 
 |Mechanism|Medication|Indications|
 |-|-|-|
@@ -255,7 +255,7 @@
 ||Dextromethorphan|Coughing|
 ||Ketamine<br>Phencyclidine (PCP)|Anesthesia<br>Hallucinogen|
 
-## Mechanisms of Action of Medications Targeting GABA Receptor
+## Medications Targeting GABA Receptor
 
 |Mechanism|Medication|Indications|
 |-|-|-|
@@ -270,7 +270,7 @@
 |GABA<sub>A</sub> antagonists|Flumazenil|Benzodiazepine antidote|
 |GABA<sub>B</sub> antagonists|-|-|
 
-## Mechanisms of Action of Medications Targeting Opioid Receptor
+## Medications Targeting Opioid Receptor
 
 |Mechanism|Medication|Indications|
 |-|-|-|
@@ -288,7 +288,7 @@
 |μ-opioid antagonists|Naloxone|Opioid antidote|
 ||Naltrexone|Alcohol cessation|
 
-## Mechanisms of Action of Medications Targeting Growth Hormone
+## Medications Targeting Growth Hormone
 
 |Mechanism|Medication|Indications|
 |-|-|-|
@@ -297,7 +297,7 @@
 |GH antagonists|Pegvisomant|Acromegaly|
 |IGF-1 agonists|Mecasermin|Dwarfism|
 
-## Mechanisms of Action of Medications Targeting Thyroid Hormone
+## Medications Targeting Thyroid Hormone
 
 |Mechanism|Medication|Indications|
 |-|-|-|
@@ -305,7 +305,7 @@
 |Deiodinase inhibitors|Propylthiouracil<br>Propranolol<br>Steroids|Hyperthyroidism|
 |TH agonists|Levothyroxine<br>Triiodothyronine|Hypothyroidism|
 
-## Mechanisms of Action of Medications Targeting Sex Hormones
+## Medications Targeting Sex Hormones
 
 |Mechanism|Medication|Indications|
 |-|-|-|
@@ -329,7 +329,7 @@
 |5α-Reductase inhibitors|Finasteride|BPH<br>Alopecia|
 |Androgen synthesis inhibitors|Ketoconazole<br>Spironolactone|PCOS|
 
-## Mechanisms of Action of Medications Targeting Mineralocorticoid
+## Medications Targeting Mineralocorticoid
 
 |Mechanism|Medication|Indications|
 |-|-|-|
@@ -338,21 +338,21 @@
 |AT<sub>1</sub> antagonists (ARB)|-Sartans|Hypertension<br>Heart failure (HF)|
 |Aldosterone antagonists|Spironolactone<br>Eplerenone|Diuretics|
 
-## Mechanisms of Action of Medications Targeting Vasopressin Receptor
+## Medications Targeting Vasopressin Receptor
 
 |Mechanism|Medication|Indications|
 |-|-|-|
 |V<sub>2</sub> agonists|Desmopressin|DI|
 |V<sub>2</sub> antagonists|-Vaptans|SIADH|
 
-## Mechanisms of Action of Medications Targeting Oxytocin Receptor
+## Medications Targeting Oxytocin Receptor
 
 |Mechanism|Medication|Indications|
 |-|-|-|
 |Oxytocin agonists|Carbetocin|Labor|
 |Oxytocin antagonists|Atosiban|Tocolysis|
 
-## Mechanisms of Action of Medications Targeting Autacoid Receptor
+## Medications Targeting Autacoid Receptor
 
 |Mechanism|Medication|Indications|
 |-|-|-|
@@ -365,7 +365,7 @@
 ||Zafirlukast|Asthma|
 |ET<sub>A</sub> antagonists|Bosentan|Pulmonary hypertension|
 
-## Mechanisms of Action of Medications Targeting Enzymes
+## Medications Targeting Enzymes
 
 |Mechanism|Medication|Indications|
 |-|-|-|
@@ -383,9 +383,9 @@
 |ALDH inhibitors|Disulfiram|Alcohol cessation|
 |Xanthine oxidase inhibitors|Allopurinol<br>Febuxostat|Gout|
 |Nitrates|Nitroprusside<br>Hydralazine|Vasodilators|
-||Nitroglycerin<br>Isosorbide|Venodilators|
+||Nitroglycerin<br>Isosorbide|Venodilators<br>Diffuse esophageal spasm (DES)<br>Esophageal varices|
 
-## Mechanisms of Action of Antimicrobials and Antineoplastics
+## Antimicrobials and Antineoplastics
 
 |Mechanism|Target|Species|
 |-|-|-|
@@ -503,7 +503,7 @@
 |Calcineurin inhibitors|Cyclosporine<br>Tacrolimus|Immunosuppression|
 |mTOR inhibitors|Sirolimus<br>Everolimus|Immunosuppression|
 
-## Mechanisms of Action of Medications with Miscellaneous Targets
+## Medications with Miscellaneous Targets
 
 |Mechanism|Medication|Indications|
 |-|-|-|

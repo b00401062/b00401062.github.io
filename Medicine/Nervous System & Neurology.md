@@ -552,7 +552,7 @@
 
 ![](../Figures/Seizures.png)
 
-## Mechanisms of Action of Anticonvulsants
+## Anticonvulsants
 
 |Mechanism|Medication|
 |-|-|
@@ -610,7 +610,7 @@
 - Tremor :: resting & pill-rolling
 - Shuffling gait
 
-## Mechanisms of Action of Medications for Parkinson Disease
+## Medications for Parkinson Disease
 
 |Mechanism|Medication|
 |-|-|
@@ -632,14 +632,14 @@
   - Pramipexole
   - Ropinirole
 
-## Mechanisms of Action of Medications for Huntington Disease
+## Medications for Huntington Disease
 
 |Mechanism|Medication|
 |-|-|
 |VMAT2 inhibitors|Tetrabenazine<br>Valbenazine|
 |D<sub>2</sub> antagonists|2° Antipsychotics|
 
-## Mechanisms of Action of Medications for Alzheimer Disease
+## Medications for Alzheimer Disease
 
 |Mechanism|Medication|
 |-|-|
@@ -759,7 +759,7 @@
   - Glycogen storage disease (GSD)
   - Lysosomal Storage Diseases (LSD)
 - Muscular dystrophy
-  - Duchenne muscular dystrophy
+  - Duchenne muscular dystrophy (DMD)
   - Myotonic dystrophy
   - Limb-girdle muscular dystrophy
 - Drug-induced myopathy
