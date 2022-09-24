@@ -249,7 +249,7 @@
 - Klebsiella pneumoniae
 - Pseudomonas aeruginosa
 - Anaerobes
-- Viruses
+- Virus
 
 ### Atypical Pneumonia {LCM}
 
