@@ -216,7 +216,17 @@
   - Thrombolysis
   - Thrombectomy
 
-## Sputum Sample for Gram Stain
+## Lower Respiratory Tract Infections
+
+|Infection|Pathogens|Management|
+|-|-|-|
+|Epiglottitis|Haemophilus influenzae|Antibiotics<br>Intubation|
+|Laryngotracheobronchitis [Croup]|Parainfluenza virus|Steroids<br>Nebulized epinephrine|
+|Bronchitis|Virus|Supportive care|
+|Bronchiolitis|Virus|Supportive care|
+|Pneumonia|Any|Antimicrobials|
+
+## Sputum Sample Acceptable for Gram Stain
 
 - PMNs > 25/HPF
 - Epithelial cells < 10/HPF
