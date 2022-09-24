@@ -439,7 +439,7 @@
 
 ## Classification of DNA Viruses
 
-|Viruses|Strand|Nucleic Acid|Capsid|Envelope|
+|Virus|Strand|Nucleic Acid|Capsid|Envelope|
 |-|-|-|-|-|
 |Adenovirus|2|Linear|Icosahedral|-|
 |Hepadnavirus|2|Circular|Icosahedral|+|
@@ -451,7 +451,7 @@
 
 ## Classification of RNA Viruses
 
-|Mnemonic|Viruses|Strand|Nucleic Acid|Capsid|Envelope|
+|Mnemonic|Virus|Strand|Nucleic Acid|Capsid|Envelope|
 |-|-|-|-|-|-|
 |Hippy|Hepevirus|+|Linear|Icosahedral|-|
 |Cardiac|Calicivirus|+|Linear|Icosahedral|-|
