@@ -222,8 +222,7 @@
 |-|-|-|
 |Epiglottitis|Haemophilus influenzae|Antibiotics<br>Intubation|
 |Laryngotracheobronchitis [Croup]|Parainfluenza virus|Steroids<br>Nebulized epinephrine|
-|Bronchitis|Virus|Supportive care|
-|Bronchiolitis|Virus|Supportive care|
+|Bronchitis<br>Bronchiolitis|Virus|Supportive care|
 |Pneumonia|Any|Antimicrobials|
 
 ## Sputum Sample Acceptable for Gram Stain
@@ -231,14 +230,14 @@
 - PMNs > 25/HPF
 - Epithelial cells < 10/HPF
 
-## Pathogens of Bronchiolitis
+## Pathogens of Bronchitis & Bronchiolitis
 
-- Adenovirus
 - RSV
 - Rhinovirus
-- Coronavirus
 - Parainfluenza virus
 - Influenza virus
+- Adenovirus
+- Coronavirus
 
 ## Pathogens of Pneumonia
 
