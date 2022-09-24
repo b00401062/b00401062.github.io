@@ -336,7 +336,7 @@
 ## Contraindications to Combined Hormonal Contraception
 
 - Age ≥ 35 years<br>Smoking ≥ 15 cigarettes/day
-- History of Thromboembolic events
+- History of thromboembolic events
 - Active breast cancer
 - Liver failure
 - Migraines with aura
