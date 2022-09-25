@@ -33,31 +33,32 @@
 |-|-|
 |Acetaminophen|N-acetylcysteine|
 |Anticholinesterases<br>Organophosphates|Atropine<br>Pralidoxime|
-|Botulism|Antitoxin|
 |Anticholinergics|Physostigmine|
+|Botulism|Antitoxin|
 |β antagonists|Glucagon|
 |Ca channel blockers|Calcium|
-|Carbon monoxide [CO]|100% O<sub>2</sub><br>Hyperbaric O<sub>2</sub>|
-|Cyanide|Hydroxocobalamin<br>Thiosulfate<br>Nitrites|
-|Methemoglobin|Methylene blue<br>Vitamin C|
-|Arsenic [As]<br>Mercury [Hg]<br>Gold [Au]|Succimer<br>Dimercaprol|
-|Iron [Fe]|Deferasirox<br>Deferoxamine<br>Deferiprone|
-|Copper [Cu]|Penicillamin<br>Trientine|
-|Lead [Pb]|Succimer<br>Dimercaprol<br>EDTA|
-|Lithium|Hemodialysis|
 |Cocaine|Benzodiazepines|
 |Phencyclidine (PCP)|Benzodiazepines|
 |Barbiturates|NaHCO<sub>3</sub>|
 |Benzodiazepines|Flumazenil|
-|Opioids|Naloxone|
 |Methanol<br>Propylene glycol<br>Ethylene glycol|Fomepizole<br>Ethanol|
+|Opioids|Naloxone|
 |Valproate|L-carnitine|
 |Salicylate<br>TCAs|NaHCO<sub>3</sub>|
+|Sulfonylureas|Octreotide|
 |Digitalis|Anti-digitalis<br>K & Mg|
 |Warfarin|FFP / PCC<br>Vitamin K|
 |Heparin|Protamine sulfate|
 |Factor 10a inhibitors|Andexanet alfa|
 |tPAs|Aminocaproic acid|
+|Arsenic [As]<br>Mercury [Hg]<br>Gold [Au]|Succimer<br>Dimercaprol|
+|Iron [Fe]|Deferasirox<br>Deferoxamine<br>Deferiprone|
+|Copper [Cu]|Penicillamin<br>Trientine|
+|Lead [Pb]|Succimer<br>Dimercaprol<br>EDTA|
+|Lithium [Li]|Hemodialysis|
+|Carbon monoxide [CO]|100% O<sub>2</sub><br>Hyperbaric O<sub>2</sub>|
+|Cyanide|Hydroxocobalamin<br>Thiosulfate<br>Nitrites|
+|Methemoglobin|Methylene blue<br>Vitamin C|
 
 ## Comparison Between CO Poisoning and Methemoglobinemia
 
