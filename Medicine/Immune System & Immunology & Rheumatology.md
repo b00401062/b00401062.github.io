@@ -276,6 +276,13 @@
 - Asthma
 - Atopic dermatitis
 
+## Diagnostic Criteria for Anaphylaxis
+
+- Hypotension
+- Respiratory compromise
+- Skin mucosal tissue symptoms
+- Gastrointestinal symptoms
+
 ## HLA Subtypes Associated With Diseases
 
 |HLA|Diseases|
