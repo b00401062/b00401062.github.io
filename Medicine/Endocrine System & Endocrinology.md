@@ -275,9 +275,9 @@
 - Hematologic disorders
   - Sickle cell disease
   - Multiple myeloma
-- Rheumatic diseases
+- Autoimmune diseases
   - Sjogren syndrome
-  - sarcoidosis
+  - Sarcoidosis
 - Amyloidosis
 - Drugs
   - Lithium
