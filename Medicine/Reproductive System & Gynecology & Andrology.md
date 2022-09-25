@@ -35,15 +35,6 @@
 
 ![](../Figures/Ligaments%20of%20Uterus%20and%20Ovary.png)
 
-## Sexual Development
-
-|Female|Male|
-|-|-|
-|Thelarche|Gonadarche|
-|Pubarche|Pubarche|
-|Growth spurt|Adrenarche|
-|Menarche|Growth spurt|
-
 ## Sex Hormone Production
 
 |Hormones|Regulation|Female|Male|
@@ -74,6 +65,30 @@
 - ↑ Breast cancer
 - ↑ Endometrial cancer
 - ↑ Bone mineral density
+
+## Sexual Development
+
+|Female|Male|
+|-|-|
+|Thelarche|Gonadarche|
+|Pubarche|Pubarche|
+|Growth spurt|Adrenarche|
+|Menarche|Growth spurt|
+
+## Age of Onset of Puberty
+
+|Sex|Age (years)|
+|-|-|
+|Female|8 ~ 13|
+|Male|9 ~ 14|
+
+## Etiology of Peripheral Precocious Puberty
+
+- Congenital adrenal hyperplasia
+- Adrenal tumors
+- Gonadal tumors
+- McCune-Albright syndrome
+- Exogenous sex hormone
 
 ## Etiology of Abnormal Uterine Bleeding (AUB) {PALM-COEIN}
 
