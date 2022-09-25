@@ -65,7 +65,7 @@
 ||Aminopyridine|-|
 |Ca channel activators|-|-|
 |Ca channel blockers|Class 4 antiarrhythmics|Arrhythmia|
-||-Dipines|Vasodilation|
+||-Dipines|Vasodilation<br>Diffuse esophageal spasm (DES)|
 ||Dantrolene|Malignant hyperthermia<br>NMS|
 ||Ethosuximide|Seizure|
 ||Gabapentin<br>Pregabalin|Seizure<br>Neuropathic pain<br>Restless legs syndrome (RLS)|
@@ -125,7 +125,7 @@
 |NDRIs|Methylphenidate|ADHD<br>Narcolepsy|
 ||Cocaine<br>Amphetamine<br>MDMA [Ecstasy]|-|
 ||Bupropion|Depression<br>Smoking cessation|
-|TCAs|-Triptylines<br>-Pramines|Neuropathic pain<br>Depression<br>Anxiety<br>OCD<br>Cataplexy|
+|TCAs|-Triptylines<br>-Pramines|Neuropathic pain<br>Depression<br>Anxiety<br>OCD<br>Cataplexy<br>Diffuse esophageal spasm (DES)|
 |SSRIs|Fluoxetine<br>Paroxetine<br>Sertraline<br>Citalopram|Depression<br>Anxiety<br>OCD<br>Cataplexy|
 |SNRIs|Venlafaxine<br>Duloxetine|Neuropathic pain<br>Depression<br>Anxiety<br>OCD<br>Cataplexy|
 |GRIs|Tiagabine|Seizure|
@@ -292,7 +292,7 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|Somatostatin agonists|Octreotide|Acromegaly|
+|Somatostatin agonists|Octreotide|Acromegaly<br>Insulinoma<br>Esophageal varices|
 ||Lanreotide|Acromegaly|
 |GH antagonists|Pegvisomant|Acromegaly|
 |IGF-1 agonists|Mecasermin|Dwarfism|
