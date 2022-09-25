@@ -53,18 +53,20 @@
 |Mechanism|Medication|Indications|
 |-|-|-|
 |Na channel activators|Batrachotoxin<br>Ciguatoxin|-|
-|Na channel blockers|Class 1 antiarrhythmics|Arrhythmia|
+|Na channel blockers|Quinidine<br>Procainamide<br>Disopyramide|Arrhythmia|
+||Lidocaine<br>Mexiletine|Arrhythmia|
+||Flecainide<br>Propafenone|Arrhythmia|
 ||-Caines|Anesthesia|
 ||Amiloride<br>Triamterene|Diuretics|
 ||Phenytoin<br>Valproate<br>Carbamazepine<br>Lamotrigine<br>Topiramate|Seizure|
 ||Saxitoxin<br>Tetrodotoxin|-|
 |K channel activators|Diazoxide|Vasodilation<br>Insulinoma|
 ||Minoxidil|Vasodilation<br>Alopecia|
-|K channel blockers|Class 3 antiarrhythmics|Arrhythmia|
+|K channel blockers|Amiodarone<br>Ibutilide<br>Dofetilide<br>Sotalol|Arrhythmia|
 ||Sulfonylureas|DM type 2|
 ||Aminopyridine|-|
 |Ca channel activators|-|-|
-|Ca channel blockers|Class 4 antiarrhythmics|Arrhythmia|
+|Ca channel blockers|Verapamil<br>Diltiazem|Arrhythmia<br>Cluster headache|
 ||-Dipines|Vasodilation<br>Diffuse esophageal spasm (DES)|
 ||Dantrolene|Malignant hyperthermia<br>NMS|
 ||Ethosuximide|Seizure|
