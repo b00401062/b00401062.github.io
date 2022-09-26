@@ -126,9 +126,9 @@
 
 |Curvature|Management|
 |-|-|
-|< 20°|Observation|
-|20° ~ 50°|Spinal bracing|
-|> 50°|Spinal fusion|
+|10° ~ 20°|Observation|
+|20° ~ 40°|Spinal bracing|
+|> 40°|Spinal fusion|
 
 ## Etiology of Bone Disorders
 
