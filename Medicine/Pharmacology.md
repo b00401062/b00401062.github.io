@@ -204,7 +204,7 @@
 |β<sub>2</sub> antagonists|-|-|
 |β antagonists|Nadolol|-|
 ||Pindolol|Partial agonists|
-||Propranolol|Arrhythmia<br>Hyperthyroidism|
+||Propranolol|Arrhythmia<br>Hyperthyroidism<br>Akathisia|
 ||Sotalol|Arrhythmia|
 ||Timolol|Arrhythmia<br>Glaucoma|
 |αβ antagonists|Carvedilol|Arrhythmia<br>Heart failure (HF)|
