@@ -156,7 +156,7 @@
 |Mechanism|Medication|Indications|
 |-|-|-|
 |M antagonists|Atropine<br>Tropicamide|Mydriasis<br>Cycloplegia|
-||Benztropine|Parkinson disease|
+||Benztropine|Parkinson disease<br>Extrapyramidal symptoms (EPS)|
 ||Ipratropium<br>Tiotropium|Asthma|
 ||Scopolamine|Emesis|
 ||Oxybutynin<br>Tolterodine|Urinary incontinence|
@@ -262,7 +262,7 @@
 |Mechanism|Medication|Indications|
 |-|-|-|
 |GABA<sub>A</sub> agonists|Barbiturates|Anesthesia<br>Seizure<br>Essential tremor|
-||Benzodiazepines|Anesthesia<br>Seizure<br>Insomnia<br>NMS|
+||Benzodiazepines|Anesthesia<br>Seizure<br>Insomnia<br>NMS<br>Catatonia<br>Akathisia|
 ||Propofol|Anesthesia|
 ||Etomidate|Anesthesia|
 ||Zolpidem<br>Zaleplon<br>Eszopiclone|Insomnia|
