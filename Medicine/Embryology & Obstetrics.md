@@ -426,7 +426,7 @@
 - Non-reassuring fetal status
 - Severe preeclampsia / eclampsia
 - Chorioamnionitis
-- Preterm premature rupture of membranes (PPROM)
+- Preterm prelabor rupture of membranes (PPROM)
 
 ## Stages of Labor
 
