@@ -514,9 +514,8 @@
 
 ## Contraindications to Lumbar Puncture
 
-- ↑ Intracranial pressure (ICP)
-- Suspected brain abscess
-- Bleeding tendency
+- Skin infection over puncture site
+- Brain mass causing ↑ intracranial pressure (ICP)
 
 ## Types of Primary Headaches
 
