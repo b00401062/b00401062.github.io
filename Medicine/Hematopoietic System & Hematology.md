@@ -478,12 +478,21 @@
 
 ## Goal INR
 
-|Condition|Goal|
+|Condition|INR|
 |-|-|
 |Venous thromboembolism (VTE)|2.0 ~ 3.0|
 |Atrial fibrillation|2.0 ~ 3.0|
 |Bioprosthetic valve|2.0 ~ 3.0|
 |Mechanical valve|2.5 ~ 3.5|
+
+## Management of Supratherapeutic INR
+
+|INR|Management|
+|-|-|
+|< 4.5|Hold warfarin|
+|4.5 ~ 10|Hold warfarin<br>Low-dose oral vitamin K|
+|> 10|Hold warfarin<br>High-dose oral vitamin K|
+|Bleeding|Hold warfarin<br>High-dose IV viatamin K<br>FFP / PCC|
 
 ## Etiology of Disseminated Intravascular Coagulation (DIC)
 
