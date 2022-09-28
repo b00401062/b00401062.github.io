@@ -312,7 +312,7 @@
 |Mechanism|Medication|Indications|
 |-|-|-|
 |GnRH agonists|Leuprolide<br>Goserelin<br>Nafarelin|Infertility|
-|GnRH antagonists|GnRH agonists :: continuous|Infertility<br>Precocious puberty<br>Endometriosis<br>Breast cancer<br>Prostate cancer|
+|GnRH antagonists|GnRH agonists|Infertility<br>Precocious puberty<br>Endometriosis<br>Breast cancer<br>Prostate cancer|
 ||Degarelix|Prostate cancer|
 ||Cetrorelix<br>Ganirelix|Infertility|
 |LH agonists|Lutropin<br>Menotropin|Infertility|
