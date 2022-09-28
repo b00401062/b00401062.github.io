@@ -77,22 +77,14 @@
 |Lead poisoning|↑|↑|↓|↑|Heme|
 |Sideroblastic anemia|↑|↑|↓|↑|Heme|
 
-- Thalassemia
-- Anemia of chronic disease (ACD)
-- Iron deficiency anemia (IDA)
-- Lead poisoning
-- Sideroblastic anemia
-  - Alcoholism
-  - ALA synthase deficiency
-  - Vitamin B<sub>6</sub> deficiency
-  - Copper deficiency
+### Normocytic Anemia
 
-### Normocytic Anemia :: Non-hemolytic Anemia
+#### Non-hemolytic Anemia
 
 - Aplastic anemia
 - Chronic kidney disease (CKD)
 
-### Normocytic Anemia :: Hemolytic Anemia
+#### Hemolytic Anemia
 
 ||Intravascular|Extravascular|
 |-|-|-|
@@ -107,7 +99,7 @@
 |LDH|↑|↑|
 |Jaundice|-|+|
 
-#### Intravascular Hemolytic Anemia {TIMP}
+##### Intravascular Hemolytic Anemia {TIMP}
 
 - Transfusion
 - Infusion
@@ -119,7 +111,7 @@
   - HELLP syndrome
 - Paroxysmal nocturnal hematuria (PNH)
 
-#### Extravascular Hemolytic Anemia {PHAGES}
+##### Extravascular Hemolytic Anemia {PHAGES}
 
 - Pyruvate kinase deficiency
 - HbC disease
@@ -129,14 +121,16 @@
 - Elliptocytosis
 - Sickle cell disease (SCD)
 
-### Macrocytic Anemia :: Megaloblastic
+### Macrocytic Anemia
+
+#### Megaloblastic
 
 - Folate deficiency
 - Vitamin B<sub>12</sub> deficiency
 - Orotic aciduria
 - Fanconi anemia
 
-### Macrocytic Anemia :: Non-megaloblastic
+#### Non-megaloblastic
 
 - Diamond-Blackfan anemia
 - Alcoholism
@@ -162,6 +156,10 @@
 
 - Lead poisoning
 - Sideroblastic anemia
+  - Alcoholism
+  - ALA synthase deficiency
+  - Vitamin B<sub>6</sub> deficiency
+  - Copper deficiency
 - Porphyria
 
 ## Types of Porphyria
