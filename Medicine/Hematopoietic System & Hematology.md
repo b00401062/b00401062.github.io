@@ -158,7 +158,13 @@
 |Iron profile|Normal|Abnormal|
 |Blood smear|Target cells|-|
 
-## Subtypes of Porphyria
+## Heme Synthesis Disorders
+
+- Lead poisoning
+- Sideroblastic anemia
+- Porphyria
+
+## Types of Porphyria
 
 - Acute intermittent porphyria (AIP)
 - Porphyria cutanea tarda (PCT)
