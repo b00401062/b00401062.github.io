@@ -615,10 +615,12 @@
 
 ## Comparison Between Biosprosthetic and Mechanical Heart Valves
 
-- Mortality: biosprosthetic > mechanical
-- Durability: biosprosthetic < mechanical
-- Bleeding: biosprosthetic < mechanical
-- Thromboembolism: biosprosthetic < mechanical
+|Endpoint|Outcome|
+|-|-|
+|Mortality|Biosprosthetic > Mechanical|
+|Durability|Biosprosthetic < Mechanical|
+|Bleeding|Biosprosthetic < Mechanical|
+|Thromboembolism|Biosprosthetic < Mechanical|
 
 ## Beck Triad of Cardiac Tamponade
 
