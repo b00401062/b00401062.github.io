@@ -661,8 +661,11 @@
 
 ## Etiology of Peripheral Neuropathy
 
+- Heme synthesis disorders
+  - Lead poisoning
+  - Sideroblastic anemia
+  - Porphyria
 - Disbetic neuropathy
-- Porphyria
 - Chemotherapy toxicity
 - Tabes dorsalis
 - Subacute combined degeneration (SCD)
