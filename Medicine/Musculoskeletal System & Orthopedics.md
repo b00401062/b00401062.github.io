@@ -151,6 +151,14 @@
 - Hearing loss :: conductive
 - Opalescent teeth
 
+## Bone Density Scores
+
+|Score|Condition|
+|-|-|
+|-1 ~ +1|Normal|
+|-2.5 ~ -1|Osteopenia|
+|< -2.5|Osteoporosis|
+
 ## Medications for Osteoporosis
 
 |Mechanism|Medication|
@@ -159,6 +167,17 @@
 |PTH antagonists<br>Osteoblast inducers|Teriparatide|
 |Osteoclast inhibitors|Bisphosphonates [-Dronates]|
 |RANKL inhibitors|Denosumab|
+
+## Indications for Bisphosphonate Therapy
+
+- Osteopenia w/
+  - History of fracture
+  - 10-year probability for
+    - Major osteoporotic fracture > 20%
+    - Hip fracture > 3%
+- Osteoporosis
+- Paget disease
+- Malignancy-related hypercalcemia
 
 ## Synovial Fluid Analysis
 
