@@ -278,7 +278,7 @@
 |-|-|-|
 |μ-opioid agonists|Codeine|Analgesia|
 ||Tramadol|Analgesia|
-||Morphine|Analgesia<br>Venodilators|
+||Morphine|Analgesia<br>Venoodilation|
 ||Meperidine|Analgesia|
 ||Oxycodone|Analgesia|
 ||Fentanyl|Analgesia|
@@ -384,8 +384,8 @@
 ||Fomepizole|Methanol antidote|
 |ALDH inhibitors|Disulfiram|Alcohol cessation|
 |Xanthine oxidase inhibitors|Allopurinol<br>Febuxostat|Gout|
-|Nitrates|Nitroprusside<br>Hydralazine|Vasodilators|
-||Nitroglycerin<br>Isosorbide|Venodilators<br>Diffuse esophageal spasm (DES)<br>Esophageal varices|
+|Nitrates|Nitroprusside<br>Hydralazine|Vasodilation|
+||Nitroglycerin<br>Isosorbide|Venoodilation<br>Diffuse esophageal spasm (DES)<br>Esophageal varices|
 
 ## Antimicrobials and Antineoplastics
 
