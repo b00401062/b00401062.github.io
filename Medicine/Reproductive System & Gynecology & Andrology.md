@@ -406,7 +406,7 @@
 
 |Mechanism|Medication|
 |-|-|-|
-|GnRH agonists|Leuprolide :: pulsatile|
+|GnRH agonists|Leuprolide|
 |hCG agonists|Choriogonadotropin|
 
 ![](../Figures/Controlled%20Ovarian%20Hyperstimulation.png)
