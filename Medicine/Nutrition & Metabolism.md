@@ -258,6 +258,13 @@
 
 ![](../Figures/Mechanisms%20of%20Action%20of%20Medications%20for%20Hyperlipidemia.png)
 
+## Indications for Statin Therapy
+
+- History of arterial thromboembolism
+- LDL > 190 mg/dL
+- Age > 40 years & Diabetes mellitus
+- 10-year ASCVD risk > 7.5% ~ 10%
+
 ## Indications for Low-Protein Diet
 
 - Liver failure → Hyperammonemia
