@@ -168,7 +168,7 @@
 
 - Pain :: abdomen
 - Port wine-colored urine
-- Polyneuropathy
+- Peripheral neuropathy
 - Psychological disturbances
 - Precipitation
   - Starvation
