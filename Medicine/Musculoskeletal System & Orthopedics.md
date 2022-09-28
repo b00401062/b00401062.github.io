@@ -172,7 +172,7 @@
 
 - Osteopenia w/
   - History of fracture
-  - 10-year probability for
+  - 10-year risk for
     - Major osteoporotic fracture > 20%
     - Hip fracture > 3%
 - Osteoporosis
