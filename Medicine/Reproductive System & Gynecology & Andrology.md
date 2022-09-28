@@ -61,7 +61,7 @@
 
 ## Side Effects of Unopposed Estrogen
 
-- ↑ Thromboembolic events
+- ↑ Thromboembolism
 - ↑ Breast cancer
 - ↑ Endometrial cancer
 - ↑ Bone mineral density
@@ -168,7 +168,7 @@
 
 ## Side Effects of Hormone Replacement Therapy (HRT)
 
-- ↑ Thromboembolic events
+- ↑ Thromboembolism
 - Breast cancer
   - ↑ if estrogen + progesterone
   - ↓ if estrogen alone
@@ -343,7 +343,7 @@
 
 ## Side Effects of Combined Hormonal Contraception
 
-- ↑ Thromboembolic events
+- ↑ Thromboembolism
 - ↑ Breast cancer
 - ↓ Endometrial cancer
 - ↓ Ovarian cancer
@@ -351,7 +351,7 @@
 ## Contraindications to Combined Hormonal Contraception
 
 - Age ≥ 35 years<br>Smoking ≥ 15 cigarettes/day
-- History of thromboembolic events
+- History of thromboembolism
 - Active breast cancer
 - Liver failure
 - Migraines with aura
