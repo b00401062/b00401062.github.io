@@ -156,7 +156,7 @@
 |Mechanism|Medication|
 |-|-|
 |Estrogen modulators|Raloxifene|
-|PTH antagonists<br>Osteoblast inducers|Teriparatide :: pulsatile|
+|PTH antagonists<br>Osteoblast inducers|Teriparatide|
 |Osteoclast inhibitors|Bisphosphonates [-Dronates]|
 |RANKL inhibitors|Denosumab|
 
