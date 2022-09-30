@@ -234,7 +234,6 @@
 
 - Anti-staphylococcal penicillin<br>Anti-MRSA
 - Anti-pseudomonal β-lactams<br>Fluoroquinolones
-- Clindamycin
 
 ## Bone Tumors
 
