@@ -679,16 +679,16 @@
 |Mycobacterium tuberculosis|Rifampin<br>Isoniazid<br>Pyrazinamide<br>Ethambutol|
 |Mycobacterium leprae|Dapsone<br>Rifampin<br>Clofazimine|
 |Mycobacterium avium|Macrolides|
-|Tropheryma whipplei|Penicillin<br>Trimethoprim<br>Sulfamethoxazole|
+|Tropheryma whipplei|Penicillin<br>TMP/SMX|
 |Actinomyces|Penicillin|
-|Nocardia|Trimethoprim<br>Sulfamethoxazole|
+|Nocardia|TMP/SMX|
 |Neisseria meningitides|Penicillinase-sensitive penicillin<br>3° Cephalosporins|
 |Neisseria gonorrhoeae|3° Cephalosporins<br>Macrolides|
 |Acinetobacter baumannii|Anti-pseudomonal β-lactams|
 |Bordetella pertussis|Macrolides|
 |Haemophilus influenzae|Penicillinase-sensitive penicillin<br>3° Cephalosporins|
 |Legionella pneumophilia|Macrolides|
-|GNB :: enteric|3° Cephalosporins<br>Aminoglycosides<br>Fluoroquinolones<br>Trimethoprim<br>Sulfamethoxazole|
+|GNB :: enteric|3° Cephalosporins<br>Aminoglycosides<br>Fluoroquinolones<br>TMP/SMX|
 |Bacteroides fragilis|Carbapenems<br>Metronidazole|
 |Pseudomonas aeruginosa|Anti-pseudomonal β-lactams<br>Aminoglycosides<br>Fluoroquinolones|
 |Bartonella henselae|Tetracyclines<br>Macrolides|
@@ -698,7 +698,7 @@
 |Treponema pallidum|Penicillin<br>Tetracyclines<br>3° Cephalosporins|
 |Chlamydia|Tetracyclines<br>Macrolides|
 |Rickettsia|Tetracyclines<br>Macrolides|
-|Pneumocystis jiroveci|Trimethoprim<br>Sulfamethoxazole|
+|Pneumocystis jiroveci|TMP/SMX|
 |Anaerobes|β-lactams & β-lactamase inhibitors<br>Carbapenems<br>Clindamycin<br>Metronidazole|
 
 ## Therapeutic Antibiotics for Drug-resistant Bacteria
