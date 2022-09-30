@@ -121,7 +121,6 @@
 
 - Anti-MRSA
 - β-lactams & β-lactamase inhibitors<br>Carbapenems
-- Clindamycin
 
 ## Treatment of Acne Vulgaris
 
