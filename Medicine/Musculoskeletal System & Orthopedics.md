@@ -188,6 +188,11 @@
 |Inflammatory|↑|> 50%|
 |Infectious|↑|> 75%|
 
+## Empirical Antibiotics for Septic Arthritis
+
+- Vancomycin
+- 3° Cephalosporins
+
 ## Etiology of Non-infectious Inflammatory Arthritis
 
 - Crystal arthropathy
