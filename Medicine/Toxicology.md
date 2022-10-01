@@ -49,8 +49,8 @@
 |Digitalis|Anti-digitalis<br>K & Mg|
 |Warfarin|FFP / PCC<br>Vitamin K|
 |Heparin|Protamine sulfate|
-|Factor 10a inhibitors|Andexanet alfa|
-|tPAs|Aminocaproic acid|
+|Factor 10a inhibitors|FFP / PCC<br>Andexanet alfa|
+|tPAs|Cryoprecipitate<br>Antifibrinolytics|
 |Arsenic [As]<br>Mercury [Hg]<br>Gold [Au]|Succimer<br>Dimercaprol|
 |Iron [Fe]|Deferasirox<br>Deferoxamine<br>Deferiprone|
 |Copper [Cu]|Penicillamin<br>Trientine|
