@@ -404,17 +404,18 @@
 ## Management of Preterm Prelabor Rupture of Membrane (PPROM)
 
 - Delivery at 34 weeks
-- Pelvic rest
 - Corticosteroids
 - Antibiotics
   - Penicillinase-sensitive penicillin
   - Macrolides
+- Magnesium sulfate if < 32 weeks
 
 ## Management of Preterm Labor
 
 - Delivery at 34 weeks
 - Corticosteroids
 - Penicillin if GBS +/?
+- Magnesium sulfate if < 32 weeks
 
 ## Medications for Labor Induction
 
