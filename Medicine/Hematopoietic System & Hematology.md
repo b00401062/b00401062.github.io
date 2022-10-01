@@ -568,7 +568,7 @@
 |Product|Indications|
 |-|-|
 |FFP / PCC|Warfarin toxicity|
-|Cryoprecipitate|Fibrinogen deficiency<br>Hemophilia A<br>Von Willebrand disease (VWD)<br>Uremic bleeding|
+|Cryoprecipitate|tPA toxicity<br>Fibrinogen deficiency<br>Hemophilia A<br>Von Willebrand disease (VWD)<br>Uremic bleeding|
 |Factor concentrate|Factor deficiency|
 
 ## Antifibrinolytics
