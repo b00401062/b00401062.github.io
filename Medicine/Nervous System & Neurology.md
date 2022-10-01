@@ -434,11 +434,11 @@
 - Antihypertensives
   - BP < 185/110 mmHg if revascularization
   - BP < 220/120 mmHg otherwise
-- Antihyperglycemic: glucose 140 ~ 180 mg/dL
+- Antihyperglycemic if glucose > 140 ~ 180 mg/dL
 - Antiplatelets
 - Revascularization
-  - Thrombolysis: duration < 3 ~ 4.5 hours
-  - Thrombectomy: duration < 6 ~ 24 hours
+  - Thrombolysis if duration < 3 ~ 4.5 hours
+  - Thrombectomy if duration < 6 ~ 24 hours
 
 ## Ideal Door-to-Reperfusion Time for Ischemic Stroke
 
@@ -845,7 +845,7 @@
 |Cell|Origin|Tumors|
 |-|-|-|
 |Neurons|Neural tube|Neuroblastoma|
-|Astrocytes|Neural tube|Grade 1: Pilocytic astrocytoma<br>Grade 2: Fibrillary astrocytoma<br>Grade 3: Anaplastic astrocytoma<br>Grade 4: Glioblastoma multiforme|
+|Astrocytes|Neural tube|Astrocytoma|
 |Ependymal cells|Neural tube|Ependymoma|
 |Oligodendrocytes|Neural tube|Oligodendroglioma|
 |Neuroendocrine cells|Neural tube|Pinealoma|
@@ -860,6 +860,15 @@
 |Neurons|Neural crest|Neuroblastoma|
 |Schwann cells|Neural crest|Schwannoma|
 |Neuroendocrine cells|Neural crest|Pheochromocytoma<br>Paraganglioma|
+
+## WHO Grading of Astrocytoma
+
+|Grade|Tumor|
+|-|-|
+|1|Pilocytic astrocytoma|
+|2|Fibrillary astrocytoma|
+|3|Anaplastic astrocytoma|
+|4|Glioblastoma multiforme|
 
 ## Neural Crest Tumors
 

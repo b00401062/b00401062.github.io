@@ -254,13 +254,13 @@
 - Medical evacuation
   - Misoprostol
 - Surgical evacuation
-  - Manual uterine aspiration (MUA): < 12 weeks
-  - Dilatation and curettage (D&C): > 12 weeks
+  - Manual uterine aspiration (MUA) if < 12 weeks
+  - Dilatation and curettage (D&C) if > 12 weeks
 
 ## Management of Intrauterine Fetal Demise (IUFD)
 
-- Dilatation and curettage (D&C): < 24 weeks
-- Labor induction: > 24 weeks / autopsy
+- Dilatation and curettage (D&C) if < 24 weeks
+- Labor induction if > 24 weeks / autopsy
 
 ## Management of Induced Abortion
 

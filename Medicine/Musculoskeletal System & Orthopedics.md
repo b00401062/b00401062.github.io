@@ -111,9 +111,11 @@
 
 ## Management of Developmental Dysplasia of Hip (DDH)
 
-- Pavlik harness: < 6 months
-- Closed reduction & Hip spica cast: 6 ~ 18 months
-- Open reduction & Hip spica cast: > 18 months
+|Age|Management|
+|-|-|
+|< 6 months|Pavlik harness|
+|6 ~ 18 months|Closed reduction<br>Hip spica cast|
+|> 18 months|Open reduction<br>Hip spica cast|
 
 ## Ottawa Ankle Rules
 

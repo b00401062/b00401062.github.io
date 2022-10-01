@@ -203,7 +203,7 @@
 |Disease|Defects|Findings|Hepatomegaly|
 |-|-|-|-|
 |Hurler syndrome|α-Iduronidase|Corneal clouding|+|
-|Hunter syndrome: XR|Iduronate sulfatase|-|-|
+|Hunter syndrome|Iduronate sulfatase|-|-|
 
 ## Metabolic Disorders
 

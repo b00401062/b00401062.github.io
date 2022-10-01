@@ -173,17 +173,17 @@
 
 ## Krebs Cycle
 
-|Enzyme|Mnemonic|Product|
-|-|-|-|
-|-|-|Acetyl-CoA: 2C|
-|**Citrate synthase**|Citrate|Citrate: 6C|
-|Aconitase|Is|Isocitrate: 6C|
-|**Isocitrate dehydrogenase**|Krebs'|α-Ketoglutarate: 5C|
-|**α-Ketoglutarate dehydrogenase**|Starting|Succinyl-CoA: 4C|
-|Succinate thiokinase|Substrate|Succinate: 4C|
-|Succinate dehydrogenase|For|Fumarate: 4C|
-|Fumarase|Mitochondrial|Malate: 4C|
-|Malate dehydrogenase|Oxidation|Oxaloacetate: 4C|
+|Enzyme|Mnemonic|Product|\#C|
+|-|-|-|-|
+|-|-|Acetyl-CoA|2C|
+|**Citrate synthase**|Citrate|Citrate|6C|
+|Aconitase|Is|Isocitrate|6C|
+|**Isocitrate dehydrogenase**|Krebs'|α-Ketoglutarate|5C|
+|**α-Ketoglutarate dehydrogenase**|Starting|Succinyl-CoA|4C|
+|Succinate thiokinase|Substrate|Succinate|4C|
+|Succinate dehydrogenase|For|Fumarate|4C|
+|Fumarase|Mitochondrial|Malate|4C|
+|Malate dehydrogenase|Oxidation|Oxaloacetate|4C|
 
 ## Gluconeogenesis
 
