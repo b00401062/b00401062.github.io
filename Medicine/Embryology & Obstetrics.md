@@ -230,8 +230,10 @@
 
 ## Classification of Pregnancy Loss
 
-- Spontaneous abortion: < 20 weeks / < 500 g
-- Intrauterine fetal demise (IUFD): > 20 weeks / > 500 g
+|Condition|Definition|
+|-|-|
+|Spontaneous abortion|< 20 weeks / < 500 g|
+|Intrauterine fetal demise (IUFD)|> 20 weeks / > 500 g|
 
 ## Spontaneous Abortion
 
@@ -351,9 +353,18 @@
 - Fever
 - History of GBS-affected neonates
 - Preterm labor
-- Rupture of membranes > 18 hours
+- Rupture of membranes (ROM) > 18 hours
 - Urine culture
 - Vaginal culture
+
+## Management of Prelabor Rupture of Membranes (PROM)
+
+- Delivery at 34 weeks
+- Corticosteroids if < 34 weeks
+- Antibiotics if < 34 weeks
+  - Penicillinase-sensitive penicillin
+  - Macrolides
+- Magnesium sulfate if < 32 weeks
 
 ## Fetal Heart Rate (FHR)
 
@@ -371,12 +382,12 @@
 - Recurrent variable deceleration
 - Sinosoidal pattern
 
-## Management of Late Decelerations {STOP}
+## Management of Late Decelerations
 
-- Sterile vaginal exam
-- Tocolysis
 - Oxygen
-- Position :: left lateral recumbent
+- Position :: left lateral decubitus
+- Tocolysis
+- Delivery
 
 ## Biophysical Profile (BPP)
 
@@ -401,21 +412,17 @@
 - Ferning
 - Nitrazine
 
-## Management of Preterm Prelabor Rupture of Membrane (PPROM)
-
-- Delivery at 34 weeks
-- Corticosteroids
-- Antibiotics
-  - Penicillinase-sensitive penicillin
-  - Macrolides
-- Magnesium sulfate if < 32 weeks
-
 ## Management of Preterm Labor
 
 - Delivery at 34 weeks
-- Corticosteroids
-- Penicillin if GBS +/?
+  - Tocolysis if < 34 weeks
+  - Expectant management if > 34 weeks
+- Corticosteroids if < 34 weeks
 - Magnesium sulfate if < 32 weeks
+
+## Management of Postterm Pregnancy
+
+- Delivery at 41 weeks
 
 ## Medications for Labor Induction
 
@@ -438,11 +445,12 @@
 ## Contraindications to Tocolysis
 
 - Gestational age (GA) > 34 weeks
+- Advanced labor: dilation > 4 cm
+- Severe preeclampsia / eclampsia
+- Preterm prelabor rupture of membranes (PPROM)
+- Intraamniotic infection (IAI)
 - Intrauterine fetal demise (IUFD)
 - Non-reassuring fetal status
-- Severe preeclampsia / eclampsia
-- Chorioamnionitis
-- Preterm prelabor rupture of membranes (PPROM)
 
 ## Stages of Labor
 
@@ -553,3 +561,8 @@
 |Tone|Uterine atony<br>Uterine rupture|
 |Tissue|Plancental retention<br>Implantation site bleeding|
 |Trauma|Genitourinary tract|
+
+## Empirical Antibiotics for Postpartum Endometritis
+
+- Clindamycin
+- Aminoglycosides
