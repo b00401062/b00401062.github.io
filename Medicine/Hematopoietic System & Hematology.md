@@ -571,6 +571,11 @@
 |Cryoprecipitate|Fibrinogen deficiency<br>Hemophilia A<br>Von Willebrand disease (VWD)<br>Uremic bleeding|
 |Factor concentrate|Factor deficiency|
 
+## Antifibrinolytics
+
+- Tranexamic acid
+- Aminocaproic acid
+
 ## Amyloidosis
 
 |Disease|Amyloid|Precursor|
