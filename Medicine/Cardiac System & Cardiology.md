@@ -676,7 +676,6 @@
 - Anti-MRSA
 - Anti-pseudomonal β-lactams
 - ± Aminoglycosides
-- ± Clindamycin
 
 ## Management of Pericarditis
 
