@@ -334,9 +334,9 @@
 
 |Condition|Management|
 |-|-|
-|Mild preeclampsia|Deliver at 37 weeks|
-|Severe preeclampsia|Deliver at 34 weeks<br>Magnesium sulfate<br>Antihypertensives<br>Steroids|
-|Eclampsia|Deliver<br>Magnesium sulfate<br>Antihypertensives|
+|Mild preeclampsia|Delivery at 37 weeks|
+|Severe preeclampsia|Delivery at 34 weeks<br>Magnesium sulfate<br>Antihypertensives<br>Steroids|
+|Eclampsia|Delivery<br>Magnesium sulfate<br>Antihypertensives|
 
 ## Fetal Complications of Gestational Diabetes
 
@@ -400,6 +400,21 @@
 - Valsalva
 - Ferning
 - Nitrazine
+
+## Management of Preterm Prelabor Rupture of Membrane (PPROM)
+
+- Delivery at 34 weeks
+- Pelvic rest
+- Steroids
+- Antibiotics
+  - Penicillinase-sensitive penicillin
+  - Macrolides
+
+## Management of Preterm Labor
+
+- Delivery at 34 weeks
+- Steroids
+- Penicillin if GBS +/?
 
 ## Medications for Labor Induction
 
