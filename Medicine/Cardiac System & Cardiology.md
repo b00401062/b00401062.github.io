@@ -685,4 +685,4 @@
 |Bacterial|Antibiotics|
 |Viral|Aspirin|
 |Fibrinous|NSAIDs<br>Colchicine|
-|Uremic|Steroids|
+|Uremic|Corticosteroids|

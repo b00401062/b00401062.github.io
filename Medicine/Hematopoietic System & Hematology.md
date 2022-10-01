@@ -522,7 +522,7 @@
 
 - Plasmapheresis
 - Immunosuppression
-  - Steroids
+  - Corticosteroids
   - Rituximab
 
 ## Triad of Hemolytic Uremic Syndrome (HUS)
@@ -534,7 +534,7 @@
 ## Treatment of Immune Thrombocytopenic Purpura (ITP)
 
 - Immunosuppression
-  - Steroids
+  - Corticosteroids
   - Rituximab
 - Intravenous immunoglobulin (IVIG)
 - Splenectomy

@@ -304,7 +304,7 @@
 |Mechanism|Medication|Indications|
 |-|-|-|
 |Thyroid peroxidase inhibitors|Propylthiouracil<br>Methimazole<br>Iodine [Lugol] solution|Hyperthyroidism|
-|Deiodinase inhibitors|Propylthiouracil<br>Propranolol<br>Steroids|Hyperthyroidism|
+|Deiodinase inhibitors|Propylthiouracil<br>Propranolol<br>Corticosteroids|Hyperthyroidism|
 |TH agonists|Levothyroxine<br>Triiodothyronine|Hypothyroidism|
 
 ## Medications Targeting Sex Hormones
@@ -583,7 +583,7 @@
 
 ## Medications Causing Osteoporosis
 
-- Steroids
+- Corticosteroids
 - Heparin
 
 ## Medications Causing Photosensitivity {FAST}

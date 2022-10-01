@@ -166,7 +166,7 @@
 |20 ~ 24|Level II ultrasonagraphy|
 |24 ~ 28|100-g OGTT|
 |26 ~ 28|± RhoGAM|
-|28 ~ 32|± Steroids|
+|28 ~ 32|± Corticosteroids|
 |35 ~ 37|GBS culture|
 
 ## Causes of Size/Date Discrepancy
@@ -335,7 +335,7 @@
 |Condition|Management|
 |-|-|
 |Mild preeclampsia|Delivery at 37 weeks|
-|Severe preeclampsia|Delivery at 34 weeks<br>Magnesium sulfate<br>Antihypertensives<br>Steroids|
+|Severe preeclampsia|Delivery at 34 weeks<br>Magnesium sulfate<br>Antihypertensives<br>Corticosteroids|
 |Eclampsia|Delivery<br>Magnesium sulfate<br>Antihypertensives|
 
 ## Fetal Complications of Gestational Diabetes
@@ -405,7 +405,7 @@
 
 - Delivery at 34 weeks
 - Pelvic rest
-- Steroids
+- Corticosteroids
 - Antibiotics
   - Penicillinase-sensitive penicillin
   - Macrolides
@@ -413,7 +413,7 @@
 ## Management of Preterm Labor
 
 - Delivery at 34 weeks
-- Steroids
+- Corticosteroids
 - Penicillin if GBS +/?
 
 ## Medications for Labor Induction

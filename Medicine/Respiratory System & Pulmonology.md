@@ -148,7 +148,7 @@
 |-|-|
 |β<sub>2</sub> agonists|Albuterol<br>Salmeterol<br>Formoterol|
 |M antagonists|Ipratropium<br>Tiotropium|
-|NF-κB inhibitors|Steroids|
+|NF-κB inhibitors|Corticosteroids|
 |LOX inhibitors|Zileuton|
 |LTD<sub>4</sub> antagonists|Montelukast<br>Zafirlukast|
 |Mast cell inhibitors|Cromolyn<br>Nedocromil|
@@ -221,7 +221,7 @@
 |Infection|Pathogens|Management|
 |-|-|-|
 |Epiglottitis|Haemophilus influenzae|Antibiotics<br>Intubation|
-|Laryngotracheobronchitis [Croup]|Parainfluenza virus|Steroids<br>Nebulized epinephrine|
+|Laryngotracheobronchitis [Croup]|Parainfluenza virus|Corticosteroids<br>Nebulized epinephrine|
 |Bronchitis<br>Bronchiolitis|Virus|Supportive care|
 |Pneumonia|Any|Antimicrobials|
 
