@@ -194,7 +194,7 @@
   - Technetium-99 sestamibi
   - Technetium-99m tetrofosmin
 
-## Valvular Heart Diseases and Murmurs
+## Heart Diseases and Murmurs
 
 |Disease|Phase|↑ Preload|↑ Afterload|
 |-|-|-|-|
@@ -244,9 +244,9 @@
 - Critical aortic stenosis
 - Critical coarctation of the aorta (CoA)
 
-## Heart Defects & Disease Associations
+## Conditions Associated with Heart Defects
 
-|Defect|Associations|
+|Defect|Conditions|
 |-|-|
 |Endocardial cushion defects|Down syndrome|
 |Atrial septal defect (ASD)|Down syndrome<br>Fetal alcohol syndrome|
@@ -313,6 +313,12 @@
 - SGLT-2 inhibitors
 - Cardiac resynchronization therapy (CRT)
 
+## Cardiomyopathy
+
+- Dilated cardiomyopathy (DCMP)
+- Hypertrophic cardiomyopathy (HCMP)
+- Restrictive cardiomyopathy (RCMP)
+
 ## Etiology of Dilated Cardiomyopathy (DCMP) {ABCD}
 
 - Alcohol
@@ -323,7 +329,7 @@
 - Doxorubicin
 - Duchenne muscular dystrophy (DMD)
 
-## Indications for ICD in HCMP
+## Indications for ICD in Hypertrophic Cardiomyopathy (HCMP)
 
 - Cardiac arrest
 - Ventricular arrhythmia
@@ -685,3 +691,12 @@
 |Viral|Aspirin|
 |Fibrinous|NSAIDs<br>Colchicine|
 |Uremic|Corticosteroids|
+
+## Radiation Heart Disease
+
+- Coronay artery disease (CAD)
+- Valvular heart disease
+  - Aortic regurgitation (AR)
+  - Aortic stenosis (AS)
+- Restrictive cardiomyopathy (RCMP)
+- Constrictive pericarditis
