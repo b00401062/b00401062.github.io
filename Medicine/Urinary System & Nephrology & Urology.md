@@ -277,6 +277,12 @@
 |Urge|+|+|↓|Overactive bladder (OAB)|
 |Overflow|-|+|↑|Underactive bladder (UAB)|
 
+## Etiology of Stress Incontinence
+
+- Urethral hypermobility
+- Intrinsic sphincteric deficiency
+- Pelvic organ prolapse (POP)
+
 ## Etiology of Urinary Retention
 
 - Obstruction
