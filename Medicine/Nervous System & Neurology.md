@@ -846,9 +846,9 @@
 |Patient|Antibiotics|
 |-|-|
 |≤ 1 month|Ampicillin & (3° Cephalosporins / Aminoglycosides)|
-|1 ~ 3 months|3° Cephalosporins & Vancomycin|
-|3 months ~ 60 years|3° Cephalosporins & Vancomycin|
-|≥ 60 years<br>Complicated|Ampicillin & 3° Cephalosporins & Vancomycin|
+|1 ~ 3 months|Vancomycin & 3° Cephalosporins|
+|3 months ~ 60 years|Vancomycin & 3° Cephalosporins|
+|≥ 60 years<br>Complicated|Vancomycin & Ampicillin & 3° Cephalosporins|
 
 ## Nervous System Tumors
 
