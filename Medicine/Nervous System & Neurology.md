@@ -770,6 +770,18 @@
 |ESR|↑|↑|-|
 |CK|↑|-|-|
 
+## Pathogenesis of Horner Syndrome
+
+![](../Figures/Pathogenesis%20of%20Horner%20Syndrome.jpg)
+
+## Etiology of Horner Syndrome
+
+- Ischemic stroke
+  - Anterior inferior cerebellar artery (AICA)
+  - Posterior inferior cerebellar artery (PICA)
+- Pancoast tumor
+- Carotid dissection
+
 ## Presentation of Horner Syndrome {MAP}
 
 - Miosis
