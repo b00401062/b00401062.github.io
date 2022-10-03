@@ -506,7 +506,9 @@
 ## Treatment of Idiopathic Intracranial Hypertension (IIH)
 
 - Weight loss
-- Diuretics :: Acetazolemide & Loop diuretics
+- Diuretics
+  - Acetazolemide
+  - Loop diuretics
 - Topiramate
 - Lumbar puncture
 - Shunting
