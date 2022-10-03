@@ -326,6 +326,7 @@
 
 ### Painless
 
+- Allergic proctocolitis
 - Meckel diverticulum
 - Diverticulosis
 - Angiodysplasia
