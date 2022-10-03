@@ -58,7 +58,11 @@
 ||Flecainide<br>Propafenone|Arrhythmia|
 ||-Caines|Anesthesia|
 ||Amiloride<br>Triamterene|Diuretics|
-||Phenytoin<br>Valproate<br>Carbamazepine<br>Lamotrigine<br>Topiramate|Seizure|
+||Phenytoin|Seizure|
+||Valproate|Seizure<br>Bipolar disorder<br>Migraine|
+||Carbamazepine|Seizure<br>Bipolar disorder<br>Trigeminal neuralgia|
+||Lamotrigine|Seizure<br>Bipolar disorder|
+||Topiramate|Seizure<br>Migraine<br>Idiopathic intracranial hypertension (IIH)|
 ||Saxitoxin<br>Tetrodotoxin|-|
 |K channel activators|Diazoxide|Vasodilation<br>Insulinoma|
 ||Minoxidil|Vasodilation<br>Alopecia|
