@@ -895,11 +895,12 @@
 
 ## Management of Pituitary Adenoma
 
-||Asymptomatic|Symptomatic|
-|-|-|-|
-|Prolactinoma|Observation|Pharmacotherapy|
-|Non-PRL secretory|Observation|Surgery|
-|Non-secretory|Observation|Surgery|
+|Condition|Management|
+|-|-|
+|Prolactinoma|Pharmacotherapy|
+|Non-PRL secretory|Surgery|
+|Non-secretory|Surgery|
+|Asymptomatic|Observation|
 
 ## Disorders of Consciousness
 
