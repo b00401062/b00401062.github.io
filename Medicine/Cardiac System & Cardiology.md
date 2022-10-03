@@ -313,6 +313,12 @@
 - SGLT-2 inhibitors
 - Cardiac resynchronization therapy (CRT)
 
+## Indications for CRT in Heart Failure (HF)
+
+- NYHA class II / III / IV
+- LV ejection fraction < 35%
+- Left bundle branch block (LBBB) w/ QRS complex > 150 ms
+
 ## Cardiomyopathy
 
 - Dilated cardiomyopathy (DCMP)
