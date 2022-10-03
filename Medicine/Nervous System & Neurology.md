@@ -757,8 +757,8 @@
   - Hypothyroidism
   - Cushing syndrome
 - Metabolic myopathy
-  - Glycogen storage disease (GSD)
-  - Lysosomal Storage Diseases (LSD)
+  - Glycogen storage diseases (GSD)
+  - Lysosomal storage diseases (LSD)
 - Muscular dystrophy
   - Duchenne muscular dystrophy (DMD)
   - Myotonic dystrophy
