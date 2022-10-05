@@ -94,8 +94,10 @@
 
 |Disorder|TRH|TSH|TH|
 |-|-|-|-|
+|Subclinical hypothyroidism|↑|↑|-|
 |1° Hypothyroidism|↑|↑|↓ (1°)|
 |2° Hypothyroidism|↑|↓ (1°)|↓|
+|Subclinical hyperthyroidism|↓|↓|-|
 |Struma ovarii|↓|↓|↑ (1°)|
 |1° Hyperthyroidism|↓|↓|↑ (1°)|
 |2° Hyperthyroidism|↓|↑ (1°)|↑|
