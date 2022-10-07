@@ -722,6 +722,21 @@
 - Plasmapheresis
 - Intravenous immunoglobulin (IVIG)
 
+## Comparison Between UMN and LMN Lesions
+
+||UMN|LMN|
+|-|-|-|
+|Weakness|+|+|
+|Atrophy|-|+|
+|Fasciculations|-|+|
+|Tone|↑|↓|
+|Reflexes|↑|↓|
+|Primitive reflexes|+|-|
+|Paralysis|Spastic|Flaccid|
+
+- Upper motor neuron (UMN)
+- Lower motor neuron (LMN)
+
 ## Physical Examinations for Nerve Injuries
 
 |Test|Injury|
@@ -730,8 +745,8 @@
 |Spurling test|Cervical radiculopathy|
 |Kemp test|Lumbar radiculopathy|
 |Straight leg raising test (SLRT)|Lumbar radiculopathy|
-|Hoffmann sign|Upper motor neuron (UMN) lesion|
-|Babinski sign|Upper motor neuron (UMN) lesion|
+|Hoffmann sign|UMN lesion|
+|Babinski sign|UMN lesion|
 
 ## Evoked Electromyography (EMG)
 
