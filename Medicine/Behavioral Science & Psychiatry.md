@@ -195,11 +195,27 @@
 
 ## Antipsychotics
 
-|Mechanism|Medication|
-|-|-|
-|D<sub>2</sub> antagonists|1° [Typical] Antipsychotics :: high potency:<br>Haloperidol<br>Trifluoperazine<br>Fluphenazine|
-||1° [Typical] Antipsychotics :: low potency:<br>Chlorpromazine<br>Thioridazine|
-||2° [Atypical] Antipsychotics:<br>Aripiprazole<br>Clozapine<br>Olanzapine<br>Quetiapine<br>Risperidone<br>Ziprasidone|
+### 1° [Typical] Antipsychotics
+
+#### High Potency
+
+- Haloperidol
+- Trifluoperazine
+- Fluphenazine
+
+#### Low Potency
+
+- Chlorpromazine
+- Thioridazine
+
+### 2° [Atypical] Antipsychotics
+
+- Aripiprazole
+- Clozapine
+- Olanzapine
+- Quetiapine
+- Risperidone
+- Ziprasidone
 
 ## Side Effects of Antipsychotics
 
