@@ -76,6 +76,14 @@
 - Anemia :: sideroblastic anemia
 - Drops :: wrist & foot drop
 
+## Management of Lead Poisoning
+
+|Level (μg/dL)|Management|
+|-|-|
+|5 ~ 45|Observation|
+|45 ~ 70|Succimer|
+|> 70|Dimercaprol<br>EDTA|
+
 ## CAGE Questions for Alcohol Use {CAGE}
 
 - Cut down
