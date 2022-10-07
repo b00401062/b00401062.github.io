@@ -730,8 +730,8 @@
 |Spurling test|Cervical radiculopathy|
 |Kemp test|Lumbar radiculopathy|
 |Straight leg raising test (SLRT)|Lumbar radiculopathy|
-|Hoffmann sign|Upper motor neuron lesion|
-|Babinski sign|Upper motor neuron lesion|
+|Hoffmann sign|Upper motor neuron (UMN) lesion|
+|Babinski sign|Upper motor neuron (UMN) lesion|
 
 ## Evoked Electromyography (EMG)
 
@@ -744,12 +744,11 @@
 |Normal|-|0.2 ~ 2 mV|5 ~ 15 ms|Triphasic|-|
 |Neuropathy :: UMN|-|-|-|Triphasic|-|
 |Neuropathy :: LMN|Fibrillations|↑|↑|Polyphasic|↓|
-|Myopathy ::<br/>non-inflammatory|-|↓|↓|Polyphasic|↑|
-|Myopathy ::<br/>inflammatory|Fibrillations|↓|↓|Polyphasic|↑|
+|Myopathy ::<br>non-inflammatory|-|↓|↓|Polyphasic|↑|
+|Myopathy ::<br>inflammatory|Fibrillations|↓|↓|Polyphasic|↑|
 
 ## Etiology of Myopathy
 
-- Rhabdomyolysis
 - Inflammatory myopathy
   - Polymyositis
   - Dermatomyositis
@@ -764,6 +763,7 @@
   - Myotonic dystrophy
   - Limb-girdle muscular dystrophy
 - Drug-induced myopathy
+- Rhabdomyolysis
 
 ## Comparison Between Myopathy and Myalgia
 
