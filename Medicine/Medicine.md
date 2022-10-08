@@ -503,8 +503,8 @@
 |-|-|-|-|-|
 |HIV|All|15 ~ 65|-|Once|
 |Hypertension|All|All|-|2|
-|Hyperlipidemia|Men|> 35|-|Once|
-||Women|> 45|-|Once|
+|Hyperlipidemia|Male|> 35|-|Once|
+||Female|> 45|-|Once|
 |Diabetes|All|> 45|FBG|Once|
-|AAA|Men|65 ~ 75|Ultrasound|Once|
-|Osteoporosis|Women|> 65|DEXA|2|
+|AAA|Male smoker|65 ~ 75|Ultrasound|Once|
+|Osteoporosis|Female|> 65|DEXA|2|
