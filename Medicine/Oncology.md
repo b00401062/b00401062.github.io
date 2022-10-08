@@ -30,7 +30,7 @@
 |Colon|All|50 ~ 75|Fecal occult blood testing|1|
 ||||Sigmoidoscopy|5|
 ||||Colonoscopy|10|
-|Lung|Smoking|50 ~ 80|Low-dose CT|1|
+|Lung|Smoker|50 ~ 80|Low-dose CT|1|
 
 ### Earlier Cancer Screening
 
