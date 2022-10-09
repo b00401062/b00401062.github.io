@@ -54,6 +54,12 @@
 |μ-opioid agonists|Morphine|
 |Nitrates|Nitroglycerin<br>Isosorbide|
 
+## Indications for Repair of AAA
+
+- \> 5.5 cm in men<br>> 5.0 cm in women
+- \> 1 cm/year
+- Symptomatic AAA
+
 ## Thromboembolic Diseases
 
 ### Arterial Thromboembolism
