@@ -566,3 +566,19 @@
 
 - Clindamycin
 - Aminoglycosides
+
+## Indications for RhoGAM
+
+- Invasive prenatal diagnosis
+  - Amniocentesis
+  - Chorionic villus biopsy.
+- Intrauterine procedures
+- External cephalic version (ECV)
+- Ectopic pregnancy
+- Molar pregnancy
+- Antepartum haemorrhage
+- Miscarriage after 12 weeks of gestation
+- Intrauterine fetal demise (IUFD)
+- Induced abortion
+- 24 ~ 28 weeks of gestation
+- Within 72 hours of delivery
