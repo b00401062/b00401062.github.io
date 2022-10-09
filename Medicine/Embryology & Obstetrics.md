@@ -228,12 +228,12 @@
 - Abdominal circumference (AC)
 - Femur length (FL)
 
-## Classification of Pregnancy Loss
+## Classification of Pregnancy Loss [Miscarriage]
 
 |Condition|Definition|
 |-|-|
 |Spontaneous abortion|< 20 weeks / < 500 g|
-|Intrauterine fetal demise (IUFD)|> 20 weeks / > 500 g|
+|Intrauterine fetal demise (IUFD) [Stillbirth]|> 20 weeks / > 500 g|
 
 ## Spontaneous Abortion
 
