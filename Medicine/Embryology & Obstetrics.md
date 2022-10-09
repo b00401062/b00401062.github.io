@@ -571,7 +571,7 @@
 
 - Invasive prenatal diagnosis
   - Amniocentesis
-  - Chorionic villus biopsy.
+  - Chorionic villus biopsy
 - Intrauterine procedures
 - External cephalic version (ECV)
 - Ectopic pregnancy
