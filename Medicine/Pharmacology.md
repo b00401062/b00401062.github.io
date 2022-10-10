@@ -131,7 +131,7 @@
 |NDRIs|Methylphenidate|ADHD<br>Narcolepsy|
 ||Cocaine<br>Amphetamine<br>MDMA [Ecstasy]|-|
 ||Bupropion|Depression<br>Smoking cessation|
-|TCAs|-Triptylines<br>-Pramines|Depression<br>Anxiety<br>OCD<br>Cataplexy<br>Neuropathic pain<br>Diffuse esophageal spasm (DES)|
+|TCAs|-Triptylines<br>-Pramines|Depression<br>Anxiety<br>OCD<br>Cataplexy<br>Neuropathic pain<br>Migraine<br>Tension headache<br>Diffuse esophageal spasm (DES)|
 |SSRIs|Fluoxetine<br>Paroxetine<br>Sertraline<br>Citalopram|Depression<br>Anxiety<br>OCD<br>Cataplexy<br>Premenstrual syndrome (PMS)<br>Menopause|
 |SNRIs|Venlafaxine<br>Duloxetine|Depression<br>Anxiety<br>OCD<br>Cataplexy<br>Neuropathic pain<br>Menopause|
 |GRIs|Tiagabine|Seizure|
