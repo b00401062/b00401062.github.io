@@ -784,7 +784,7 @@
 
 ||Myopathy|PMR|Fibromyalgia|
 |-|-|-|-|
-|ESR|↑|↑|-|
+|ESR|↑/-|↑|-|
 |CK|↑|-|-|
 
 ## Pathogenesis of Horner Syndrome
