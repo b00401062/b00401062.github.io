@@ -179,7 +179,8 @@
     - Hip fracture > 3%
 - Osteoporosis
 - Paget disease
-- Malignancy-related hypercalcemia
+- Multiple myeloma
+- Bone metastasis
 
 ## Synovial Fluid Analysis
 
