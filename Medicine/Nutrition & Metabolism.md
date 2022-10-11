@@ -265,6 +265,12 @@
 - Age > 40 years & Diabetes mellitus
 - 10-year ASCVD risk > 7.5% ~ 10%
 
+## Treatment of Morbid Obesity
+
+- Orlistat
+- Phentermine-Topiramate
+- Bariatric surgery
+
 ## Indications for Low-Protein Diet
 
 - Liver failure → Hyperammonemia
