@@ -549,7 +549,7 @@
 - Placenta previa
 - Vasa previa
 - Cord prolapse
-- Prior uterine surgery
+- History of uterine surgery
 - Cervical cancer
 - Infection :: HSV & HIV
 

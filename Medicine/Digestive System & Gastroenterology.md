@@ -310,8 +310,8 @@
 
 ## Indications for Antibiotic Treatment of Diarrhea
 
-- Without Shiga toxin
-- Pathogen w/ low infectious dose
+- Pathogens w/o shiga toxin
+- Pathogens w/ low infectious dose
 - Immunodeficiency
 - Hemodynamic instability
 

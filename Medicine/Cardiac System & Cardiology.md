@@ -414,8 +414,8 @@
 ## Treatment of Atrial Fibrillation
 
 - Cardioversion
-  - Hemodynamically unstable
-  - Persistent
+  - Hemodynamic instability
+  - Persistence
     - Duration < 48 hours
     - Anticoagulated
     - No atrial thrombus on TEE
@@ -508,7 +508,7 @@
 - History of cardiac arrest due to ventricular arrhythmia w/o reversible cause
 - Reduced ejection fraction
   - LV ejection fraction < 35% & NYHA class II / III
-  - LV ejection fraction < 30% & History of MI 
+  - LV ejection fraction < 30% & History of MI
 
 ## Etiology of ST Segment Elevation
 

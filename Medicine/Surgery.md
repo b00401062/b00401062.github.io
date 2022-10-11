@@ -35,7 +35,7 @@
 
 - High-risk surgery :: vascular & thoracic
 - Ischemic heart disease
-- History of congestive heart failure
+- History of congestive heart failure (CHF)
 - History of cerebrovascular disesase
 - Insulin-dependent diabetes mellitus
 - Preoperative creatinine > 2 mg/dL

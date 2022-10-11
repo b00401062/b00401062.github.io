@@ -548,7 +548,7 @@
   - Duration < 3 ~ 4.5 hours
   - BP < 185/110 mmHg
 - Pulmonary embolism (PE)
-  - Hemodynamically unstable
+  - Hemodynamic instability
 
 ## Contraindications to Thrombolytics
 
