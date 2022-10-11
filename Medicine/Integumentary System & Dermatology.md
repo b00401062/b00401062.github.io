@@ -117,7 +117,15 @@
 - Topical tacrolimus
 - Oral steroids
 
-## Empirical Antibiotics of Necrotizing Fasciitis
+## Empirical Antibiotics for Cellulitis
+
+- Anti-streptococcal penicillin
+
+## Empirical Antibiotics for Skin Abscess
+
+- Anti-MRSA
+
+## Empirical Antibiotics for Necrotizing Fasciitis
 
 - Anti-MRSA
 - β-lactams & β-lactamase inhibitors<br>Carbapenems
