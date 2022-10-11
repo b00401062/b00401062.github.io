@@ -668,8 +668,8 @@
 - Chemotherapy toxicity
 - Tabes dorsalis
 - Subacute combined degeneration (SCD)
-- Guillain-Barre syndrome
-- Charcot-Marie-Tooth disease
+- Guillain-Barre syndrome (GBS)
+- Charcot-Marie-Tooth (CMT) disease
 
 ## Demyelinating Diseases
 
@@ -680,7 +680,7 @@
 - Tabes dorsalis
 - Subacute combined degeneration (SCD)
 - Guillain-Barre syndrome (GBS)
-- Charcot-Marie-Tooth disease
+- Charcot-Marie-Tooth (CMT) disease
 
 ## Charcot Triad of Multiple Sclerosis {SIN}
 
