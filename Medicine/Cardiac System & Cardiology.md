@@ -335,14 +335,6 @@
 - Doxorubicin
 - Duchenne muscular dystrophy (DMD)
 
-## Indications for ICD in Hypertrophic Cardiomyopathy (HCMP)
-
-- Cardiac arrest
-- Ventricular arrhythmia
-- Hypotensive response to exercise
-- Extreme LV hypertrophy
-- Family history of SCD
-
 ## Etiology of Arrhythmia {HIS-BEDS}
 
 - Hypoxia
@@ -510,6 +502,13 @@
 - AV blocks
   - 2nd degree Mobitz II
   - 3rd degree
+
+## Indications for ICD
+
+- History of cardiac arrest due to ventricular arrhythmia w/o reversible cause
+- Reduced ejection fraction
+  - LV ejection fraction < 35% & NYHA class II / III
+  - LV ejection fraction < 30% & History of MI 
 
 ## Etiology of ST Segment Elevation
 
