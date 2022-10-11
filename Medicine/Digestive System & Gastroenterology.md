@@ -28,10 +28,10 @@
 |Camper's fascia|-|
 |Skin|Skin|
 
-## Hesselbach Triangle
+## Inguinal [Hesselbach] Triangle
 
 - Rectus abdominis
-- Inferior epigastric artery
+- Inferior epigastric vessels
 - Inguinal ligament
 
 ## Layers of Gastrointestinal Tract {MSMS}
@@ -220,6 +220,18 @@
 - Sleeve gastrectomy
 - Biliopancreatic diversion
 - Roux-en-Y gastric bypass (RYGB)
+
+## Types of Hernia
+
+|Hernia|IL|Triangle|IIR|EIR|
+|-|-|-|-|-|
+|Indirect inguinal hernia|Above|-|+|+|
+|Direct inguinal hernia|Above|Inguinal|-|+|
+|Femoral hernia|Below|Femoral|-|-|
+
+- Inguinal ligament (IL)
+- Internal inguinal ring (IIR)
+- External inguinal ring (EIR)
 
 ## Presentation of Appendicitis {PROM}
 
