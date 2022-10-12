@@ -705,7 +705,7 @@
 
 |Pathogens|Antibiotics|
 |-|-|
-|MRSA|Clindamycin<br>Ceftaroline<br>Vancomycin<br>Teicoplanin<br>Linezolid<br>Daptomycin|
+|MRSA|Clindamycin<br>TMP-SMX<br>Ceftaroline<br>Vancomycin<br>Teicoplanin<br>Linezolid<br>Daptomycin|
 |VRE|Teicoplanin<br>Linezolid<br>Daptomycin|
 |ESBL|Carbapenems<br>Tigecycline<br>Polymyxins|
 |CRE|Tigecycline<br>Polymyxins|
