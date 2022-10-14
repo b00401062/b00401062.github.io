@@ -1020,8 +1020,8 @@
 |VZV|+|-/?|Vaccine / IVIG|
 |Measles|+|-/?|Vaccine / IVIG|
 |Rubella|+|-/?|Vaccine / IVIG|
-|Rabies|+/?|-/?|Vaccine & IVIG|
-|||+|Vaccine|
+|Rabies|+/?|-|Vaccine & IVIG|
+|||?|Vaccine|
 |HIV|+/?|-/?|HAART|
 |Meningitis|+|-/?|Rifampicin<br>3° Cephalosporins|
 |Pertusis|+|-/?|Antibiotics|
