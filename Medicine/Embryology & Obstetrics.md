@@ -220,6 +220,12 @@
 - Trisomy 21 & 18
 - Fetal demise
 
+## Indications for Methotrexate in Ectopic Pregnancy
+
+- Gestational sac < 3.5 cm
+- hCG > 5000 mIU/mL
+- No fetal cardiac activity (FCA)
+
 ## Fetal Biometric Parameters on Ultrasound
 
 - Crown-rump length (CRL)
