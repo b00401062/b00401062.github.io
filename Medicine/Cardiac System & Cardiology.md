@@ -693,8 +693,8 @@
 |Etiology|Management|
 |-|-|
 |Bacterial|Antibiotics|
-|Viral|Aspirin|
-|Fibrinous|NSAIDs<br>Colchicine|
+|Viral|NSAIDs<br>Colchicine|
+|Fibrinous|Aspirin|
 |Uremic|Corticosteroids|
 
 ## Radiation Heart Disease
