@@ -2,16 +2,20 @@
 
 ## Research Bias
 
-- Sampling bias
-  - Berkson bias
-- Selection bias
-  - Attrition bias
+### Selection Bias
+
+- Berkson bias
+- Attrition bias
+
+### Measurement Bias
+
+- Hawthorne effect
 - Recall bias
-- Measurement bias
-  - Hawthorne effect
 - Procedure bias
-- Observer-expectancy bias
-  - Pygmalion effect
+- Observer bias [Pygmalion effect]
+
+### Misinterpretation
+
 - Confounding bias
 - Lead-time bias
 - Late-look bias
