@@ -4,28 +4,33 @@
 
 ### Selection Bias
 
-- Berkson bias
 - Attrition bias
+- Berkson bias
+- Healthy worker effect
+- Late-look bias
+- Non-response bias
+- Volunteer bias
 
 ### Measurement Bias
 
 - Hawthorne effect
-- Recall bias
-- Procedure bias
 - Observer bias [Pygmalion effect]
+- Procedure bias
+- Recall bias
 
 ### Misinterpretation
 
 - Confounding bias
 - Lead-time bias
-- Late-look bias
+- Length-time bias
 
 ## Methods to Decrease Confounding Bias
 
+- Crossover
 - Matching
-- Stratification
-- Restriction
 - Randomization
+- Restriction
+- Stratification
 
 ## Observational Studies
 
