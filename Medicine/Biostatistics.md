@@ -20,6 +20,13 @@
 - Lead-time bias
 - Late-look bias
 
+## Methods to Decrease Confounding Bias
+
+- Matching
+- Stratification
+- Restriction
+- Randomization
+
 ## Observational Studies
 
 ||Cross Section|Case Control|Cohort|
