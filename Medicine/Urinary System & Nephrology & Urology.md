@@ -78,12 +78,15 @@
 
 ## Urinalysis Findings
 
-|Finding|Contents|Diseases|
+|Finding|Contents|Conditions|
 |-|-|-|
-|WBC casts|WBCs|UTI<br>Glomerulonephritis<br>Acute interstitial nephritis (AIN)|
 |RBC casts|RBCs|Glomerulonephritis|
+|WBC casts|WBCs|UTI<br>Glomerulonephritis<br>Acute interstitial nephritis (AIN)|
+|RTE cell casts|RTE cells|Acute tubular necrosis (ATN)|
+|Hyaline casts|Mucoprotein|-|
+|Granular casts|Cellular debris|Acute tubular necrosis (ATN)|
+|Waxy casts|Cellular debris|Chronic kidney disease (CKD)|
 |Fatty casts|Lipids|Nephrosis|
-|Granular casts|-|Acute tubular necrosis (ATN)|
 |Envelope crystals|Calcium oxalate|Ethylene glycol<br>Malabsorption|
 |Coffin lid crystals|Struvite|Urease-positive pathogens|
 |Rhomboid crystals|Uric acid|Hyperuricemia|
