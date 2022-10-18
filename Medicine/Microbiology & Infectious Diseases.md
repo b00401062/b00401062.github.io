@@ -782,14 +782,6 @@
 - Scarlet fever
 - Toxic shock-like syndrome
 
-## Jones Criteria for Rheumatic Fever {JONES}
-
-- Joint :: migratory polyarthritis
-- Heart :: mitral regurgitation & stenosis
-- Nodules :: subcutaneous
-- Erythema marginatum
-- Sydenham chorea [Chorea minor]
-
 ## Tetanus Prophylaxis
 
 ### Dirty Wounds
