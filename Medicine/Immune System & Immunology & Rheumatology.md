@@ -308,6 +308,14 @@
   - Waldenström macroglobulinemia
   - IgM monoclonal gammopathy of undetermined significance (MGUS)
 
+## Jones Criteria for Rheumatic Fever {JONES}
+
+- Joint :: migratory polyarthritis
+- Heart :: mitral regurgitation & stenosis
+- Nodules :: subcutaneous
+- Erythema marginatum
+- Sydenham chorea [Chorea minor]
+
 ## Presentation of Sarcoidosis {GAUSH}
 
 - Granuloma :: non-caseating
