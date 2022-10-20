@@ -267,6 +267,7 @@
 
 ## Treatment of Morbid Obesity
 
+- GLP-1 analogs
 - Orlistat
 - Phentermine-Topiramate
 - Bariatric surgery
