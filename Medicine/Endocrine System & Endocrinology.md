@@ -285,6 +285,11 @@
   - Lithium
   - Demeclocycline
 
+## Medications for Nephrogenic Diabetes Insipidus (DI)
+
+- NSAIDs :: Indomethacin
+- Thiazides :: Hydrochlorothiazide
+
 ## Etiology of Syndrome of Inappropriate Secretion of ADH (SIADH)
 
 - Malignancies :: small cell carcinoma
