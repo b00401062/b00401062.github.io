@@ -305,7 +305,7 @@
   - EBV
 - Autoimmune disorders
 - IgM monoclonal gammopathy
-  - Waldenström macroglobulinemia
+  - Waldenstrom macroglobulinemia
   - IgM monoclonal gammopathy of undetermined significance (MGUS)
 
 ## Jones Criteria for Rheumatic Fever {JONES}
