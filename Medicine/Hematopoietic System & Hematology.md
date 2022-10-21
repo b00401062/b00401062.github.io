@@ -340,7 +340,7 @@
 ## Causes of Monoclonal Spike [M Spike]
 
 - Multiple myeloma
-- Waldenström macroglobulinemia
+- Waldenstrom macroglobulinemia
 - Monoclonal gammopathy of undetermined significance (MGUS)
 - AL amyloidosis
 
