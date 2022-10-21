@@ -266,7 +266,7 @@
 |Mechanism|Medication|Indications|
 |-|-|-|
 |GABA<sub>A</sub> agonists|Barbiturates|Anesthesia<br>Seizure<br>Essential tremor|
-||Benzodiazepines|Anesthesia<br>Seizure<br>Insomnia<br>NMS<br>Catatonia<br>Akathisia|
+||Benzodiazepines|Anesthesia<br>Seizure<br>Insomnia<br>NMS<br>Catatonia<br>Akathisia<br>Bulimia nervosa|
 ||Propofol|Anesthesia|
 ||Etomidate|Anesthesia|
 ||Zolpidem<br>Zaleplon<br>Eszopiclone|Insomnia|
