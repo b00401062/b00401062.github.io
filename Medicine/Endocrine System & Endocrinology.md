@@ -319,14 +319,6 @@
 |DM type 2|↑|↑ (1°)|
 |Insulinoma|↑ (1°)|↓|
 
-## Diagnosis of Diabetes Mellitus
-
-|Diagnosis|FBG|OGTT|HbA1c|
-|-|-|-|-|
-|Normal|< 100 mg/dL|50-g 1-hour < 140 mg/dL|< 6.5%|
-|Gestational|< 125 mg/dL|50-g 1-hour > 140 mg/dL<br>100-g 3-hour ≥ 2/4|-|
-|Overt|> 125 mg/dL|75-g 2-hour > 200 mg/dL|> 6.5%|
-
 ## Presentation of Glucagonoma {4D}
 
 - Depression
@@ -339,6 +331,14 @@
 - Symptoms of hypoglycemia
 - Fasting hypoglycemia :: < 50 mg/dL
 - Relief of symptoms on IV glucose
+
+## Diagnosis of Diabetes Mellitus
+
+|Diagnosis|FBG|OGTT|HbA1c|
+|-|-|-|-|
+|Normal|< 100 mg/dL|50-g 1-hour < 140 mg/dL|< 6.5%|
+|Gestational|< 125 mg/dL|50-g 1-hour > 140 mg/dL<br>100-g 3-hour ≥ 2/4|-|
+|Overt|> 125 mg/dL|75-g 2-hour > 200 mg/dL|> 6.5%|
 
 ## Medications for Diabetes Mellitus
 
@@ -368,6 +368,12 @@
 - Insulin
 - Bicarbonate if indicated
 - Phosphate if indicated
+
+## Microvascular Complications of Diabetes Mellitus
+
+- Retinopathy
+- Nephropathy
+- Neuropathy
 
 ## Insensitivity of Endocrine Receptors
 
