@@ -580,7 +580,7 @@
 - Anticoagulants :: Heparin
 - β<sub>1</sub> antagonists
 - Revascularization
-  - Thrombolysis: duration < 12 ~ 24 hours
+  - Thrombolysis if duration < 12 ~ 24 hours
   - Percutaneous intervention (PCI)
   - Coronary artery bypass grafting (CABG)
 
