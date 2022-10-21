@@ -466,9 +466,7 @@
 
 ## Contraindications to Amiodarone
 
-- Sinus bradycardia
-  - < 40/min
-  - Symptomatic
+- Sinus bradycardia :: < 40/min
 - Sick sinus syndrome
 - AV blocks
   - 2nd degree Mobitz II
@@ -493,22 +491,20 @@
 |Unstable atrial fibrillation|120 ~ 200|
 |Unstable monomorphic VT|> 100|
 
-## Indications for Permanent Pacemaker
-
-- Sinus bradycardia
-  - < 40/min
-  - Symptomatic
-- Sick sinus syndrome
-- AV blocks
-  - 2nd degree Mobitz II
-  - 3rd degree
-
-## Indications for ICD
+## Indications for Implantable Cardioverter Defibrillator (ICD)
 
 - History of cardiac arrest due to ventricular arrhythmia w/o reversible cause
 - Reduced ejection fraction
   - LV ejection fraction < 35% & NYHA class II / III
   - LV ejection fraction < 30% & History of MI
+
+## Indications for Permanent Pacemaker
+
+- Symptomatic sinus bradycardia :: < 40/min
+- Symptomatic sick sinus syndrome
+- AV blocks
+  - 2nd degree Mobitz II
+  - 3rd degree
 
 ## Etiology of ST Segment Elevation
 
