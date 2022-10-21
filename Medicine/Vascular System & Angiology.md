@@ -82,12 +82,12 @@
 
 ## Revascularization Techniques
 
-|Technique|Indications|
-|-|-|
-|Thrombolysis|PE & DVT & CST & CAD & ALI & II & IS|
-|Thrombectomy|PE & DVT & CST & CAS & ALI & II & IS|
-|Angioplasty|CAD & CAS & RAS & CLI & II|
-|Bypass surgery|CAD & CAS & RAS & CLI & II|
+|Technique|General Indications|Indications|
+|-|-|-|
+|Thrombolysis|Venous thromboembolism<br>Arterial embolism|PE & DVT & CST & CAD & ALI & II & IS|
+|Thrombectomy|Venous thromboembolism<br>Arterial embolism|PE & DVT & CST & CAS & ALI & II & IS|
+|Angioplasty|Arterial thrombosis|CAD & CAS & RAS & CLI & II|
+|Bypass surgery|Arterial thrombosis|CAD & CAS & RAS & CLI & II|
 
 ## Fontaine Staging of Peripheral Artery Disease (PAD)
 
