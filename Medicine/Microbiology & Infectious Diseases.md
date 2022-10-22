@@ -9,12 +9,6 @@
 - Fecal-oral
 - Vector-borne
 
-## Levels of Isolation Precautions
-
-- Contact precaution
-- Droplet precaution
-- Airborne precaution
-
 ## Gram Positive Lab Algorithm
 
 ![](../Figures/Gram%20Positive%20Lab%20Algorithm.png)
@@ -1008,6 +1002,20 @@
 - Pregnancy
 - Immunodeficiency
 - IVIG within a year
+
+## Levels of Isolation Precautions
+
+- Contact precaution
+- Droplet precaution
+- Airborne precaution
+
+## Pathogens Requiring Airborne Precaution
+
+- Tuberculosis
+- Chickenpox
+- Disseminated herpes zoster
+- Measles
+- SARS
 
 ## Post-Exposure Prophylaxis
 
