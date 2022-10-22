@@ -1009,7 +1009,7 @@
 - Droplet precaution
 - Airborne precaution
 
-## Pathogens Requiring Airborne Precaution
+## Infections Requiring Airborne Precaution
 
 - Tuberculosis
 - Chickenpox
