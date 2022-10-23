@@ -481,7 +481,7 @@
 - Cardiac
 - Neurologic
 - Reflex
-  - Vasovagal
+  - Vasovagal [Neurocardiogenic]
   - Situational
 - Psychogenic
 
