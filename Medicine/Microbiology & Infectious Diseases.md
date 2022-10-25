@@ -26,6 +26,17 @@
 |GDS :: Streptococcus bovis|6.5% NaCl|S|
 |GDS :: Enterococcus|6.5% NaCl|R|
 
+- Streptococcus viridans
+  - Streptococcus anginosus
+  - Streptococcus mitis
+  - Streptococcus sanguinis
+  - Streptococcus salivarius
+  - Streptococcus mutans
+- Streptococcus bovis
+  - Streptococcus equinus
+  - Streptococcus gallolyticus
+  - Streptococcus infantarius
+
 ### Gram-Positive Bacilli (GPB)
 
 #### Non-branching
