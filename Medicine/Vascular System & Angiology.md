@@ -54,7 +54,7 @@
 |μ-opioid agonists|Morphine|
 |Nitrates|Nitroglycerin<br>Isosorbide|
 
-## Indications for Repair of abdominal Aortic Aneurysm (AAA)
+## Indications for Repair of Abdominal Aortic Aneurysm (AAA)
 
 - \> 5.5 cm in men<br>> 5.0 cm in women
 - \> 1 cm/year
