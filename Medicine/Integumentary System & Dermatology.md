@@ -66,7 +66,7 @@
 |Acanthosis nigricans|Insulin resistance<br>Visceral malignancy|Axilla & Neck|
 |Atopic dermatitis|-|Joints|
 |Erythema multiforme|Stevens-Johnson syndrome (SJS)<br>Toxic epidermal necrolysis (TEN)|Anywhere|
-|Erythema nodosum|Inflammatory bowel disease (IBD)<br>Sarcoidosis<br>Non-Hodgkins lymphoma|Anywhere|
+|Erythema nodosum|Drugs<br>Inflammatory bowel disease (IBD)<br>Sarcoidosis<br>Non-Hodgkins lymphoma|Anywhere|
 |Erythema toxicum|Neonates|Face & Trunk & Extremities|
 |Migratory thrombophlebitis<br>Trousseau syndrome|Pancreatic adenocarcinoma|Veins|
 |Necrolytic migratory erythema|Glucagonoma|Face & Extremities|
@@ -81,8 +81,9 @@
   - NSAIDs
   - Iodides
 - Oral contraceptive pills (OCPs)
-- Sarcoidosis
 - Inflammatory bowel disease (IBD)
+- Sarcoidosis
+- Non-Hodgkins lymphoma
 - Microbiology
   - Tuberculosis
   - Leprosy
