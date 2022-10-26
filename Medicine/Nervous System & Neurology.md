@@ -536,7 +536,7 @@
 |Headache|Acute|Chronic|
 |-|-|-|
 |Cluster|100% O<sub>2</sub><br>-Triptans|Verapamil|
-|Migraine|NSAIDs<br>-Triptans<br>Ergotamine|TCAs<br>Valproate<br>Topiramate<br>Lifestyle modification|
+|Migraine|NSAIDs<br>-Triptans<br>Ergotamine|β antagonists<br>TCAs<br>Valproate<br>Topiramate<br>Botulinum toxin<br>Lifestyle modification|
 |Tension|NSAIDs<br>Acetaminophen|TCAs<br>Lifestyle modification|
 
 ## Red Flags for Secondary Headaches
