@@ -174,6 +174,10 @@
 - Intermittent explosive disorder
 - Conduct disorder
 
+## Symptom Duration Required for Diagnosis
+
+![](../Figures/Symptom%20Duration%20Required%20for%20Diagnosis.jpg)
+
 ## Types of Delusions
 
 - Delusion of control
