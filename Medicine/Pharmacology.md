@@ -208,7 +208,7 @@
 |β<sub>2</sub> antagonists|-|-|
 |β antagonists|Nadolol|-|
 ||Pindolol|Partial agonists|
-||Propranolol|Arrhythmia<br>Esophageal varices<br>Hyperthyroidism<br>Anxiety<br>Akathisia<br>Essential tremor<br>Performance anxiety|
+||Propranolol|Arrhythmia<br>Esophageal varices<br>Hyperthyroidism<br>Anxiety<br>Akathisia<br>Essential tremor<br>Migraine<br>Performance anxiety|
 ||Sotalol|Arrhythmia|
 ||Timolol|Arrhythmia<br>Glaucoma|
 |αβ antagonists|Carvedilol|Arrhythmia<br>Heart failure (HF)|
