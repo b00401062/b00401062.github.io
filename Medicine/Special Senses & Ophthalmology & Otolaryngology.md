@@ -208,11 +208,17 @@
 
 ![](../Figures/Arterial%20Supply%20of%20the%20Nasal%20Septum.jpg)
 
-## Treatment of Nonallergic Rhinitis (NAR)
+## Treatment of Allergic Rhinitis
 
-- Intranasal corticosteroids
+- Allergen avoidance
 - Intranasal H<sub>1</sub> antagonists
 - Oral H<sub>1</sub> antagonists
+- Intranasal corticosteroids
+
+## Treatment of Nonallergic Rhinitis (NAR)
+
+- Intranasal H<sub>1</sub> antagonists
+- Intranasal corticosteroids
 
 ## Pathogens of Sinusitis {SHM}
 
