@@ -308,11 +308,11 @@
 
 ## Multiple Gestation
 
-|Type|Cleavage|
-|-|-|
-|Dichorionic diamniotic (DCDA)|Before Morula|
-|Monochorionic diamniotic (MCDA)|Morula ~ Blastocyst|
-|Monochorionic monoamniotic (MCMA)|After blastocyst|
+|Type|Cleavage|#Placenta|#Sac|
+|-|-|-|-|
+|Dichorionic diamniotic (DCDA)|Before Morula|2|2|
+|Monochorionic diamniotic (MCDA)|Morula ~ Blastocyst|1|2|
+|Monochorionic monoamniotic (MCMA)|After blastocyst|1|1|
 
 ## Presentation of Preeclampsia
 
