@@ -101,22 +101,22 @@
 ## Treatment of Atopic Dermatitis
 
 - Moisturizers
-- Topical steroids
+- Topical corticosteroids
 - Topical tacrolimus
 - Phototherapy
 
 ## Treatment of Urticaria
 
 - Oral H<sub>1</sub> antagonists
-- Oral steroids
+- Oral corticosteroids
 
 ## Treatment of Contact Dermatitis
 
 - Allergen avoidance
 - Moisturizers
-- Topical steroids
+- Topical corticosteroids
 - Topical tacrolimus
-- Oral steroids
+- Oral corticosteroids
 
 ## Empirical Antibiotics for Cellulitis
 
@@ -145,9 +145,9 @@
 - Topical zinc pyrithione
 - Topical selenium disulfide
 - Topical antifungals
-- Topical steroids
+- Topical corticosteroids
 - Oral antifungals
-- Oral steroids
+- Oral corticosteroids
 
 ## Treatment of Verruca Vulgaris [Wart]
 
