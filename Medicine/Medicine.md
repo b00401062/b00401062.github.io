@@ -472,7 +472,7 @@
 - Diuretics :: Loop diuretics
 - Calcitonin
 - Bisphosphonates
-- Glucocorticoids
+- Corticosteroids
 - Dialysis
 
 ## Etiology of Syncope
