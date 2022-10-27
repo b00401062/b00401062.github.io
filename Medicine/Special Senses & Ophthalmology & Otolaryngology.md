@@ -210,9 +210,9 @@
 
 ## Treatment of Nonallergic Rhinitis (NAR)
 
-- Glucocorticoids :: intranasal
-- Antihistamine :: intranasal
-- 1° antihistamine :: oral
+- Intranasal corticosteroids
+- Intranasal H<sub>1</sub> antagonists
+- Oral H<sub>1</sub> antagonists
 
 ## Pathogens of Sinusitis {SHM}
 
