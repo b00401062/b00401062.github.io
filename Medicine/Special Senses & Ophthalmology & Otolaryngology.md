@@ -105,7 +105,7 @@
 
 - Cyclosporine :: topical
 - Lifitegrast :: topical
-- Glucocorticoids :: topical
+- Corticosteroids :: topical
 - Pilocarpine
 - Punctal occlusion
 - Autologous serum tears
