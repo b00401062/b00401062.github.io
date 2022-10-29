@@ -131,7 +131,7 @@
 |NDRIs|Methylphenidate|ADHD<br>Narcolepsy|
 ||Cocaine<br>Amphetamine<br>MDMA [Ecstasy]|-|
 ||Bupropion|Depression<br>Smoking cessation|
-|TCAs|-Triptylines<br>-Pramines|Depression<br>Anxiety<br>OCD<br>Cataplexy<br>Neuropathic pain<br>Migraine<br>Tension headache<br>Diffuse esophageal spasm (DES)|
+|TCAs|-Triptylines<br>-Pramines|Depression<br>Anxiety<br>OCD<br>Cataplexy<br>Neuropathic pain<br>Migraine<br>Tension headache<br>Diffuse esophageal spasm (DES)<br>Enuresis|
 |SSRIs|Fluoxetine<br>Paroxetine<br>Sertraline<br>Citalopram|Depression<br>Anxiety<br>OCD<br>Cataplexy<br>Premenstrual syndrome (PMS)<br>Menopause|
 |SNRIs|Duloxetine<br>Venlafaxine<br>Desvenlafaxine|Depression<br>Anxiety<br>OCD<br>Cataplexy<br>Neuropathic pain<br>Menopause|
 |GRIs|Tiagabine|Seizure|
@@ -348,7 +348,7 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|V<sub>2</sub> agonists|Desmopressin|DI|
+|V<sub>2</sub> agonists|Desmopressin|DI<br>Enuresis<br>Hemophilia A<br>Von Willebrand disease (VWD)<br>Uremic bleeding|
 |V<sub>2</sub> antagonists|-Vaptans|SIADH|
 
 ## Medications Targeting Oxytocin Receptor
