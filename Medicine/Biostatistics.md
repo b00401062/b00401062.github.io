@@ -96,6 +96,14 @@
 - Positive likelihood ratio = sensitivity / (1 - specificity)
 - Negative likelihood ratio = (1 - sensitivity) / specificity
 
+## Generalized Linear Models (GLM)
+
+|Model|Distribution|Link|
+|-|-|-|
+|Linear regression|Normal|Identity|
+|Logistic regression|Bernoulli|Logit|
+|Poisson regression|Poisson|Log|
+
 ## Supervised Learning Steps
 
 - Collection
