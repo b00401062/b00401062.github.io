@@ -104,6 +104,13 @@
 |Logistic regression|Bernoulli|Logit|
 |Poisson regression|Poisson|Log|
 
+## Multiple Testing Correction
+
+|Correction|Control|
+|-|-|
+|Bonferroni|Family-wise error rate (FWER)|
+|Benjamini-Hochberg|False discovery rate (FDR)|
+
 ## Supervised Learning Steps
 
 - Collection
