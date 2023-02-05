@@ -116,6 +116,17 @@
 |Bonferroni|Family-wise error rate (FWER)|
 |Benjamini-Hochberg|False discovery rate (FDR)|
 
+## Likelihood and Conjugate Priors
+
+|Likelihood|Conjugate Prior|Parameter|
+|-|-|-|
+|Binomial|Beta|Probability (p)|
+|Geometric|Beta|Probability (p)|
+|Poisson|Gamma|Rate (λ)|
+|Exponential|Gamma|Rate (λ)|
+|Normal|Normal|Mean (μ)|
+|Normal|Inverse gamma|Variance (σ<sup>2</sup>)|
+
 ## Supervised Learning Steps
 
 - Collection
