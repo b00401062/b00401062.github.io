@@ -67,19 +67,24 @@
 |Continuous|Continuous|Independent|-|Spearman correlation|
 |Continuous|Continuous|Independent|+|Pearson correlation|
 
-## Inferences for Means ![](https://latex.codecogs.com/gif.latex?\overline{X})
+## Frequentist Inferences
 
-|Samples|Confidence Interval|Hypothesis Test|
+### Inference for Means ![](https://latex.codecogs.com/gif.latex?\overline{X})
+
+|Samples|One|Two|
 |-|-|-|
-|One|![][1]|![][2]|
-|Two|![][3]|![][4]|
+|CI|![][1]|![][3]|
+|HT|![][2]|![][4]|
 
-## Inferences for Proportions ![](https://latex.codecogs.com/gif.latex?\hat{p})
+### Inference for Proportions ![](https://latex.codecogs.com/gif.latex?\hat{p})
 
-|Samples|Confidence Interval|Hypothesis Test|
+|Samples|One|Two|
 |-|-|-|
-|One|![][5]|![][6]|
-|Two|![][7]|![][8]|
+|CI|![][5]|![][7]|
+|HT|![][6]|![][8]|
+
+- Confidence interval (CI)
+- Hypothesis test (HT)
 
 ## Sensitivity & Specificity
 
