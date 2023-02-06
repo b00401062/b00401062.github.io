@@ -67,7 +67,7 @@
 |Continuous|Continuous|Independent|-|Spearman correlation|
 |Continuous|Continuous|Independent|+|Pearson correlation|
 
-## Frequentist Inferences
+## Statistical Inferences
 
 ### Inference for Means ![](https://latex.codecogs.com/gif.latex?\overline{X})
 
