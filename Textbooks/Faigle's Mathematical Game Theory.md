@@ -1,4 +1,4 @@
-#  Faigle's  Mathematical Game Theory.md
+#  Faigle's Mathematical Game Theory
 
 ## Mathematical Models of the Real World
 
