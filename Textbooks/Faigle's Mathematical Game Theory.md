@@ -45,7 +45,9 @@
 ### Combinatorial games
 
 - $G$ is a combinatorial game if $\|G\| < \infty$, i.e., if $G$ is guaranteed to stop after a finite number of moves (no matter which player starts).
-- A *nim* game $G = G(N_1,...,N_k)$ has two alternating players and starts with the initial configuration of a collection of k finite and pairwise disjoint sets $N_1,...,N_k$. A move of a player is to select one of these sets, say $N_j$, and remove one or more of the elements from $N_j$. Because $G(N_1,...,N_k) < \infty$, nim is a combinatorial game.
+- A *nim* game $G = G(N_1,...,N_k)$ has two alternating players and starts with the initial configuration of a collection of k finite and pairwise disjoint sets $N_1,...,N_k$.
+- A move of a player is to select one of these sets, say $N_j$, and remove one or more of the elements from $N_j$.
+- Because $G(N_1,...,N_k) < \infty$, nim is a combinatorial game.
 - The class of all combinatorial games can be created systematically.
 - There is exactly one combinatorial game $G$ with $\|G\| = 0$, namely the game $G = \{.\|.\}$ in which no player has an option to move.
 - The number of combinatorial games grows super-exponentially fast.
