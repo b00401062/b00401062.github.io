@@ -49,3 +49,12 @@
 - The class of all combinatorial games can be created systematically.
 - There is exactly one combinatorial game $G$ with $|G| = 0$, namely the game $G = \{.|.\}$ in which no player has an option to move.
 - The number of combinatorial games grows super-exponentially fast.
+
+### Winning strategies
+
+- If a player $i ∈ \{L, R\}$ cannot move, player $i$ has lost and the other player is declared the winner.
+- The *misère* rule declares the player with no move to be the winner of the game.
+- A *winning strategy* for player $i$ is a move (option) selection rule for $i$ that ensures $i$ to end as the winner.
+- In any combinatorial game $G$, an overall winning strategy exists for either the first or the second player.
+- For player $i$, suppose a quality estimate $υ(G^i) ∈ ℝ$ is assigned to all the options $G^i$, a $υ$-greedy strategy is a move to an option with a highest $υ$-value.
+- A quality estimate $υ$ is not necessarily completely pre-defined by the game in absolute terms.
