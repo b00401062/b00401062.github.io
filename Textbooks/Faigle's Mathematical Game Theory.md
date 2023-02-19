@@ -30,3 +30,7 @@
 - A profit game with the utilities $u_i$ is formally equivalent to a cost game with utilities $c_i = –u_i$.
 - A game with a set $n$ of players is a so-called $n$-person game.
 - In the prisoner's dilemma, no matter what decisions are taken, at least one of the prisoners will feel that he has taken the wrong decision in the end.
+
+## Combinatorial Games
+
+### Alternating players
