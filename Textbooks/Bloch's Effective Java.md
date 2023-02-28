@@ -297,3 +297,21 @@
 - The restriction can be got around by placing the type parameter on the key rather than the container.
 - `Class` objects are used as keys for such typesafe heterogeneous containers.
 - A `Class` object used in this fashion is called a **type token**.
+
+## Enums and Annotations
+
+### Use enums instead of int constants
+
+- An *enumerated type* is a type whose legal values consist of a fixed set of constants.
+- Enum types are effectively final, and are a generalization of singletons.
+- Enums provide compile-time type safety.
+- Enum types with identically named constants coexist peacefully because each type has its own namespace.
+- Enum types allow adding arbitrary methods and fields and implementing arbitrary interfaces.
+- To associate data with enum constants, declare instance fields and write a constructor that takes the data and stores it in the fields.
+- Enums are by their nature immutable, so all fields should be final
+- If an enum is generally useful, it should be a top-level class; if its use is tied to a specific top-level class, it should be a member class of that top-level class.
+- Enum constants can have different behavior through *constant-specific method implementations*.
+- Constant-specific method implementations can be combined with constant- specific data.
+- However, constant-specific method implementations make it harder to share code among enum constants.
+- Switches on enums are good for augmenting enum types with constant-specific behavior.
+- Enums are a good practice when a set of constants whose members are known at compile time.
