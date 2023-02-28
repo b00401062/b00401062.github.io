@@ -315,3 +315,9 @@
 - However, constant-specific method implementations make it harder to share code among enum constants.
 - Switches on enums are good for augmenting enum types with constant-specific behavior.
 - Enums are a good practice when a set of constants whose members are known at compile time.
+
+### Use instance fields instead of ordinals
+
+- Enums are naturally associated with a single `int` value, which can be accessed with the `ordinal` method.
+- While `ordinal` method works, it is a maintenance nightmare.
+- Unless for `EnumSet` and `EnumMap`, it is best to avoid the ordinal method entirely.
