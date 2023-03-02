@@ -345,3 +345,14 @@
 - Annotations on annotation type declarations are known as **meta-annotations**.
 - There is simply no reason to use naming patterns when you can use annotations instead.
 - All programmers should use the predefined annotation types that Java provides.
+
+### Consistently use the Override annotation
+
+- `@Override` can be used only on method declarations.
+- Use the `Override` annotation on every method declaration that you believe to override a superclass declaration.
+
+### Use marker interfaces to define types
+
+- A **marker interface** is an interface that contains no method declarations but merely designates (or “marks”) a class that implements the interface as having some property.
+- Marker interfaces define a type that is implemented by instances of the marked class; marker annotations do not.
+- Another advantage of marker interfaces over marker annotations is that they can be targeted more precisely.
