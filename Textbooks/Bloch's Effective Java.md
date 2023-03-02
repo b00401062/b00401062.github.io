@@ -339,3 +339,9 @@
 - For the most part, extensibility of enums turns out to be a bad idea.
 - A minor disadvantage of the use of interfaces to emulate extensible enums is that implementations cannot be inherited from one enum type to another.
 - While you cannot write an extensible enum type, you can emulate it by writing an interface to accompany a basic enum type that implements the interface.
+
+### Prefer annotations to naming patterns
+
+- Annotations on annotation type declarations are known as **meta-annotations**.
+- There is simply no reason to use naming patterns when you can use annotations instead.
+- All programmers should use the predefined annotation types that Java provides.
