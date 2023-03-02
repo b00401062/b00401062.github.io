@@ -321,3 +321,21 @@
 - Enums are naturally associated with a single `int` value, which can be accessed with the `ordinal` method.
 - While `ordinal` method works, it is a maintenance nightmare.
 - Unless for `EnumSet` and `EnumMap`, it is best to avoid the ordinal method entirely.
+
+### Use EnumSet instead of bit fields
+
+- Bit fields have all the disadvantages of int enum constants and more.
+- The `EnumSet` class efficiently represents sets of values drawn from a single enum type.
+- Internally, each `EnumSet` is represented as a bit vector.
+- Just because an enumerated type will be used in sets, there is no reason to represent it with bit fields.
+
+### Use EnumMap instead of ordinal indexing
+
+- `EnumMap` is comparable in speed to an ordinal-indexed array in that `EnumMap` uses such an array internally.
+- It is rarely appropriate to use ordinals to index into arrays: use `EnumMap` instead.
+
+### Emulate extensible enums with interfaces
+
+- For the most part, extensibility of enums turns out to be a bad idea.
+- A minor disadvantage of the use of interfaces to emulate extensible enums is that implementations cannot be inherited from one enum type to another.
+- While you cannot write an extensible enum type, you can emulate it by writing an interface to accompany a basic enum type that implements the interface.
