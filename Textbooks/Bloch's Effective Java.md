@@ -356,3 +356,17 @@
 - A **marker interface** is an interface that contains no method declarations but merely designates (or “marks”) a class that implements the interface as having some property.
 - Marker interfaces define a type that is implemented by instances of the marked class; marker annotations do not.
 - Another advantage of marker interfaces over marker annotations is that they can be targeted more precisely.
+
+## Lambdas and Streams
+
+### Prefer lambdas to anonymous classes
+
+- Historically, interfaces (or, rarely, abstract classes) with a single abstract method were used as **function types**.
+- The instances of function types, known as **function objects**, represent functions or actions.
+- The primary means of creating a function object was the **anonymous class**.
+- In Java 8, the language formalized the notion that interfaces with a single abstract method and is now known as **functional interfaces**.
+- An instance of functional interfaces can be created using **lambda expressions**, or **lambdas** for short.
+- The compiler deduces the types of the lambda from context, using a process known as **type inference**.
+- Omit the types of all lambda parameters unless their presence makes your program clearer.
+- Lambdas share with anonymous classes the property that you can’t reliably serialize and deserialize them across implementations.
+- Don’t use anonymous classes for function objects unless you have to create instances of types that aren’t functional interfaces.
