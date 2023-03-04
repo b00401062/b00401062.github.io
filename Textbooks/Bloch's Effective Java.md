@@ -376,3 +376,14 @@
 - Java provides a way to generate function objects even more succinct than lambdas: **method references**.
 - Many method references refer to static methods, but there are four kinds that do not.
 - Where method references are shorter and clearer, use them; where they aren’t, stick with lambdas.
+
+### Favor the use of standard functional interfaces
+
+- If one of the standard functional interfaces does the job, you should generally use it in preference to a purpose-built functional interface.
+- Don’t be tempted to use basic functional interfaces with boxed primitives instead of primitive functional interfaces.
+- When to use a purpose-built functional interface in preference to a standard one?
+  - It will be commonly used and could benefit from a descriptive name.
+  - It has a strong contract associated with it.
+  - It would benefit from custom default methods.
+- Always annotate functional interfaces with the `@FunctionalInterface` annotation.
+- Do not provide a method with multiple overloadings that take different functional interfaces in the same argument position if it could create a possible ambiguity in the client.
