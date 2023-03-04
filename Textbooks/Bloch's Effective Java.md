@@ -370,3 +370,9 @@
 - Omit the types of all lambda parameters unless their presence makes your program clearer.
 - Lambdas share with anonymous classes the property that you can’t reliably serialize and deserialize them across implementations.
 - Don’t use anonymous classes for function objects unless you have to create instances of types that aren’t functional interfaces.
+
+### Prefer method references to lambdas
+
+- Java provides a way to generate function objects even more succinct than lambdas: **method references**.
+- Many method references refer to static methods, but there are four kinds that do not.
+- Where method references are shorter and clearer, use them; where they aren’t, stick with lambdas.
