@@ -311,7 +311,7 @@
 - Enums are by their nature immutable, so all fields should be final
 - If an enum is generally useful, it should be a top-level class; if its use is tied to a specific top-level class, it should be a member class of that top-level class.
 - Enum constants can have different behavior through *constant-specific method implementations*.
-- Constant-specific method implementations can be combined with constant- specific data.
+- Constant-specific method implementations can be combined with constant-specific data.
 - However, constant-specific method implementations make it harder to share code among enum constants.
 - Switches on enums are good for augmenting enum types with constant-specific behavior.
 - Enums are a good practice when a set of constants whose members are known at compile time.
