@@ -387,3 +387,17 @@
   - It would benefit from custom default methods.
 - Always annotate functional interfaces with the `@FunctionalInterface` annotation.
 - Do not provide a method with multiple overloadings that take different functional interfaces in the same argument position if it could create a possible ambiguity in the client.
+
+### Use streams judiciously
+
+- The streams API provides two key abstractions:
+  - The stream: a finite or infinite sequence of data elements.
+  - The stream pipeline: a multistage computation on these elements.
+- A stream pipeline consists of a source stream followed by zero or more intermediate operations and one terminal operation.
+- Stream pipelines are evaluated *lazily*: evaluation doesn't start until the terminal operation is invoked.
+- The streams API is *fluent*.
+- Overusing streams makes programs hard to read and maintain.
+- In the absence of explicit types, careful naming of lambda parameters is essential to the readability of stream pipelines.
+- Using helper methods is even more important for readability in stream pipelines than in iterative code.
+- Refactor existing code to use streams and use them in new code only where it makes sense to do so.
+- If you’re not sure whether a task is better served by streams or iteration, try both and see which works better.
