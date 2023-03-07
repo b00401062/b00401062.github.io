@@ -382,17 +382,17 @@
 - If one of the standard functional interfaces does the job, you should generally use it in preference to a purpose-built functional interface.
 - Don’t be tempted to use basic functional interfaces with boxed primitives instead of primitive functional interfaces.
 - When to use a purpose-built functional interface in preference to a standard one?
-  - It will be commonly used and could benefit from a descriptive name.
-  - It has a strong contract associated with it.
-  - It would benefit from custom default methods.
+    - It will be commonly used and could benefit from a descriptive name.
+    - It has a strong contract associated with it.
+    - It would benefit from custom default methods.
 - Always annotate functional interfaces with the `@FunctionalInterface` annotation.
 - Do not provide a method with multiple overloadings that take different functional interfaces in the same argument position if it could create a possible ambiguity in the client.
 
 ### Use streams judiciously
 
 - The streams API provides two key abstractions:
-  - The stream: a finite or infinite sequence of data elements.
-  - The stream pipeline: a multistage computation on these elements.
+    - The stream: a finite or infinite sequence of data elements.
+    - The stream pipeline: a multistage computation on these elements.
 - A stream pipeline consists of a source stream followed by zero or more intermediate operations and one terminal operation.
 - Stream pipelines are evaluated *lazily*: evaluation doesn't start until the terminal operation is invoked.
 - The streams API is *fluent*.
@@ -413,3 +413,17 @@
 - A method returning a sequence that will only be used for iteration should return an Iterable.
 - The `Collection` interface is a subtype of `Iterable` and has a `stream` method, so it provides for both iteration and stream access.
 - `Collection` or an appropriate subtype is generally the best return type for a public, sequence-returning method.
+
+### Use caution when making streams parallel
+
+- Parallelizing a pipeline is unlikely to increase its performance if:
+    - The source is from `Stream.iterate`.
+    - The intermediate operation `limit` is used.
+- Performance gains from parallelism are best on streams over data structures:
+    - That can be accurately and cheaply split into subranges of any desired sizes.
+    - That provide good-to-excellent *locality of reference* when processed sequentially.
+- Override the `spliterator` method of custom data collections to get decent parallel performance.
+- Inappropriately parallelizing a stream can lead to:
+    - Poor performance, including liveness failures.
+    - Safety failures: Incorrect results and unpredictable behavior.
+- Under the right circumstances, it is possible to achieve near-linear speedup in the number of processor cores simply by adding a `parallel` call to a stream pipeline.
