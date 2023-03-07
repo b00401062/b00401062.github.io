@@ -401,3 +401,15 @@
 - Using helper methods is even more important for readability in stream pipelines than in iterative code.
 - Refactor existing code to use streams and use them in new code only where it makes sense to do so.
 - If you’re not sure whether a task is better served by streams or iteration, try both and see which works better.
+
+### Prefer side-effect-free functions in streams
+
+- The forEach operation should be used only to report the result of a stream computation, not to perform the computation.
+- It is customary and wise to statically import all members of Collectors because it makes stream pipelines more readable.
+- The essence of programming stream pipelines is side-effect-free function objects.
+
+### Prefer Collection to Stream as a return type
+
+- A method returning a sequence that will only be used for iteration should return an Iterable.
+- The `Collection` interface is a subtype of `Iterable` and has a `stream` method, so it provides for both iteration and stream access.
+- `Collection` or an appropriate subtype is generally the best return type for a public, sequence-returning method.
