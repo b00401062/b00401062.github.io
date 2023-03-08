@@ -447,3 +447,21 @@
 - It is essential to make a defensive copy of each mutable parameter to the constructor.
 - Defensive copies should be made before checking the validity of the parameters.
 - The validity check is performed on the copies rather than on the originals.
+- Do not use the clone method to make a defensive copy of a parameter whose type is subclassable by untrusted parties.
+- Return defensive copies of mutable internal fields.
+- Use immutable objects as components of your objects wherever possible.
+- There may be a performance penalty associated with defensive copying and it isn't always justified.
+
+###  Design method signatures carefully
+
+- Choose method names carefully and respect naming conventions.
+- Don't go overboard in providing convenience methods.
+- Avoid long parameter lists.
+- Long sequences of identically typed parameters are especially
+harmful.
+- Three techniques for shortening overly long parameter lists:
+    - Break the method up into multiple methods.
+    - Create helper classes to hold groups of parameters.
+    - Adapt the Builder pattern from object construction to method invocation.
+- For parameter types, favor interfaces over classes.
+- Prefer two-element enum types to boolean parameters.
