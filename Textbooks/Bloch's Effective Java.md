@@ -427,3 +427,23 @@
     - Poor performance, including liveness failures.
     - Safety failures: Incorrect results and unpredictable behavior.
 - Under the right circumstances, it is possible to achieve near-linear speedup in the number of processor cores simply by adding a `parallel` call to a stream pipeline.
+
+## Methods
+
+### Check parameters for validity
+
+- Restrictions on what values may be passed into their parameters.
+- Such restrictions should be checked at the beginning of the method body.
+- Failure to validate parameters can result in a violation of *failure atomicity*.
+- Use the Javadoc @throws tag to document the exception.
+- `@Nullable` annotation indicates that a particular parameter may be null.
+- `Objects.requireNonNull` method obliterates the need to perform null checks manually.
+- In Java 9, a range-checking facility was added to `java.util.Objects`.
+- Indiscriminate reliance on implicit validity checks can result in the loss of *failure atomicity*.
+- Use the *exception translation* idiom to translate the natural exception into the correct one.
+
+### Make defensive copies when needed
+
+- It is essential to make a defensive copy of each mutable parameter to the constructor.
+- Defensive copies should be made before checking the validity of the parameters.
+- The validity check is performed on the copies rather than on the originals.
