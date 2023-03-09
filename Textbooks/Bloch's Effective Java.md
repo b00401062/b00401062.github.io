@@ -561,3 +561,20 @@ where exact results are required
 - Using the string concatenation operator repeatedly to concatenate $n$ strings requires time quadratic in $n$.
 - To achieve acceptable performance, use a `StringBuilder` in place of a `String` to store the statement under construction.
 - Don’t use the string concatenation operator to combine more than a few strings.
+
+### Refer to objects by their interfaces
+
+- If appropriate interface types exist, then parameters, return values, variables, and fields should all be declared using interface types.
+- It is entirely appropriate to refer to an object by a class rather than an interface if no appropriate interface exists.
+- If there is no appropriate interface, just use the least specific class in the class hierarchy that provides the required functionality.
+
+### Prefer interfaces to reflection
+
+- Reflection is a means of using a class that is unavailable at compile time.
+- Use reflection only to instantiate objects, and access the objects using some interface or superclass that is known at compile time.
+
+### Use native methods judiciously
+
+- The **Java Native Interface (JNI)** allows Java programs to call native methods, which are methods written in native programming languages.
+- It is rarely advisable to use native methods for improved performance.
+- A single bug in the native code can corrupt the entire application.
