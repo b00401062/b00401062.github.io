@@ -10,7 +10,7 @@
 ### Consider static factory methods instead of constructors
 
 - Static factory methods have names.
-- Static factory methods are not required to create a new object each time they’re invoked.
+- Static factory methods are not required to create a new object each time they're invoked.
 - Static factory methods can return an object of any subtype of their return type.
 - The class of the returned object can vary from call to call as a function of the input parameters.
 - The class of the returned object need not exist when the class containing the method is written.
@@ -29,7 +29,7 @@
 - The JavaBeans pattern precludes the possibility of making a class immutable.
 - The **builder pattern** combines the safety of the telescoping constructor pattern with the readability of the JavaBeans pattern.
 - The Builder pattern simulates named optional parameters.
-- To detect invalid parameters as soon as possible, check parameter validity in the builder’s constructor and methods.
+- To detect invalid parameters as soon as possible, check parameter validity in the builder's constructor and methods.
 - The Builder pattern is well suited to class hierarchies.
 - **Covariant return typing**: a subclass method is declared to return a subtype of the return type declared in the superclass.
 - The builder pattern is a good choice when designing classes whose constructors or static factories would have more than a handful of parameters.
@@ -85,7 +85,7 @@
 - An uncaught exception thrown during finalization is ignored, and finalization of that object terminates.
 - There is a severe performance penalty for using finalizers and cleaners.
 - Finalizers open your class up to **finalizer attacks**.
-- Unlike finalizers, cleaners do not pollute a class’s public API.
+- Unlike finalizers, cleaners do not pollute a class's public API.
 - Have your class implement `AutoCloseable`!
 - The behavior of cleaners during `System.exit` is implementation specific.
 
@@ -111,7 +111,7 @@
     - Cast the argument to the correct type.
     - For each "significant" field in the class, check if the fields of the two objects match.
 - Always override hashCode when you override equals.
-- Don’t substitute another type for Object in the equals declaration.
+- Don't substitute another type for Object in the equals declaration.
 
 ### Always override hashCode when you override equals
 
@@ -132,9 +132,9 @@
 ### Override clone judiciously
 
 - Behaviors of the `clone` method:
-    - If a class implements `Cloneable`, `Object`’s `clone` method returns a field-by-field copy of the object
+    - If a class implements `Cloneable`, `Object`'s `clone` method returns a field-by-field copy of the object
     - Otherwise, it throws `CloneNotSupportedException`.
-- `Object`’s `clone` method is protected. Therefore, `clone` cannot be invoked on an object merely because it implements `Cloneable`.
+- `Object`'s `clone` method is protected. Therefore, `clone` cannot be invoked on an object merely because it implements `Cloneable`.
 - A class implementing `Cloneable` is expected to provide a properly functioning public clone method.
 - The general contract for the clone method is weak:
     - `x.clone() != x`
@@ -149,7 +149,7 @@
 
 - The general contract of the `compareTo` method:
     - Returns a negative integer, zero, or a positive integer.
-    - Throws ClassCastException if the specified object’s type cannot be compared to this object.
+    - Throws ClassCastException if the specified object's type cannot be compared to this object.
 - Classes that depend on comparison include:
     - The sorted collections `TreeSet` and `TreeMap`.
     - The utility classes `Collections` and `Arrays`, which contain searching and sorting algorithms.
@@ -164,7 +164,7 @@
 - Rule of thumb: make each class or member as inaccessible as possible.
 - For top-level (non-nested) classes and interfaces, there are only two possible access levels: *package-private* and *public*.
 - For members (fields, methods, nested classes, and nested interfaces), there are four possible access levels: *private*, *package-private* (default), *protected*, and *public*.
-- Both protected and public members are part of the class’s exported APIs.
+- Both protected and public members are part of the class's exported APIs.
 - It is acceptable to make a *private* member *package-private* in order to test it.
 - *Liskov substitution principle* implies that a subclass method overriding a superclass method cannot have a more restrictive access level.
 - Instance fields of public classes should rarely be public.
@@ -182,8 +182,8 @@
 ### Minimize mutability
 
 - Five rules for immutable classes:
-    - Don’t provide methods that modify the object’s state.
-    - Ensure that the class can’t be extended.
+    - Don't provide methods that modify the object's state.
+    - Ensure that the class can't be extended.
     - Make all fields final.
     - Make all fields private.
     - Ensure exclusive access to any mutable components.
@@ -244,12 +244,12 @@
 
 ## Generics
 
-### Don’t use raw types
+### Don't use raw types
 
 - If you use raw types, you lose all the safety and expressiveness benefits of generics.
 - Migration compatibility drove the decisions to support raw types and to implement generics using erasure.
 - The safe alternative to raw collection types is to use unbounded wildcard types.
-- You can’t put any element (other than null) into a `Collection<?>`.
+- You can't put any element (other than null) into a `Collection<?>`.
 
 ### Eliminate unchecked warnings
 
@@ -368,19 +368,19 @@
 - An instance of functional interfaces can be created using **lambda expressions**, or **lambdas** for short.
 - The compiler deduces the types of the lambda from context, using a process known as **type inference**.
 - Omit the types of all lambda parameters unless their presence makes your program clearer.
-- Lambdas share with anonymous classes the property that you can’t reliably serialize and deserialize them across implementations.
-- Don’t use anonymous classes for function objects unless you have to create instances of types that aren’t functional interfaces.
+- Lambdas share with anonymous classes the property that you can't reliably serialize and deserialize them across implementations.
+- Don't use anonymous classes for function objects unless you have to create instances of types that aren't functional interfaces.
 
 ### Prefer method references to lambdas
 
 - Java provides a way to generate function objects even more succinct than lambdas: **method references**.
 - Many method references refer to static methods, but there are four kinds that do not.
-- Where method references are shorter and clearer, use them; where they aren’t, stick with lambdas.
+- Where method references are shorter and clearer, use them; where they aren't, stick with lambdas.
 
 ### Favor the use of standard functional interfaces
 
 - If one of the standard functional interfaces does the job, you should generally use it in preference to a purpose-built functional interface.
-- Don’t be tempted to use basic functional interfaces with boxed primitives instead of primitive functional interfaces.
+- Don't be tempted to use basic functional interfaces with boxed primitives instead of primitive functional interfaces.
 - When to use a purpose-built functional interface in preference to a standard one?
     - It will be commonly used and could benefit from a descriptive name.
     - It has a strong contract associated with it.
@@ -400,7 +400,7 @@
 - In the absence of explicit types, careful naming of lambda parameters is essential to the readability of stream pipelines.
 - Using helper methods is even more important for readability in stream pipelines than in iterative code.
 - Refactor existing code to use streams and use them in new code only where it makes sense to do so.
-- If you’re not sure whether a task is better served by streams or iteration, try both and see which works better.
+- If you're not sure whether a task is better served by streams or iteration, try both and see which works better.
 
 ### Prefer side-effect-free functions in streams
 
@@ -465,3 +465,14 @@ harmful.
     - Adapt the Builder pattern from object construction to method invocation.
 - For parameter types, favor interfaces over classes.
 - Prefer two-element enum types to boolean parameters.
+
+###  Use overloading judiciously
+
+- The choice of which overloading to invoke is made at compile time.
+- Selection among methods can be confusing:
+    - Selection among overloaded methods is static.
+    - Selection among overridden methods is dynamic.
+- Avoid confusing uses of overloading.
+- A safe, conservative policy is never to export two overloadings with the same number of parameters.
+- It is better to give methods different names instead of overloading them.
+- Two distinct classes are said to be **unrelated** if neither class is a descendant of the other
