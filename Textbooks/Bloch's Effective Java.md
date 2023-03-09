@@ -511,3 +511,12 @@ harmful.
 - When documenting an annotation type, be sure to document any members.
 - Whether or not a class or static method is thread-safe, be sure to document its thread-safety level.
 - Doc comments should be readable both in the source code and in the generated documentation.
+
+## General Programming
+
+### Minimize the scope of local variables
+
+- The most powerful technique for minimizing the scope of a local variable is to declare it where it is first used.
+- Nearly every local variable declaration should contain an initializer.
+- `for` loops present a special opportunity to minimize the scope of variables.
+- Keep methods small and focused.
