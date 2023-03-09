@@ -560,7 +560,7 @@ where exact results are required
 - When two strings are concatenated, the contents of both are copied.
 - Using the string concatenation operator repeatedly to concatenate $n$ strings requires time quadratic in $n$.
 - To achieve acceptable performance, use a `StringBuilder` in place of a `String` to store the statement under construction.
-- Don’t use the string concatenation operator to combine more than a few strings.
+- Don't use the string concatenation operator to combine more than a few strings.
 
 ### Refer to objects by their interfaces
 
@@ -599,3 +599,52 @@ where exact results are required
 - Exceptions are, as their name implies, to be used only for exceptional conditions.
 - They should never be used for ordinary control flow.
 - A well-designed API must not force its clients to use exceptions for ordinary control flow.
+
+### Use checked exceptions for recoverable conditions and runtime exceptions for programming errors
+
+- Java provides three kinds of throwables: **checked exceptions**, **runtime exceptions**, and **errors**.
+- Use *checked exceptions* for conditions from which the caller can reasonably be expected to recover.
+- By confronting the user with a checked exception, the API designer presents a mandate to recover from the condition.
+- *Runtime exceptions* and *errors* are unchecked throwables.
+- Use *runtime exceptions* to indicate programming errors.
+- All of the unchecked throwables should subclass `RuntimeException`.
+
+### Avoid unnecessary use of checked exceptions
+
+### Favor the use of standard exceptions
+
+### Throw exceptions appropriate to the abstraction
+
+### Document all exceptions thrown by each method
+
+### Include failure-capture information in detail messages
+
+### Strive for failure atomicity
+
+### Don't ignore exceptions
+
+### Synchronize access to shared mutable data
+
+### Avoid excessive synchronization
+
+### Prefer executors, tasks, and streams to threads
+
+### Prefer concurrency utilities to wait and notify
+
+### Document thread safety
+
+### Use lazy initialization judiciously
+
+### Don't depend on the thread scheduler
+
+### Prefer alternatives to Java serialization
+
+### Implement Serializable with great caution
+
+### Consider using a custom serialized form
+
+### Write readObject methods defensively
+
+### For instance control, prefer enum types to readResolve
+
+### Consider serialization proxies instead of serialized instances
