@@ -578,3 +578,24 @@ where exact results are required
 - The **Java Native Interface (JNI)** allows Java programs to call native methods, which are methods written in native programming languages.
 - It is rarely advisable to use native methods for improved performance.
 - A single bug in the native code can corrupt the entire application.
+
+### Optimize judiciously
+
+- Premature optimization does more harm than good.
+- Don't sacrifice sound architectural principles for performance.
+- Strive to avoid design decisions that limit performance.
+- Consider the performance consequences of the API design decisions.
+- Measure performance before and after each attempted optimization.
+
+### Adhere to generally accepted naming conventions
+
+- The Java platform has a well-established set of **naming conventions**.
+- Many are contained in The **Java Language Specification**.
+
+## Exceptions
+
+### Use exceptions only for exceptional conditions
+
+- Exceptions are, as their name implies, to be used only for exceptional conditions.
+- They should never be used for ordinary control flow.
+- A well-designed API must not force its clients to use exceptions for ordinary control flow.
