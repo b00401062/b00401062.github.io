@@ -611,17 +611,36 @@ where exact results are required
 
 ### Avoid unnecessary use of checked exceptions
 
+- When used sparingly, checked exceptions can increase the
+reliability of programs.
+- When overused, they make APIs painful to use.
+- The easiest way to eliminate a checked exception is to return an optional of the desired result type.
+
 ### Favor the use of standard exceptions
+
+- Reusing standard exceptions makes an API easier to learn and use.
+- Do not reuse `Exception`, `RuntimeException`, `Throwable`, or `Error` directly.
 
 ### Throw exceptions appropriate to the abstraction
 
+- It is disconcerting when a method throws an exception that has no apparent connection to the task that it performs.
+- **Exception translation**: Higher layers should catch lower-level exceptions and, in their place, throw exceptions that can be explained in terms of the higher-level abstraction.
+- Where possible, the best way to deal with exceptions from lower layers is to avoid them.
+
 ### Document all exceptions thrown by each method
+
+- Always declare checked exceptions individually, and document precisely the conditions under which each one is thrown
+- Use the Javadoc `@throws` tag to document each exception that a method can throw.
+- Do not use the throws keyword on unchecked exceptions.
+- If an exception is thrown by many methods in a class for the same reason, you can document the exception in the class’s documentation comment.
 
 ### Include failure-capture information in detail messages
 
 ### Strive for failure atomicity
 
 ### Don't ignore exceptions
+
+## Concurrency
 
 ### Synchronize access to shared mutable data
 
@@ -636,6 +655,8 @@ where exact results are required
 ### Use lazy initialization judiciously
 
 ### Don't depend on the thread scheduler
+
+## Serialization
 
 ### Prefer alternatives to Java serialization
 
