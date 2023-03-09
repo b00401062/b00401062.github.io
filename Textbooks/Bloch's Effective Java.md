@@ -549,3 +549,15 @@ where exact results are required
 - When primitives and boxed primitives are mixed in an operation, the boxed primitive is auto-unboxed.
 - Autoboxing reduces the verbosity, but not the danger, of using boxed primitives.
 - When your program does unboxing, it can throw a `NullPointerException`.
+
+###  Avoid strings where other types are more appropriate
+
+- Strings are poor substitutes and commonly misused for value types, including primitive types, enums, and aggregate types.
+- Strings are poor substitutes for capabilities.
+
+###  Beware the performance of string concatenation
+
+- When two strings are concatenated, the contents of both are copied.
+- Using the string concatenation operator repeatedly to concatenate $n$ strings requires time quadratic in $n$.
+- To achieve acceptable performance, use a `StringBuilder` in place of a `String` to store the statement under construction.
+- Don’t use the string concatenation operator to combine more than a few strings.
