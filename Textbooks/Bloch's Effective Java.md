@@ -422,7 +422,7 @@
 - Performance gains from parallelism are best on streams over data structures:
     - That can be accurately and cheaply split into subranges of any desired sizes.
     - That provide good-to-excellent *locality of reference* when processed sequentially.
-- Override the `spliterator` method of custom data collections to get decent parallel performance.
+- Override the `spliterator` method of custom container types to get decent parallel performance.
 - Inappropriately parallelizing a stream can lead to:
     - Poor performance, including liveness failures.
     - Safety failures: Incorrect results and unpredictable behavior.
@@ -484,6 +484,30 @@ harmful.
 
 ### Return empty collections or arrays, not nulls
 
-- Use of a method that returns null is error-prone.
+- Use of a method that returns `null` is error-prone.
 - Do not preallocate the array passed to `toArray` in hopes of improving performance. Studies have shown that it is counterproductive.
-- Never return null in place of an empty array or collection.
+- Never return `null` in place of an empty array or collection.
+
+###  Return optionals judiciously
+
+- Prior to Java 8, there were two approaches to take when writing a method that was unable to return a value under certain circumstances:
+    - Throw an exception.
+    - Return `null`.
+- A third approach beginning from Java 8 is `Optional<T>`.
+- The `Optional<T>` class represents an immutable container that can hold either a single non-null T reference or nothing at all.
+- Never return a null value from an Optional-returning method.
+- Optionals are similar in spirit to checked exceptions.
+- Container types, optionals and boxed primitive types should not be wrapped in optionals.
+- Optionals may be inappropriate for use in some performance-critical situations.
+- It is almost never appropriate to use an optional as a key, value, or element in a collection or array.
+
+###  Write doc comments for all exposed API elements
+
+- Precede every exported class, interface, constructor, method, and field declaration with a doc comment.
+- The doc comment for a method should describe succinctly the contract between the method and its client.
+- Methods should document any *side effects*.
+- When documenting a generic type or method, be sure to document all type parameters.
+- When documenting an enum type, be sure to document the constants.
+- When documenting an annotation type, be sure to document any members.
+- Whether or not a class or static method is thread-safe, be sure to document its thread-safety level.
+- Doc comments should be readable both in the source code and in the generated documentation.
