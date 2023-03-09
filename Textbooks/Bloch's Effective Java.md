@@ -520,3 +520,32 @@ harmful.
 - Nearly every local variable declaration should contain an initializer.
 - `for` loops present a special opportunity to minimize the scope of variables.
 - Keep methods small and focused.
+
+###  Prefer for-each loops to traditional `for` loops
+
+- Three common situations where you *can't* use for-each loops:
+    - Destructive filtering.
+    - Transforming.
+    - Parallel iteration.
+- for-each loop can iterate over any object that implements the `Iterable` interface.
+
+### Know and use the libraries
+
+- By using a standard library, you take advantage of the knowledge of the experts who wrote it and the experience of those who used it before you.
+- Numerous features are added to the libraries in every major release, and it pays to keep abreast of these additions.
+
+###  Avoid `float` and `double` if exact answers are required
+
+- The `float` and `double` types perform **binary floating-point arithmetic**
+- They do not provide exact results and should not be used
+where exact results are required
+- They are particularly ill-suited for monetary calculations.
+- Use `BigDecimal` instead if you want the system to keep track of the decimal point.
+
+###  Prefer primitive types to boxed primitives
+
+- Primitives have only their values, whereas boxed primitives have identities distinct from their values.
+- Applying the `==` operator to boxed primitives is almost always wrong.
+- When primitives and boxed primitives are mixed in an operation, the boxed primitive is auto-unboxed.
+- Autoboxing reduces the verbosity, but not the danger, of using boxed primitives.
+- When your program does unboxing, it can throw a `NullPointerException`.
