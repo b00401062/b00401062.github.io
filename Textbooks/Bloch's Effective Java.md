@@ -476,3 +476,14 @@ harmful.
 - A safe, conservative policy is never to export two overloadings with the same number of parameters.
 - It is better to give methods different names instead of overloading them.
 - Two distinct classes are said to be **unrelated** if neither class is a descendant of the other
+
+###  Use varargs judiciously
+
+- Varargs methods are formally known as **variable arity** methods.
+- Every invocation of a varargs method causes an array allocation and initialization.
+
+### Return empty collections or arrays, not nulls
+
+- Use of a method that returns null is error-prone.
+- Do not preallocate the array passed to `toArray` in hopes of improving performance. Studies have shown that it is counterproductive.
+- Never return null in place of an empty array or collection.
