@@ -636,6 +636,10 @@ reliability of programs.
 
 ### Include failure-capture information in detail messages
 
+- The stack trace contains the exception's string representation.
+- To capture a failure, the detail message of an exception should contain the values of all parameters and fields that contributed to the exception.
+- One way is to require this information in their constructors instead of a string detail message.
+
 ### Strive for failure atomicity
 
 ### Don't ignore exceptions
