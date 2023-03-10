@@ -681,11 +681,50 @@ reliability of programs.
 
 ### Prefer executors, tasks, and streams to threads
 
+- **Executor Framework** is a flexible interface-based task execution facility.
+- In the executor framework, the unit of work and the execution mechanism are separate.
+- The key abstraction is the unit of work, which is the **task**.
+- There are two kinds of tasks: `Runnable` and its close cousin, `Callable`.
+- The general mechanism for executing tasks is the **executor service**.
+
 ### Prefer concurrency utilities to wait and notify
+
+- Given the difficulty of using wait and notify correctly, use the higher-level concurrency utilities instead.
+- The higher-level utilities in java.util.concurrent fall into three categories: the Executor Framework, concurrent collections; and synchronizers.
+- It is impossible to exclude concurrent activity from a concurrent collection.
+- Concurrent collection interfaces were outfitted with **state-dependent modify operations**.
+- Concurrent collections make synchronized collections largely obsolete.
+- Some of the collection interfaces were extended with **blocking operations**, which wait (or **block**) until they can be successfully performed.
+- **Synchronizers** are objects that enable threads to wait for one another.
+- Some of the most commonly used synchronizers are `CountDownLatch`, `Semaphore`, `CyclicBarrier`, `Exchanger` and `Phaser`.
+- For interval timing, always use `System.nanoTime` rather than `System.currentTimeMillis`.
+- The `wait` method is used to make a thread wait for some condition. It must be invoked inside a synchronized region.
+- Always use the wait loop idiom to invoke the wait method; never invoke it outside of a loop.
+- **Spurious wakeup**: The waiting thread could (rarely) wake up in the absence of a notify.
 
 ### Document thread safety
 
+- The presence of the synchronized modifier in a method declaration is an implementation detail, not a part of its API.
+- To enable safe concurrent use, a class must clearly document what level of thread safety it supports.
+- Levels of thread safety:
+    - **Immutable**: Instances of this class appear constant.
+    - **Unconditionally thread-safe**: The class has sufficient internal synchronization that its instances can be used concurrently without the need for any external synchronization.
+    - **Conditionally thread-safe**: Some methods require external synchronization for safe concurrent use.
+    - **Not thread-safe**: All methods require external synchronization for safe concurrent use.
+    - **Thread-hostile**: The class is unsafe for concurrent use even in the case of external synchronization.
+- A client can mount a denial-of-service attack by holding the publicly accessible lock.
+- Use a **private lock object** to prevent this denial-of-service attack.
+- Lock fields should always be declared `final`.
+- The private lock object idiom can be used only on *unconditionally* thread-safe classes.
+
 ### Use lazy initialization judiciously
+
+- **Lazy initialization** is the act of delaying the initialization of a field until its value is needed.
+- Lazy initialization has its uses if a field is accessed only on a fraction of the instances of a class and it is costly to initialize the field.
+- If lazy initialization is used to break an initialization circularity, use a synchronized accessor.
+- If lazy initialization is used for performance on a static field, use the **lazy initialization holder class idiom**.
+- If lazy initialization is used for performance on an instance field, use the **double-check idiom**.
+- If an instance field that can tolerate repeated initialization, may use the **single-check idiom**.
 
 ### Don't depend on the thread scheduler
 
