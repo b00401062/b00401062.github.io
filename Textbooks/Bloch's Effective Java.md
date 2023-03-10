@@ -652,7 +652,7 @@ reliability of programs.
 ### Don't ignore exceptions
 
 -  An empty `catch` block defeats the purpose of exceptions.
-- If decision is made to ignore an exception, the `catch` block should contain a comment explaining why it is appropriate to do so, and the variable should be named `ignored`:
+- If decision is made to ignore an exception, the `catch` block should contain a comment explaining why it is appropriate to do so, and the variable should be named `ignored`.
 
 ## Concurrency
 
@@ -727,6 +727,16 @@ reliability of programs.
 - If an instance field that can tolerate repeated initialization, may use the **single-check idiom**.
 
 ### Don't depend on the thread scheduler
+
+- Any program that relies on the thread scheduler for correctness or performance is likely to be nonportable.
+- A robust, responsive, portable program should have
+the average number of runnable threads that is not significantly greater than the number of processors.
+- Threads should not run if they aren’t doing useful work.
+- Threads should not **busy-wait**.
+- Resist the temptation to "fix" the program by putting in calls to `Thread.yield` because:
+    - It will not be portable.
+    - It has no testable semantics.
+- Thread priorities are among the least portable features of Java.
 
 ## Serialization
 
