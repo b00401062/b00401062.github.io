@@ -632,7 +632,7 @@ reliability of programs.
 - Always declare checked exceptions individually, and document precisely the conditions under which each one is thrown
 - Use the Javadoc `@throws` tag to document each exception that a method can throw.
 - Do not use the throws keyword on unchecked exceptions.
-- If an exception is thrown by many methods in a class for the same reason, you can document the exception in the class’s documentation comment.
+- If an exception is thrown by many methods in a class for the same reason, you can document the exception in the class's documentation comment.
 
 ### Include failure-capture information in detail messages
 
@@ -659,7 +659,7 @@ reliability of programs.
 ### Synchronize access to shared mutable data
 
 - The `synchronized` keyword ensures that only a single thread can execute a method or block at one time.
-- **Mutual exclusion** prevents an object from being seen in an inconsistent state by one thread while it’s being modified by another.
+- **Mutual exclusion** prevents an object from being seen in an inconsistent state by one thread while it's being modified by another.
 - Synchronization is required for reliable communication between threads as well as for mutual exclusion.
 -  A recommended way to stop one thread from another is via polling.
 - **Hoisting** is a compiler optimization that moves loop-invariant code out of loops.
@@ -731,7 +731,7 @@ reliability of programs.
 - Any program that relies on the thread scheduler for correctness or performance is likely to be nonportable.
 - A robust, responsive, portable program should have
 the average number of runnable threads that is not significantly greater than the number of processors.
-- Threads should not run if they aren’t doing useful work.
+- Threads should not run if they aren't doing useful work.
 - Threads should not **busy-wait**.
 - Resist the temptation to "fix" the program by putting in calls to `Thread.yield` because:
     - It will not be portable.
@@ -758,7 +758,24 @@ system.
 
 ### Implement Serializable with great caution
 
+- When a class implements `Serializable`, its byte-stream encoding (or **serialized form**) becomes part of its exported API.
+- Every serializable class has a **unique identification number** associated with it.
+- Disadvantages of `Serializable`:
+    - It decreases the flexibility to change a class's implementation after release.
+    - It increases the likelihood of bugs and security holes.
+    - It increases the testing burden associated with releasing a new version of a class.
+- Classes designed for inheritance should rarely implement Serializable, and interfaces should rarely extend it.
+- Inner classes should not implement Serializable.
+
 ### Consider using a custom serialized form
+
+- The default serialized form is likely to be appropriate if an object's physical representation is identical to its logical content.
+- Otherwise, there are four disadvantages:
+    - It permanently ties the exported API to the current internal representation.
+    - It can consume excessive space.
+    - It can consume excessive time.
+    - It can cause stack overflows.
+- Do not change the serial version UID.
 
 ### Write readObject methods defensively
 
