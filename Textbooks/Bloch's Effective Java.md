@@ -742,6 +742,20 @@ the average number of runnable threads that is not significantly greater than th
 
 ### Prefer alternatives to Java serialization
 
+- Java serialization is one of the many **cross-platform structured-data representations**.
+- A fundamental problem with serialization is its huge **attack surface**.
+- Object graphs are deserialized by invoking the `readObject` method on an `ObjectInputStream`.
+- This method is essentially a magic constructor that can instantiate objects of any type that implements the `Serializable` interface.
+- Methods invoked during deserialization are known as **gadgets**.
+- Multiple gadgets can be used in concert to form a **gadget
+chain**.
+- A gadget chain is discovered to be sufficiently powerful to allow an attacker to execute arbitrary native code on the underlying hardware.
+- Even without using any gadgets, programs are still vulnerable to a denial-of-service attack.
+- The best way to avoid serialization exploits is never to deserialize untrusted data.
+- To be honest, there is no reason to use Java serialization in any new
+system.
+- Prefer whitelisting to blacklisting.
+
 ### Implement Serializable with great caution
 
 ### Consider using a custom serialized form
