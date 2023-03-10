@@ -658,6 +658,17 @@ reliability of programs.
 
 ### Synchronize access to shared mutable data
 
+- The `synchronized` keyword ensures that only a single thread can execute a method or block at one time.
+- **Mutual exclusion** prevents an object from being seen in an inconsistent state by one thread while it’s being modified by another.
+- Synchronization is required for reliable communication between threads as well as for mutual exclusion.
+-  A recommended way to stop one thread from another is via polling.
+- **Hoisting** is a compiler optimization that moves loop-invariant code out of loops.
+- Without synchronization, hoisting can result in a **liveness failure**: the program fails to make progress.
+- Synchronization is not guaranteed to work unless both read and write operations are synchronized.
+-  `java.util.concurrent.atomic` package provides primitives for lock-free, thread-safe programming on single variables.
+- The best way to avoid inconsistency is to confine mutable data to a single thread.
+- When multiple threads share mutable data, each thread that reads or writes the data must perform synchronization.
+
 ### Avoid excessive synchronization
 
 ### Prefer executors, tasks, and streams to threads
