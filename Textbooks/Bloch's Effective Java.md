@@ -642,7 +642,17 @@ reliability of programs.
 
 ### Strive for failure atomicity
 
+- **Failure atomicity**: A failed method invocation should leave the object in the state that it was in prior to the invocation.
+- The simplest way is to design immutable objects.
+- The most common way is to check parameters for validity before performing the operation.
+- A third approach is to perform the operation on a temporary copy of the object.
+- A far less common approach is to write **recovery code** that causes the object to roll back its state to the point before the operation began.
+- While failure atomicity is generally desirable, it is not always achievable.
+
 ### Don't ignore exceptions
+
+-  An empty `catch` block defeats the purpose of exceptions.
+- If decision is made to ignore an exception, the `catch` block should contain a comment explaining why it is appropriate to do so, and the variable should be named `ignored`:
 
 ## Concurrency
 
