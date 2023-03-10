@@ -671,6 +671,14 @@ reliability of programs.
 
 ### Avoid excessive synchronization
 
+- To avoid liveness and safety failures, never cede control to the client within a synchronized method or block.
+- To avoid deadlock and data corruption, never call an alien method from within a synchronized region
+- As a rule, you should do as little work as possible inside synchronized regions.
+- Two options to design a mutable class:
+    - Allow the client to synchronize externally if concurrent use is desired.
+    - Synchronize internally, making the class **thread-safe**.
+- The collections in `java.util` take the former approach, while those in `java.util.concurrent` take the latter.
+
 ### Prefer executors, tasks, and streams to threads
 
 ### Prefer concurrency utilities to wait and notify
