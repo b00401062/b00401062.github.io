@@ -779,6 +779,23 @@ system.
 
 ### Write readObject methods defensively
 
+- When an object is deserialized, it is critical to defensively copy any field containing an object reference that a client must not possess.
+- Check any invariants and throw an `InvalidObjectException` if a check fails. The checks should follow any defensive copying.
+- If an entire object graph must be validated after it is deserialized, use the `ObjectInputValidation` interface.
+- Do not invoke any overridable methods in the class, directly or indirectly.
+
 ### For instance control, prefer enum types to readResolve
 
+- A class would no longer be a singleton if it
+implements `Serializable`.
+- All instance fields with object reference types must be declared
+transient.
+- The accessibility of readResolve is significant.
+
 ### Consider serialization proxies instead of serialized instances
+
+- **Serialization proxy pattern** greatly reduces the risk of bugs and security problem.
+- **Serialization proxy** is a private static nested class that concisely represents the logical state of an instance of the enclosing class.
+- The serialization proxy pattern has two limitations:
+    - It is not compatible with classes that are extendable
+    - It is not compatible with some classes whose object graphs contain circularities.
