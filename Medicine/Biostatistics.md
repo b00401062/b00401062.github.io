@@ -122,6 +122,7 @@
 |-|-|-|
 |Binomial|Beta|Probability (p)|
 |Geometric|Beta|Probability (p)|
+|Multinomial|Dirichlet|Probability (p)|
 |Poisson|Gamma|Rate (λ)|
 |Exponential|Gamma|Rate (λ)|
 |Normal|Normal|Mean (μ)|
