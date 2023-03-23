@@ -4,3 +4,41 @@
 - Author: Ethem Alpaydin
 - Presenter: Wen-Bin Luo
 - Link: https://www.amazon.com/Introduction-Machine-Learning-Adaptive-Computation-dp-0262043793/dp/0262043793/ref=dp_ob_title_bk
+
+## Introduction
+
+### What Is Machine Learning?
+
+- **Machine learning** is programming computers to optimize a performance criterion using example data or past experience.
+
+### Examples of Machine Learning Applications
+
+#### Association Rules
+
+- Finding association rules can help build a recommendation system.
+
+#### Classification
+
+- Learning a rule from data also allows **knowledge extraction**.
+- **Outlier detection** is finding instances that do not obey the general rule and are exceptions.
+
+#### Regression
+
+- Problems where the output is a number are **regression** problems.
+
+#### Unsupervised Learning
+
+- Both regression and classification are **supervised learning**.
+- In unsupervised learning, the aim is to find the regularities in the input.
+- One method for density estimation is **clustering**.
+
+#### Reinforcement Learning
+
+- In reinforcement learning, the output of the system is a sequence of *actions*.
+
+### History
+
+- Almost all of science is fitting models to data.
+- In statistics, going from particular observations to general descriptions is called *inference*, and learning is called *estimation*.
+
+### Related Topics
