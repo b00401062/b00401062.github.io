@@ -42,3 +42,23 @@
 - In statistics, going from particular observations to general descriptions is called *inference*, and learning is called *estimation*.
 
 ### Related Topics
+
+#### High-Performance Computing
+
+- Distribute storage and processing efficiently over many computers is important for big data.
+- GPUs allow large chunks of data to be moved and processed in parallel.
+- Good software is needed to manage the execution of the task on parallel hardware.
+
+#### Data Privacy and Security
+
+- Personal data should be sanitized by hiding all the personal details.
+
+#### Model Interpretability and Trust
+
+- A small test error is considered as a good criterion of the generalization ability.
+- A poorly-generalized system is specialized to its training data and sensitive to *adversarial examples*.
+- Explainable articial intelligence implies that a model is interpretable.
+
+#### Data Science
+
+- Machine learning is a new field of data science.
