@@ -62,3 +62,16 @@
 #### Data Science
 
 - Machine learning is a new field of data science.
+
+## Supervised Learning
+
+### Learning a Class from Examples
+
+- **Generalization**: How well a hypothesis will correctly classify future examples that are not part of the training set.
+- **Margin**: the distance between the boundary and the instances closest to it.
+
+### Vapnik-Chervonenkis Dimension
+
+- $H$ is said to **shatters** $N$ points if any learning problem definable by #N# examples can be learned with no error by a hypothesis drawn from $H$.
+- **Vapnik-Chervonenkis (VC) dimension** of $H$, denoted as VC($H$), is the maximum number of points that can be shattered by $H$.
+- VC dimension is independent of the probability distribution from which instances are drawn.
