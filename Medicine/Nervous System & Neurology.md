@@ -419,7 +419,7 @@
 |Posterior inferior cerebellar artery (PICA)|Ambiguous nucleus<br>Sympathetic fibers<br>Cerebellar peduncle<br>Lateral spinothalamic tract|Lateral medullary [Wallenberg] syndrome:<br>Dysphagia<br>Dysarthria<br>↓ Gag reflex<br>Contralateral palate deviation<br>Ipsilateral Horner syndrome<br>Ipsilateral ataxia<br>Contralateral paresthesia|
 |Anterior spinal artery (ASA)|CN XII<br>Corticospinal tract<br>Medial lemniscus|Medial medullary syndrome:<br>Ipsilateral tongue deviation<br>Contralateral paralysis<br>Contralateral paresthesia|
 
-## Work upf Ischemic Stroke
+## Workup of Ischemic Stroke
 
 - Coagulation panel
 - Non-contrast CT of the head
