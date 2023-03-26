@@ -90,3 +90,8 @@
   - Errors in labeling the data points.
   - *Hidden* or *latent* attributes not taken into account.
 - **Occam's razor**: simpler explanations are more plausible and any unnecessary complexity should be shaved off.
+
+### Learning Multiple Classes
+
+- If all classes have similar distribution, then the same hypothesis class can be used for all classes.
+- Alternatively, sometimes it is preferable to build different hypotheses for different classes.
