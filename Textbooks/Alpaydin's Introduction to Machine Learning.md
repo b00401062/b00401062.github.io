@@ -72,7 +72,7 @@
 
 ### Vapnik-Chervonenkis Dimension
 
-- $H$ is said to **shatters** $N$ points if any learning problem definable by #N# examples can be learned with no error by a hypothesis drawn from $H$.
+- $H$ is said to **shatters** $N$ points if any learning problem definable by $N$ examples can be learned with no error by a hypothesis drawn from $H$.
 - **Vapnik-Chervonenkis (VC) dimension** of $H$, denoted as VC($H$), is the maximum number of points that can be shattered by $H$.
 - VC dimension is independent of the probability distribution from which instances are drawn.
 - VC dimension may seem pessimistic.
@@ -81,3 +81,12 @@
 
 - In **probably approximately correct (PAC) learning**, the hypothesis is approximately correct.
 - The error probability is bounded by some value.
+
+### Noise
+
+- **Noise** is any unwanted anomaly in the data.
+- There are several interpretations of noise:
+  - Imprecision in recording the input attributes.
+  - Errors in labeling the data points.
+  - *Hidden* or *latent* attributes not taken into account.
+- **Occam's razor**: simpler explanations are more plausible and any unnecessary complexity should be shaved off.
