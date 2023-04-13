@@ -1,4 +1,4 @@
-# Should parents give pocket money to their children?
+# Should parents give pocket money?
 
 I wasn't receiving any pocket money from my parents until I started studying at college. As a result, I have experience with both scenarios. I completely relied on my parents for daily necessities before college and only started receiving pocket money during my college years. However, as far as I'm concerned, I object to the idea that parents should give pocket money to their children for a few reasons.
 
