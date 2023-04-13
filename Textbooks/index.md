@@ -1,6 +1,3 @@
 # Textbooks
 
-- [Alpaydin's Introduction to Machine Learning](Alpaydin's%20Introduction%20to%20Machine%20Learning.html)
-- [Bloch's Effective Java](Bloch's%20Effective%20Java.html)
-- [Boswell's The Art of Readable Code](Boswell's%20The%20Art%20of%20Readable%20Code.html)
-- [Thaler's The Only EKG Book You'll Ever Need](Thaler's%20The%20Only%20EKG%20Book%20You'll%20Ever%20Need.html)
+Hello and welcome to my blog! My name is Wen-Bin and I am a medical doctor and a software engineer. In this blog, I will share with you my thoughts, experiences, and tips on medical and computer science. Whether you are a beginner or an expert, a fan or a critic, a friend or a stranger, I hope you will find something interesting, useful, or entertaining in my posts. I invite you to join me in this journey of learning and discovery, and I look forward to hearing from you in the comments section. Thank you for visiting and enjoy reading!
