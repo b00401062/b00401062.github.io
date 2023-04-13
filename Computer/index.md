@@ -1,26 +1,3 @@
 # Computer
 
-- [Algorithm Design and Analysis](Algorithm%20Design%20and%20Analysis.html)
-- Bioinformatics
-- [Computer Architecture](Computer%20Architecture.html)
-- [Computer Network Laboratory](Computer%20Network%20Laboratory.html)
-- [Computer Networks](Computer%20Networks.html)
-- [Computer Science and Information Technology](Computer%20Science%20and%20Information%20Technology.html)
-- Computing Theory
-- [Data Structures and Algorithms](Data%20Structures%20and%20Algorithms.html)
-- [Design Strategies for Computer Algorithms](Design%20Strategies%20for%20Computer%20Algorithms.html)
-- [Digital Systems Design and Laboratory](Digital%20Systems%20Design%20and%20Laboratory.html)
-- [Discrete Mathematics](Discrete%20Mathematics.html)
-- [Formal Languages and Automata Theory](Formal%20Languages%20and%20Automata%20Theory.html)
-- Information and Society
-- [Introduction to Computational Logic](Introduction%20to%20Computational%20Logic.html)
-- Introduction to Computer Programming
-- Introduction to Computer Science
-- [Linear Algebra](Linear%20Algebra.html)
-- Modern Sciences and Science of Mind
-- [Operating Systems](Operating%20Systems.html)
-- [Probability](Probability.html)
-- Scientific Computing
-- Special Research
-- Systems Programming
-- [Topics in Machine Learning](Topics%20in%20Machine%20Learning.html)
+Hello and welcome to my blog! My name is Wen-Bin and I am a medical doctor and a software engineer. In this blog, I will share with you my thoughts, experiences, and tips on medical and computer science. Whether you are a beginner or an expert, a fan or a critic, a friend or a stranger, I hope you will find something interesting, useful, or entertaining in my posts. I invite you to join me in this journey of learning and discovery, and I look forward to hearing from you in the comments section. Thank you for visiting and enjoy reading!
