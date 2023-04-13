@@ -1,0 +1,11 @@
+# Is watching television bad for children?
+
+Television has been an important source of information since its invention, from news to sports. TV programs used to be educational but have since evolved to be profit-oriented. Whether watching television has any value for children has remained controversial. Nevertheless, I hold the belief that television is detrimental to kids.
+
+To start with, television content contains violent and obscene scenes that twist children's understanding of the world. Profit-oriented marketing strategies tempts TV program producers to cater to the public, not the children. Think about what can catch the attention of an adult audience. Every day when TV is turned on, it is not hard to observe news and movies full of crime and fighting scenes. While evil is a real part of the world, such an aspect could lead kids to overlook and ignore the good sides of human nature. As a result, television is harmful to children's cognitive development.
+
+Furthermore, television deprives children of time for anything else. It is reported that kids around the world have been more addicted to television and electronic devices than ever. There are just too many things on TV that can lure kids' attention, As a result, kids grow to refuse to do homework, spend time with family, and hang out with classmates, In the long run, the ability to interact and academic performance are impaired due to lack of practice. Such a disability could have a negative influence on the kids' future achievement.
+
+Last but not least, lights and sounds can harm the kids' health. Children tend to watch TV at a close distance and turn up the volume for a better experience. Even at a farther distance, the blue light radiating from the TV screen could still harm kids' vision at an early age. In addition, constant high volume is harmful to hearing. Moreover, it is common to eat snacks while watching TV, which also contributes to imbalanced nutrition and childhood obesity. Such habits tend to be brought into adulthood and continue to do harm to health.  
+
+To sum up, I argue that watching television is bad for children in so many ways. Parents should refrain their children from long-hour exposure to TV. In so doing, children can stay away from adult content, develop social and academic skills, and be healthy.
