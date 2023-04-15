@@ -95,3 +95,12 @@
 
 - If all classes have similar distribution, then the same hypothesis class can be used for all classes.
 - Alternatively, sometimes it is preferable to build different hypotheses for different classes.
+
+### Regression
+
+- If there is no noise, the task is **interpolation**.
+- In **regression**, there is noise added to the output of the unknown function.
+
+### Model Selection and Generalization
+
+- **Model selection** is the question is how to choose the right bias.
