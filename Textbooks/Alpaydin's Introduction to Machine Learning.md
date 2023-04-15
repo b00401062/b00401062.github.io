@@ -103,4 +103,26 @@
 
 ### Model Selection and Generalization
 
+- An **ill-posed problem** where the data by itself is not sufficient to find a unique solution.
+- The set of assumptions we make to have learning possible is called the **inductive bias** of the learning algorithm.
 - **Model selection** is the question is how to choose the right bias.
+- How well a model trained on the training set predicts the right output for new instances is called **generalization**.
+- **Underfitting** is when $H$ is less complex than the function.
+- **Overfitting** is when an overcomplex hypothesis learns not only the underlying function but also the noise in the data.
+- **Triple trade-off** is a trade-off between three factors in all learning algorithms:
+  - The complexity of the hypothesis.
+  - The amount of training data.
+  - The generalization error on new examples.
+- **Validation set** and is used to test the generalization ability.
+- A **test set**, sometimes also called the publication set, contains examples not used in training or validation.
+
+### Dimensions of a Supervised Machine Learning Algorithm
+
+- Three decisions we must make during machine learning:
+  - Model used in learning, $g(x|θ)$.
+  - Loss function, $L(·)$.
+  - Optimization procedure to find $θ^\*$ that minimizes the total error.
+
+### Notes
+
+- Active learning where the learning algorithm can generate instances itself and ask for them to be labeled.
