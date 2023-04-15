@@ -119,10 +119,19 @@
 ### Dimensions of a Supervised Machine Learning Algorithm
 
 - Three decisions we must make during machine learning:
-  - Model used in learning, $g(x|θ)$.
+  - Model used in learning, $g(x\|θ)$.
   - Loss function, $L(·)$.
   - Optimization procedure to find $θ^\*$ that minimizes the total error.
 
 ### Notes
 
 - Active learning where the learning algorithm can generate instances itself and ask for them to be labeled.
+
+## Bayesian Decision Theory
+
+### Introduction
+
+- In reality, we have $x = f(z)$, where
+  - $x$ is the observable variables.
+  - $z$ is the unobservable variables.
+  - $f(·)$ is the deterministic function that defines the outcome from the unobservable pieces of knowledge.
