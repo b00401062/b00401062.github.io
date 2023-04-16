@@ -135,3 +135,17 @@
   - $x$ is the observable variables.
   - $z$ is the unobservable variables.
   - $f(·)$ is the deterministic function that defines the outcome from the unobservable pieces of knowledge.
+
+### Classification
+
+- The **Bayes' classifier** chooses the class with the highest posterior probability.
+
+### Losses and Risks
+
+- It may be the case that decisions are not equally good or costly.
+- Some wrong decisions, namely, misclassifications, may have very high cost.
+
+### Discriminant Functions
+
+- Discriminant functions divide the feature space into decision regions.
+- When $K = 2$, the classification system is a **dichotomizer** and for $K ≥ 3$, it is a **polychotomizer**.
