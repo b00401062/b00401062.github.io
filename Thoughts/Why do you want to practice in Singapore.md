@@ -1,4 +1,4 @@
-# Why to be a phycisian in Singapore?
+# Why do you want to practice in Singapore?
 
 I have been dreaming of becoming a physician in a foreign country for a long time. I happened to take a trip to Singapore back in 2012 and had a fantastic tour of the NUS campus and hospital. I was kindly introduced to the Singapore healthcare and residency training system by the hosting medical students. Since then, Singapore has been my top choice of places where I would love to practice medicine. I will elaborate on why I apply for residency with MOHH. My prior experience in Singapore definitely had an impact on me.
 
