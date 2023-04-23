@@ -149,3 +149,12 @@
 
 - Discriminant functions divide the feature space into decision regions.
 - When $K = 2$, the classification system is a **dichotomizer** and for $K ≥ 3$, it is a **polychotomizer**.
+
+### Association Rules
+
+- An association rule is an implication of the form $X → Y$.
+- One example of association rules is in basket analysis.
+- Three measures in learning association rules:
+  - **Support**: $P(X,Y)$
+  - **Confidence**:  $P(Y\|X)$
+  - **Lift** or **interest**: $P(Y\|X)/P(Y)$
