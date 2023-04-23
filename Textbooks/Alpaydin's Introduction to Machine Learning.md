@@ -72,7 +72,7 @@
 
 ### Vapnik-Chervonenkis Dimension
 
-- $H$ is said to **shatters** $N$ points if any learning problem definable by $N$ examples can be learned with no error by a hypothesis drawn from $H$.
+- $H$ **shatters** $N$ points if any learning problem definable by $N$ examples can be learned with no error by a hypothesis drawn from $H$.
 - **Vapnik-Chervonenkis (VC) dimension** of $H$, denoted as VC($H$), is the maximum number of points that can be shattered by $H$.
 - VC dimension is independent of the probability distribution from which instances are drawn.
 - VC dimension may seem pessimistic.
