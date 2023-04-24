@@ -170,6 +170,7 @@
 ### Maximum Likelihood Estimation
 
 - The **likelihood** of parameter $θ$ given sample $X$ is the product of the likelihoods of the individual points.
+- **Maximum likelihood estimator**: $\hat{θ} = \text{argmax}_{θ} p(X|θ)$.
 
 #### Bernoulli Density
 
@@ -177,7 +178,7 @@
 
 #### Multinomial Density
 
-- The estimate for the probability of state $i$ is the ratio of experiments with outcome of state i to the total number of experiments.
+- The estimate for the probability of state $i$ is the ratio of experiments with outcome of state $i$ to the total number of experiments.
 
 #### Gaussian (Normal) Density
 
@@ -187,12 +188,23 @@
 ### Evaluating an Estimator: Bias and Variance
 
 - Let $X$ be a sample from a population specified up to a parameter $θ$.
-- Let $d = d(X)$ be an estimator of $θ$.
-- The **mean square error** of the estimator $d$ is defined as $r(d,θ) = E[(d-θ)^2]$
-- The **bias** of an estimator is given as $b_θ(d) = E[d]-θ$.
-- $d$ is an **unbiased estimator** of $θ$ if $b_θ(d) = 0$ for all $θ$ values.
+- Let $\hat{θ}$ be an estimator of $θ$, which is learned from $X$.
+- The **mean square error** of the estimator $\hat{θ}$ is defined as $r(\hat{θ},θ) = E[(\hat{θ}-θ)^2]$
+- The **bias** of an estimator is given as $b_θ(\hat{θ}) = E[\hat{θ}]-θ$.
+- $\hat{θ}$ is an **unbiased estimator** of $θ$ if $b_θ(\hat{θ}) = 0$ for all $θ$ values.
 - In Gaussian density:
   - $s^2$ is a biased estimator of $σ^2$.
   - $(N/(N−1))s^2$ is an unbiased estimator.
   - $s^2$ is an *asymptotically unbiased estimator* whose bias goes to 0 as $N$ goes to infinity.
-- $r(d,θ) = E[(d-θ)^2] = E[(d-E[d])^2] + (E[d]-θ)^2 = \text{Var}(d) + b_θ(d)^2$.
+- $r(\hat{θ},θ) = E[(\hat{θ}-θ)^2] = E[(\hat{θ}-E[\hat{θ}])^2] + (E[\hat{θ}]-θ)^2 = \text{Var}(\hat{θ}) + b_θ(\hat{θ})^2$.
+
+### The Bayes' Estimator
+
+- Prior information on the possible distribution of a parameter, $θ$.
+- Evaluating posterior density can involve intractable integrals.
+- When the full integration is not feasible, we reduce it to a single point.
+- **Maximum a posteriori (MAP) estimator**: $\hat{θ} = \text{argmax}_{θ} p(θ|X)$.
+- If we have no prior reason to favor some values of $θ$, the MAP estimate will be equivalent to the maximum likelihood estimate.
+- **Bayes' estimator**: $\hat{θ} = E[θ|X]$.
+- Both MAP and Bayes' estimators reduce the whole posterior density to a single point.
+- **Monte Carlo** approach generates samples from the posterior density.
