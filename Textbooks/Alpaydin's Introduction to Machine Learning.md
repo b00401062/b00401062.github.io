@@ -208,3 +208,14 @@
 - **Bayes' estimator**: $\hat{θ} = E[θ\|X]$.
 - Both MAP and Bayes' estimators reduce the whole posterior density to a single point.
 - **Monte Carlo** approach generates samples from the posterior density.
+
+### Parametric Classification
+
+- The discriminant function: $g_i(x) = p(x\|C_i)P(C_i)$.
+- $P(C_i)$ and $p(x\|C_i)$ are estimated separately from a sample.
+- Their estimates are plugged in to get the estimate for the discriminant function.
+- *Likelihood-based approach* to classification:
+  1. Estimate the densities separately.
+  2. Calculate posterior densities using Bayes' rule.
+  3. Get the discriminant.
+- *Discriminant-based approach* directly estimates the discriminants.
