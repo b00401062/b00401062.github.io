@@ -212,10 +212,19 @@
 ### Parametric Classification
 
 - The discriminant function: $g_i(x) = p(x\|C_i)P(C_i)$.
-- $P(C_i)$ and $p(x\|C_i)$ are estimated separately from a sample.
+- $P(C_i)$ and $p(x\|C_i)$ are estimated from a sample.
 - Their estimates are plugged in to get the estimate for the discriminant function.
 - *Likelihood-based approach* to classification:
   1. Estimate the densities separately.
   2. Calculate posterior densities using Bayes' rule.
   3. Get the discriminant.
 - *Discriminant-based approach* directly estimates the discriminants.
+
+### Regression
+
+- $r = f(x) + ϵ$ where
+  - The estimator of $f(x)$ is $g(x\|θ)$.
+  - $ϵ$ is zero mean Gaussian with constant variance $σ^2$.
+- $p(r\|x) ~ N(g(x\|θ),σ^2)$.
+- Use maximum likelihood to learn the parameters $θ$.
+- A measure to check the goodness of fit by regression is the **coefficient of determination**.
