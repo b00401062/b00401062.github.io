@@ -158,3 +158,41 @@
   - **Support**: $P(X,Y)$
   - **Confidence**:  $P(Y\|X)$
   - **Lift** or **interest**: $P(Y\|X)/P(Y)$
+
+## Parametric Methods
+
+### Introduction
+
+- The model is defined up to a small number of parameters.
+- The estimated distribution is then used to make a decision.
+- The method used to estimate the parameters of a distribution is maximum likelihood estimation.
+
+### Maximum Likelihood Estimation
+
+- The **likelihood** of parameter $θ$ given sample $X$ is the product of the likelihoods of the individual points.
+
+#### Bernoulli Density
+
+- The estimate for $p$ is the ratio of the number of occurrences of the event to the number of experiments.
+
+#### Multinomial Density
+
+- The estimate for the probability of state $i$ is the ratio of experiments with outcome of state i to the total number of experiments.
+
+#### Gaussian (Normal) Density
+
+- The estimate for $μ$ is sample mean $m$.
+- The estimate for $σ^2$ is sample variance $s^2$.
+
+### Evaluating an Estimator: Bias and Variance
+
+- Let $X$ be a sample from a population specified up to a parameter $θ$.
+- Let $d = d(X)$ be an estimator of $θ$.
+- The **mean square error** of the estimator $d$ is defined as $r(d,θ) = E[(d-θ)^2]$
+- The **bias** of an estimator is given as $b_θ(d) = E[d]-θ$.
+- $d$ is an **unbiased estimator** of $θ$ if $b_θ(d) = 0$ for all $θ$ values.
+- In Gaussian density:
+  - $s^2$ is a biased estimator of $σ^2$.
+  - $(N/(N−1))s^2$ is an unbiased estimator.
+  - $s^2$ is an *asymptotically unbiased estimator* whose bias goes to 0 as $N$ goes to infinity.
+- $r(d,θ) = E[(d-θ)^2] = E[(d-E[d])^2] + (E[d]-θ)^2 = \text{Var}(d) + b_θ(d)^2$.
