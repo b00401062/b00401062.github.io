@@ -170,7 +170,7 @@
 ### Maximum Likelihood Estimation
 
 - The **likelihood** of parameter $θ$ given sample $X$ is the product of the likelihoods of the individual points.
-- **Maximum likelihood estimator**: $\hat{θ} = \text{argmax}_{θ} p(X|θ)$.
+- **Maximum likelihood estimator**: $\hat{θ} = \text{argmax}_{θ} p(X\|θ)$.
 
 #### Bernoulli Density
 
@@ -203,8 +203,8 @@
 - Prior information on the possible distribution of a parameter, $θ$.
 - Evaluating posterior density can involve intractable integrals.
 - When the full integration is not feasible, we reduce it to a single point.
-- **Maximum a posteriori (MAP) estimator**: $\hat{θ} = \text{argmax}_{θ} p(θ|X)$.
+- **Maximum a posteriori (MAP) estimator**: $\hat{θ} = \text{argmax}_{θ} p(θ\|X)$.
 - If we have no prior reason to favor some values of $θ$, the MAP estimate will be equivalent to the maximum likelihood estimate.
-- **Bayes' estimator**: $\hat{θ} = E[θ|X]$.
+- **Bayes' estimator**: $\hat{θ} = E[θ\|X]$.
 - Both MAP and Bayes' estimators reduce the whole posterior density to a single point.
 - **Monte Carlo** approach generates samples from the posterior density.
