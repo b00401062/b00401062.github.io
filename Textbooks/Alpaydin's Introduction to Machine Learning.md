@@ -258,3 +258,27 @@
 - **Structural risk minimization (SRM)** uses a set of models ordered in terms of their complexities.
 - **Minimum description length (MDL)** is based on an information theoretic measure.
 - **Bayesian model selection** is used when we have some prior knowledge about the appropriate class of approximating functions.
+
+## Multivariate Methods
+
+### Multivariate Data
+
+-  The sample may be viewed as a *data matrix*
+  - Columns represent inputs, features, or attributes.
+  - Rows represent observations, examples, or instances.
+- Typically these variables are correlated; otherwise; there is no need for a multivariate analysis.
+
+### Parameter Estimation
+
+- The maximum likelihood estimator for the mean $μ$ is the sample mean, $m$.
+- The estimator of $Σ$ is $S$, the sample covariance matrix.
+
+### Estimation of Missing Values
+
+- **Imputation**: fill in the missing entries by estimating them.
+
+### Multivariate Normal Distribution
+
+- $(x−μ)^TΣ^{−1}(x−μ) = c^2 is the multi-dimensional hyperellipsoid
+  - It is centered at $μ$.
+  - Its shape and orientation are defined by $Σ$.
