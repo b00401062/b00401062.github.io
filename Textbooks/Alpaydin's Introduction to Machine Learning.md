@@ -244,3 +244,17 @@
   - **Underfitting**: If there is bias, this indicates that the model class does not contain the solution.
   - **Overfitting**: If there is variance, the model class is too general and also learns the noise.
 - The optimal model is the one that has the best trade-off between the bias and the variance.
+
+### Model Selection Procedures
+
+- One approach to find the optimal complexity is **cross-validation**.
+- Another approach that is used frequently is **regularization**.
+  - Regularization penalizes complex models with large variance.
+  - Regularization can be seen as an *optimism* term estimating the discrepancy between training and test error.
+- **Akaike's information criterion (AIC)** and **Bayesian information criterion (BIC)**:
+  - Estimating the optimism.
+  - Adding the optimism to the training error to estimate test error.
+  - No need for validation.
+- **Structural risk minimization (SRM)** uses a set of models ordered in terms of their complexities.
+- **Minimum description length (MDL)** is based on an information theoretic measure.
+- **Bayesian model selection** is used when we have some prior knowledge about the appropriate class of approximating functions.
