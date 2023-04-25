@@ -196,8 +196,8 @@
   - $s^2$ is a biased estimator of $σ^2$.
   - $(N/(N−1))s^2$ is an unbiased estimator.
   - $s^2$ is an *asymptotically unbiased estimator* whose bias goes to 0 as $N$ goes to infinity.
-- $r(\hat{θ},θ) = E[(\hat{θ}-θ)^2] = E[(\hat{θ}-E[\hat{θ}])^2] + (E[\hat{θ}]-θ)^2 = \text{Var}(\hat{θ}) + b_θ(\hat{θ})^2$.
-- MSE = variance + bias squared.
+- $r(\hat{θ},θ) = E[(\hat{θ}-θ)^2] = (E[\hat{θ}]-θ)^2 + E[(\hat{θ}-E[\hat{θ}])^2] = b_θ(\hat{θ})^2 + \text{Var}(\hat{θ})$.
+- MSE = bias squared + variance.
 
 ### The Bayes' Estimator
 
@@ -239,7 +239,7 @@
 
 ### Tuning Model Complexity: Bias/Variance Dilemma
 
-- MSE = variance + bias squared.
+- MSE = bias squared + variance.
 - The bias/variance dilemma and is true for any machine learning system:
   - **Underfitting**: If there is bias, this indicates that the model class does not contain the solution.
   - **Overfitting**: If there is variance, the model class is too general and also learns the noise.
