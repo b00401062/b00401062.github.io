@@ -285,7 +285,7 @@
 
 ### Multivariate Classification
 
-- The class-conditional densities, $p(x|C_i)$, are taken as normal density, $N(μ_i, Σ_i)$.
+- The class-conditional densities, $p(x\|C_i)$, are taken as normal density, $N(μ_i,Σ_i)$.
 - Reducing covariance matrix through simplifying assumptions:
   - **Quadratic discriminant**
   - **Linear discriminant**
@@ -312,3 +312,12 @@
 
 - In statistical literature, this is called **multiple regression**.
 - Statisticians use the term *multivariate* when there are multiple outputs.
+
+## Dimensionality Reduction
+
+### Introduction
+
+- Two main methods for reducing dimensionality:
+  - **Feature selection**: finding $k$ of the $d$ dimensions that give the most information.
+  - **Feature extraction**: finding a new set of $k$ dimensions that are combinations of the original $d$ dimensions.
+- These methods may be supervised or unsupervised.
