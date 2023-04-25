@@ -279,7 +279,7 @@
 
 ### Multivariate Normal Distribution
 
-- $(x−μ)^TΣ^{−1}(x−μ) = c^2 is the multi-dimensional hyperellipsoid
+- $(x−μ)^TΣ^{−1}(x−μ) = c^2$ is the multi-dimensional hyperellipsoid
   - It is centered at $μ$.
   - Its shape and orientation are defined by $Σ$.
 
@@ -288,9 +288,9 @@
 - The class-conditional densities, $p(x|C_i)$, are taken as normal density, $N(μ_i, Σ_i)$.
 - Reducing covariance matrix through simplifying assumptions:
   - **Quadratic discriminant**
-  - **Linear discriminant**:
+  - **Linear discriminant**
     - The covariance matrix is shared by all classes.
-  - **Naive Bayes' classifier**:
+  - **Naive Bayes' classifier**
     - The covariance matrix is shared by all classes.
     - All off-diagonals of the covariance matrix are 0.
   - **Nearest mean classifier**
@@ -305,3 +305,10 @@
   - When $α = 0$ and $β = 1$: linear discriminant. 
   - When $α = 1$ and $β = 0$: nearest mean classifier.
   - In between these extremes, $α$ and $β$ are optimized by cross-validation.
+
+### Discrete Features
+
+### Multivariate Regression
+
+- In statistical literature, this is called **multiple regression**.
+- Statisticians use the term *multivariate* when there are multiple outputs.
