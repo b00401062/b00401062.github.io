@@ -189,7 +189,7 @@
 
 - Let $X$ be a sample from a population specified up to a parameter $θ$.
 - Let $\hat{θ}$ be an estimator of $θ$, which is learned from $X$.
-- The **mean square error** of the estimator $\hat{θ}$ is defined as $r(\hat{θ},θ) = E[(\hat{θ}-θ)^2]$
+- The **mean square error (MSE)** of the estimator $\hat{θ}$ is defined as $r(\hat{θ},θ) = E[(\hat{θ}-θ)^2]$
 - The **bias** of an estimator is given as $b_θ(\hat{θ}) = E[\hat{θ}]-θ$.
 - $\hat{θ}$ is an **unbiased estimator** of $θ$ if $b_θ(\hat{θ}) = 0$ for all $θ$ values.
 - In Gaussian density:
@@ -197,6 +197,7 @@
   - $(N/(N−1))s^2$ is an unbiased estimator.
   - $s^2$ is an *asymptotically unbiased estimator* whose bias goes to 0 as $N$ goes to infinity.
 - $r(\hat{θ},θ) = E[(\hat{θ}-θ)^2] = E[(\hat{θ}-E[\hat{θ}])^2] + (E[\hat{θ}]-θ)^2 = \text{Var}(\hat{θ}) + b_θ(\hat{θ})^2$.
+- MSE = variance + bias squared.
 
 ### The Bayes' Estimator
 
@@ -227,6 +228,19 @@
   - $f(x)$ is some unknown function whose estimator is $g(x\|θ)$.
   - $ϵ$ is zero mean Gaussian with constant variance $σ^2$.
 - $p(y\|x) \sim N(g(x\|θ),σ^2)$.
-- Estimation: use maximum likelihood to learn the parameters $θ$.
+- Use maximum likelihood to learn the parameters $θ$.
 - Decision: $\hat{y} = g(x\|\hat{θ})$.
+- **Total sum-of-squares (TSS)** = $\sum (y_i-\bar{y})^2$.
+- **Residual sum-of-squares (RSS)** = $\sum (y_i-\hat{y})^2$.
+- **Explained sum-of-squares (ESS)** = $\sum (\hat{y}-\bar{y})^2$.
+- TSS = RSS + ESS.
 - A measure to check the goodness of fit by regression is the **coefficient of determination**.
+- **Coefficient of determination**: $R^2$ = ESS/TSS = 1 - RSS/TSS.
+
+### Tuning Model Complexity: Bias/Variance Dilemma
+
+- MSE = variance + bias squared.
+- The bias/variance dilemma and is true for any machine learning system:
+  - **Underfitting**: If there is bias, this indicates that the model class does not contain the solution.
+  - **Overfitting**: If there is variance, the model class is too general and also learns the noise.
+- The optimal model is the one that has the best trade-off between the bias and the variance.
