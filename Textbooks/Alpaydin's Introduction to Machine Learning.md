@@ -321,3 +321,12 @@
   - **Feature selection**: finding $k$ of the $d$ dimensions that give the most information.
   - **Feature extraction**: finding a new set of $k$ dimensions that are combinations of the original $d$ dimensions.
 - These methods may be supervised or unsupervised.
+
+### Subset Selection
+
+- Two approaches: **forward selection** and **backward selection**.
+- Checking the error should be done on a validation set.
+- The *sequential* selection algorithm is also known as **wrapper** approach. 
+- The features we select at the end depend heavily on the classifier we use.
+- This process of testing features one by one may be costly.
+- Subset selection is supervised.
