@@ -212,8 +212,8 @@
 
 ### Parametric Classification
 
-- The discriminant function: $g_i(x) = p(x\|y=C_i)P(y=C_i)$.
-- $P(y=C_i)$ and $p(x\|y=C_i)$ are estimated from a sample.
+- The discriminant function: $g_i(x) = p(x\|C_i)P(C_i)$.
+- $P(C_i)$ and $p(x\|C_i)$ are estimated from a sample.
 - Their estimates are plugged in to get the estimate for the discriminant function.
 - Decision: $\hat{y} = C_i$ that maximizes $g_i(x)$.
 - *Likelihood-based approach* to classification:
@@ -282,3 +282,26 @@
 - $(x−μ)^TΣ^{−1}(x−μ) = c^2 is the multi-dimensional hyperellipsoid
   - It is centered at $μ$.
   - Its shape and orientation are defined by $Σ$.
+
+### Multivariate Classification
+
+- The class-conditional densities, $p(x|C_i)$, are taken as normal density, $N(μ_i, Σ_i)$.
+- Reducing covariance matrix through simplifying assumptions:
+  - **Quadratic discriminant**
+  - **Linear discriminant**:
+    - The covariance matrix is shared by all classes.
+  - **Naive Bayes' classifier**:
+    - The covariance matrix is shared by all classes.
+    - All off-diagonals of the covariance matrix are 0.
+  - **Nearest mean classifier**
+    - The covariance matrix is shared by all classes.
+    - All off-diagonals of the covariance matrix are 0.
+    - All variances are equal.
+
+### Tuning Complexity
+
+- **Regularized discriminant analysis (RDA)**: $S_i' = ασ^2I + βS + (1-α-β)S_i$
+  - When $α = β = 0$: quadratic discriminant.
+  - When $α = 0$ and $β = 1$: linear discriminant. 
+  - When $α = 1$ and $β = 0$: nearest mean classifier.
+  - In between these extremes, $α$ and $β$ are optimized by cross-validation.
