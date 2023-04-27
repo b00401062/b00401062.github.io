@@ -279,7 +279,7 @@
 
 ### Multivariate Normal Distribution
 
-- $(x−μ)^TΣ^{−1}(x−μ) = c^2$ is the multi-dimensional hyperellipsoid
+- $(x−μ)^⊤Σ^{−1}(x−μ) = c^2$ is the multi-dimensional hyperellipsoid
   - It is centered at $μ$.
   - Its shape and orientation are defined by $Σ$.
 
@@ -333,9 +333,15 @@
 
 ### Principal Component Analysis
 
-- **Principal component analysis (PCA)** is an unsupervised method.
-- The principal component is the eigenvector of the covariance matrix.
+- PCA is an unsupervised method.
+- The principal component is the eigenvector of $X^⊤X$, or the covariance matrix.
 - Proportion of variance explained by the $k$ principal components is $\sum_{i=1}^k  λ_i/\sum_{i=1}^d  λ_i$.
 - **Scree graph** is the plot of variance explained as a function of the number of eigenvectors kept.
 - PCA explains variance and is sensitive to outliers.
 - PCA minimizes the **reconstruction error**.
+
+### Feature Embedding
+
+- The $N$-dimensional eigenvectors of $XX^⊤$ are the coordinates in the new space.
+- Feature embedding does not generate projection vectors but the coordinates directly.
+- Feature embedding can be considered as a method of placing instances in a $k$-dimensional space such that pairwise similarities are preserved.
