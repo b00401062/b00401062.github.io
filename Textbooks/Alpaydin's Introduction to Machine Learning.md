@@ -330,3 +330,12 @@
 - The features we select at the end depend heavily on the classifier we use.
 - This process of testing features one by one may be costly.
 - Subset selection is supervised.
+
+### Principal Component Analysis
+
+- **Principal component analysis (PCA)** is an unsupervised method.
+- The principal component is the eigenvector of the covariance matrix.
+- Proportion of variance explained by the $k$ principal components is $\sum_{i=1}^k  λ_i/\sum_{i=1}^d  λ_i$.
+- **Scree graph** is the plot of variance explained as a function of the number of eigenvectors kept.
+- PCA explains variance and is sensitive to outliers.
+- PCA minimizes the **reconstruction error**.
