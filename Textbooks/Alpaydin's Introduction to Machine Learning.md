@@ -344,4 +344,4 @@
 
 - The $N$-dimensional eigenvectors of $XX^⊤$ are the coordinates in the new space.
 - Feature embedding does not generate projection vectors but the coordinates directly.
-- Feature embedding can be considered as a method of placing instances in a $k$-dimensional space such that pairwise similarities are preserved.
+- Feature embedding places instances in a $k$-dimensional space such that pairwise similarities are preserved.
