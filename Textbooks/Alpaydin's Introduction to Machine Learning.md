@@ -131,7 +131,7 @@
 
 ### Introduction
 
-- In reality, we have $x = f(z)$, where
+- In reality, we have $x$ = $f(z)$, where
   - $x$ is the observable variables.
   - $z$ is the unobservable variables.
   - $f(·)$ is the deterministic function that defines the outcome from the unobservable pieces of knowledge.
@@ -148,7 +148,7 @@
 ### Discriminant Functions
 
 - Discriminant functions divide the feature space into decision regions.
-- When $K = 2$, the classification system is a **dichotomizer** and for $K ≥ 3$, it is a **polychotomizer**.
+- When $K$ = 2, the classification system is a **dichotomizer** and for $K$ ≥ 3, it is a **polychotomizer**.
 
 ### Association Rules
 
@@ -156,7 +156,7 @@
 - One example of association rules is in basket analysis.
 - Three measures in learning association rules:
   - **Support**: $P(X,Y)$
-  - **Confidence**:  $P(Y\|X)$
+  - **Confidence**: $P(Y\|X)$
   - **Lift** or **interest**: $P(Y\|X)/P(Y)$
 
 ## Parametric Methods
@@ -170,7 +170,7 @@
 ### Maximum Likelihood Estimation
 
 - The **likelihood** of parameter $θ$ given sample $X$ is the product of the likelihoods of the individual points.
-- **Maximum likelihood estimator**: $\hat{θ} = \text{argmax}_{θ} p(X\|θ)$.
+- **Maximum likelihood estimator**: $\hat{θ}$ = $\text{argmax}_{θ}\ p(X\|θ)$.
 
 #### Bernoulli Density
 
@@ -189,14 +189,14 @@
 
 - Let $X$ be a sample from a population specified up to a parameter $θ$.
 - Let $\hat{θ}$ be an estimator of $θ$, which is learned from $X$.
-- The **mean square error (MSE)** of the estimator $\hat{θ}$ is defined as $r(\hat{θ},θ) = E[(\hat{θ}-θ)^2]$
-- The **bias** of an estimator is given as $b_θ(\hat{θ}) = E[\hat{θ}]-θ$.
-- $\hat{θ}$ is an **unbiased estimator** of $θ$ if $b_θ(\hat{θ}) = 0$ for all $θ$ values.
+- The **mean square error (MSE)** of the estimator $\hat{θ}$ is defined as $r(\hat{θ},θ)$ = $E[(\hat{θ}-θ)^2]$
+- The **bias** of an estimator is given as $b_θ(\hat{θ})$ = $E[\hat{θ}]-θ$.
+- $\hat{θ}$ is an **unbiased estimator** of $θ$ if $b_θ(\hat{θ})$ = 0 for all $θ$ values.
 - In Gaussian density:
   - $s^2$ is a biased estimator of $σ^2$.
   - $(N/(N−1))s^2$ is an unbiased estimator.
   - $s^2$ is an *asymptotically unbiased estimator* whose bias goes to 0 as $N$ goes to infinity.
-- $r(\hat{θ},θ) = E[(\hat{θ}-θ)^2] = (E[\hat{θ}]-θ)^2 + E[(\hat{θ}-E[\hat{θ}])^2] = b_θ(\hat{θ})^2 + \text{Var}(\hat{θ})$.
+- $r(\hat{θ},θ)$ = $E[(\hat{θ}-θ)^2]$ = $(E[\hat{θ}]-θ)^2 + E[(\hat{θ}-E[\hat{θ}])^2]$ = $b_θ(\hat{θ})^2 + \text{Var}(\hat{θ})$.
 - MSE = bias squared + variance.
 
 ### The Bayes' Estimator
@@ -204,18 +204,18 @@
 - Prior information on the possible distribution of a parameter, $θ$.
 - Evaluating posterior density can involve intractable integrals.
 - When the full integration is not feasible, we reduce it to a single point.
-- **Maximum a posteriori (MAP) estimator**: $\hat{θ} = \text{argmax}_{θ} p(θ\|X)$.
+- **Maximum a posteriori (MAP) estimator**: $\hat{θ}$ = $\text{argmax}_{θ}\ p(θ\|X)$.
 - If we have no prior reason to favor some values of $θ$, the MAP estimate will be equivalent to the maximum likelihood estimate.
-- **Bayes' estimator**: $\hat{θ} = E[θ\|X]$.
+- **Bayes' estimator**: $\hat{θ}$ = $E[θ\|X]$.
 - Both MAP and Bayes' estimators reduce the whole posterior density to a single point.
 - **Monte Carlo** approach generates samples from the posterior density.
 
 ### Parametric Classification
 
-- The discriminant function: $g_i(x) = p(x\|C_i)P(C_i)$.
+- The discriminant function: $g_i(x)$ = $p(x\|C_i)P(C_i)$.
 - $P(C_i)$ and $p(x\|C_i)$ are estimated from a sample.
 - Their estimates are plugged in to get the estimate for the discriminant function.
-- Decision: $\hat{y} = C_i$ that maximizes $g_i(x)$.
+- Decision: $\hat{y}$ = $C_i$ that maximizes $g_i(x)$.
 - *Likelihood-based approach* to classification:
   1. Estimate the densities separately.
   2. Calculate posterior densities using Bayes' rule.
@@ -224,12 +224,12 @@
 
 ### Regression
 
-- $y = f(x) + ϵ$ where
+- $y$ = $f(x) + ϵ$ where
   - $f(x)$ is some unknown function whose estimator is $g(x\|θ)$.
   - $ϵ$ is zero mean Gaussian with constant variance $σ^2$.
 - $p(y\|x) \sim N(g(x\|θ),σ^2)$.
 - Use maximum likelihood to learn the parameters $θ$.
-- Decision: $\hat{y} = g(x\|\hat{θ})$.
+- Decision: $\hat{y}$ = $g(x\|\hat{θ})$.
 - **Total sum-of-squares (TSS)** = $\sum (y_i-\bar{y})^2$.
 - **Residual sum-of-squares (RSS)** = $\sum (y_i-\hat{y})^2$.
 - **Explained sum-of-squares (ESS)** = $\sum (\hat{y}-\bar{y})^2$.
@@ -279,7 +279,7 @@
 
 ### Multivariate Normal Distribution
 
-- $(x−μ)^⊤Σ^{−1}(x−μ) = c^2$ is the multi-dimensional hyperellipsoid
+- $(x−μ)^⊤Σ^{−1}(x−μ)$ = $c^2$ is the multi-dimensional hyperellipsoid
   - It is centered at $μ$.
   - Its shape and orientation are defined by $Σ$.
 
@@ -300,10 +300,10 @@
 
 ### Tuning Complexity
 
-- **Regularized discriminant analysis (RDA)**: $S_i' = ασ^2I + βS + (1-α-β)S_i$
-  - When $α = β = 0$: quadratic discriminant.
-  - When $α = 0$ and $β = 1$: linear discriminant. 
-  - When $α = 1$ and $β = 0$: nearest mean classifier.
+- **Regularized discriminant analysis (RDA)**: $S_i'$ = $ασ^2I + βS + (1-α-β)S_i$
+  - When $α$ = $β$ = 0: quadratic discriminant.
+  - When $α$ = 0 and $β$ = 1: linear discriminant. 
+  - When $α$ = 1 and $β$ = 0: nearest mean classifier.
   - In between these extremes, $α$ and $β$ are optimized by cross-validation.
 
 ### Discrete Features
@@ -334,8 +334,8 @@
 ### Principal Component Analysis
 
 - PCA is an unsupervised method.
-- The principal component is the eigenvector of $X^⊤X$, or the covariance matrix.
-- Proportion of variance explained by the $k$ principal components is $\sum_{i=1}^k  λ_i/\sum_{i=1}^d  λ_i$.
+- The principal component is the eigenvector of $X^⊤X$, or the covariance matrix $Σ$.
+- Proportion of variance explained by the $k$ principal components is $\sum_{i=1}^k λ_i/\sum_{i=1}^d λ_i$.
 - **Scree graph** is the plot of variance explained as a function of the number of eigenvectors kept.
 - PCA explains variance and is sensitive to outliers.
 - PCA minimizes the **reconstruction error**.
@@ -345,3 +345,18 @@
 - The $N$-dimensional eigenvectors of $XX^⊤$ are the coordinates in the new space.
 - Feature embedding does not generate projection vectors but the coordinates directly.
 - Feature embedding places instances in a $k$-dimensional space such that pairwise similarities are preserved.
+
+### Factor Analysis
+
+- FA assumes that there is a set of unobservable, **latent factors** $z$.
+- FA partitions variables into groups that have high correlation among themselves.
+- Latent factors $z$ have the properties: $E[z_i]$ = 0, $\text{Var}(z_i)$ = 1, and $\text{Cov}(z_i,z_j)$ = 0.
+- $x_i-μ_i$ = $\sum_{j=1}^k v_{ij}z_j+ϵ_i$: Each input dimension is a weighted sum of the factors plus the residual term.
+- Residual terms $ϵ$ have the properties: $E[ϵ_i]$ = 0, $\text{Var}(ϵ_i)$ = $ψ_i$, and $\text{Cov}(ϵ_i,ϵ_j)$ = 0.
+- $Σ$ = $VV^⊤+Ψ$ where
+  - $Σ$ is the covariance matrix of $X$
+  - $V$ is the **factor loadings**, the $d × k$ matrix of weights that transform latent factors to input dimension.
+  - $Ψ$ is a diagonal matrix with $ψ_i$ on the diagonals.
+- **Probabilistic PCA** is when all $ψ_i$ are equal, namely, $Ψ$ = $ψI$.
+- Conventional PCA is when $Ψ$ = 0.
+- For dimensionality reduction, FA offers no advantage over PCA.
