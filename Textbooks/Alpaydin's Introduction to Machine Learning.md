@@ -39,7 +39,9 @@
 ### History
 
 - Almost all of science is fitting models to data.
-- In statistics, going from particular observations to general descriptions is called *inference*, and learning is called *estimation*.
+- In statistics:
+  - Going from particular observations to general descriptions is called *inference*.
+  - Learning is called *estimation*.
 
 ### Related Topics
 
@@ -72,8 +74,10 @@
 
 ### Vapnik-Chervonenkis Dimension
 
-- $H$ **shatters** $N$ points if any learning problem definable by $N$ examples can be learned with no error by a hypothesis drawn from $H$.
-- **Vapnik-Chervonenkis (VC) dimension** of $H$, denoted as VC($H$), is the maximum number of points that can be shattered by $H$.
+- $H$ **shatters** $N$ points if:
+  - For any learning problem definable by $N$ examples.
+  - It can be learned with no error by a hypothesis drawn from $H$.
+- **Vapnik-Chervonenkis (VC) dimension** of $H$, VC($H$), is the maximum number of points that can be shattered by $H$.
 - VC dimension is independent of the probability distribution from which instances are drawn.
 - VC dimension may seem pessimistic.
 
@@ -131,7 +135,7 @@
 
 ### Introduction
 
-- In reality, we have $x$ = $f(z)$, where
+- In reality, we have $x$ = $f(z)$, where:
   - $x$ is the observable variables.
   - $z$ is the unobservable variables.
   - $f(·)$ is the deterministic function that defines the outcome from the unobservable pieces of knowledge.
@@ -178,7 +182,7 @@
 
 #### Multinomial Density
 
-- The estimate for the probability of state $i$ is the ratio of experiments with outcome of state $i$ to the total number of experiments.
+- The estimate for $p_i$ is the ratio of experiments with outcome of state $i$ to the total number of experiments.
 
 #### Gaussian (Normal) Density
 
@@ -205,7 +209,7 @@
 - Evaluating posterior density can involve intractable integrals.
 - When the full integration is not feasible, we reduce it to a single point.
 - **Maximum a posteriori (MAP) estimator**: $\hat{θ}$ = $\text{argmax}_{θ}\ p(θ\|X)$.
-- If we have no prior reason to favor some values of $θ$, the MAP estimate will be equivalent to the maximum likelihood estimate.
+- If there is no prior knowledge of $θ$, the MAP estimate will be equivalent to the MLE.
 - **Bayes' estimator**: $\hat{θ}$ = $E[θ\|X]$.
 - Both MAP and Bayes' estimators reduce the whole posterior density to a single point.
 - **Monte Carlo** approach generates samples from the posterior density.
@@ -224,7 +228,7 @@
 
 ### Regression
 
-- $y$ = $f(x) + ϵ$ where
+- $y$ = $f(x) + ϵ$ where:
   - $f(x)$ is some unknown function whose estimator is $g(x\|θ)$.
   - $ϵ$ is zero mean Gaussian with constant variance $σ^2$.
 - $p(y\|x) \sim N(g(x\|θ),σ^2)$.
@@ -257,7 +261,7 @@
   - No need for validation.
 - **Structural risk minimization (SRM)** uses a set of models ordered in terms of their complexities.
 - **Minimum description length (MDL)** is based on an information theoretic measure.
-- **Bayesian model selection** is used when we have some prior knowledge about the appropriate class of approximating functions.
+- **Bayesian model selection** is used when there is prior knowledge about the class of approximating functions.
 
 ## Multivariate Methods
 
@@ -353,7 +357,7 @@
 - Latent factors $z$ have the properties: $E[z_i]$ = 0, $\text{Var}(z_i)$ = 1, and $\text{Cov}(z_i,z_j)$ = 0.
 - $x_i-μ_i$ = $\sum_{j=1}^k v_{ij}z_j+ϵ_i$: Each input dimension is a weighted sum of the factors plus the residual term.
 - Residual terms $ϵ$ have the properties: $E[ϵ_i]$ = 0, $\text{Var}(ϵ_i)$ = $ψ_i$, and $\text{Cov}(ϵ_i,ϵ_j)$ = 0.
-- $Σ$ = $WW^⊤+Ψ$ where
+- $Σ$ = $WW^⊤+Ψ$ where:
   - $Σ$ is the covariance matrix of $X$
   - $W$ is the **factor loadings**, the $d × k$ matrix of weights that transform latent factors to input dimension.
   - $Ψ$ is a diagonal matrix with $ψ_i$ on the diagonals.
@@ -363,7 +367,7 @@
 
 ### Singular Value Decomposition and Matrix Factorization
 
-- **Singular value decomposition** $X$ = $UΛV^⊤$ where
+- **Singular value decomposition** $X$ = $UΛV^⊤$ where:
   - $U$ contains the eigenvectors of $XX^⊤$.
   - $V$ contains the eigenvectors of $X^⊤X$.
   - $Λ$ contains the $k$ = $\text{min}(N,d)$ singular values on its diagonal.
