@@ -353,10 +353,18 @@
 - Latent factors $z$ have the properties: $E[z_i]$ = 0, $\text{Var}(z_i)$ = 1, and $\text{Cov}(z_i,z_j)$ = 0.
 - $x_i-μ_i$ = $\sum_{j=1}^k v_{ij}z_j+ϵ_i$: Each input dimension is a weighted sum of the factors plus the residual term.
 - Residual terms $ϵ$ have the properties: $E[ϵ_i]$ = 0, $\text{Var}(ϵ_i)$ = $ψ_i$, and $\text{Cov}(ϵ_i,ϵ_j)$ = 0.
-- $Σ$ = $VV^⊤+Ψ$ where
+- $Σ$ = $WW^⊤+Ψ$ where
   - $Σ$ is the covariance matrix of $X$
-  - $V$ is the **factor loadings**, the $d × k$ matrix of weights that transform latent factors to input dimension.
+  - $W$ is the **factor loadings**, the $d × k$ matrix of weights that transform latent factors to input dimension.
   - $Ψ$ is a diagonal matrix with $ψ_i$ on the diagonals.
 - **Probabilistic PCA** is when all $ψ_i$ are equal, namely, $Ψ$ = $ψI$.
 - Conventional PCA is when $Ψ$ = 0.
 - For dimensionality reduction, FA offers no advantage over PCA.
+
+### Singular Value Decomposition and Matrix Factorization
+
+- **Singular value decomposition** $X$ = $UΛV^⊤$ where
+  - $U$ contains the eigenvectors of $XX^⊤$.
+  - $V$ contains the eigenvectors of $X^⊤X$.
+  - $Λ$ contains the $k$ = $\text{min}(N,d)$ singular values on its diagonal.
+- **Matrix factorization** decomposes a large matrix into a product of (generally) two matrices.
