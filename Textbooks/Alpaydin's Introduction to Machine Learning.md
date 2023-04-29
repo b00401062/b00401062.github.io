@@ -378,3 +378,8 @@
 - MDS places points in a low dimensional space such that the distance between them is as close as possible to the original space.
 - **Sammon mapping**: a nonlinear mapping from the original space to a low dimensional space.
 - **Sammon stress**: the normalized error in mapping.
+
+### Linear discriminant analysis
+
+- LDA is a supervised method for dimensionality reduction for classification problems.
+- LDA finds the projection such that examples from different classes are as well separated as possible.
