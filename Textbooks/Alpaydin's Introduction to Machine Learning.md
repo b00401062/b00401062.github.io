@@ -372,3 +372,9 @@
   - $V$ contains the eigenvectors of $X^⊤X$.
   - $Λ$ contains the $k$ = $\text{min}(N,d)$ singular values on its diagonal.
 - **Matrix factorization** decomposes a large matrix into a product of (generally) two matrices.
+
+### Multidimensional Scaling
+
+- MDS places points in a low dimensional space such that the distance between them is as close as possible to the original space.
+- **Sammon mapping**: a nonlinear mapping from the original space to a low dimensional space.
+- **Sammon stress**: the normalized error in mapping.
