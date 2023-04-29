@@ -423,3 +423,13 @@
 
 - There is a trade-off between feature extraction and decision making.
 - There exist algorithms that do some feature selection internally, though in a limited way.
+
+## Clustering
+
+### Introduction
+
+- **Semiparametric density estimation** still assumes a parametric model for each group in the sample.
+
+### Mixture Densities
+
+- The **mixture density** is written as $p(x)$ = $\sum_{i=1}^k p(x\|G_i)P(G_i)$ where:
