@@ -378,8 +378,48 @@
 - MDS places points in a low dimensional space such that the distance between them is as close as possible to the original space.
 - **Sammon mapping**: a nonlinear mapping from the original space to a low dimensional space.
 - **Sammon stress**: the normalized error in mapping.
+- MDS does not learn a general mapping function.
 
 ### Linear discriminant analysis
 
 - LDA is a supervised method for dimensionality reduction for classification problems.
 - LDA finds the projection such that examples from different classes are as well separated as possible.
+
+### Canonical Correlation Analysis
+
+- CCA reduces the dimensionality of two sets of variables to a joint space.
+- CCA maximizes the correlation between two sets of variables after projection.
+- For CCA to make sense, the two sets of variables need to be dependent.
+- It is possible to generalize CCA for more than two sets of variables.
+
+### Isomap
+
+- **Geodesic distance** is the distance along the manifold.
+- **Isometric feature mapping** estimates the geodesic distance and applies MDS, using it for dimensionality reduction.
+- As with MDS, Isomap uses feature embedding and does not learn a general mapping function.
+
+### Locally Linear Embedding
+
+- LLE recovers global nonlinear structure from locally linear fits.
+- Each local patch of the manifold is approximated linearly.
+- Given enough data, each point can be written as a linear, weighted sum of its neighbors.
+- The reconstruction weights reflect the intrinsic geometric properties of the data.
+- As with Isomap, LLE solution is the set of new coordinates.
+- In both Isomap and LLE, there is local information that is propagated over neighbors to get a global solution.
+
+### Laplacian Eigenmaps
+
+- Similar to Isomap and LLE,  Laplacian eigenmaps care for similarities only locally.
+- The Laplacian eigenmap is also an feature embedding method.
+
+### t-Distributed Stochastic Neighbor Embedding
+
+- In **stochastic neighbor embedding (SNE)**, the neighborhood structure is represented by probabilities calculated from distances.
+- t-stochastic neighbor embedding (t-SNE), which is the improved version of SNE.
+- This optimization problem is not convex; there is no single best solution.
+- *Gradient descent* is used to obtain local optimum.
+
+### Notes
+
+- There is a trade-off between feature extraction and decision making.
+- There exist algorithms that do some feature selection internally, though in a limited way.
