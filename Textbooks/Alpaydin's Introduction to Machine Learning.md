@@ -410,7 +410,7 @@
 ### Laplacian Eigenmaps
 
 - Similar to Isomap and LLE,  Laplacian eigenmaps care for similarities only locally.
-- The Laplacian eigenmap is also an feature embedding method.
+- The Laplacian eigenmap is also a feature embedding method.
 
 ### t-Distributed Stochastic Neighbor Embedding
 
