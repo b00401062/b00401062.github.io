@@ -433,3 +433,7 @@
 ### Mixture Densities
 
 - The **mixture density** is written as $p(x)$ = $\sum_{i=1}^k p(x\|G_i)P(G_i)$ where:
+  - $G_i$ are the **mixture components** or **group** or **clusters**.
+  - $p(x\|G_i)$ are the **component densities**.
+  - $P(G_i)$ are the **mixture proportions**.
+- Parametric classification is a bona fide mixture model where groups $G_i$ correspond to classes $C_i$.
