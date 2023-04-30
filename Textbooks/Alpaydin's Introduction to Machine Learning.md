@@ -429,6 +429,7 @@
 ### Introduction
 
 - **Semiparametric density estimation** still assumes a parametric model for each group in the sample.
+- Clustering is also used for preprocessing.
 
 ### Mixture Densities
 
@@ -437,3 +438,11 @@
   - $p(x\|G_i)$ are the **component densities**.
   - $P(G_i)$ are the **mixture proportions**.
 - Parametric classification is a bona fide mixture model where groups $G_i$ correspond to classes $C_i$.
+
+### k-Means Clustering
+
+- The reference vector is set to the mean of all the instances that it represents.
+- There are also algorithms for adding new centers incrementally or deleting empty ones.
+- **Leader cluster algorithm**:
+  - An instance that is far away from existing centers causes the creation of a new center.
+  - A center that covers a large number of instances can be split into two.
