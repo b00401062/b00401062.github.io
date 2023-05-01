@@ -465,3 +465,8 @@
 
 - Full covariance matrices used with Gaussian mixtures are subject to overfitting.
 - The alternative is dimensionality reduction in the clusters.
+
+### Supervised Learning after Clustering
+
+- A large amount of unlabeled data is used for learning the cluster parameters.
+- Then, a smaller labeled data is used to learn the second stage of classification or regression.
