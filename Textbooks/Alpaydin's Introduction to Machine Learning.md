@@ -454,9 +454,14 @@
 - EM has no analytical solution and needs to resort to iterative optimization.
 - The EM algorithm works as follows:
   - **E-step**: estimate these labels given our current knowledge of components.
-  - **M-step**: update our component knowledge given the labels estimated in the E-step.
+  - **M-step**: update component knowledge given the labels estimated in the E-step.
 - EM is initalized by k-means.
 - k-means clustering is a special case of EM applied to Gaussian mixtures where:
   - Inputs have equal and shared variances.
   - All components have equal priors.
   - Labels are hardened.
+
+### Mixtures of Latent Variable Models
+
+- Full covariance matrices used with Gaussian mixtures are subject to overfitting.
+- The alternative is dimensionality reduction in the clusters.
