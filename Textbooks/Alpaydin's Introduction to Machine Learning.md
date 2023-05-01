@@ -441,8 +441,22 @@
 
 ### k-Means Clustering
 
+- k-mean finds codebook vectors that minimize the total **reconstruction error**.
 - The reference vector is set to the mean of all the instances that it represents.
 - There are also algorithms for adding new centers incrementally or deleting empty ones.
 - **Leader cluster algorithm**:
   - An instance that is far away from existing centers causes the creation of a new center.
   - A center that covers a large number of instances can be split into two.
+
+### Expectation-Maximization Algorithm
+
+- EM looks for the component density parameters that maximize the likelihood of the sample.
+- EM has no analytical solution and needs to resort to iterative optimization.
+- The EM algorithm works as follows:
+  - **E-step**: estimate these labels given our current knowledge of components.
+  - **M-step**: update our component knowledge given the labels estimated in the E-step.
+- EM is initalized by k-means.
+- k-means clustering is a special case of EM applied to Gaussian mixtures where:
+  - Inputs have equal and shared variances.
+  - All components have equal priors.
+  - Labels are hardened.
