@@ -455,7 +455,7 @@
 - The EM algorithm works as follows:
   - **E-step**: estimate these labels given our current knowledge of components.
   - **M-step**: update component knowledge given the labels estimated in the E-step.
-- EM is initalized by k-means.
+- EM is initialized by k-means.
 - k-means clustering is a special case of EM applied to Gaussian mixtures where:
   - Inputs have equal and shared variances.
   - All components have equal priors.
@@ -469,4 +469,30 @@
 ### Supervised Learning after Clustering
 
 - A large amount of unlabeled data is used for learning the cluster parameters.
-- Then, a smaller labeled data is used to learn the second stage of classification or regression.
+- Then, smaller labeled data is used to learn the second stage of classification or regression.
+
+### Spectral Clustering
+
+- Clustering can be applied in reduced dimensionality.
+- Laplacian eigenmaps place the data instances in such a way that given pairwise similarities are preserved.
+
+### Hierarchical Clustering
+
+- It is one of the methods for clustering that use only similarities of instances.
+- A similarity, or equivalently a distance, measure is defined between instances.
+- Two approaches to hierarchical clustering: **agglomerative clustering** and **divisive clustering**.
+- At each iteration of an agglomerative algorithm, the two closest groups are merged.
+- The distance between two groups is defined as:
+  - **Single-link**: the smallest distance between all possible pairs of elements of the two groups.
+  - **Complete-link**: the largest distance between all possible pairs.
+  - Other possibilities: **average-link** and **centroid-link**.
+- A hierarchical structure is usually represented as a dendrogram.
+
+### Choosing the Number of Clusters
+
+- $k$ is the hyperparameter in clustering.
+- $k$ can be predefined by applications
+- Plotting the data in lower dimensions helps determine $k$.
+- Validation of the groups can be done manually by checking whether clusters are meaningful.
+- The reconstruction error or log-likelihood is plotted as a function of $k$.
+- The "elbow" is chosen as a heuristic.
