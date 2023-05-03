@@ -283,7 +283,8 @@
 
 ### Multivariate Normal Distribution
 
-- $(x−μ)^⊤Σ^{−1}(x−μ)$ = $c^2$ is the multi-dimensional hyperellipsoid
+- **Mahalanobis distance** is given as $(x−μ)^⊤Σ^{−1}(x−μ)$.
+- $(x−μ)^⊤Σ^{−1}(x−μ)$ = $c^2$ is the multi-dimensional hyperellipsoid:
   - It is centered at $μ$.
   - Its shape and orientation are defined by $Σ$.
 
@@ -551,3 +552,13 @@
   - $V^k(x)$ is the volume of the $d$-dimensional hypersphere centered at $x$.
 - The **k-nn classifier** has a posterior density $\hat{p}(C_i\|x)$ = $k_i/k$.
 - A special case of k-nn is the **nearest neighbor classifier** where $k$ = 1.
+
+### Condensed Nearest Neighbor
+
+- Time and space complexity of nonparametric methods are proportional to the size of the training set.
+- *Condensing* methods have been proposed to decrease the number of stored instances without degrading performance.
+- Only the instances that define the discriminant need to be kept.
+
+### Distance-Based Classification
+
+- Most classification algorithms can be recast as a distance-based classifier.
