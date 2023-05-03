@@ -508,3 +508,14 @@
   - Interpolating from them to find the right output.
 - Nonparametric methods are also called **instance-based** or **memory-based** learning algorithms.
 - Its complexity depends on the size of the training set.
+
+### Nonparametric Density Estimation
+
+- $x$ is drawn independently from some unknown probability density $p(·)$.
+- $\hat{p}(·)$ is the estimator of $p(·)$.
+
+#### Histogram Estimator
+
+- The input space is divided into equal-sized intervals named bins.
+- In constructing the histogram, both an origin and a bin width have to be determined.
+- The **naive estimator** is the histogram estimate where $x$ is always at the center of a bin of size $h$.
