@@ -496,3 +496,15 @@
 - Validation of the groups can be done manually by checking whether clusters are meaningful.
 - The reconstruction error or log-likelihood is plotted as a function of $k$.
 - The "elbow" is chosen as a heuristic.
+
+## Nonparametric Methods
+
+### Introduction
+
+- In parametric methods, a model is valid over the whole input space.
+- In nonparametric estimation, it is assumed that similar inputs have similar outputs.
+- The algorithm is composed of:
+  - Finding the similar past instances from the training set using a suitable distance measure.
+  - Interpolating from them to find the right output.
+- Nonparametric methods are also called **instance-based** or **memory-based** learning algorithms.
+- Its complexity depends on the size of the training set.
