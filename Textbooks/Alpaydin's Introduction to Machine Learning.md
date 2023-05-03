@@ -517,7 +517,7 @@
 #### Histogram Estimator
 
 - The input space is divided into equal-sized intervals named bins.
-- The **histogram estimate** is given as $\hat{p}(·)$ = #{$x_i$ in the same bin as $x$}/$Nh$.
+- The **histogram estimate** is given as $\hat{p}(·)$ = #{ $x_i$ in the same bin as $x$ } / $Nh$.
 - In constructing the histogram, both an origin and a bin width have to be determined.
 - The **naive estimator** is the histogram estimate where $x$ is always at the center of a bin of size $h$.
 
@@ -537,3 +537,8 @@
 - This is like a naive estimator with $h$ = $2d_k(x)$.
 - The k-nn estimator is not continuous and not a probability density function.
 - To get a smoother estimate, a kernel function can be incorporated.
+
+### Generalization to Multivariate Data
+
+- In high-dimensional spaces, nonparametric estimates are subject to the **curse of dimensionality**.
+- In high dimensions, the concept of "close" also becomes blurry.
