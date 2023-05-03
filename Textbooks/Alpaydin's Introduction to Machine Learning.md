@@ -517,5 +517,23 @@
 #### Histogram Estimator
 
 - The input space is divided into equal-sized intervals named bins.
+- The **histogram estimate** is given as $\hat{p}(·)$ = #{$x_i$ in the same bin as $x$}/$Nh$.
 - In constructing the histogram, both an origin and a bin width have to be determined.
 - The **naive estimator** is the histogram estimate where $x$ is always at the center of a bin of size $h$.
+
+#### Kernel Estimator
+
+- A kernel function is used to get a smooth estimate.
+- The **kernel estimator**, also called **Parzen windows**, is defined as $\hat{p}(x)$ = $\sum_i K(\frac{x-x_i}{h})/Nh$ where:
+  - The **kernel function** $K(·)$ determines the shape of the influences.
+  - The window width $h$ determines the width.
+- Various adaptive methods have been proposed to tailor $h$ as a function of the density around $x$.
+
+#### k-Nearest Neighbor Estimator
+
+- The amount of smoothing is adapted to the local density of data.
+- The degree of smoothing is controlled by $k$, the number of neighbors taken into account.
+- The **k-nearest neighbor** (k-nn) density estimate is given as $\hat{p}(x)$ = $\sum_i k/(2Nd_k(x))$.
+- This is like a naive estimator with $h$ = $2d_k(x)$.
+- The k-nn estimator is not continuous and not a probability density function.
+- To get a smoother estimate, a kernel function can be incorporated.
