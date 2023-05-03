@@ -504,7 +504,7 @@
 - In parametric methods, a model is valid over the whole input space.
 - In nonparametric estimation, it is assumed that similar inputs have similar outputs.
 - The algorithm is composed of:
-  - Finding the similar past instances from the training set using a suitable distance measure.
+  - Finding similar past instances from the training set using a suitable distance measure.
   - Interpolating from them to find the right output.
 - Nonparametric methods are also called **instance-based** or **memory-based** learning algorithms.
 - Its complexity depends on the size of the training set.
@@ -533,12 +533,21 @@
 
 - The amount of smoothing is adapted to the local density of data.
 - The degree of smoothing is controlled by $k$, the number of neighbors taken into account.
-- The **k-nearest neighbor** (k-nn) density estimate is given as $\hat{p}(x)$ = $\sum_i k/(2Nd_k(x))$.
+- The **k-nearest neighbor** (k-nn) density estimate is given as $\hat{p}(x)$ = $k/(2Nd_k(x))$.
 - This is like a naive estimator with $h$ = $2d_k(x)$.
-- The k-nn estimator is not continuous and not a probability density function.
+- The k-nn estimator is not continuous and is not a probability density function.
 - To get a smoother estimate, a kernel function can be incorporated.
 
 ### Generalization to Multivariate Data
 
 - In high-dimensional spaces, nonparametric estimates are subject to the **curse of dimensionality**.
 - In high dimensions, the concept of "close" also becomes blurry.
+
+### Nonparametric Classification
+
+- The class-conditional densities, $p(x\|C_i)$, is estimated using the nonparametric approach.
+- For the special case of k-nn estimator, $\hat{p}(x|C_i)$ = $k_i/N_iV^k(x)$ where:
+  - $k_i$ is the number of neighbors out of the $k$ nearest that belong to $C_i$.
+  - $V^k(x)$ is the volume of the $d$-dimensional hypersphere centered at $x$.
+- The **k-nn classifier** has a posterior density $\hat{p}(C_i\|x)$ = $k_i/k$.
+- A special case of k-nn is the **nearest neighbor classifier** where $k$ = 1.
