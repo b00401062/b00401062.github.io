@@ -576,3 +576,18 @@
 
 - The only assumption is that close $x$ have close $\hat{f}(x)$ values.
 - The nonparametric regression estimator is also called a **smoother** and the estimate is called a **smooth**.
+
+#### Running Mean Smoother
+
+- **Regressogram** is the average the $y$ values in the bin.
+- As in the naive estimator, in the running mean smoother, a bin can be symmetric around $x$.
+
+#### Kernel Smoother
+
+- As in the kernel estimator, **kernel smoother** gives less weight to further points.
+- **k-nn smoother** fixes $k$ and adapts the estimate to the density around $x$.
+
+#### Running Line Smoother
+
+- **Running line smoother** uses the data points in the neighborhood, as defined by $h$ or $k$, and fit a local regression line.
+- **Locally weighted running line smoother**, known as **loess**, uses kernel weighting.
