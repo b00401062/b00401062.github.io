@@ -622,3 +622,15 @@
 - Successive decision nodes generate splits orthogonal to each other.
 - Tree induction is the construction of the tree given a training sample.
 - Tree learning algorithms are greedy.
+
+#### Classification Trees
+
+- The goodness of a split is quantified by an **impurity measure**.
+- For a two-class problem, $ϕ(p,1-p)$ is a nonnegative function measuring the impurity of a split.
+- Examples of impurity measure: **entropy**, **Gini index**, and **misclassification error**.
+- The algorithm looks for the split that minimizes impurity after the split.
+- It is locally optimal, and the smallest decision tree is not guaranteed.
+- This is the basis of the **classification and regression tree (CART)** algorithm.
+- One problem is that such splitting favors attributes with many values.
+- Growing the tree until it is purest may result in a very large tree and overfitting.
+- The posterior probabilities of classes should be stored in a leaf.
