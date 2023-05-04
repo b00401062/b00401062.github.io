@@ -591,3 +591,9 @@
 
 - **Running line smoother** uses the data points in the neighborhood, as defined by $h$ or $k$, and fit a local regression line.
 - **Locally weighted running line smoother**, known as **loess**, uses kernel weighting.
+
+### How to Choose the Smoothing Parameter
+
+- The critical parameter is the smoothing parameter as used in bin width or kernel spread $h$, or the number of neighbors $k$.
+- A regularized cost function is used in **smoothing splines**.
+- Cross-validation is used to tune $h$, $k$, or $λ$.
