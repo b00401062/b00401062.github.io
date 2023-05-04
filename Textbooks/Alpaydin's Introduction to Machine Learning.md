@@ -547,7 +547,7 @@
 ### Nonparametric Classification
 
 - The class-conditional densities, $p(x\|C_i)$, is estimated using the nonparametric approach.
-- For the special case of k-nn estimator, $\hat{p}(x|C_i)$ = $k_i/N_iV^k(x)$ where:
+- For the special case of k-nn estimator, $\hat{p}(x\|C_i)$ = $k_i/N_iV^k(x)$ where:
   - $k_i$ is the number of neighbors out of the $k$ nearest that belong to $C_i$.
   - $V^k(x)$ is the volume of the $d$-dimensional hypersphere centered at $x$.
 - The **k-nn classifier** has a posterior density $\hat{p}(C_i\|x)$ = $k_i/k$.
@@ -562,3 +562,12 @@
 ### Distance-Based Classification
 
 - Most classification algorithms can be recast as a distance-based classifier.
+- *Locally adaptive distance functions* can be defined and used.
+- The idea of distance learning is to parameterize $D(x,x_i\|θ)$.
+- $θ$ is learnt from a labeled sample in a supervised manner.
+
+### Outlier Detection
+
+- An **outlier**, **novelty**, or **anomaly** is an instance that is very much different from other instances in the sample.
+- **Outlier detection** is not generally cast as a supervised, two-class classification problem.
+- It is sometimes called **one-class classification**.
