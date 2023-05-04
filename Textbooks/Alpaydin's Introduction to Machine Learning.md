@@ -589,7 +589,9 @@
 
 #### Running Line Smoother
 
-- **Running line smoother** uses the data points in the neighborhood, as defined by $h$ or $k$, and fit a local regression line.
+- **Running line smoother**:
+  - Uses the data points in the neighborhood, as defined by $h$ or $k$.
+  - Fits a local regression line.
 - **Locally weighted running line smoother**, known as **loess**, uses kernel weighting.
 
 ### How to Choose the Smoothing Parameter
@@ -613,3 +615,10 @@
 - A decision tree is also a nonparametric model.
 - Each $f_m(x)$ defines a discriminant in the $d$-dimensional input space.
 - The hierarchical placement of decisions allows a fast localization of the region covering an input.
+
+### Univariate Trees
+
+- In a **univariate tree**, in each internal node, the test uses only one of the input dimensions.
+- Successive decision nodes generate splits orthogonal to each other.
+- Tree induction is the construction of the tree given a training sample.
+- Tree learning algorithms are greedy.
