@@ -123,7 +123,7 @@
 ### Dimensions of a Supervised Machine Learning Algorithm
 
 - Three decisions we must make during machine learning:
-  - Model used in learning, $g(x\|θ)$.
+  - Model used in learning, $\hat{f}(x\|θ)$.
   - Loss function, $L(·)$.
   - Optimization procedure to find $θ^\*$ that minimizes the total error.
 
@@ -229,11 +229,11 @@
 ### Regression
 
 - $y$ = $f(x) + ϵ$ where:
-  - $f(x)$ is some unknown function whose estimator is $g(x\|θ)$.
+  - $f(x)$ is some unknown function whose estimator is $\hat{f}(x\|θ)$.
   - $ϵ$ is zero mean Gaussian with constant variance $σ^2$.
-- $p(y\|x) \sim N(g(x\|θ),σ^2)$.
+- $p(y\|x) \sim N(\hat{f}(x\|θ),σ^2)$.
 - Use maximum likelihood to learn the parameters $θ$.
-- Decision: $\hat{y}$ = $g(x\|\hat{θ})$.
+- Decision: $\hat{y}$ = $\hat{f}(x\|\hat{θ})$.
 - **Total sum-of-squares (TSS)** = $\sum (y_i-\bar{y})^2$.
 - **Residual sum-of-squares (RSS)** = $\sum (y_i-\hat{y})^2$.
 - **Explained sum-of-squares (ESS)** = $\sum (\hat{y}-\bar{y})^2$.
@@ -571,3 +571,8 @@
 - An **outlier**, **novelty**, or **anomaly** is an instance that is very much different from other instances in the sample.
 - **Outlier detection** is not generally cast as a supervised, two-class classification problem.
 - It is sometimes called **one-class classification**.
+
+### Nonparametric Regression: Smoothing Models
+
+- The only assumption is that close $x$ have close $\hat{f}(x)$ values.
+- The nonparametric regression estimator is also called a **smoother** and the estimate is called a **smooth**.
