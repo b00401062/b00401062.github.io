@@ -594,6 +594,22 @@
 
 ### How to Choose the Smoothing Parameter
 
-- The critical parameter is the smoothing parameter as used in bin width or kernel spread $h$, or the number of neighbors $k$.
+- The critical parameter is the smoothing parameter as used in:
+  - Bin width or kernel spread $h$.
+  - The number of neighbors $k$.
 - A regularized cost function is used in **smoothing splines**.
 - Cross-validation is used to tune $h$, $k$, or $λ$.
+
+## Decision Trees
+
+### Introduction
+
+- A **decision tree** is a hierarchical model for supervised learning.
+- The local region is identified in a sequence of recursive splits in a smaller number of steps.
+- A decision tree is composed of internal decision nodes and terminal leaves.
+- Each decision node $m$ implements a test function $f_m(x)$.
+- This process starts at the root and is repeated recursively until a **leaf node** is hit.
+- The value written in the leaf constitutes the output.
+- A decision tree is also a nonparametric model.
+- Each $f_m(x)$ defines a discriminant in the $d$-dimensional input space.
+- The hierarchical placement of decisions allows a fast localization of the region covering an input.
