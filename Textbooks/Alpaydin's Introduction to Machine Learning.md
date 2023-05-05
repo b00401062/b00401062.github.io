@@ -216,10 +216,10 @@
 
 ### Parametric Classification
 
-- The discriminant function: $g_i(x)$ = $p(x\|C_i)P(C_i)$.
+- The discriminant function: $f_i(x)$ = $p(x\|C_i)P(C_i)$.
 - $P(C_i)$ and $p(x\|C_i)$ are estimated from a sample.
 - Their estimates are plugged in to get the estimate for the discriminant function.
-- Decision: $\hat{y}$ = $C_i$ that maximizes $g_i(x)$.
+- Decision: $\hat{y}$ = $C_i$ that maximizes $f_i(x)$.
 - *Likelihood-based approach* to classification:
   1. Estimate the densities separately.
   2. Calculate posterior densities using Bayes' rule.
@@ -680,3 +680,17 @@
 - An ensemble of decision trees is called a **decision forest**.
 - Each decision tree is trained on a random subset of the training set or the input features.
 - The decision tree is *discriminant-based* whereas the statistical methods are **likelihood-based**.
+
+## Linear Discrimination
+
+### Introduction
+
+- **Discriminant-based classification** assume a model directly for the discriminant.
+- Learning is the optimization of the model parameters to maximize the quality of the separation.
+- The **linear discriminant** is used frequently mainly due to its simplicity.
+
+### Generalizing the Linear Model
+
+- Adding **higher-order terms**, also called **product terms**, provides more flexibility.
+- **Basis functions** are nonlinear transformation to a new space where the function can be written in a linear form.
+- The discriminant is given as $f(x)$ = $w^⊤Φ(x)$ where $Φ(x)$ are basis functions.
