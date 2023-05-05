@@ -666,3 +666,17 @@
   - All the training examples covered by the rule are removed from the training set.
   - The process continues until enough rules are added.
 - A rule is pruned back by deleting conditions in reverse order to find the rule that maximizes the **rule value metric**.
+
+### Multivariate Trees
+
+- In a **multivariate tree**, at a decision node, all input dimensions can be used.
+- The node becomes more flexible by using a nonlinear multivariate node.
+
+### Notes
+
+- The **omnivariate decision tree** is a hybrid tree architecture.
+- Decision trees are used more frequently for classification than for regression.
+- The decision tree is a nonparametric method.
+- An ensemble of decision trees is called a **decision forest**.
+- Each decision tree is trained on a random subset of the training set or the input features.
+- The decision tree is *discriminant-based* whereas the statistical methods are **likelihood-based**.
