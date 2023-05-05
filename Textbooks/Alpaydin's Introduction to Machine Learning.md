@@ -634,3 +634,9 @@
 - One problem is that such splitting favors attributes with many values.
 - Growing the tree until it is purest may result in a very large tree and overfitting.
 - The posterior probabilities of classes should be stored in a leaf.
+
+#### Regression Trees
+
+- In regression, the goodness of a split is measured by the mean square error from the estimated value.
+- This creates a piecewise constant approximation with discontinuities at leaf boundaries.
+- The acceptable error threshold is the complexity parameter.
