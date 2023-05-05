@@ -655,3 +655,14 @@
 - Another main advantage of decision trees is interpretability.
 - Such a rule base allows **knowledge extraction**.
 - Pruning a subtree corresponds to pruning terms from a number of rules.
+
+### Learning Rules from Data
+
+- Tree induction goes breadth-first and generates all paths simultaneously.
+- **Rule induction** does a depth-first search and generates one path (rule) at a time.
+- A rule is said to *cover* an example if the example satisfies all the conditions of the rule.
+- **Sequential covering**:
+  - Once a rule is grown and pruned, it is added to the rule base.
+  - All the training examples covered by the rule are removed from the training set.
+  - The process continues until enough rules are added.
+- A rule is pruned back by deleting conditions in reverse order to find the rule that maximizes the **rule value metric**.
