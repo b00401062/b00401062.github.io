@@ -640,3 +640,18 @@
 - In regression, the goodness of a split is measured by the mean square error from the estimated value.
 - This creates a piecewise constant approximation with discontinuities at leaf boundaries.
 - The acceptable error threshold is the complexity parameter.
+
+### Pruning
+
+- Any decision based on too few instances causes variance and thus generalization error.
+- Stopping tree construction early on before it is full is called **prepruning** the tree.
+- In **postpruning**, subtrees that cause overfitting are pruned after full tree construction.
+- A **pruning set**, unused during training, is used for pruning.
+- If the leaf node does not perform worse than the subtree on the pruning set, the subtree is pruned.
+
+### Rule Extraction from Trees
+
+- Features closer to the root are more important globally.
+- Another main advantage of decision trees is interpretability.
+- Such a rule base allows **knowledge extraction**.
+- Pruning a subtree corresponds to pruning terms from a number of rules.
