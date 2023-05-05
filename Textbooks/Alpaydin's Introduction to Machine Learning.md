@@ -694,3 +694,19 @@
 - Adding **higher-order terms**, also called **product terms**, provides more flexibility.
 - **Basis functions** are nonlinear transformation to a new space where the function can be written in a linear form.
 - The discriminant is given as $f(x)$ = $w^⊤Φ(x)$ where $Φ(x)$ are basis functions.
+
+### Geometry of the Linear Discriminant
+
+#### Two Classes
+
+- This defines a hyperplane where $w$ is the **weight vector** and $w_0$ is the **threshold**.
+
+#### Multiple Classes
+
+- Each hyperplane separates the examples of $C_i$ from the examples of all other classes.
+
+### Pairwise Separation
+
+- In pairwise linear separation, there is a separate hyperplane for each pair of classes.
+
+### Parametric Discrimination Revisited
