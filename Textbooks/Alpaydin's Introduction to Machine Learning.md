@@ -718,3 +718,9 @@
 - The inverse of logit is the **logistic function**, also called the **sigmoid function**.
 - $P(C_i\|x)$ = $\text{sigmoid}(w^⊤x+w_0)$.
 - Sigmoid transforms the discriminant value to a posterior probability.
+
+### Gradient Descent
+
+- Some estimation algorithms have no analytical solution and need to resort to iterative optimization methods.
+- **Gradient descent** starts from a random $w$, and, at each step, updates $w$ in the opposite direction of the **gradient vector**.
+- $η$ is called the *stepsize*, or **learning factor**, which determines how much to move in that direction.
