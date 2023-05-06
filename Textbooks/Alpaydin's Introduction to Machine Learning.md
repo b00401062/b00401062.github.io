@@ -724,3 +724,14 @@
 - Some estimation algorithms have no analytical solution and need to resort to iterative optimization methods.
 - **Gradient descent** starts from a random $w$, and, at each step, updates $w$ in the opposite direction of the **gradient vector**.
 - $η$ is called the *stepsize*, or **learning factor**, which determines how much to move in that direction.
+
+### Logistic Discrimination
+
+#### Two Classes
+
+- **Logistic discrimination** model the ratio of class-conditional densities.
+- The error function to be minimized is **cross-entropy**.
+- Because of the nonlinearity of the sigmoid function, gradient descent is used to minimize cross-entropy.
+- Training is continued until the number of misclassifications does not decrease.
+- Actually **stopping early** before we have 0 training error is a form of *regularization*.
+- Stopping early corresponds to a model with more weights close to 0 and effectively fewer parameters.
