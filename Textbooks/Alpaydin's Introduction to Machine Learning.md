@@ -712,7 +712,7 @@
 ### Parametric Discrimination Revisited
 
 - $\log(y/(1−y))$ is known as the logit transformation or log odds of $y$.
-- In the case of two classes, $\text{logit}(P(C_1\|x)$ = $w^⊤x+w_0$ where:
+- In the case of two classes, $\text{logit}(P(C_1\|x))$ = $w^⊤x+w_0$ where:
   - $w$ = $Σ^{-1}(μ_1-μ_2)$.
   - $w_0$ = $-\frac{1}{2}(μ_1+μ_2)^⊤Σ^{-1}(μ_1-μ_2)+\log\frac{P(C_1)}{P(C_2)}$.
 - The inverse of logit is the **logistic function**, also called the **sigmoid function**.
@@ -735,3 +735,11 @@
 - Training is continued until the number of misclassifications does not decrease.
 - Actually **stopping early** before we have 0 training error is a form of *regularization*.
 - Stopping early corresponds to a model with more weights close to 0 and effectively fewer parameters.
+
+#### Multiple Classes
+
+- **Softmax** function transforms the discriminant value to a posterior probability.
+- The error function is again cross-entropy.
+- Training can be stopped earlier by checking the number of misclassifications.
+- The ratio of class-conditional densities can also be a quadratic discriminant.
+- In neural network terminology, this is called a *multilayer perceptron*.
