@@ -712,7 +712,7 @@
 ### Parametric Discrimination Revisited
 
 - $\log(y/(1−y))$ is known as the logit transformation or log odds of $y$.
-- In the case of two classes, $\text{logit}(P(C_1\|x))$ = $w^⊤x+w_0$ where:
+- In case of two classes, $\text{logit}(P(C_1\|x))$ = $w^⊤x+w_0$ where:
   - $w$ = $Σ^{-1}(μ_1-μ_2)$.
   - $w_0$ = $-\frac{1}{2}(μ_1+μ_2)^⊤Σ^{-1}(μ_1-μ_2)+\log\frac{P(C_1)}{P(C_2)}$.
 - The inverse of logit is the **logistic function**, also called the **sigmoid function**.
@@ -724,6 +724,7 @@
 - Some estimation algorithms have no analytical solution and need to resort to iterative optimization methods.
 - **Gradient descent** starts from a random $w$, and, at each step, updates $w$ in the opposite direction of the **gradient vector**.
 - $η$ is called the *stepsize*, or **learning factor**, which determines how much to move in that direction.
+- An online update of $w$ using gradient descent.
 
 ### Logistic Discrimination
 
@@ -743,3 +744,17 @@
 - Training can be stopped earlier by checking the number of misclassifications.
 - The ratio of class-conditional densities can also be a quadratic discriminant.
 - In neural network terminology, this is called a *multilayer perceptron*.
+
+#### Multiple Labels
+
+- Each label can be treated as a separate two-class problem.
+
+### Learning to Rank
+
+- **Ranking** is sort of between classification and regression.
+- Ranking has applications in search engines, information retrieval, and natural language processing.
+
+### Notes
+
+- Logit is the canonical link in case of Bernoulli samples.
+- Softmax is its generalization to multinomial samples.
