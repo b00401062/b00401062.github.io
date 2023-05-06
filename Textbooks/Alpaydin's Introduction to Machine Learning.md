@@ -710,3 +710,11 @@
 - In pairwise linear separation, there is a separate hyperplane for each pair of classes.
 
 ### Parametric Discrimination Revisited
+
+- $\log(y/(1−y))$ is known as the logit transformation or log odds of $y$.
+- In the case of two classes, $\text{logit}(P(C_1\|x)$ = $w^⊤x+w_0$ where:
+  - $w$ = $Σ^{-1}(μ_1-μ_2)$.
+  - $w_0$ = $-\frac{1}{2}(μ_1+μ_2)^⊤Σ^{-1}(μ_1-μ_2)+\log\frac{P(C_1)}{P(C_2)}$.
+- The inverse of logit is the **logistic function**, also called the **sigmoid function**.
+- $P(C_i\|x)$ = $\text{sigmoid}(w^⊤x+w_0)$.
+- Sigmoid transforms the discriminant value to a posterior probability.
