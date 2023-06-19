@@ -226,7 +226,7 @@
 |Transfusion reaction :: hemolytic|Anti-ABO<br>Anti-Rh|
 |Transplant reaction :: hyperacute|Anti-graft|
 
-### Immune Complex-Medicated [Type 3]
+### Immune Complex-Mediated [Type 3]
 
 |Disease|Antibodies|
 |-|-|
