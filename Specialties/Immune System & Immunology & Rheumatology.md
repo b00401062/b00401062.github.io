@@ -195,9 +195,9 @@
 - Eosinophilia
 - Eczema ← ↑ IgE
 
-## Hypersensitivity
+## Gell-Coombs Classification of Hypersensitivity {ACID}
 
-### Type 1
+### Anaphylactic [Type 1]
 
 |Disease|Antibodies|
 |-|-|
@@ -206,7 +206,7 @@
 |Transfusion reaction :: allergic|IgE|
 |Urticaria|IgE|
 
-### Type 2
+### Cytotoxic [Type 2]
 
 |Disease|Antibodies|
 |-|-|
@@ -226,7 +226,7 @@
 |Transfusion reaction :: hemolytic|Anti-ABO<br>Anti-Rh|
 |Transplant reaction :: hyperacute|Anti-graft|
 
-### Type 3
+### Immune Complex-Medicated [Type 3]
 
 |Disease|Antibodies|
 |-|-|
@@ -253,7 +253,7 @@
 |Systemic lupus erythematosus (SLE)|Anti-dsDNA<br>Anti-Smith [Anti-snRNP]|
 |Ulcerative colitis|Anti-MPO [p-ANCA]|
 
-### Type 4
+### Delayed [Type 4]
 
 |Disease|Antibodies|
 |-|-|
@@ -263,7 +263,7 @@
 |Graft-versus-host disease (GVHD)|-|
 |Hashimoto thyroiditis|Anti-thyroglobulin<br>Anti-TPO<br>Anti-microsome|
 |Multiple sclerosis|-|
-|PPD skin test|-|
+|Tuberculin skin test (TST)|-|
 |Stevens-Johnson syndrome (SJS)|-|
 |Toxic epidermal necrolysis (TEN)|-|
 |Transplant reaction :: acute|-|
