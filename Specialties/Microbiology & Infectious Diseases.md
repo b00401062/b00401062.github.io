@@ -1045,4 +1045,5 @@
 |Tetanus|+|-|Vaccine & IVIG|
 |||?|Vaccine|
 ||?|-/?|Vaccine|
+|Tuberculosis|+|-/?|Antibiotics|
 |Anthrax|+|-/?|Vaccine & Antibiotics|
