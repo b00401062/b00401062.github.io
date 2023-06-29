@@ -199,7 +199,7 @@
 ## Etiology of Non-infectious Inflammatory Arthritis
 
 - Crystal arthropathy
-- Rheumatoid Arthritis
+- Rheumatoid arthritis
 - Seronegative spondyloarthropathy
 - Polymyositis
 - Dermatomyositis
