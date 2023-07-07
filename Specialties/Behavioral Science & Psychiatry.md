@@ -321,7 +321,7 @@
 
 ## Clinical Features of Anxiety Disorders
 
-|Disorder|Preceding Stressor|Identifical Trigger|Duration|
+|Disorder|Preceding Stressor|Identifiable Trigger|Duration|
 |-|-|-|-|
 |Adjustment disorder|+|-|< 6 months|
 |Generalized anxiety disorder|±|-|> 6 months|
