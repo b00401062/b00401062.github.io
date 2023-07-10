@@ -155,7 +155,7 @@
 - Infection
 - Neoplasm
 - Autoimmunity
-- Drug
+- Drugs
 - Endocrine
 
 ## Workup of Fever
@@ -177,7 +177,7 @@
 - Tension pneumothorax
 - Thrombosis :: myocardial infarction
 - Thrombosis :: pulmonary embolism
-- Toxin
+- Toxins
 
 ## Classification of Edema
 
