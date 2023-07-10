@@ -1,4 +1,4 @@
-# Musculoskeletal System & Orthopedics
+# Musculoskeletal System
 
 ## Physical Examinations for Musculoskeletal Injuries
 
