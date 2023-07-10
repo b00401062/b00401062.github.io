@@ -1,4 +1,4 @@
-# Special Senses & Ophthalmology & Otolaryngology
+# Special Senses
 
 ## Layers of Cornea
 
