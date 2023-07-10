@@ -1,4 +1,4 @@
-# Immune System & Immunology & Rheumatology
+# Immune System
 
 ## Secondary Lymphoid Tissues
 
