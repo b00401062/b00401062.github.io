@@ -1,4 +1,4 @@
-# Integumentary System & Dermatology
+# Integumentary System
 
 ## Layers of Epidermis
 
