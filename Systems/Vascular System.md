@@ -1,4 +1,4 @@
-# Vascular System & Angiology
+# Vascular System
 
 ## Layers of Arteries
 
