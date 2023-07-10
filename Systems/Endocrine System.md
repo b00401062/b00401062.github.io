@@ -1,4 +1,4 @@
-# Endocrine System & Endocrinology
+# Endocrine System
 
 ## Hypothalamic-Pituitary Axises
 
