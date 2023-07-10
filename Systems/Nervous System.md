@@ -1,4 +1,4 @@
-# Nervous System & Neurology
+# Nervous System
 
 ## Neurotransmitters
 
