@@ -1,4 +1,4 @@
-# Digestive System & Gastroenterology
+# Digestive System
 
 ## Ligaments in the Abdomen
 
