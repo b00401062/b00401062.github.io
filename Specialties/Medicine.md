@@ -153,10 +153,10 @@
 ## Etiology of Fever
 
 - Infection
-- Autoimmunity
 - Neoplasm
-- Endocrine
+- Autoimmunity
 - Drug
+- Endocrine
 
 ## Workup of Fever
 
