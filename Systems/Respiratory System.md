@@ -1,4 +1,4 @@
-# Respiratory System & Pulmonology
+# Respiratory System
 
 ## Respiratory Tract Embryology Stages {EPCSA}
 
