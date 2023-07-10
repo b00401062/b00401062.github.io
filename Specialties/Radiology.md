@@ -1,4 +1,4 @@
-# Radiology & Nuclear Medicine
+# Radiology
 
 ## Imaging Techniques
 
