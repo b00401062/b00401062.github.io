@@ -1,4 +1,4 @@
-# Cardiac System & Cardiology
+# Cardiac System
 
 ## Fetal Circulation
 
