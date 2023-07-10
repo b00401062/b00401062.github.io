@@ -1,4 +1,4 @@
-# Reproductive System & Gynecology & Andrology
+# Reproductive System
 
 ## Genital Tract Embryology
 
