@@ -1,4 +1,4 @@
-# Hematopoietic System & Hematology
+# Hematopoietic System
 
 ## Hematopoiesis
 
