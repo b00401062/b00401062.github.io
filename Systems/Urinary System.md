@@ -1,4 +1,4 @@
-# Urinary System & Nephrology & Urology
+# Urinary System
 
 ## Kidney Embryology
 
