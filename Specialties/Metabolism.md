@@ -1,14 +1,4 @@
-# Nutrition & Metabolism
-
-## Collagen Synthesis
-
-|Steps|Enzyme|Cofactor|Diseases|
-|-|-|-|-|
-|Hydroxylation|Proline hydroxylase<br>Lysine hydroxylase|Vitamin C|Scurvy|
-|Glycosylation|-|-|Osteogenesis imperfecta|
-|Exocytosis|-|-|-|
-|Cleavage|-|-|-|
-|Crosslinking|Lysyl oxidase|Cu|Menkes disease|
+# Metabolism
 
 ## Collagen Releated Diseases
 
