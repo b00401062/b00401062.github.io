@@ -1,4 +1,4 @@
-# Equations & Formula
+# Formula
 
 ## Devine Formula of Ideal Body Weight (IBW)
 
