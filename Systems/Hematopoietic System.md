@@ -383,7 +383,7 @@
 - ↑ Ferritin
 - Hypertriglyceridemia
 - Hemophagocytosis
-- NK cell activity decreased
+- ↓ NK cell activity
 - Pancytopenia
 - Rashes
 - Splenomegaly
