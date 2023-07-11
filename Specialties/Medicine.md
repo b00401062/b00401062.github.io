@@ -137,18 +137,18 @@
 - Disability
 - Exposure
 
+## Lethal Triad {CAH}
+
+- Coagulopathy
+- Acidosis
+- Hypothermia
+
 ## Coma Cocktail {DONT}
 
 - Dextrose
 - Oxygen
 - Naloxone
 - Thiamine
-
-## Lethal Triad {CAH}
-
-- Coagulopathy
-- Acidosis
-- Hypothermia
 
 ## Etiology of Fever
 
@@ -178,30 +178,6 @@
 - Thrombosis :: myocardial infarction
 - Thrombosis :: pulmonary embolism
 - Toxins
-
-## Classification of Edema
-
-|Edema|Etiology|Pitting|
-|-|-|-|
-|Exudate|Inflammation|+|
-|Transudate|Hydrostatic pressure|+|
-||Oncotic pressure|+|
-|Lymphedema|Lymphatic obstruction|-|
-
-## Etiology of Altered Mental Status (AMS) {AEIOU-TIPS}
-
-- Acidosis
-- Electrolyte disturbances
-- Intoxication
-- Oxygen
-- Uremia
-- Trauma
-- Infection
-- Psychosis
-- Sugar
-- Seizures
-- Strokes
-- Syncope
 
 ## Blood Pressure
 
@@ -262,6 +238,11 @@
       - V/Q :: normal [**Diffusion limitation**]
       - V/Q :: mismatch [**Dead space**]
 - PaCO<sub>2</sub> :: high [**Hypoventilation**]
+
+## Etiology of Hypercapnia
+
+- Hypoventilation
+- Severe V/Q mismatch
 
 ## Workup of Acid-Base Disturbances
 
@@ -475,6 +456,21 @@
 - Corticosteroids
 - Dialysis
 
+## Etiology of Altered Mental Status (AMS) {AEIOU-TIPS}
+
+- Acidosis
+- Electrolyte disturbances
+- Intoxication
+- Oxygen
+- Uremia
+- Trauma
+- Infection
+- Psychosis
+- Sugar
+- Seizures
+- Strokes
+- Syncope
+
 ## Etiology of Syncope
 
 - Orthostatic
@@ -496,6 +492,15 @@
 
 - Pericarditis
 - Pancreatitis
+
+## Classification of Edema
+
+|Edema|Etiology|Pitting|
+|-|-|-|
+|Exudate|Inflammation|+|
+|Transudate|Hydrostatic pressure|+|
+||Oncotic pressure|+|
+|Lymphedema|Lymphatic obstruction|-|
 
 ## Routine Screening
 
