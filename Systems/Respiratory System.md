@@ -50,6 +50,13 @@
 - Interstitial lung diseases
 - V/Q mismatch
 
+## Etiology of Hypoventilation
+
+- ↓ Respiratory drive
+- ↓ Tidal volume
+  - Neuromuscular disorders
+  - Chest wall deformities
+
 ## Physical Examination Findings
 
 |Finding|Mechanism|Conditions|
