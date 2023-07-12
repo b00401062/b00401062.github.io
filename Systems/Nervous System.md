@@ -330,6 +330,29 @@
 
 ![](../Figures/Craniosynostosis.jpg)
 
+## Neurologic Examination
+
+### Muscle Power (MP)
+
+|Grade|ROM|Anti-Gravity|Anti-Resistance|
+|-|-|-|-|
+|0|-|-|-|
+|1|+/-|-|-|
+|2|+|-|-|
+|3|+|+|-|
+|4|+|+|+|
+|**5**|++|+|+|
+
+### Deep Tendon Reflex (DTR)
+
+|Grade|Response|
+|-|-|
+|0|None|
+|1|Low|
+|**2**|Normal|
+|3|High|
+|4|Clonus|
+
 ## Indications for CT Imaging for Head Trauma
 
 ### PECARN Rule
@@ -455,7 +478,7 @@
 |Lower pons|Cluster respiration|
 |Medulla|Ataxic [Biot] respiration|
 
-## Neurological Examination for Hemineglect
+## Neurologic Examination for Hemineglect
 
 - Cancellation test
 - Reading test
@@ -737,9 +760,9 @@
 - Upper motor neuron (UMN)
 - Lower motor neuron (LMN)
 
-## Physical Examinations for Nerve Injuries
+## Physical Examination for Nerve Injuries
 
-|Test|Injury|
+|Exam|Injury|
 |-|-|
 |Lhermitte sign|Cervical myelopathy|
 |Spurling test|Cervical radiculopathy|
@@ -925,7 +948,7 @@
 |Persistent vegetative state|-|+|±|+|
 |Brain death|-|-|-|-|
 
-## Neurologic Exam for Brain Death
+## Neurologic Examination for Brain Death
 
 - Posturing
 - Pupillary reflex
