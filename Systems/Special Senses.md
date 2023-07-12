@@ -118,7 +118,7 @@
 
 ![](../Figures/Acoustic%20Reflex.gif)
 
-## Physical Examinations for Hearing Loss
+## Physical Examination for Hearing Loss
 
 |Hearing Loss|Rinne Test|Weber Test|
 |-|-|-|
