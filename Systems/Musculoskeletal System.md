@@ -1,6 +1,6 @@
 # Musculoskeletal System
 
-## Physical Examinations for Musculoskeletal Injuries
+## Physical Examination for Musculoskeletal Injuries
 
 |Test|Injury|
 |-|-|
