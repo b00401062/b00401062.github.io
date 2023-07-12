@@ -12,56 +12,6 @@
 - Trauma & Toxins
 - Endocrine & Exocrine
 
-## Levels of Consciousness {ALOSC}
-
-- Alert
-- Lethargic
-- Obtunded
-- Stuporous
-- Comatose
-
-## Glasgow Coma Scale (GCS)
-
-### Eye Opening
-
-|Item|Score|
-|-|-|
-|Spontaneous|4|
-|Respond to command|3|
-|Respond to pain|2|
-|Absent|1|
-
-### Verbal Response
-
-|Item|Score|
-|-|-|
-|Oriented|5|
-|Confused|4|
-|Inappropriate|3|
-|Incomprehensible|2|
-|Absent|1|
-
-### Motor Response
-
-|Item|Score|
-|-|-|
-|Obedient|6|
-|Localization of pain|5|
-|Withdrawal from pain|4|
-|Flexion to pain|3|
-|Extension to pain|2|
-|Absent|1|
-
-## Grading of Peripheral Pulses
-
-|Grade|Description|
-|-|-|
-|0|Absent|
-|1|Diminished|
-|2|Normal|
-|3|Increased|
-|4|Bounding|
-
 ## Activities of Daily Living (ADL) {DEATH}
 
 - Dressing
@@ -113,6 +63,46 @@
 - Acidosis
 - Hypothermia
 
+## Levels of Consciousness {ALOSC}
+
+- Alert
+- Lethargic
+- Obtunded
+- Stuporous
+- Comatose
+
+## Glasgow Coma Scale (GCS)
+
+### Eye Opening
+
+|Item|Score|
+|-|-|
+|Spontaneous|4|
+|Respond to command|3|
+|Respond to pain|2|
+|Absent|1|
+
+### Verbal Response
+
+|Item|Score|
+|-|-|
+|Oriented|5|
+|Confused|4|
+|Inappropriate|3|
+|Incomprehensible|2|
+|Absent|1|
+
+### Motor Response
+
+|Item|Score|
+|-|-|
+|Obedient|6|
+|Localization of pain|5|
+|Withdrawal from pain|4|
+|Flexion to pain|3|
+|Extension to pain|2|
+|Absent|1|
+
 ## Etiology of Altered Mental Status (AMS) {AEIOU-TIPS}
 
 - Acidosis
@@ -160,6 +150,34 @@
 - Chest radiography
 - Urinalysis ± Urine culture
 - Wound inspection
+
+## Grading of Pitting Edema
+
+|Grade|Depth|Duration|
+|-|-|-|
+|1|2 mm|≤ 2 seconds|
+|2|4 mm|2 seconds ~ 1 minute|
+|3|6 mm|1 ~ 2 minutes|
+|4|8 mm|≥ 2 minutes|
+
+## Classification of Edema
+
+|Edema|Etiology|Pitting|
+|-|-|-|
+|Exudate|Inflammation|+|
+|Transudate|Hydrostatic pressure|+|
+||Oncotic pressure|+|
+|Lymphedema|Lymphatic obstruction|-|
+
+## Grading of Peripheral Pulses
+
+|Grade|Description|
+|-|-|
+|0|Absent|
+|1|Diminished|
+|2|Normal|
+|3|Increased|
+|4|Bounding|
 
 ## Etiology of Cardiopulmonary Arrest {5H5T}
 
@@ -693,6 +711,24 @@
 - Phentermine-Topiramate
 - Bariatric surgery
 
+## Collagen Releated Diseases
+
+|Component|Diseases|
+|-|-|
+|Type 1 collagen|Osteogenesis imperfecta|
+|Type 2 collagen|-|
+|Type 3 collagen|Vascular Ehlers-Danlos syndrome (EDS)|
+|Type 4 collagen|Alport syndrome<br>Goodpasture syndrome|
+|Type 5 collagen|Classical Ehlers-Danlos syndrome (EDS)|
+|Elastin|α<sub>1</sub>-antitrypsin deficiency|
+|Fibrillin|Marfan syndrome|
+
+## Etiology of Marfanoid Habitus
+
+- Marfan syndrome
+- Multiple endocrine neoplasia (MEN) 2B
+- Homocystinuria
+
 ## Indications for Low-Protein Diet
 
 - Liver failure → Hyperammonemia
@@ -709,24 +745,6 @@
 
 - Pericarditis
 - Pancreatitis
-
-## Grading of Pitting Edema
-
-|Grade|Depth|Duration|
-|-|-|-|
-|1|2 mm|≤ 2 seconds|
-|2|4 mm|2 seconds ~ 1 minute|
-|3|6 mm|1 ~ 2 minutes|
-|4|8 mm|≥ 2 minutes|
-
-## Classification of Edema
-
-|Edema|Etiology|Pitting|
-|-|-|-|
-|Exudate|Inflammation|+|
-|Transudate|Hydrostatic pressure|+|
-||Oncotic pressure|+|
-|Lymphedema|Lymphatic obstruction|-|
 
 ## Routine Screening
 
