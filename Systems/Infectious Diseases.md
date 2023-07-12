@@ -286,3 +286,184 @@
 ||?|-/?|Vaccine|
 |Tuberculosis|+|-/?|Antibiotics|
 |Anthrax|+|-/?|Vaccine & Antibiotics|
+
+## Antibiotics
+
+### Cell Wall Inhibitors
+
+|Mechanism|Medication|
+|-|-|
+|↓ Peptidoglycan crosslinking|Penicillin<br>Cephalosporins<br>Carbapenems<br>Monobactams|
+|↓ Peptidoglycan synthase|Glycopeptides:<br>Vancomycin<br>Teicoplanin|
+
+### Protein Inhibitors
+
+|Mechanism|Medication|
+|-|-|
+|↓ 30S ribosome :: initiation complex|Aminoglycosides|
+|↓ 30S ribosome :: tRNA binding|Tetracyclines|
+|↓ 50S ribosome :: initiation complex|Linezolid|
+|↓ 50S ribosome :: peptidyl transferase|Chloramphenicol|
+|↓ 50S ribosome :: mRNA translocation|Macrolides|
+|↓ 50S ribosome :: mRNA translocation|Clindamycin|
+
+### Cell Membrane Inhibitors
+
+|Mechanism|Medication|
+|-|-|
+|↑ Phosphatidylglycerol damage|Daptomycin|
+|↑ Phosphatidylglycerol damage|Polymyxins:<br>Polymyxin B<br>Colistin|
+
+### Metabolite Inhibitors
+
+|Mechanism|Medication|
+|-|-|
+|↓ Dihydrofolate reductase|Trimethoprim|
+|↓ Dihydropteroate synthase|Sulfonamides|
+
+### DNA Inhibitors
+
+|Mechanism|Medication|
+|-|-|
+|↓ Topoisomerase|Fluoroquinolones|
+|↑ DNA intercalation|Metronidazole|
+
+![](../Figures/Mechanisms%20of%20Action%20of%20Antibiotics.png)
+
+## Classification of Penicillin
+
+|Class|Penicillin|
+|-|-|
+|Penicillin|Penicillin G<br>Penicillin V|
+|Penicillinase-sensitive|Ampicillin<br>Amoxicillin|
+|Penicillinase-resistant|Methicillin<br>Nafcillin<br>Oxacillin<br>Dicloxacillin|
+|Anti-pseudomonal|Piperacillin<br>Ticarcillin|
+
+## Classification of Cephalosporins
+
+|Generation|Penicillin|
+|-|-|
+|1°|Cefazolin<br>Cephalexin|
+|2°|Cefaclor<br>Cefoxitin<br>Cefotetan<br>Cefuroxime<br>Cefmetazole|
+|3°|Non-anti-pseudomonal:<br>Ceftriaxone<br>Cefotaxime<br>Cefixime<br>Cefpodoxime<br>Ceftibuten|
+||Anti-pseudomonal:<br>Ceftazidime<br>Cefoperazone|
+|4°|Cefepime|
+|5°|Ceftaroline|
+
+## β-lactamase Inhibitors
+
+- Clavulanate
+- Avibactam
+- Sulbactam
+- Tazobactam
+
+## Combinations of β-lactams and β-lactamase Inhibitors
+
+|Brand|β-lactam|β-lactamase Inhibitor|
+|-|-|-|
+|Unasyn|Ampicillin|Sulbactam|
+|Augmentin|Amoxicillin|Clavulanate|
+|Tazocin|Piperacillin|Tazobactam|
+|Timentin|Ticarcillin|Clavulanate|
+|Brosym|Cefoperazone|Sulbactam|
+
+## Spectrum of Antibiotics
+
+![](../Figures/Spectrum%20of%20Antibiotics.png)
+
+## Side Effects of Antibiotics
+
+|Side Effect|Drugs|
+|-|-|
+|Nephrotoxicity|Cephalosporins<br>Vancomycin<br>Aminoglycosides|
+|Ototoxicity|Vancomycin<br>Aminoglycosides|
+|Photosensitivity|Tetracyclines<br>Sulfonamides|
+|Tooth & Bone toxicity|Tetracyclines|
+|Cartilage & Tendon toxicity|Fluoroquinolones|
+|Marrow toxicity|Chloramphenicol<br>Trimethoprim|
+|QT prolongation|Macrolides<br>Fluoroquinolones|
+
+## Therapeutic Antibiotics
+
+|Pathogens|Antibiotics|
+|-|-|
+|Staphylococcus aureus|Penicillinase-resistant penicillin<br>Cephalosporins|
+|Streptococcus|Penicillinase-sensitive penicillin<br>Cephalosporins<br>Macrolides|
+|Bacillus anthracis|Carbapenems<br>Tetracyclines<br>Fluoroquinolones|
+|Clostridium perfringens|Penicillin<br>Clindamycin|
+|Clostridium difficile|Vancomycin<br>Metronidazole|
+|Corynebacterium|Penicillin<br>Macrolides|
+|Listeria|Penicillinase-sensitive penicillin|
+|Mycobacterium tuberculosis|Rifampin<br>Isoniazid<br>Pyrazinamide<br>Ethambutol|
+|Mycobacterium leprae|Dapsone<br>Rifampin<br>Clofazimine|
+|Mycobacterium avium|Macrolides|
+|Tropheryma whipplei|Penicillin<br>TMP/SMX|
+|Actinomyces|Penicillin|
+|Nocardia|TMP/SMX|
+|Neisseria meningitides|Penicillinase-sensitive penicillin<br>3° Cephalosporins|
+|Neisseria gonorrhoeae|3° Cephalosporins<br>Macrolides|
+|Acinetobacter baumannii|Anti-pseudomonal β-lactams|
+|Bordetella pertussis|Macrolides|
+|Haemophilus influenzae|Penicillinase-sensitive penicillin<br>3° Cephalosporins|
+|Legionella pneumophilia|Macrolides|
+|GNB :: enteric|3° Cephalosporins<br>Aminoglycosides<br>Fluoroquinolones<br>TMP/SMX|
+|Bacteroides fragilis|Carbapenems<br>Metronidazole|
+|Pseudomonas aeruginosa|Anti-pseudomonal β-lactams<br>Aminoglycosides<br>Fluoroquinolones|
+|Bartonella henselae|Tetracyclines<br>Macrolides|
+|Pasteurella multocida|Penicillinase-sensitive penicillin|
+|Helicobacter pylori|Penicillinase-sensitive penicillin<br>Macrolides<br>Metronidazole|
+|Borrelia burgdorferi|Tetracyclines<br>Penicillinase-sensitive penicillin<br>3° Cephalosporins|
+|Treponema pallidum|Penicillin<br>Tetracyclines<br>3° Cephalosporins|
+|Chlamydia|Tetracyclines<br>Macrolides|
+|Rickettsia|Tetracyclines<br>Macrolides|
+|Pneumocystis jiroveci|TMP/SMX|
+|Anaerobes|β-lactams & β-lactamase inhibitors<br>Carbapenems<br>Clindamycin<br>Metronidazole|
+
+## Therapeutic Antibiotics for Drug-resistant Bacteria
+
+|Pathogens|Antibiotics|
+|-|-|
+|MRSA|Clindamycin<br>TMP-SMX<br>Ceftaroline<br>Vancomycin<br>Teicoplanin<br>Linezolid<br>Daptomycin|
+|VRE|Teicoplanin<br>Linezolid<br>Daptomycin|
+|ESBL|Carbapenems<br>Tigecycline<br>Polymyxins|
+|CRE|Tigecycline<br>Polymyxins|
+|MDRAB|Tigecyclin<br>Polymyxins|
+
+## Antifungals
+
+|Mechanism|Medication|Indications|
+|-|-|-|
+|↓ β-Glucan synthase|Echinocandins [-Fungins]:<br>Anidulafungin<br>Capsofungin<br>Micafungin|Candida<br>Aspergillus|
+|↑ Ergosterol damage|Amphotericin B|Fungus|
+||Nystatin|Candida|
+|↓ Squalene epoxidase|Terbinafine|Dermatophytes|
+|↓ Demethylase|-Conazoles|Fungus|
+|↓ Thymidylate synthase|Flucytosine|Cryptococcus|
+|↓ Microtubule assembly|Griseofulvin|Dermatophytes|
+
+![](../Figures/Mechanisms%20of%20Action%20of%20Antifungals.png)
+
+## Antivirals
+
+|Mechanism|Medication|Indications|
+|-|-|-|
+|↓ Gp120|Maraviroc|HIV|
+|↓ Gp41|Enfuvirtide|HIV|
+|↓ M2 channel|Amantadine<br>Rimantadine|Influenza|
+|↓ Neuraminidase|Oseltamivir<br>Zanamivir|Influenza|
+|↓ IMP dehydrogenase|Ribavirin|RSV & HCV|
+|↓ Reverse transcriptase<br>:: nucleoside (NRTI)|Adefovir<br>Entecavir<br>Telbivudine|HBV|
+||Abacavir<br>Emtricitabine<br>Stavudine<br>Zidovudine<br>Didanosine|HIV|
+||Lamivudine<br>Tenofovir|HBV & HIV|
+|↓ Reverse transcriptase<br>:: non-nucleoside (NNRTI)|Delavirdine<br>Efavirenz<br>Nevirapine|HIV|
+|↓ Integrase (INSTI)|-Gravirs|HIV|
+|↓ Protease (PI) :: Pol|-Navirs|HIV|
+|↓ Protease (PI) :: NS3/4A|-Previrs|HCV|
+|↓ DNA polymerase|Acyclovir|HSV & VZV|
+||Famciclovir|HSV & VZV|
+||Ganciclovir|CMV|
+||Cidofovir|HSV & CMV|
+||Foscarnet|HSV & CMV|
+|↓ Protein synthesis|IFN-α|HBV & HCV|
+
+![](../Figures/Mechanisms%20of%20Action%20of%20Antivirals.png)
