@@ -241,7 +241,14 @@
 - Vasodilators
 - Diuretics
 
-## Etiology of Hypoxemia
+## Etiology of Dyspnea
+
+- Psychological
+- Anemia
+- Hemoglobinopathy
+- ↓ Tidal volume
+
+## Etiology of Hypoxemia [↓ PaO<sub>2</sub>]
 
 - PaCO<sub>2</sub> :: normal
   - A-a gradient :: normal [**Low FiO<sub>2</sub>**]
@@ -252,7 +259,7 @@
       - V/Q :: mismatch [**Dead space**]
 - PaCO<sub>2</sub> :: high [**Hypoventilation**]
 
-## Etiology of Hypercapnia
+## Etiology of Hypercapnia [↑ PaCO<sub>2</sub>]
 
 - Hypoventilation
 - Severe V/Q mismatch
