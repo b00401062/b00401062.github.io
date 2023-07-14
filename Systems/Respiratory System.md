@@ -145,10 +145,6 @@
 |Moderate persistent|Daily|> 1/week|Daily|60 ~ 80%|↓ < 0.05|
 |Severe persistent|Throughout|Daily|Throughout|< 60%|↓ > 0.05|
 
-## Treatment of Asthma
-
-![](../Figures/Treatment%20of%20Asthma.gif)
-
 ## Medications for Asthma
 
 |Mechanism|Medication|
@@ -160,6 +156,18 @@
 |LTD<sub>4</sub> antagonists|Montelukast<br>Zafirlukast|
 |Mast cell inhibitors|Cromolyn<br>Nedocromil|
 |IgE inhibitors|Omalizumab|
+
+## Treatment of Asthma
+
+### Acute Asthma
+
+- Nebulized β<sub>2</sub> agonists
+- Intravenous magnesium
+- Intravenous corticosteroids
+
+### Chronic Asthma
+
+![](../Figures/Treatment%20of%20Asthma.gif)
 
 ## GOLD Staging of Chronic Obstructive Pulmonary Disease (COPD)
 
