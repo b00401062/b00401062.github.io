@@ -42,6 +42,7 @@
 
 ### Dead Space [↑ V/Q]
 
+- Shock
 - Pulmonary embolism
 - Pulmonary vascular diseases
 
