@@ -243,11 +243,11 @@
 
 ## Etiology of Dyspnea
 
-- Psychological
 - Anemia
 - Hemoglobinopathy
 - ↓ Tidal volume
 - V/Q mismatch
+- Psychological
 
 ## Etiology of Hypoxemia [↓ PaO<sub>2</sub>]
 
