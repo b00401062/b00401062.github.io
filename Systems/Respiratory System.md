@@ -30,17 +30,17 @@
 |High|Lung apex|
 |∞|Dead space|
 
-### Shunt (↓ V/Q)
+### Shunt [↓ V/Q]
 
-- Anatomic shunt (↑ Q)
+- Anatomic shunt
   - Intracardiac shunt
   - Pulmonary arteriovenous malformation (AVM)
   - Hepatopulmonary syndrome
-- Physiologic shunt (↓ V)
+- Physiologic shunt
   - Obstructive lung diseases
   - Alveolar lung diseases
 
-### Dead Space (↑ V/Q)
+### Dead Space [↑ V/Q]
 
 - Pulmonary embolism
 - Pulmonary vascular diseases
