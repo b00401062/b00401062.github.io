@@ -247,6 +247,7 @@
 - Anemia
 - Hemoglobinopathy
 - ↓ Tidal volume
+- V/Q mismatch
 
 ## Etiology of Hypoxemia [↓ PaO<sub>2</sub>]
 
