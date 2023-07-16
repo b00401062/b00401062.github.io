@@ -19,7 +19,6 @@
 ### Iodine
 
 - Previous adverse reactions
-- Upper gastrointestinal series
 - Acute kidney injury (AKI)
 
 ## Positioning of Skull X-ray
