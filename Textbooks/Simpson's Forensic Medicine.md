@@ -73,5 +73,5 @@
 - The witness is liable for the penalties of perjury.
 - The **examination in chief** and the witness will be asked to confirm the truth of the facts in their statement(s).
 - During **cross-examination**, lawyers will have the opportunity to question the witness.
-- During **‘re-examination**, the original lawyer has the opportunity to clarify anything that has been raised in cross-examination.
+- During **re-examination**, the original lawyer has the opportunity to clarify anything that has been raised in cross-examination.
 - The judge may ask questions at any time.
