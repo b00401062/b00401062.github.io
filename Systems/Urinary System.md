@@ -341,3 +341,15 @@
 - Temperature > 38°C
 - Costovertebral angle tenderness
 - Pain :: pelvic / perineal
+
+## Management After Bladder Scan
+
+|Timing|Volume (mL)|Managment|
+|-|-|-|
+|PVR|< 200|-|
+|PVR|200 ~ 400|Intermittent catheterization|
+|PVR|> 400|Indwelling urinary catheter|
+|Random|< 400|Bladder scan Q2H|
+|Random|> 400|Indwelling urinary catheter|
+
+- Post-voidal residual (PVR)
