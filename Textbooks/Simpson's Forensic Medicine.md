@@ -52,3 +52,26 @@
 - The expert should be aware of relevant court decisions that relate to the expert's role within their own jurisdiction.
 - The experts are being subjected to increasing scrutiny which have sometimes resulted in suspension or criticism.
 - This area of law will continue to evolve.
+
+### Statements and reports
+
+#### Statements and reports
+
+- A statement in a criminal case is a report that has a standard wording.
+- The effect of this declaration is to render the individual liable for criminal prosecution if they have lied.
+- A statement may be agreed by both defence and prosecution, negating the need for court attendance.
+- A statement in official form or a sworn affidavit is commonly acceptable alone.
+
+#### Attending court
+
+- Most courts now have some form of witness liaison units.
+- The court does have the power to compel attendance.
+- A witness summons is a court order signed by a judge or other court official that must be obeyed.
+
+#### Evidence in court
+
+- The witness is liable for the penalties of perjury.
+- The **examination in chief** and the witness will be asked to confirm the truth of the facts in their statement(s).
+- During **cross-examination**, lawyers will have the opportunity to question the witness.
+- During **‘re-examination**, the original lawyer has the opportunity to clarify anything that has been raised in cross-examination.
+- The judge may ask questions at any time.
