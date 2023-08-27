@@ -1,4 +1,4 @@
-![image](https://github.com/b00401062/b00401062.github.io/assets/10905163/6005d189-24c9-41ea-b648-2c2fe230d113)# Simpson's Forensic Medicine
+# Simpson's Forensic Medicine
 
 ## Principles of forensic practice
 
