@@ -1,4 +1,4 @@
-# Simpson's Forensic Medicine
+![image](https://github.com/b00401062/b00401062.github.io/assets/10905163/6005d189-24c9-41ea-b648-2c2fe230d113)# Simpson's Forensic Medicine
 
 ## Principles of forensic practice
 
@@ -75,3 +75,29 @@
 - During **cross-examination**, lawyers will have the opportunity to question the witness.
 - During **re-examination**, the original lawyer has the opportunity to clarify anything that has been raised in cross-examination.
 - The judge may ask questions at any time.
+
+### Healthcare professionals as witnesses in court
+
+- Any medicolegal report must be prepared and written with care.
+- The dress and demeanour should be compatible with the role of an authoritative professional.
+- The oath or affirmation should be taken in a clear voice that is loud enough to reach across the court room.
+- The witness should always answer the question posed.
+- A witness should also expect to have qualifications, experience and opinions challenged.
+- A witness must be alert to attempts by lawyers to circumscribe answers unreasonably.
+
+#### Preparation of medicolegal reports
+
+- The diversity of uses of a report is reflected in the individuals or groups that may request one.
+- Release of medical records requires the consent of the patient and, if at all possible, this should be given in writing to the doctor.
+- There are exceptions, particularly where serious crime is involved.
+- It is considered inappropriate for non-judicial state agencies to order a doctor to provide confidential information.
+
+#### Content of a statement or report
+
+- The basis of most reports and statements lies in the contemporaneous notes.
+- When instructed to prepare an expert report always clarify whether or not a specific structure is required.
+- A professional witness statement will be headed by specific legal wording.
+- Clarity and simplicity of expression make the whole process simpler.
+- The contemporaneous clinical notes may be required to support the statement.
+- An autopsy report is confidential and should only be disclosed to the legal authority who commissioned the examination.
+- Doctors must resist any attempt to change or delete any parts of their report by lawyers.
