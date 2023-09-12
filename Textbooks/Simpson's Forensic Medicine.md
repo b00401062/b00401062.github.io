@@ -101,3 +101,18 @@
 - The contemporaneous clinical notes may be required to support the statement.
 - An autopsy report is confidential and should only be disclosed to the legal authority who commissioned the examination.
 - Doctors must resist any attempt to change or delete any parts of their report by lawyers.
+
+## The ethics of medical practice
+
+### Introduction
+
+- Medical and healthcare practice has many forms and can embrace many backgrounds and disciplines.
+
+### Basis of medical ethics
+
+- The Greek tradition of medical practice was epitomised by the Hippocratic School on the island of Kos.
+- The Hippocratic Oath lay the foundation for what is broadly called 'medical ethics'.
+
+### International codes of medical ethics
+
+- **World Medical Association (WMA)** aims to establish and promote the highest possible standards of ethical behaviour and care by physicians.
