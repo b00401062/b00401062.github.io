@@ -20,7 +20,7 @@ Wen-Bin holds a Doctor of Medicine degree awarded by NTU. Wen-Bin has extensive 
 ## Work Experience
 
 - Medical Officer (2023/07/01-Present)
-  - 🏠 MOH Holdings, Singapore
+  - 🏠 [MOH Holdings][51], Singapore
   - 🎫 Healthcare Manpower Division 📧 [physician@mohh.com.sg](mailto:physician@mohh.com.sg)
   - Independently managed inpatients and outpatients with registrars and consultants.
   - Rotated to different healthcare facilities from public hospitals to polyclinics.
@@ -173,3 +173,4 @@ Wen-Bin holds a Doctor of Medicine degree awarded by NTU. Wen-Bin has extensive 
 [48]: http://140.112.124.55/~medwiki/
 [49]: https://github.com/ntumeds/NTUH-Internship-Lottery
 [50]: https://www.healthprofessionals.gov.sg/smc
+[51]: https://www.mohh.com.sg/
