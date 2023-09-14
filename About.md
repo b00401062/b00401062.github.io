@@ -4,7 +4,7 @@
 
 - 🎫 Wen-Bin Luo
 - 📧 [b00401062@outlook.com](mailto:b00401062@outlook.com)
-- 🔗 https://b00401062.github.io
+- 🔗 [https://b00401062.github.io](https://b00401062.github.io)
 
 ## Summary
 
@@ -21,12 +21,12 @@ Wen-Bin holds a Doctor of Medicine degree awarded by NTU. Wen-Bin has extensive 
 
 - Medical Officer (2023/07/01-Present)
   - 🏠 MOH Holdings, Singapore
-  - 🎫 Healthcare Manpower Division 📧 physician@mohh.com.sg
+  - 🎫 Healthcare Manpower Division 📧 [physician@mohh.com.sg](mailto:physician@mohh.com.sg)
   - Independently managed inpatients and outpatients with registrars and consultants.
   - Rotated to different healthcare facilities from public hospitals to polyclinics.
 - Medical Extern (2022/10/03-2022/10/28)
   - 🏠 Department of Medicine, New York University Grossman School of Medicine, USA
-  - 🎫 Dr. [Andrew Fagelman][56] 📧 [drfagelmanmd@gmail.com](mailto:drfagelmanmd@gmail.com)
+  - 🎫 Dr. [Andrew Fagelman][16] 📧 [drfagelmanmd@gmail.com](mailto:drfagelmanmd@gmail.com)
   - Obtained relevant information and presented the case.
   - Finished up the encounter with counseling and summarized the encounter in a clinical note.
 - Medical Extern (2022/09/06-2022/09/30)
@@ -45,7 +45,7 @@ Wen-Bin holds a Doctor of Medicine degree awarded by NTU. Wen-Bin has extensive 
   - Performed multiple invasive procedures and assisted in surgeries under indirect supervision.
   - Independently handled all sorts of situations during shifts.
 - Software Engineer (2019/07/01-2021/07/31)
-  - 🏠 [aetherAI][51], Taiwan
+  - 🏠 [aetherAI][11], Taiwan
   - 🎫 Dr. Chao-Yuan Yeh 📧 [joeyeh@aetherai.com](mailto:joeyeh@aetherai.com)
   - Integrated AI inference functionality into the digital pathology system.
   - Developed the core image reader for various whole slide image formats.
@@ -74,7 +74,7 @@ Wen-Bin holds a Doctor of Medicine degree awarded by NTU. Wen-Bin has extensive 
   - 🏠 Department of Information, [NTU Medical Students' Association][30], Taiwan
   - 🎫 Shao-Yu Chen 📧 [b00401020@ntu.edu.tw](mailto:b00401020@ntu.edu.tw)
   - Programmed and maintained the software "[NTUH Internship Lottery][49]".
-  - Used phpMyAdmin to manage thousands of medical students’ accounts on [MedWiki][48] and [OMS][50].
+  - Used phpMyAdmin to manage thousands of medical students’ accounts on [MedWiki][48] and [OMS][10].
 - President (2012/09-2013/08)
   - 🏠 [NTU Hsin-Lin Chamber Orchestra][39], Taiwan
   - 🎫 Shu-Jen Wei 📧 [sjwei@ntu.edu.tw](mailto:sjwei@ntu.edu.tw)
@@ -91,14 +91,14 @@ Wen-Bin holds a Doctor of Medicine degree awarded by NTU. Wen-Bin has extensive 
 - Singapore Medical License (2023)
   - 🏠 Singapore Medical Council, Singapore
 - Educational Commission for Foreign Medical Graduates Certificate (2021)
-  - 🏠 [Educational Commission for Foreign Medical Graduates][55], USA
+  - 🏠 [Educational Commission for Foreign Medical Graduates][15], USA
 - Taiwan Medical License (2019)
-  - 🏠 [Ministry of Health and Welfare][54], Taiwan
+  - 🏠 [Ministry of Health and Welfare][14], Taiwan
 
 ## Honors and Awards
 
-- [IDEAS SHOW x AI][52] (2019)
-  - 🏠 [Ministry of Economic Affairs][53], Taiwan
+- [IDEAS SHOW x AI][12] (2019)
+  - 🏠 [Ministry of Economic Affairs][13], Taiwan
 - [Higher Education Sprout Project Scholarship][31] (2018)
   - 🏠 [National Taiwan University][2], Taiwan
 - [Top Career Code Challenge Summer][23] 40th Place (2017)
@@ -132,6 +132,13 @@ Wen-Bin holds a Doctor of Medicine degree awarded by NTU. Wen-Bin has extensive 
 [7]: http://abmri.mc.ntu.edu.tw
 [8]: https://www.mc.ntu.edu.tw/mdi/
 [9]: http://missmi.com.tw/
+[10]: http://oms.ntumsa.org.tw
+[11]: https://aetherai.com/
+[12]: https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=1&menu_id=40&news_id=86957
+[13]: https://www.moea.gov.tw/
+[14]: https://www.mohw.gov.tw/mp-1.html
+[15]: https://www.ecfmg.org/
+[16]: https://nyulangone.org/doctors/1407999378/andrew-fagelman
 [17]: http://med.ntuh.gov.tw/doctors/doc_profile.asp?section=nephro&doctor=%A6%B6%A9v%ABH
 [18]: http://www.iis.sinica.edu.tw/pages/hktsai/
 [19]: http://www.iis.sinica.edu.tw
@@ -165,10 +172,3 @@ Wen-Bin holds a Doctor of Medicine degree awarded by NTU. Wen-Bin has extensive 
 [47]: http://www.iis.sinica.edu.tw/page/recruitment/SummerInterns_2015.html
 [48]: http://140.112.124.55/~medwiki/
 [49]: https://github.com/ntumeds/NTUH-Internship-Lottery
-[50]: http://oms.ntumsa.org.tw
-[51]: https://aetherai.com/
-[52]: https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=1&menu_id=40&news_id=86957
-[53]: https://www.moea.gov.tw/
-[54]: https://www.mohw.gov.tw/mp-1.html
-[55]: https://www.ecfmg.org/
-[56]: https://nyulangone.org/doctors/1407999378/andrew-fagelman
