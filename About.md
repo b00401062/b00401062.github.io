@@ -89,7 +89,7 @@ Wen-Bin holds a Doctor of Medicine degree awarded by NTU. Wen-Bin has extensive 
 ## Certificates
 
 - Singapore Medical License (2023)
-  - 🏠 Singapore Medical Council, Singapore
+  - 🏠 [Singapore Medical Council][50], Singapore
 - Educational Commission for Foreign Medical Graduates Certificate (2021)
   - 🏠 [Educational Commission for Foreign Medical Graduates][15], USA
 - Taiwan Medical License (2019)
@@ -172,3 +172,4 @@ Wen-Bin holds a Doctor of Medicine degree awarded by NTU. Wen-Bin has extensive 
 [47]: http://www.iis.sinica.edu.tw/page/recruitment/SummerInterns_2015.html
 [48]: http://140.112.124.55/~medwiki/
 [49]: https://github.com/ntumeds/NTUH-Internship-Lottery
+[50]: https://www.healthprofessionals.gov.sg/smc
