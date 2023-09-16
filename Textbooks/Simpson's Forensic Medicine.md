@@ -116,3 +116,16 @@
 ### International codes of medical ethics
 
 - **World Medical Association (WMA)** aims to establish and promote the highest possible standards of ethical behaviour and care by physicians.
+
+### Duties of doctors and other healthcare professionals: UK perspective
+
+- The General Medical Council (GMC) in the UK issues publications on how a registered medical practitioner (a doctor) should undertake good medical practice.
+- The Health & Care Professions Council (HCPC) is a body created by statute in England & Wales, which regulates healthcare professionals.
+
+### Medical ethics in practice
+
+- The formal role of ethics in contemporary health and social care has become much more clearly defined.
+- The NHS Health Research Authority provides governance arrangements for research ethics committees.
+- Medical ethics as a subject is incorporated into medical school curricula.
+- There are very few medical or healthcare activities that do not have some ethical considerations.
+- Although the spectrum of unethical conduct is wide, certain universally relevant subjects are recognised.
