@@ -129,3 +129,45 @@
 - Medical ethics as a subject is incorporated into medical school curricula.
 - There are very few medical or healthcare activities that do not have some ethical considerations.
 - Although the spectrum of unethical conduct is wide, certain universally relevant subjects are recognised.
+
+### Confidentiality
+
+- Confidentiality and consent are the two primary duties.
+- A number of permissible situations when confidentiality may not apply.
+- Personal data is information that relates to an identified or identifiable individual.
+
+#### Disclosure of personal information
+
+- Disclosures should be the minimum necessary for the purpose and follow all relevant legal requirements.
+- Records should be kept of all decisions and actions.
+
+#### Disclosures required by law
+
+- Certain government agencies or bodies may have statutory power to access patients' records.
+
+#### Disclosing information with consent
+
+- Certain patients may wish to withhold particular aspects of personal information.
+- Clinical situations such as medical emergencies may mean that information is passed without consent.
+
+#### Disclosure requiring express consent
+
+- Many important uses of patient information contribute to the overall delivery of health and social care.
+
+#### Disclosure in the public interest
+
+- There may be a public interest in disclosing information.
+- It is always appropriate to seek advice in such circumstances.
+
+#### Disclosures to protect the patient or others
+
+- Disclosure without consent may be justified when others are at risk of serious harm or death.
+
+#### Disclosure concerning patients without the capacity to consent
+
+- It is expected that the doctor is seen to act in the patient's best interests.
+
+#### Disclosure after death
+
+- A duty of confidentiality continues after a patient has died.
+- There may be situations when relevant information must be disclosed.
