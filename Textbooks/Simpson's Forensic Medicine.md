@@ -183,7 +183,7 @@
 known as the **Bolam test**.
 - In the UK the law on informed consent has changed following a Supreme Court judgement.
 - Doctors must now ensure that patients are aware of any **material risks**.
-- The **test of materiality** is whether, in the circumstances of the particular case, a reasonable person in the patient’s position would be likely to attach significance to the risk, or the doctor is or should reasonably be aware that the particular patient would be likely to attach significance to it.
+- The **test of materiality** is whether, in the circumstances of the particular case, a reasonable person in the patient's position would be likely to attach significance to the risk, or the doctor is or should reasonably be aware that the particular patient would be likely to attach significance to it.
 - In some settings written consent is mandatory.
 - The responsibility for seeking consent is that of the doctor undertaking the investigation or treatment.
 - Such a duty can be delegated if the person to whom it is delegated is appropriately trained and has appropriate knowledge of the treatment or investigation proposed.
@@ -212,3 +212,22 @@ known as the **Bolam test**.
 - Mental capacity can also fluctuate with time.
 - The determination of capacity is made by determining whether the person is able to *understand*, *retain* and *evaluate* the information, and *communicate* their decision.
  
+### Regulation of doctors and other professionals
+
+#### The General Medical Council
+
+- In the UK, the regulatory body for registered medical practitioners (doctors) is the **General Medical Council (GMC)**.
+- The GMC controls entry to the List of Registered Medical Practitioners (**the medical register**).
+- The GMC has legal powers designed to maintain the standards the public have a right to expect of doctors.
+- Before the GMC can stop or limit a doctor's right to practise medicine, it needs evidence of impaired fitness to practise.
+- Doctors (and other healthcare professionals) in the UK have a 'professional duty of candour'.
+
+#### Legal framework for GMC fitness to practise procedures
+
+- Procedures are divided into two separate stages: **Investigation** and **Adjudication**.
+- In the investigation stage cases are assessed to determine whether they need referral to the **Medical Practitioners Tribunal Service 
+(MPTS)** for adjudication.
+- The adjudication stage consists of a hearing by a medical practitioner's tribunal.
+- The **Fitness to Practise Panel** hears evidence and decides whether a doctor's fitness to practise is impaired.
+- The GMC and appeal the MPTS's decision to the court.
+- Doctors have a right of appeal to the High Court.
