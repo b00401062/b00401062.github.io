@@ -187,3 +187,28 @@ known as the **Bolam test**.
 - In some settings written consent is mandatory.
 - The responsibility for seeking consent is that of the doctor undertaking the investigation or treatment.
 - Such a duty can be delegated if the person to whom it is delegated is appropriately trained and has appropriate knowledge of the treatment or investigation proposed.
+
+#### Young people, children and consent
+
+- Age is not necessarily a determining factor in the ability to consent.
+- However, it is generally accepted that those aged 16 years and older have the capacity to make decisions about treatment or care.
+- In the UK the GMC publishes guidance on making decisions.
+- Reference is made in England & Wales to **Gillick competency** and the **Fraser guidelines**.
+- Gillick competency and the Fraser guidelines refer to a legal case regarding contraception without parental consent.
+- This test of competence is utilised in a number of other jurisdictions.
+
+#### Patients without capacity to make decisions
+
+- The doctor must engage with those who are close to the patient and with colleagues involved in the healthcare.
+- In England & Wales decisions about those who lack capacity is governed by the **Mental Capacity Act 2005 (MCA)**.
+- The MCA is intended to protect and empower people who may lack the mental capacity to make their own decisions about their care and treatment.
+- It applies to people aged 16 and over.
+- It covers a range of decisions about everyday living and more serous potentially life-changing decisions.
+- The nature of capacity may vary dependent on the task.
+- The MCA assumed that every person has the capacity to make a decision themselves, unless it is proved otherwise.
+- The Act sets out a 2-stage test of capacity:
+  - Does the person have an impairment of their mind or brain, whether as a result of an illness, or external factors such as alcohol or drug use?
+  - Does the impairment mean the person is unable to make a specific decision when they need to?
+- Mental capacity can also fluctuate with time.
+- The determination of capacity is made by determining whether the person is able to *understand*, *retain* and *evaluate* the information, and *communicate* their decision.
+ 
