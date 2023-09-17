@@ -171,3 +171,19 @@
 
 - A duty of confidentiality continues after a patient has died.
 - There may be situations when relevant information must be disclosed.
+
+### Consent
+
+- Treatment, investigation, or process must be freely given and not tainted by any degree of coercion or undue influence from others.
+
+#### Patients with capacity to make decisions
+
+- Consent is a key concept of healthcare.
+- Previously the standard test to measure whether there has been a breach in their duty of care was
+known as the **Bolam test**.
+- In the UK the law on informed consent has changed following a Supreme Court judgement.
+- Doctors must now ensure that patients are aware of any **material risks**.
+- The **test of materiality** is whether, in the circumstances of the particular case, a reasonable person in the patient’s position would be likely to attach significance to the risk, or the doctor is or should reasonably be aware that the particular patient would be likely to attach significance to it.
+- In some settings written consent is mandatory.
+- The responsibility for seeking consent is that of the doctor undertaking the investigation or treatment.
+- Such a duty can be delegated if the person to whom it is delegated is appropriately trained and has appropriate knowledge of the treatment or investigation proposed.
