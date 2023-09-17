@@ -157,11 +157,11 @@
 #### Disclosure in the public interest
 
 - There may be a public interest in disclosing information.
-- It is always appropriate to seek advice in such circumstances.
+- It is always appropriate to seek advice in such circumstances.
 
 #### Disclosures to protect the patient or others
 
-- Disclosure without consent may be justified when others are at risk of serious harm or death.
+- Disclosure without consent may be justified when others are at risk of serious harm or death.
 
 #### Disclosure concerning patients without the capacity to consent
 
