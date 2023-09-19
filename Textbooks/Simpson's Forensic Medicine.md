@@ -231,3 +231,31 @@ known as the **Bolam test**.
 - The **Fitness to Practise Panel** hears evidence and decides whether a doctor's fitness to practise is impaired.
 - The GMC and appeal the MPTS's decision to the court.
 - Doctors have a right of appeal to the High Court.
+
+## Medicolegal aspects of death
+
+### Introduction
+
+#### Definition of death
+
+- Death is not an event; it is a process in which cellular metabolic processes in different tissues and organs cease to function at different rates.
+- This differential rate of cellular death results in substantial debate – from ethical, cultural, religious and moral perspectives – as to when ‘death’ actually occurs.
+
+#### Cellular death
+
+- **Cellular death** implies the cessation of respiration (the utilisation of oxygen) and the normal metabolic activity in the body tissues and cells.
+-  Cessation of respiration is soon followed by autolysis and decay, which, if it affects the whole body, is unchallengeable evidence of true death.
+- Skin and bone can remain metabolically active
+and thus 'living' for many hours and their cells can be
+successfully cultured days after somatic death.
+- White blood cells are capable of movement for up to 12 hours after cardiac arrest.
+- The concept of microscopic identification of a **vital reaction** to injury of doubtful reliability.
+- The cortical neuron, on the other hand, dies after only 3–7 minutes of complete oxygen deprivation.
+
+#### Somatic death and resuscitation
+
+- **Somatic death** means that the individual will never again communicate or deliberately interact with the environment.
+- The key element in this definition is 'irreversible'.
+- There is no statutory definition of death in the United Kingdom.
+- Brain-stem death would eventually result in respiratory arrest causing myocardial hypoxia and cardiac arrest.
+- There is a spectrum of survival.
