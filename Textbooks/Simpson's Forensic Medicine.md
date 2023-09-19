@@ -138,7 +138,7 @@
 
 #### Disclosure of personal information
 
-- Disclosures should be the minimum necessary for the purpose and follow all relevant legal requirements.
+- Disclosures should be the minimum necessary for the purpose and follow all relevant legal requirements.
 - Records should be kept of all decisions and actions.
 
 #### Disclosures required by law
@@ -211,7 +211,7 @@ known as the **Bolam test**.
   - Does the impairment mean the person is unable to make a specific decision when they need to?
 - Mental capacity can also fluctuate with time.
 - The determination of capacity is made by determining whether the person is able to *understand*, *retain* and *evaluate* the information, and *communicate* their decision.
- 
+
 ### Regulation of doctors and other professionals
 
 #### The General Medical Council
@@ -219,13 +219,13 @@ known as the **Bolam test**.
 - In the UK, the regulatory body for registered medical practitioners (doctors) is the **General Medical Council (GMC)**.
 - The GMC controls entry to the List of Registered Medical Practitioners (**the medical register**).
 - The GMC has legal powers designed to maintain the standards the public have a right to expect of doctors.
-- Before the GMC can stop or limit a doctor's right to practise medicine, it needs evidence of impaired fitness to practise.
+- Before the GMC can stop or limit a doctor's right to practise medicine, it needs evidence of impaired fitness to practise.
 - Doctors (and other healthcare professionals) in the UK have a 'professional duty of candour'.
 
 #### Legal framework for GMC fitness to practise procedures
 
 - Procedures are divided into two separate stages: **Investigation** and **Adjudication**.
-- In the investigation stage cases are assessed to determine whether they need referral to the **Medical Practitioners Tribunal Service 
+- In the investigation stage cases are assessed to determine whether they need referral to the **Medical Practitioners Tribunal Service
 (MPTS)** for adjudication.
 - The adjudication stage consists of a hearing by a medical practitioner's tribunal.
 - The **Fitness to Practise Panel** hears evidence and decides whether a doctor's fitness to practise is impaired.
