@@ -942,11 +942,17 @@
 
 ## Disorders of Consciousness
 
-||Aware|Sleep-wake cycles|Brainstem reflexes|Respiration|
+||Awareness|SWC|BR|SR|
 |-|-|-|-|-|
-|Locked-in syndrome|+|+|±|+|
-|Persistent vegetative state|-|+|±|+|
 |Brain death|-|-|-|-|
+|Coma|-|-|+|+|
+|Vegetative state|-|+|+|+|
+|Minimally conscious state|±|+|+|+|
+|Locked-in syndrome|+|+|+|+|
+
+- Sleep-wake cycle (SWC)
+- Brainstem reflex (BR)
+- Spontaneous respiration (SR)
 
 ## Neurologic Examination for Brain Death
 
