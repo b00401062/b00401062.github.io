@@ -265,3 +265,5 @@ successfully cultured days after somatic death.
 - Disorders of consciousness (DOC) include: coma, vegetative state (VS), and minimally conscious state (MCS).
 - VS may be judged to be 'permanent' 12  months after traumatic brain injury or 3 months after non-traumatic brain injury.
 - **Human Rights Act 1998**: the 'right to life' and the right not to be subjected to inhuman and degrading treatment.
+- Legal permission from the **Court of Protection** is no longer needed to end life support for patients in a permanent
+VS.
