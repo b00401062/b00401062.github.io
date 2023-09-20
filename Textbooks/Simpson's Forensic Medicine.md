@@ -259,3 +259,9 @@ successfully cultured days after somatic death.
 - There is no statutory definition of death in the United Kingdom.
 - Brain-stem death would eventually result in respiratory arrest causing myocardial hypoxia and cardiac arrest.
 - There is a spectrum of survival.
+
+### Prolonged disorders of consciousness
+
+- Disorders of consciousness (DOC) include: coma, vegetative state (VS), and minimally conscious state (MCS).
+- VS may be judged to be 'permanent' 12  months after traumatic brain injury or 3 months after non-traumatic brain injury.
+- **Human Rights Act 1998**: the 'right to life' and the right not to be subjected to inhuman and degrading treatment.
