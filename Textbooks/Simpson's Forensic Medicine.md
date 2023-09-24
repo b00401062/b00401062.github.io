@@ -272,3 +272,17 @@ successfully cultured days after somatic death.
 - There are very few countries where transplantation is expressly forbidden.
 - Few religions forbid it – **Jehovah's Witnesses** are one such group.
 - The **Human Tissue Authority** has issued guidance regarding the issues of consent for removal of organs for either research or transplantation under the **Human Tissue Act** where donors are deceased.
+
+#### Homologous transplantation
+
+- **Homologous transplantation** is the process by which
+tissue is moved between sites on the same body.
+- Homologous blood transfusion can be used in certain
+situations.
+
+#### Live donation
+
+- The most common example is blood transfusion.
+- The **Transplantation Society** adopted a consensus statement on the care of the live kidney donor.
+- This consensus statement addressed the responsibility of communities for living donors.
+- The care of the live kidney donor is often neglected in schemes where vulnerable individuals are exploited.
