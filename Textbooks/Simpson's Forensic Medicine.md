@@ -286,3 +286,23 @@ situations.
 - The **Transplantation Society** adopted a consensus statement on the care of the live kidney donor.
 - This consensus statement addressed the responsibility of communities for living donors.
 - The care of the live kidney donor is often neglected in schemes where vulnerable individuals are exploited.
+
+#### Cadaveric donation
+
+- Cadaveric donation is the major source of all tissues for transplantation.
+- The aim is to minimise the 'warm ischaemic time'.
+- Developed countries have sophisticated laws to
+regulate it.
+- These laws vary greatly: **opt-in** vs **opt-out** systems.
+
+#### Xenografts
+
+- **Xenotransplantation** is the transplantation of living cells, tissues or organs from one species to another.
+- Organs or tissue such as heart valves, corneas, hearts and kidneys have been explored for potential as xenografts.
+- Considerable difficulty with cross-matching the tissues.
+- Considerable concern about the possibility of transfer of animal viruses to an immunocompromised human host.
+
+#### Cloning
+
+- Successful cloning of Dolly the sheep in 1996.
+- Much research is still to be done, with its attendant moral and ethical considerations.
