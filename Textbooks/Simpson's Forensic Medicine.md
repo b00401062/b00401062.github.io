@@ -306,3 +306,16 @@ regulate it.
 
 - Successful cloning of Dolly the sheep in 1996.
 - Much research is still to be done, with its attendant moral and ethical considerations.
+
+### Cause of death determination and certification
+
+- The degree of certainty with which the doctor is  required to decide the cause of death may vary between  jurisdictions.
+- The outcome would not have occurred 'but for' the occurrence of the illness, disease or alleged action/omission of another person.
+- In general, if a doctor knows the cause of death, and that cause of death is **natural** (without any suspicious or unusual features), they may issue a **medical certificate of cause of death (MCCD)**.
+- The format for certifying the cause of death was  defined by the World Health Organisation (WHO) in 1979.
+- **Part I** is divided into subsections and generally three: (a), (b) and (c), are printed on the certificate.
+- Doctors should not record the **mode of death** in isolation.
+- If a mode is specified, it should be qualified by indicating the underlying pathological abnormality leading to that mode of death.
+- **Medical Examiners**, or **Medical Reviewers** are seniors who will scrutinise and confirm the cause of all deaths that do not need to be investigated by a coroner.
+- **International Classification of Diseases (ICD)** is the international 'standard diagnostic tool for epidemiology, health management and clinical purposes'.
+- In some countries, doctors also have to record the manner of death (e.g., homicide, suicide).
