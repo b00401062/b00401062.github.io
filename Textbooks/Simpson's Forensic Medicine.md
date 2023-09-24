@@ -265,5 +265,10 @@ successfully cultured days after somatic death.
 - Disorders of consciousness (DOC) include: coma, vegetative state (VS), and minimally conscious state (MCS).
 - VS may be judged to be 'permanent' 12  months after traumatic brain injury or 3 months after non-traumatic brain injury.
 - **Human Rights Act 1998**: the 'right to life' and the right not to be subjected to inhuman and degrading treatment.
-- Legal permission from the **Court of Protection** is no longer needed to end life support for patients in a permanent
-VS.
+- Legal permission from the **Court of Protection** is no longer needed to end life support for patients in a permanent VS.
+
+### Tissue and organ transplantation
+
+- There are very few countries where transplantation is expressly forbidden.
+- Few religions forbid it – **Jehovah's Witnesses** are one such group.
+- The **Human Tissue Authority** has issued guidance regarding the issues of consent for removal of organs for either research or transplantation under the **Human Tissue Act** where donors are deceased.
