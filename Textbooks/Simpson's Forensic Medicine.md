@@ -319,3 +319,38 @@ regulate it.
 - **Medical Examiners**, or **Medical Reviewers** are seniors who will scrutinise and confirm the cause of all deaths that do not need to be investigated by a coroner.
 - **International Classification of Diseases (ICD)** is the international 'standard diagnostic tool for epidemiology, health management and clinical purposes'.
 - In some countries, doctors also have to record the manner of death (e.g., homicide, suicide).
+
+## Violence in society, medicolegal investigation of death and autopsy
+
+### Homicide and interpersonal violence
+
+- The United Nations **Global Study on Homicide 2013** provides the most comprehensive, and most recent, international data on 'intentional homicide'.
+- In 2012, there were 437,000 homicides, giving an average rate of 6.2 per 100,000 people.
+- There were marked regional and sub-regional variations.
+- The overall trend globally appears to be one of a decreasing homicide burden.
+
+#### Global homicide data by age
+
+- Most victims were less than 44 years of age.
+
+#### Global homicide data by gender
+
+- Males account for 79% of all homicide victims, and 95%
+of all perpetrators.
+- 47% female homicide victims were killed by an intimate partner or family member.
+
+#### Global intimate partner and domestic violence-related homicide
+
+- 14% of all homicide victims were killed by an intimate partner or a family member, with a global rate of 0.9 per 100,000.
+- Female victims were consistently higher in this type
+of homicide.
+- 79% of those homicide victims killed by intimate partners were women.
+- Female victims in this category of homicide were
+younger than other female homicide victims.
+
+#### Homicide mechanism
+
+- Weapons played a significant role in homicide globally.
+- Alcohol consumption was highly associated with
+homicide.
+- Social trends and geopolitical change can often dramatically influence these factors.
