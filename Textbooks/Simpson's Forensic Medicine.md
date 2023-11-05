@@ -354,3 +354,10 @@ younger than other female homicide victims.
 - Alcohol consumption was highly associated with
 homicide.
 - Social trends and geopolitical change can often dramatically influence these factors.
+
+### Medicolegal investigation of death
+
+- The types of deaths that cannot be certified by a doctor are examined by a variety of legal officers across the world.
+- There is currently no legal duty for a doctor to report an unnatural death to the coroner.
+- A post mortem examination may now be limited to an external examination, or a 'minimally invasive' radiological examination, or involve an internal examination.
+- The autopsy rate varies widely from jurisdiction to jurisdiction.
