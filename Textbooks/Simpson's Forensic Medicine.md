@@ -361,3 +361,12 @@ homicide.
 - There is currently no legal duty for a doctor to report an unnatural death to the coroner.
 - A post mortem examination may now be limited to an external examination, or a 'minimally invasive' radiological examination, or involve an internal examination.
 - The autopsy rate varies widely from jurisdiction to jurisdiction.
+
+### The autopsy
+
+- In general terms, autopsies are performed for two reasons: clinical clarification and medicolegal purposes.
+- The medicolegal autopsy is performed on behalf of the State.
+- Ideally, autopsies should be performed by a pathologist specifically trained to undertake such an examination.
+- The autopsy should be performed in a mortuary with adequate facilities.
+- Many autopsies will require ancillary investigations, such as radiological, toxicological, biochemical and microscopic analyses.
+- Virtual autopsy, or **virtopsy**, techniques play a significant role in reducing the requirement for a full autopsy examination.
