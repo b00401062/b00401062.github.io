@@ -370,3 +370,14 @@ homicide.
 - The autopsy should be performed in a mortuary with adequate facilities.
 - Many autopsies will require ancillary investigations, such as radiological, toxicological, biochemical and microscopic analyses.
 - Virtual autopsy, or **virtopsy**, techniques play a significant role in reducing the requirement for a full autopsy examination.
+
+### The 'Minnesota protocol'
+
+- The **Minnesota Protocol** on the Investigation of Potentially Unlawful Deaths aims to protect the right to life.
+- The protocol convers all stages of the pathological death investigation process.
+- Tissue sample should be retained in formalin for microscopic examination.
+
+### Exhumation
+
+- An examination of a body after exhumation is seldom as good as the examination of a fresh body.
+- In cases of possible poisoning, samples such as soil from above, below and to the sides of the coffin may be submitted for toxicology.
