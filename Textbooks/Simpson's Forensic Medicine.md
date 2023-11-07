@@ -381,3 +381,25 @@ homicide.
 
 - An examination of a body after exhumation is seldom as good as the examination of a fresh body.
 - In cases of possible poisoning, samples such as soil from above, below and to the sides of the coffin may be submitted for toxicology.
+
+## The appearance of the body after death
+
+### Introduction
+
+- Biochemical markers help to determine the time since death, or **post-mortem interval (PMI)**.
+
+### The early post mortem interval
+
+#### Rapid changes after death
+
+- With loss of neuronal activity, all nervous activity ceases, the reflexes are lost and breathing stops.
+- The retinal vessels, viewed with an ophthalmoscope, show the break-up or fragmentation of the columns of blood.
+- The eyes lose their intraocular tension.
+- The muscles become flaccid, but may retain their reactivity for some hours after cardiac arrest.
+- Discharges of the dying motor neurons may stimulate small groups of muscle cells and lead to focal twitching.
+- Cessation of circulation usually renders the skin, conjunctivae and mucous membranes pale.
+- The skin of the face and the lips may remain red or blue in colour in hypoxic/congestive deaths.
+- Neither hair nor nails grow after death.
+- Loss of muscle tone after death may result in voiding or urine and faeces.
+- Post mortem leakage of semen from the penile urethra may occur.
+- Regurgitation of gastric contents is common in terminal collapse and seen in a significant proportion of all autopsies.
