@@ -403,3 +403,20 @@ homicide.
 - Loss of muscle tone after death may result in voiding or urine and faeces.
 - Post mortem leakage of semen from the penile urethra may occur.
 - Regurgitation of gastric contents is common in terminal collapse and seen in a significant proportion of all autopsies.
+
+#### Rigor mortis
+
+- **Rigor mortis** is a temperature-dependent physicochemical change that occurs within muscle cells as a result of lack of oxygen.
+- In the presence of low ATP and high acidity, the actin and myosin fibres bind together and form a gel.
+- The muscles become stiff but do not shorten unless they are under tension.
+- If muscle glycogen levels are low, or if the muscle cells are acidic at the time of death, the process of rigor will develop faster.
+- Electrocution, which causes repeated stimulation of the muscles, is also associated with rapidly developing rigor.
+- Rigor is generally first detectable in the smaller muscle groups.
+- On its own, rigor mortis has very little utility as a marker of the PMI because of the large number of factors that influence it.
+- In temperate conditions, rigor can commonly be detected
+  - In the face between approximately 1 and 4 hours after death.
+  - In the limbs between approximately 3 and 6 hours after death.
+- The strength of rigor increases to a maximum by approximately 18 hours after death.
+- Once established, rigor can remain for up to 2 days or so after death until autolysis and decomposition of muscle cells intervene and muscles become flaccid again.
+- It is best to test for rigor across a joint using very gentle pressure from one or two fingers only.
+- Re-establishment of rigor mortis can occur following mechanical loosening.
