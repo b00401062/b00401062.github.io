@@ -425,3 +425,15 @@ homicide.
 
 - **Cadaveric rigidity** is instantaneous post mortem onset of rigor mortis before the expected onset of rigor.
 - The majority of historical accounts do not stand up to critical scrutiny.
+
+#### Post mortem hypostasis
+
+- The relaxation of the muscular tone of the vascular bed allows simple fluid movement to occur within the blood vessels.
+- There is also filling of the dependent blood vessels.
+- Under the influcence of gravity, red blood cells passively settle in the lowest areas of the body.
+- **Post mortem hypostasis** of **lividity** is referred to as the pink, purplish bluish colour change to these lowest areas.
+- Hypostasis is not always seen in a body and it may be absent in the young, the old and the clinically anaemic or in those who have died from severe blood loss.
+- It may be masked by those with darker skin tones and other conditions such as jaundice.
+- Post mortem hypostasis occurs where superficial blood vessels can be distended by blood.
+- Compression of skin in contact with a firm surface prevents such distension, and results in areas of relative or complete pallor within hypostasis.
+- It generally develops in the first 30 minutes after death and becomes very obvious up to about 12 hours after death.
