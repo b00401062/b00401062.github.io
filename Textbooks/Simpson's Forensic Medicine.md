@@ -420,3 +420,8 @@ homicide.
 - Once established, rigor can remain for up to 2 days or so after death until autolysis and decomposition of muscle cells intervene and muscles become flaccid again.
 - It is best to test for rigor across a joint using very gentle pressure from one or two fingers only.
 - Re-establishment of rigor mortis can occur following mechanical loosening.
+
+#### Cadaveric rigidity
+
+- **Cadaveric rigidity** is instantaneous post mortem onset of rigor mortis before the expected onset of rigor.
+- The majority of historical accounts do not stand up to critical scrutiny.
