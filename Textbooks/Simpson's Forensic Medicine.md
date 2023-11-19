@@ -437,3 +437,14 @@ homicide.
 - Post mortem hypostasis occurs where superficial blood vessels can be distended by blood.
 - Compression of skin in contact with a firm surface prevents such distension, and results in areas of relative or complete pallor within hypostasis.
 - It generally develops in the first 30 minutes after death and becomes very obvious up to about 12 hours after death.
+- The site and distribution of the hypostasis can be used to deduce the position of the body after death.
+- Areas of pallor around the mouth and the nose may also add to the inpression of suffocation.
+- Repositioning of the body after death may result in two overlapping patterns.
+
+#### Cooling of the body after death
+
+- It cannot be viewed solely as a simple physical property of a warm object in a cooler environment.
+- Three basic forensic assumption must be made in order to use body temperature as an indicator of the time of death:
+  - The body temperature was 37°C at the time of death.
+  - The post mortem body temperature readings can be taken.
+  - The body has lain in a thermally static environment.
