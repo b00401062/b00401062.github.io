@@ -448,3 +448,19 @@ homicide.
   - The body temperature was 37°C at the time of death.
   - The post mortem body temperature readings can be taken.
   - The body has lain in a thermally static environment.
+
+### Other post mortem changes
+
+#### Decomposition/putrefaction
+
+- Decomposition results in liquefaction of the soft tissue over a period of time.
+- The process is first visible as an area of green discoloration of the right iliac fossa of the anterior abdominal wall.
+- The extension of the commensal gut bacteria through the bowel wall and into the skin, where they decompose haemoglobin, resulting in the green color.
+- The blood vessels provide an excellent channel through which the bacteria can spread.
+- The bacteria's passage is marked by the decomposition of the haemoglobin.
+- **Marbling** is linear branching patterns of variable discoloration of the skin when the bacteria pass through superficial vessels.
+- Blisters or large bullae containing red or brown putrefaction fluid or gas can form.
+- In temperate climate, gas formation is common in soft tissue, causing the body to swell.
+- The increased internal pressure causes the eyes and tongue to protrude and forces blood-stained fluid up from the lungs.
+- Insects and other animals may significantly accelerate the decomposition process.
+- Some organs, such as the prostate, the uterus and the tendons and ligaments, are relatively resistant to putrefaction.
