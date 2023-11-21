@@ -464,3 +464,21 @@ homicide.
 - The increased internal pressure causes the eyes and tongue to protrude and forces blood-stained fluid up from the lungs.
 - Insects and other animals may significantly accelerate the decomposition process.
 - Some organs, such as the prostate, the uterus and the tendons and ligaments, are relatively resistant to putrefaction.
+
+#### Immersion and burial
+
+- Immersion in water or burial will slow the process of decomposition.
+- **Casper's law**: if all other factors are equal, then, when there is free access of air, a body decomposes twice as fast than if immersed in water and eight times faster than if buried in earth.
+- The most common position of a body in water is
+  - Face down with the air-containing chest nearest the surface and
+  - The head and limbs hanging dependently lower in the water.
+- The first change that affects the body in water is the loss of epidermis.
+- Exposure to water can, in some cases, predipose to the formation of adipocere.
+
+#### Adipocere
+
+- Adipocere is a chemical change in the body fat, which is hydrolysed to a waxy substance with a texture similar to soap.
+- Thhe need for water means that this condition is most commonly seen in bodies found in wet conditions.
+- In the early stage of formation, adipocere is a pale, rancid, greasy semi-fluid material with a most unpleasant smell.
+- As the hydrolysis progresses, the material becomes more brittle and whiter.
+- When fullly formed, adipocere is a grey, firm, waxy compound that maintains the shape of the body.
