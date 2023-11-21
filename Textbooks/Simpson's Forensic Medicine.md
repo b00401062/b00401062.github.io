@@ -495,3 +495,18 @@ homicide.
 - The speed of skeletalisation depends on many factors.
 - There are a number of techniques for extracting DNA from bone.
 - There is no reliable means of accurately dating bones.
+
+#### Post mortem injuries
+
+- Post mortem injuries do not actively bleed but many do leak blood, especially those on the scalp and in bodies recovered from water.
+- Post mortem injuries do not have a rim of an early inflammatory response in the wound edges.
+- However, the lack of this response does not exclude an injury inflicted in the last moments of life.
+
+### Estimation of the post mortem interval
+
+- None of the changes after death is capable of providing a precise marker of PMI.
+- The most reliable would appear to be related to the cooling of the body after death.
+
+#### Body temperature
+
+#### Other techniques used in estimating or corroborating PMI
