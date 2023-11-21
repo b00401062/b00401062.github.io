@@ -482,3 +482,16 @@ homicide.
 - In the early stage of formation, adipocere is a pale, rancid, greasy semi-fluid material with a most unpleasant smell.
 - As the hydrolysis progresses, the material becomes more brittle and whiter.
 - When fullly formed, adipocere is a grey, firm, waxy compound that maintains the shape of the body.
+
+#### Mummification
+
+- A body lying in dry condition may desiccate instead of putrefy.
+- Mummified tissue is dry and leathery and generally brown in color.
+- It generally occurs in the absence of bacterial or insect influence.
+- Mummification needs not affect the whole body.
+
+#### Skeletalisation
+
+- The speed of skeletalisation depends on many factors.
+- There are a number of techniques for extracting DNA from bone.
+- There is no reliable means of accurately dating bones.
