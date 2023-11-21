@@ -509,4 +509,11 @@ homicide.
 
 #### Body temperature
 
+- It is the core temperature which is relevant.
+- The most widely recognised means of estimating the time of death with temperature is **Henssge's nomogram**.
+- Henssge's nomogram relies on three measurements - body temperature, ambient temperature and body weight.
+
 #### Other techniques used in estimating or corroborating PMI
+
+- Forensic entomologists can determine a probable time of death from examination of the insects that invade a body.
+- Analysis of gastric content may assist in an investigation.
