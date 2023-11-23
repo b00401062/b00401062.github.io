@@ -517,3 +517,14 @@ homicide.
 
 - Forensic entomologists can determine a probable time of death from examination of the insects that invade a body.
 - Analysis of gastric content may assist in an investigation.
+
+## Death from natural causes
+
+### Introduction
+
+- The WHO's definition of a sudden death is death within 24 hours of the onset of symptoms.
+- A sudden death is not equivalent to en unexpected death.
+
+### Cardiovascular system
+
+#### Coronary artery disease
