@@ -564,3 +564,12 @@ homicide.
 
 - The aneurysms may be saccular or fusiform.
 - The wall of the aneurysm is commonly calcified and the lumen is commonly lined by old laminated thrombus.
+
+#### Dissecting aneurysm of the aorta
+
+- Dissecting aneurysms are principally found in individuals with hypertension, but may also be seen in younger individuals with connective tissue defects.
+
+#### Syphilitic aneurysms
+
+- *Treponema pallidum* invades the aortic wall.
+- The inflammatory response progresses towards obliterative endarteritis and necrosis of the muscular and elastic fibres in the aortic media.
