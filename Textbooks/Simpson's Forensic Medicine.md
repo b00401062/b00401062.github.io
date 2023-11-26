@@ -542,3 +542,10 @@ homicide.
 - While exercise and hypertension can both be associated with development of LVH,
   - The cardiac remodeling from hypertension is pathological with associated fibrosis and risk of heart failure and mortality.
   - LVH in athletes in generally non-pathological and lacks the fibrosis.
+
+#### Aortic stenosis
+
+- Aortic stenosis is seen:
+  - in the elder with calcified aortic valves.
+  - in youngesters who have a congenital bicuspic aortic valve.
+- Angina, exertional syncope and heart failure are key symptoms indicating a need for intervention.
