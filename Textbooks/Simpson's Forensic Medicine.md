@@ -559,3 +559,8 @@ homicide.
 #### Primary myocardial disease
 
 - Molecular investigations must be key elements in the post mortem investigation of SCDs with a structurally normal heart.
+
+#### Atheromatous aneurysm of the aorta
+
+- The aneurysms may be saccular or fusiform.
+- The wall of the aneurysm is commonly calcified and the lumen is commonly lined by old laminated thrombus.
