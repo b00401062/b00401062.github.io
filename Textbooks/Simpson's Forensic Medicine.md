@@ -528,3 +528,10 @@ homicide.
 ### Cardiovascular system
 
 #### Coronary artery disease
+
+- Bleeding may occur into a plaque, and be seen as sub-intimal haemorrhage at autopsy.
+- The compromised area of myocardium may rupture between 3 days and 1 week after the clinical onset of the infarction.
+- SCD is defined as the unexpected death without an obvious noncardiac cause that occurs
+  - within 1 hour of witnessed symptom onset (established SCD)
+  - within 24 hours of unwitnessed symptom onset (probable SCD)
+- Dysfunctions of the cardiac conduction and autonomic nervous systems are known to contribute to SCD pathogenesis.
