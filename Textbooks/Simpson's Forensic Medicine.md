@@ -573,3 +573,13 @@ homicide.
 
 - *Treponema pallidum* invades the aortic wall.
 - The inflammatory response progresses towards obliterative endarteritis and necrosis of the muscular and elastic fibres in the aortic media.
+
+#### Ruptured berry (sacullar) aneurysm
+
+- A relatively common cause of sudden collapse and rapid death.
+- The precise mechanism of sudden death following subarachnoid hemorrhage is not understood.
+
+#### Cerebral hemorrhage, thrombosis and infarction
+
+- Spontaneous intracerebral hemorrhage is most often found in the external capsule/basal ganglia.
+- It arises from rupture of a micro-aneurysm of the lenticulo-striate artery, or **Charcot-Bouchard aneurysm**.
