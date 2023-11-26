@@ -549,3 +549,13 @@ homicide.
   - in the elder with calcified aortic valves.
   - in youngesters who have a congenital bicuspic aortic valve.
 - Angina, exertional syncope and heart failure are key symptoms indicating a need for intervention.
+
+#### Senile myocardial degeneration
+
+- The senile heart is small.
+- The surface vessels are tortuous.
+- The myocardium is soft and brown owing to accumulated lipofuscin in the cells.
+
+#### Primary myocardial disease
+
+- Molecular investigations must be key elements in the post mortem investigation of SCDs with a structurally normal heart.
