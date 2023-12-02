@@ -583,3 +583,24 @@ homicide.
 
 - Spontaneous intracerebral hemorrhage is most often found in the external capsule/basal ganglia.
 - It arises from rupture of a micro-aneurysm of the lenticulo-striate artery, or **Charcot-Bouchard aneurysm**.
+
+### Respiratory system
+
+- **Saddle emboli** can resut in massive acute right-heart strain and failure.
+- Smaller thromboemboli become lodged in smaller-calibre pulmonary blood vessels where they can interfere with pulmonary function and lead to myocardial ischaemia and cardiac arrest.
+- Establishing the causal relationship between the embolism and an injurious event is difficult.
+
+### Gynaecological conditions
+
+- A complication of pregnancy is most likely the cause of death in a deceased pregnant woman.
+- Maternal death can be classified into 'direct' deaths, 'indirect' deaths or 'coincidental' deaths.
+
+### Deaths from asthma and epilepsy
+
+- Deaths in people with asthma may relate substantially to co-morbidities.
+- Visual autopsy findings include hyper-inflated lungs and plugging of the airways by tenacious and viscous mucus.
+- Microscopy of the lungs commonly reveals chronic airway remodelling, with basement membrane thickening, goblet cell and smooth muscle hyperplasia, and super-imposed airway inflammation with eosinophils.
+- Epilepsy is a condition where a person has recurrent seizures.
+- Secondary or symptomatic epilepsy can be caused by head injuries, toxic chemicals or drugs of abuse, alcohol or benzodiazepine withdrawal and stroke.
+- **Sudden unexpected death in epilepsy (SUDEP)** may be related to seizure-induced arrhythmia, seizure-mediated inhibition of respiratory centers or a complication of anti-epileptic treatment.
+- Post mortem findings in SUDEP are non-specific.
