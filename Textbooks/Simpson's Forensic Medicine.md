@@ -604,3 +604,37 @@ homicide.
 - Secondary or symptomatic epilepsy can be caused by head injuries, toxic chemicals or drugs of abuse, alcohol or benzodiazepine withdrawal and stroke.
 - **Sudden unexpected death in epilepsy (SUDEP)** may be related to seizure-induced arrhythmia, seizure-mediated inhibition of respiratory centers or a complication of anti-epileptic treatment.
 - Post mortem findings in SUDEP are non-specific.
+
+## Deaths and injury in infancy
+
+### Introduction
+
+- Specific features of injuries to infants and children require their own consideration.
+
+### Stillbirths
+
+- The causes of many stillbirths remain unknown, but may include maternal infections in pregnancy, maternal disorders, intrauterine infections, birth trauma or congenital abnormalities.
+- If death occurs more than a couple of days before birth
+  - The fetus is commonly macerated.
+  - The skin is discolored, usually a pinkish-brown or red, with extensive desquamation of the skin.
+  - The tissue has a soft and slimy transluence.
+  - There may be partial collapse of the head with overriding of the skull plates.
+- A 'stillbirth certificate' can be completed either by a doctor or a midwife.
+
+### Infanticide
+
+- **Infanticide** is the act where a mother kills  her child during its first year of life.
+- Infanticide is a less serious charge than murder and does not result in the mandatory penalty of life imprisonment.
+- There is a legal presumption that all deceased babies are stillborn and so the onus is on the prosecution.
+- The viability or otherwise of a baby at the momenet of complete expulsion is not easy to determine.
+- Proof of a live birth must show that the infant breathed or other signs of life such as movement or pulsation of the umbilical cord.
+- The **lung floatation test** was reliable in 98% of cases.
+  - Not a single false-positive result where the lungs of a stillborn individual floated.
+  - There are cases of false-negative result where a live born child's lungs did not float.
+  - Lungs that don't float cannot be taken as a proof that a newborn never breathed at all.
+- Common feature of lungs from stillbirths
+  - Lungs are firm and no crepitation when squeezed.
+  - Microscopy shows partial expansion of terminal air spaces as a consequence of hypoxia-induced inspiratory efforts.
+- Some other indicators of life:
+  - Confirmed milk in the stomach.
+  - The umbilical cord is shrivelled or shows an inflammatory ring of impending separation.
