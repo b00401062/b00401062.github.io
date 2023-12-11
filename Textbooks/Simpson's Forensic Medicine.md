@@ -638,3 +638,10 @@ homicide.
 - Some other indicators of life:
   - Confirmed milk in the stomach.
   - The umbilical cord is shrivelled or shows an inflammatory ring of impending separation.
+
+### The estimation of maturity of a newborn baby or fetus
+
+- A rough estimate of gestational age may be provided by **Haase' Formula**.
+- In living newborn infants, the **New Ballard Score** can be used to determine gestational age through neuromuscular and physical assessment.
+
+#### Unexplained deaths in infancy
