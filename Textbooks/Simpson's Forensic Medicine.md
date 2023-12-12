@@ -645,3 +645,13 @@ homicide.
 - In living newborn infants, the **New Ballard Score** can be used to determine gestational age through neuromuscular and physical assessment.
 
 #### Unexplained deaths in infancy
+
+- Unexplained infant deaths include sudden infant deaths and unascertained deaths.
+- 'Back to Sleep' campaign, refraining from smoking during pregnancy, and avoiding overheating babies have substaintially reduced unexplained infant deaths.
+- **Sudden infant deaths syndrome (SIDS)**: the sudden death of an infant less than 1 year of age that remains unexplained after a complete autopsy and death scene investigation.
+- In about 70% of SIDS cases, the autopsy reveals intrathoracic petechiae on the pleura, epicardium and thymus.
+
+### Child abuse
+
+- Child abuse is a generic term that includes all forms of physical and emotional ill-treatment.
+- The **Battered Child Syndrome** describes harm from inflicted injury mechanisms
