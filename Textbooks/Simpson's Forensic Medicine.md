@@ -658,4 +658,24 @@ homicide.
 
 #### Epidemiology
 
-- The most common issues of contention are distinction between accident and abuse, **non-accidental injury (NAI)**.
+- The most common issues of contention are distinction between accident and abuse, or **non-accidental injury (NAI)**.
+
+#### Post mortem in children
+
+- Full radiological skeletal surveys precede the physical examination of the body.
+- The procedure is adapted to take account of development-specific differences between children and adults.
+
+#### Bruising
+
+- The features of bruises that are important can be summed up as site, age and pattern.
+- Bruises over soft tissue areas in non-mobile infants, bruises that carry an imprint of an implement and multiple bruises of uniform shape are suggestive of some forms of physical abuse.
+
+#### Skeletal injury
+
+- Imaging recommended for different age groups:
+  - Skeletal survey in children under two years of age.
+  - Skeletal survey and CT head scan in children under one year.
+- Rib fractures is a feature of the application of substantial force and are rarely accidental in children.
+- One particular pattern is areas of callus on the posterior ribs, often lying in a line adjacent to the vertebrae, and giving a **string-of-beads** appearance.
+- Abusive skull fractures are more likely to be multiple, comminuted, bilateral and cross sutures.
+- A head-first fall from 0.9 m onto a concrete surface had a high likelihood of fracture.
