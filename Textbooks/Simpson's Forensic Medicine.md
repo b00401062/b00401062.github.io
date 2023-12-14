@@ -655,3 +655,7 @@ homicide.
 
 - Child abuse is a generic term that includes all forms of physical and emotional ill-treatment.
 - The **Battered Child Syndrome** describes harm from inflicted injury mechanisms
+
+#### Epidemiology
+
+- The most common issues of contention are distinction between accident and abuse, **non-accidental injury (NAI)**.
