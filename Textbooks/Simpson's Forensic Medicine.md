@@ -679,3 +679,28 @@ homicide.
 - One particular pattern is areas of callus on the posterior ribs, often lying in a line adjacent to the vertebrae, and giving a **string-of-beads** appearance.
 - Abusive skull fractures are more likely to be multiple, comminuted, bilateral and cross sutures.
 - A head-first fall from 0.9 m onto a concrete surface had a high likelihood of fracture.
+
+#### Head injuries
+
+- Head injuries are the most frequent cause of death in child abuse.
+- In the past, the diagnosis of **shaken baby syndrome (SBS)** depended on the triad of subdural hemorrhage, retinal hemorrhage and encephalopathy.
+- It is now generally agreed that the finding of the 'triad' alone should not lead to an automatic assumption of NAI.
+- **Abusive Head Trauma (AHT)** and **Inflicted Head Injury (IHI)** have gained wider appeal.
+- Each case must be considered in its own context before conclusions are reached.
+
+
+#### Occular injuries
+
+- All children suspected of being physically abused should have their eyes examined by an ophthalmologist.
+- Possible occular findings in AHT:
+  - **Cherry hemorrhage**: isolated and elevated circular bleeds, typically in the equatorial retina.
+  - **Perimacular ridges**: elevated and circular retinal folds with a canopy of internal limiting membrane (ILM).
+- Survivors had optic nerve atrophy and macular ganglion cell loss.
+
+#### Oral injuries
+
+#### Visceral injuries
+
+#### Other injuries
+
+### Child sexual abuse
