@@ -713,3 +713,5 @@ homicide.
 - Accidental injury in children occurs far more often than acts of physical child abuse.
 
 ### Child sexual abuse
+
+- Child sexual abuse is divided into contact and non-contact abuse.
