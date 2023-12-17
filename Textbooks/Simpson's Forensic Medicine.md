@@ -699,8 +699,17 @@ homicide.
 
 #### Oral injuries
 
+- The current evidence indicates that a child with a torn frenum should undergo a full child protection evaluation.
+
 #### Visceral injuries
 
+- Visceral injuries are the second most common cause of death.
+- Splenic injuries are rare in physical child abuse.
+
 #### Other injuries
+
+- Other injuries in physical child abuse include burns and human bites.
+- Human bites are common in child abuse and can be multiple.
+- Accidental injury in children occurs far more often than acts of physical child abuse.
 
 ### Child sexual abuse
