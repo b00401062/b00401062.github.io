@@ -715,3 +715,18 @@ homicide.
 ### Child sexual abuse
 
 - Child sexual abuse is divided into contact and non-contact abuse.
+
+## Assessment, classification and documentation of injury
+
+### Terminology of injury
+
+- A **laceration** is a split or tear in the skin caused by blunt impact.
+- Each jurisdiction will have its own specific legal classification of injury or wounding.
+- Murder and manslaughter are two of the offences that constitute homicide.
+- Manslaughter can be commited in one of three ways:
+	 - Killing with the intent for murder but where a partial defence applies.
+  - **Gross negligence manslaughter**: conduct that was grossly negligent given the risk of death, and did kill.
+  - **Unlawful and dangerous act manslaughter**: conduct taking the form of an unlawful act involving a danger of some harm, that resulted in death.
+- The term **involuntary manslaughter** is commonly used to describe a manslaughter falling within (2) and (3) while (1) is referred to as **voluntary manslaughter**.
+- A **wound** is an injury that breaks the continuity of the skin.
+- The crime of **murder** is committed where a person of sound mind and discretion unlawfully kills with intent to kill or cause **grievous bodily harm (GBH)**.
