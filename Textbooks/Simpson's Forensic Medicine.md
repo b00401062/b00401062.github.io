@@ -730,3 +730,18 @@ homicide.
 - The term **involuntary manslaughter** is commonly used to describe a manslaughter falling within (2) and (3) while (1) is referred to as **voluntary manslaughter**.
 - A **wound** is an injury that breaks the continuity of the skin.
 - The crime of **murder** is committed where a person of sound mind and discretion unlawfully kills with intent to kill or cause **grievous bodily harm (GBH)**.
+
+### Non-fatal violence-related injury
+
+#### How does the body respond to injury?
+
+- Damaged or dead cells express molecules that are recognized by the immune system: **damage-associated molecular patterns (DAMP)**  and **alarmins**.
+- An efficient and effective coordinated localized resopnse leads to resolution of the inflammatory environment, healing/repair of damaged tissue, and restoration of normal function.
+- These processes assist in the microscopic **ageing** of injury.
+- The following factors may all influence whether the trauma sustained is likely to have a fatal outcome:
+  - The **trauma load**: the nature and severity of the injury(s).
+  - The mechanism of injury.
+  - The rapidity with which emergency medical care is provided, and the availability of modern trauma care/intensive care facilities.
+  - The age and health status of the injured person.
+  - The body's physiological response to injury.
+- The physiological response to injury is not only complicated but complex, and the behavior of the response is non-linear.
