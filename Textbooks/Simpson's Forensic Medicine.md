@@ -745,3 +745,27 @@ homicide.
   - The age and health status of the injured person.
   - The body's physiological response to injury.
 - The physiological response to injury is not only complicated but complex, and the behavior of the response is non-linear.
+
+### Types of injury
+
+- Injury caused by the application of physical force can be divided into two main groups: blunt force and sharp force.
+- Other means include ballistic, thermal, chemical, and electrical injury.
+
+#### Blunt force injury
+
+- The nature of the force applied may include direct blows (impacts), traction, torsion and oblique or shearing forces.
+- Blunt force trauma may have a number of outcomes: no injury, tenderness, pain, reddening (erythema), swelling (oedema), bruising (contusion), abrasions (grazes), lacerations, and fractures.
+
+#### Bruises
+
+- Bruises are caused by leakage of blood from damaged blood vessels, often small-diameter vessels.
+- Bruises can also occur in the deeper tissues.
+- Bruises evolve and can 'migrate'.
+- In superficial bruises, the leakage of blood is confined to the the epidermis or the upper strata of the dermis.
+- **Intradermal bruises** are often associated with diffuse compression forces.
+- The distribution (pattern) of a number of bruises can help corroborate the nature of the causative force.
+- In clinical practice, typical appearance is rarely seen.
+- Age estimation based on the colour of bruising is not now considered appropriate.
+- The appearance of yellow is indicative of early healing change in the injury occurring over a timeframe of some hours.
+- Yellow discolouration in a bruise does not appear before 18 hours after the blunt contact.
+- Bruises known to be older than 18 hours may be associated with no yellow discolouration.
