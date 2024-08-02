@@ -262,12 +262,24 @@
 
 ## Afferent Neurons
 
-|Neuron|Fiber|Mnemonic|Sensation|
+|Neuron|Fiber|Sensation|
+|-|-|-|
+|I|-|Proprioception|
+|II|A-β|Touch<br>Pressure<br>Stretch<br>Vibration|
+|III|A-δ|Sharp pain<br>Cold|
+|IV|C|Dull pain<br>Warm|
+
+## Cutaneous Sensory Receptors
+
+|Receptor|Location|Sensation|Adaption|
 |-|-|-|-|
-|I|-|Post|Proprioception|
-|II|A-β|Traumatic|Touch<br>Pressure<br>Vibration|
-|III|A-δ|Stress|Sharp pain<br>Cold|
-|IV|C|Disorder|Dull pain<br>Warm|
+|Meissner corpuscle|Papillary dermis|Touch|Rapid|
+|Merkel disc|Papillary dermis|Pressure|Slow|
+|Ruffini corpuscle|Reticular dermis|Stretch|Slow|
+|Pacinian corpuscle|Subcutis|Vibration|Rapid|
+|Free nerve endings|Papillary dermis|Pain<br>Temperature|Rapid<br>Slow|
+
+![](../Figures/Cutaneous%20Sensory%20Receptors.jpg)
 
 ## Cranial Nerve Reflexes
 
