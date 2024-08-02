@@ -145,7 +145,7 @@
 - Interval
 - Morphology
 
-## Localization on ECG
+## ECG Localization of Coronary Blood Supply
 
 |Location|Artery|Leads|
 |-|-|-|
@@ -156,7 +156,7 @@
 |Inferior|RCA & LCX|II & III & aVF|
 |Posterior|RCA / LCX|V1 & V2 & V3|
 
-![](../Figures/Localization%20on%20ECG.png)
+![](../Figures/ECG%20Localization%20of%20Coronary%20Blood%20Supply.jpg)
 
 ## ECG Findings
 
@@ -176,6 +176,10 @@
 ## Views of Echocardiography
 
 ![](../Figures/Views%20of%20Echocardiography.png)
+
+## Regional Wall Motion Abnormality
+
+![](../Figures/Regional%20Wall%20Motion%20Abnormality.png)
 
 ## Cardiac Stress Test
 
