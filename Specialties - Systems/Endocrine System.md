@@ -134,18 +134,6 @@
 - Psychiatric overtones
 - Depression
 
-## Layers of Adrenal Cortex
-
-|Mnemonic|Layer|Mnemonic|Secretion|
-|-|-|-|-|
-|Glomerular|Zona glomerulosa|Salt|Mineralocorticoid|
-|Filtration|Zona fasciculata|Sugar|Glucocorticoid|
-|Rate|Zona reticularis|Sex|Androgen|
-
-## Steroid Synthesis of Adrenal Gland
-
-![](../Figures/Steroid%20Synthesis%20of%20Adrenal%20Gland.png)
-
 ## Congenital Adrenal Hyperplasia
 
 |Deficiency|Mineralocorticoid|Glucocorticoid|Androgen|BP|

@@ -48,4 +48,16 @@
 |Glucocorticoid|↑|Protein & Lipid|Glucose|
 |Catecholamine|↑|Glycogen & Lipid|Glucose|
 |Glucagon|↑|Glycogen & Lipid|Glucose|
-|Insulin|↓|Glucose|Glycogen & Protein & Lipid|
+|Insulin|s↓|Glucose|Glycogen & Protein & Lipid|
+
+## Layers of Adrenal Cortex
+
+|Mnemonic|Layer|Mnemonic|Secretion|
+|-|-|-|-|
+|Glomerular|Zona glomerulosa|Salt|Mineralocorticoid|
+|Filtration|Zona fasciculata|Sugar|Glucocorticoid|
+|Rate|Zona reticularis|Sex|Androgen|
+
+## Steroid Synthesis of Adrenal Gland
+
+![](../Figures/Steroid%20Synthesis%20of%20Adrenal%20Gland.png)
