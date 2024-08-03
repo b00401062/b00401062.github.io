@@ -195,6 +195,8 @@
 |Fumarase|Mitochondrial|Malate|4C|
 |Malate dehydrogenase|Oxidation|Oxaloacetate|4C|
 
+![](../Figures/Citric%20Acid%20[Krebs]%20Cycle.jpg)
+
 ## Gluconeogenesis
 
 |Enzyme|Product|
