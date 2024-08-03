@@ -476,6 +476,7 @@
 - Bisphosphonates
 - Corticosteroids
 - Dialysis
+
 ## Iron Disorders
 
 |Disorder|Fe|Ferritin|Transferrin [TIBC]|Saturation = Fe ÷ TIBC|
@@ -551,6 +552,7 @@
 - Male hypogonadism
 - Dysgeusia
 - Anosmia
+
 ## Presentation of Vitamin Deficiency
 
 |Vitamin|Deficiency|
