@@ -1,77 +1,75 @@
 # Cardiac System
 
-## Fetal Circulation
+## Abnormal Physical Examination Findings
 
-![](../Figures/Fetal%20Circulation.png)
-
-## Heart Development
-
-|Mnemonic|Embryonic structure|Derivatives|
-|-|-|-|
-|Small|Sinus venosus|Smooth part of RA & Coronary sinus|
-|Pump|Primitive atrium|Trabeculated part of RA & LA|
-|Produces|Primitive ventricle|Trabeculated part of RV & LV|
-|Big|Bulbus cordis|Smooth part of RV & LV|
-|Turbulence|Truncus arteriosus|Aortic & Pulmonary trunk|
-
-## Action Potential of Cardiac Muscle Cells
-
-|Phase|SA & AV Nodes|Atria & Ventricles|
-|-|-|-|
-|0|Ca current|Na current|
-|1|-|K current|
-|2|-|Ca & K current|
-|3|K current|K current|
-|4|Funny current: Na & K current|Leak current: K current|
-
-## Factors Affecting Stroke Volume {CAP}
-
-- Contractility
-- Afterload
-- Preload
-
-## Cardiac & Vascular Function Curves
-
-|Label|Examples|
+|Finding|Conditions|
 |-|-|
-|1|Catecholamines & Digitalis|
-|2|Heart failure & Narcotics|
-|3|Venopressors & Infusion|
-|4|Venodilators & Hemorrhage & Spinal anesthesia|
-|5|Vasopressors|
-|6|Vasodilators & AV shunt|
+|Kussmaul sign|Cardiac tamponade<br>Right heart failure<br>Restrictive cardiomyopathy|
+|Pulsus paradoxus|Cardiac tamponade<br>Obstructive lung diseases|
+|Pulsus parvus et tardus|Aortic stenosis|
+|Pulsus alternans|LV systolic dysfunction|
+|Differential cyanosis|Eisenmenger syndrome of PDA|
+|Reverse differential cyanosis|Transposition of great artery (TGA)|
 
-![](../Figures/Cardiac%20and%20Vascular%20Function%20Curves.png)
+## Abnormal Heart Sounds
 
-## Heart Sounds
+### Extra Heart Sounds
 
 |Heart Sound|Synonym|Mechanism|Diseases|
 |-|-|-|-|
-|S<sub>1</sub>|-|MV & TV closure|-|
-|S<sub>2</sub>|-|AV & PV closure|-|
-|-|Opening snap|MV & TV opening|MS & TS|
+|S<sub>2</sub>|Opening snap|MV & TV opening|MS & TS|
 |S<sub>3</sub>|Ventricular gallop|Ventricular filling<br>Volume overload|HF & DCMP & MR & TR|
 |S<sub>4</sub>|Atrial gallop|Atrial contraction<br>Diastolic dysfunction|HF & HCMP|
 
-![](../Figures/Heart%20Sounds.jpg)
-
-## Splitting of Heart Sounds
+## Abnormal Splitting
 
 |Type|Etiology|
 |-|-|
-|Normal|-|
 |Wide|Pulmonary stenosis<br>RBBB|
 |Paradoxical|Aortic stenosis<br>LBBB|
 |Fixed|ASD|
 
-## Effects of Adrenergic Receptors
+### Murmurs
 
-|Receptor|CO|SVR|MAP|
+|Disease|Phase|↑ Preload|↑ Afterload|
 |-|-|-|-|
-|α<sub>1</sub>|↓|↑ (1°)|↑|
-|α<sub>2</sub>|↓|↓|↓|
-|β<sub>1</sub>|↑ (1°)|-|↑|
-|β<sub>2</sub>|↑|↓ (1°)|↓|
+|VSD|Systolic|↑|↑|
+|AS|Systolic|↑|↓|
+|AR|Diastolic|↑|↑|
+|MS|Diastolic|↑|-|
+|MR|Systolic|↑|↑|
+|MVP|Systolic|↓|↓|
+|HCMP|Systolic|↓|↓|
+
+## Grading of Murmurs
+
+|Grade|Thrill|Stethoscope|
+|-|-|-|
+|1|-|Against|
+|2|-|Against|
+|3|-|Against|
+|4|+|Against|
+|5|+|Partially off|
+|6|+|Completely off|
+
+## Abnormal ECG Findings
+
+|Finding|Conditions|
+|-|-|
+|Diffuse ST elevation|Acute pericarditis|
+|Electrical alternans|Pericardial effusion|
+|Low voltage|Pericardial effusion|
+|Widened QRS|Ventricular rhythm<br>Hyperkalemia<br>TCA toxicity|
+|Bidirectional VT|Digitalis toxicity|
+|S1Q3T3|Pulmonary embolism|
+|Delta waves|Wolff-Parkinson-White (WPW) syndrome|
+|U waves|Hypokalemia|
+|Sine waves|Hyperkalemia|
+|Osborn waves|Hypothermia|
+
+## Regional Wall Motion Abnormality
+
+![](../Figures/Regional%20Wall%20Motion%20Abnormality.png)
 
 ## Inotropes
 
@@ -105,110 +103,6 @@
 - Ca channel blockers
 - Digitalis
 
-## Physical Examination Findings
-
-|Finding|Conditions|
-|-|-|
-|Kussmaul sign|Cardiac tamponade<br>Right heart failure<br>Restrictive cardiomyopathy|
-|Pulsus paradoxus|Cardiac tamponade<br>Obstructive lung diseases|
-|Pulsus parvus et tardus|Aortic stenosis|
-|Pulsus alternans|LV systolic dysfunction|
-|Differential cyanosis|Eisenmenger syndrome of PDA|
-|Reverse differential cyanosis|Transposition of great artery (TGA)|
-
-## Effects of Special Maneuvers
-
-|Maneuver|Effect|
-|-|-|
-|Valsalva|↓ Preload|
-|Standing|↓ Preload|
-|Squatting|↑ Preload|
-|Leg rasie|↑ Preload|
-|Hand grip|↑ Afterload|
-
-## Grading of Murmurs
-
-|Grade|Thrill|Stethoscope|
-|-|-|-|
-|1|-|Against|
-|2|-|Against|
-|3|-|Against|
-|4|+|Against|
-|5|+|Partially off|
-|6|+|Completely off|
-
-## Approach to ECG
-
-- Rate
-- Rhythm
-- Axis
-- Interval
-- Morphology
-
-## ECG Localization of Coronary Blood Supply
-
-|Location|Artery|Leads|
-|-|-|-|
-|Septal|LAD|V1 & V2|
-|Anterior|LAD|V3 & V4|
-|Apical|LAD / LCX / RCA|V5 & V6|
-|Lateral|LCX|I & aVL|
-|Inferior|RCA & LCX|II & III & aVF|
-|Posterior|RCA / LCX|V1 & V2 & V3|
-
-![](../Figures/ECG%20Localization%20of%20Coronary%20Blood%20Supply.jpg)
-
-## ECG Findings
-
-|Finding|Conditions|
-|-|-|
-|Diffuse ST elevation|Acute pericarditis|
-|Electrical alternans|Pericardial effusion|
-|Low voltage|Pericardial effusion|
-|Widened QRS|Ventricular rhythm<br>Hyperkalemia<br>TCA toxicity|
-|Bidirectional VT|Digitalis toxicity|
-|S1Q3T3|Pulmonary embolism|
-|Delta waves|Wolff-Parkinson-White (WPW) syndrome|
-|U waves|Hypokalemia|
-|Sine waves|Hyperkalemia|
-|Osborn waves|Hypothermia|
-
-## Views of Echocardiography
-
-![](../Figures/Views%20of%20Echocardiography.png)
-
-## Regional Wall Motion Abnormality
-
-![](../Figures/Regional%20Wall%20Motion%20Abnormality.png)
-
-## Cardiac Stress Test
-
-### Stress
-
-- Exercise :: treadmill & bicycle
-- Dobutamine
-- Vasodilators :: Dipyridamole & Adenosine
-
-### Imaging
-
-- Electrocardiography (ECG)
-- Echocardiography
-- Myocardial Perfusion Imaging (MPI)
-  - Thallium-201
-  - Technetium-99 sestamibi
-  - Technetium-99m tetrofosmin
-
-## Heart Diseases and Murmurs
-
-|Disease|Phase|↑ Preload|↑ Afterload|
-|-|-|-|-|
-|VSD|Systolic|↑|↑|
-|AS|Systolic|↑|↓|
-|AR|Diastolic|↑|↑|
-|MS|Diastolic|↑|-|
-|MR|Systolic|↑|↑|
-|MVP|Systolic|↓|↓|
-|HCMP|Systolic|↓|↓|
 
 ## Atrial Septal Defects (ASD)
 
