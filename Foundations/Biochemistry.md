@@ -181,7 +181,7 @@
 |Enolase|Phosphoenolpyruvate (PEP)|
 |**Pyruvate kinase (PK)**|Pyruvate|
 
-## Krebs Cycle
+## Citric Acid [Krebs] Cycle
 
 |Enzyme|Mnemonic|Product|\#C|
 |-|-|-|-|
