@@ -1,18 +1,5 @@
 # Pathology
 
-## Cell Markers
-
-|Organ|Sensitive|Specific|
-|-|-|-|
-|General|LDH|-|
-|Muscle|AST<br>Aldolase<br>Myoglobin|CK-MM|
-|Heart|AST<br>Aldolase<br>Myoglobin|CK-MB<br>Troponin|
-|Liver|AST<br>Aldolase|ALT|
-|Biliary tract|ALP|GGT|
-|Bone|ALP|-|
-|Pancreas|Amylase|Lipase|
-|Prostate|-|PSA|
-
 ## Cell Adaptation
 
 |Type|Size|Number|MC|FC|
@@ -49,19 +36,6 @@
 |Blood vessel|Fibrinoid|Fibrinoid|
 |Fat|Fatty|Fatty|
 |Limbs<br>GI tract|Wet gangrene|Dry gangrene|
-
-## Cytoskeletons
-
-|Type|Examples|Locations|Tumor|
-|-|-|-|-|
-|Microtubule|Kinesin<br>Dynein|Centrioles<br>Cilia<br>Flagella|-|
-|Intermediate filament|Keratin|Epithelial cells<br>Desmosome<br>Hemidesmosome|Carcinoma|
-||Vimentin|Mesenchymal cells|Sarcoma|
-||Desmin|Muscle cells|Myoma<br>Myosarcoma|
-||Neurofilament|Neurons|Neuroblastoma|
-||GFAP|Glial cells|Glioma<br>Glioblastoma|
-|Microfilament|Actin|Adherens junction<br>Microvilli|-|
-||Actin<br>Myosin<br>Tropomyosin|Muscle cells|-|
 
 ## Pathological Findings
 
@@ -109,9 +83,18 @@
 - Meningioma
 - Mesothelioma
 
+## Periodic Acid-Schiff (PAS) Stain Positive Diseases
+
+- α<sub>1</sub>-antitrypsin deficiency
+- Acute lymphoblastic leukemia (ALL)
+- Fungal infection
+- Glycogen storage diseases (GSD)
+- Nodular glomerulosclerosis
+- Whipple disease
+
 ## Laboratory Tests
 
-|Test|Target|Diagnosis|
+|Test|Target|Disease|
 |-|-|-|
 |Acidified glycerol lysis test|Spherocytes|Hereditary spherocytosis|
 |Cold agglutinin test|Anti-RBC IgM|CLL<br>Mycoplasma<br>HCV & EBV & CMV|

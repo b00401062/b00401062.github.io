@@ -1,8 +1,6 @@
 # Genetics
 
-## Genetic Disorders
-
-### Single Gene Disorders
+## Single Gene Disorders
 
 - Single nucleotide polymorphism (SNP)
   - Silent mutation
@@ -12,7 +10,7 @@
   - Frameshift mutation
   - Tandem repeat: microsatellite & minisatellite
 
-### Chromosomal Disorders
+## Chromosomal Disorders
 
 - Numerical mutation
   - Autosomal monosomy

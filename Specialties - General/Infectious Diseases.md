@@ -1,5 +1,60 @@
 # Infectious Diseases
 
+## Routes of Transmission
+
+- Airborne
+- Blood
+- Contact
+- Droplet
+- Fecal-oral
+- Vector-borne
+
+## Virulence Factors
+
+|Factor|Bacteria|
+|-|-|
+|A protein|Staphylococcus aureus|
+|Biofilm|-|
+|Capsule|-|
+|Endotoxin|Gram negative bacteria|
+|Exotoxin|Gram positive & negative bacteria|
+|Fimbria|Gram negative bacteria|
+|IgA protease|-|
+|M protein|Streptococcus pyogenes|
+|Pili|-|
+|Teichoic acid|Gram positive bacteria|
+
+## Exotoxins
+
+|Bacteria|Exotoxin|Target|Mechanism|
+|-|-|-|-|
+|Corynebacterium diphtheriae|Diphtheria toxin|Elongation factor (EF-2)|↓ Protein synthesis|
+|Pseudomonas aeruginosa|Exotoxin A|Elongation factor (EF-2)|↓ Protein synthesis|
+|Shigella|Shiga toxin|60S ribosome|↓ Protein synthesis|
+|EHEC|Shiga-like toxin|60S ribosome|↓ Protein synthesis|
+|ETEC|Heat-stable toxin (ST)|↑ G<sub>s</sub>PCR|↑ cGMP → ↑ fluid secretion|
+|ETEC|Heat-labile toxin (LT)|↑ G<sub>s</sub>PCR|↑ cAMP → ↑ fluid secretion|
+|Vibrio cholerae|Cholera toxin|↑ G<sub>s</sub>PCR|↑ cAMP → ↑ fluid secretion|
+|Bacillus anthracis|Edema toxin|↑ G<sub>s</sub>PCR|↑ cAMP → ↑ fluid secretion|
+|Bordetella pertussis|Pertussis toxin|↓ G<sub>i</sub>PCR|↑ cAMP → ↓ phagocytosis|
+|Clostridium botulinum|Botulinum toxin|SNARE|↓ ACh release|
+|Clostridium tetani|Tetanus toxin|SNARE|↓ GABA & Glycine release|
+
+## Microbes Producing Shiga Toxin
+
+- Shigella dysenteriae serotype 1
+- Shiga-toxin-producing Escherichia coli (STEC)
+
+## Microbes with Toxins Carried on Lysogenic Phages {ABCDE}
+
+|Toxin|Bacteria|
+|-|-|
+|Shiga-like toxin|EHEC|
+|Botulinum toxin|Clostridium botulinum|
+|Cholera toxin|Vibrio cholera|
+|Diphtheria toxin|Corynebacterium diphtheria|
+|Erythrogenic toxin|Streptococcus pyogenes|
+
 ## Presentation of Staphylococcus Aureus Infection {SOFT-PENIS}
 
 - Staphylococcal scalded skin syndrome (SSSS)
@@ -223,9 +278,9 @@
 - Respiratory rate > 20 / PaCO<sub>2</sub> < 32 mmHg
 - WBC > 12,000/mm<sup>3</sup> / < 4,000/mm<sup>3</sup> / > 10% bands
 
-## Pathogens of Rashes Beginning on the Palms & Soles {CARS}
+## Infections Causing Rashes Beginning on the Palms & Soles {CARS}
 
-|Pathogen|Rash|
+|Microbe|Rash|
 |-|-|
 |Coxsackie A virus|Hand-foot-mouth disease|
 |Rickettsia rickettsii|Rocky Mountain spotted fever (RMSF)|
@@ -269,7 +324,7 @@
 
 ## Post-Exposure Prophylaxis
 
-|Pathogen|Source|Immunity|Management|
+|Microbe|Source|Immunity|Management|
 |-|-|-|-|
 |HBV|+|-/?|Vaccine & IVIG|
 ||?|-/?|Vaccine|
@@ -385,7 +440,7 @@
 
 ## Therapeutic Antibiotics
 
-|Pathogens|Antibiotics|
+|Microbe|Antibiotics|
 |-|-|
 |Staphylococcus aureus|Penicillinase-resistant penicillin<br>Cephalosporins|
 |Streptococcus|Penicillinase-sensitive penicillin<br>Cephalosporins<br>Macrolides|
@@ -421,7 +476,7 @@
 
 ## Therapeutic Antibiotics for Drug-resistant Bacteria
 
-|Pathogens|Antibiotics|
+|Microbe|Antibiotics|
 |-|-|
 |MRSA|Clindamycin<br>TMP-SMX<br>Ceftaroline<br>Vancomycin<br>Teicoplanin<br>Linezolid<br>Daptomycin|
 |VRE|Teicoplanin<br>Linezolid<br>Daptomycin|
@@ -442,6 +497,96 @@
 |↓ Microtubule assembly|Griseofulvin|Dermatophytes|
 
 ![](../Figures/Mechanisms%20of%20Action%20of%20Antifungals.png)
+
+## Parasitic Infections
+
+### Protozoan Parasites
+
+#### GI Infections {ECG}
+
+|Parasite|Disease|Treatment|
+|-|-|-|
+|Entamoeba histolytica|Amebiasis & Bloody diarrhea|Metronidazole|
+|Cryptosporidium|Watery diarrhea|Nitazoxanide|
+|Giardia lamblia|Giardiasis & Fatty diarrhea|Metronidazole|
+
+#### CNS Infections {ANT}
+
+|Parasite|Disease|Treatment|
+|-|-|-|
+|Acanthamoeba|Amebic meningoencephalitis|-Conazoles|
+|Naegleria fowleri|Amebic meningoencephalitis|Amphotericin B|
+|Toxoplasma gondii|Toxoplasmosis|Pyrimethamine<br>Sulfadiazine|
+|Trypanosoma brucei|African sleeping sickness|Suramin<br>Melarsoprol|
+
+#### Hematologic Infections
+
+|Parasite|Disease|Treatment|
+|-|-|-|
+|Babesia|Babesiosis|Atovaquone<br>Azithromycin|
+|Plasmodium|Malaria|Chloroquine<br>Primaquine<br>Mefloquine<br>Atovaquone-Proguanil<br>Artemisinin|
+
+#### Visceral Infections
+
+|Parasite|Disease|Treatment|
+|-|-|-|
+|Trypanosoma cruzi|Chagas disease|Benznidazole<br>Nifurtimox|
+|Leishmania donovani|Leishmaniasis|Amphotericin B<br>Stibogluconate|
+
+#### Sexually Transmitted Diseases (STD)
+
+|Parasite|Disease|Treatment|
+|-|-|-|
+|Trichomonas vaginalis|Vaginitis|Metronidazole|
+
+### Animalian Parasites
+
+#### Cestodes [Tapeworms]
+
+|Parasite|Disease|Treatment|
+|-|-|-|
+|Taenia solium|Neurocysticercosis|Praziquantel|
+|Taenia saginata|Cysticercosis|Praziquantel|
+|Echinococcus|Hydatid cyst disease|Benzimidazole|
+|Diphyllobothrium latum|Vitamin B<sub>12</sub> deficiency|Praziquantel|
+
+#### Trematodes [Flukes]
+
+|Parasite|Disease|Treatment|
+|-|-|-|
+|Clonorchis sinensis|Biliary Tract Infection (BTI)<br>Cholangiocarcinoma|Praziquantel|
+|Paragonimus westermani|Respiratory symptoms|Praziquantel|
+|Schistosoma|Katayama fever|Praziquantel|
+|Schistosoma haematobium|Hematuria<br>Bladder cancer|Praziquantel|
+|Schistosoma mansoni|Portal hypertension|Praziquantel|
+|Schistosoma japonicum|Portal hypertension|Praziquantel|
+
+#### Nematodes [Roundworms] :: Fecal-oral Transmission {EAT}
+
+|Parasite|Disease|Treatment|
+|-|-|-|
+|Enterobius vermicularis|Perianal pruritis|Benzimidazole<br>Pyrantel pamoate|
+|Ascaris lumbricoides|GI symptoms<br>Respiratory symptoms|Benzimidazole<br>Pyrantel pamoate|
+|Trichuris trichiura|GI symptoms|Benzimidazole|
+|Trichinella spiralis|Myalgia & Periorbital edema|Benzimidazole|
+|Toxocara|Visceral larva migrans|Benzimidazole|
+
+#### Nematodes [Roundworms] :: Contact Transmission {SAN}
+
+|Parasite|Disease|Treatment|
+|-|-|-|
+|Strongyloides stercoralis|GI symptoms|Benzimidazole<br>Ivermectin|
+|Ancylostoma duodenale|Iron deficiency anemia (IDA)<br>Cutaneous larva migrans|Benzimidazole<br>Pyrantel pamoate|
+|Necator americanus|Iron deficiency anemia (IDA)|Benzimidazole<br>Pyrantel pamoate|
+
+#### Nematodes [Roundworms] :: Arthropod-Borne {WOLD}
+
+|Parasite|Disease|Treatment|
+|-|-|-|
+|Wucheria bancrofti|Elephantiasis|Diethylcarbamazine|
+|Onchocerca volvulus|River blindness|Ivermectin|
+|Loa loa|Calabar swelling|Diethylcarbamazine|
+|Dracunculus medinensis|Skin ulceration|Niridazole|
 
 ## Antivirals
 
@@ -467,3 +612,27 @@
 |↓ Protein synthesis|IFN-α|HBV & HCV|
 
 ![](../Figures/Mechanisms%20of%20Action%20of%20Antivirals.png)
+
+## Arthropod-Borne Microbes
+
+|Microbe|Arthropod|Disease|
+|-|-|-|
+|Babesia|Tick|Babesiosis|
+|Borrelia burgdorferi|Tick|Lyme disease|
+|Borrelia recurrentis|Louse|Relapsing fever|
+|Francisella tularensis|Tick|Tularemia|
+|Ehrlichia chaffeensis|Tick|Ehrlichiosis|
+|Rickettsia rickettsii|Tick|Rocky Mountain spotted fever (RMSF)|
+|Rickettsia tsutsugamushi|Mite|Scrub typhus|
+|Rickettsia prowazekii|Louse|Epidemic typhus|
+|Rickettsia typhi|Flea|Endemic typhus|
+|Yersinia pestis|Flea|Plague|
+|Yellow fever virus|Mosquito :: Aedes|Yellow fever|
+|Dengue virus|Mosquito :: Aedes|Dengue fever|
+|Chikungunya virus|Mosquito :: Aedes|Chikungunya fever|
+|Zika virus|Mosquito :: Aedes|Zika fever|
+|Japanese encephalitis virus|Mosquito :: Culix|Japanese encephalitis|
+|Plasmodium|Mosquito :: Anopheles|Malaria|
+|Trypanosoma brucei|Tsetse fly|African sleeping sickness|
+|Trypanosoma cruzi|Reduviid bug [Kissing bug]|Chagas disease|
+|Leishmania donovani|Sandfly|Leishmaniasis|

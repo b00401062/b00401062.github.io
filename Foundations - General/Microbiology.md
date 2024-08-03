@@ -1,21 +1,12 @@
 # Microbiology
 
-## Routes of Transmission
-
-- Airborne
-- Blood
-- Contact
-- Droplet
-- Fecal-oral
-- Vector-borne
-
 ## Gram Positive Lab Algorithm
 
 ![](../Figures/Gram%20Positive%20Lab%20Algorithm.png)
 
 ### Gram-Positive Cocci (GPC)
 
-|Bacteria|Treatment|S/R|
+|Bacteria|Test|S/R|
 |-|-|-|
 |Staphylococcus epidermidis|Novobiocin|S|
 |Staphylococcus saprophyticus|Novobiocin|R|
@@ -207,7 +198,7 @@
 - Pseudomonas aeruginosa
 - Salmonella typhi: Vi capsule
 
-## Catalase-Positive Pathogens {N-PLACESS}
+## Catalase-Positive Microbes {N-PLACESS}
 
 - Nocardia
 - Pseudomonas
@@ -218,7 +209,7 @@
 - Staphylococcus
 - Serratia
 
-## Oxidase-Positive Pathogens {PVNCH}
+## Oxidase-Positive Microbes {PVNCH}
 
 - Pseudomonas
 - Vibrio
@@ -226,7 +217,7 @@
 - Campylobacter
 - Helicobacter
 
-## Urease-Positive Pathogens {PUNCH-KS}
+## Urease-Positive Microbes {PUNCH-KS}
 
 - Proteus
 - Ureaplasma
@@ -241,52 +232,6 @@
 - Bacillus
 - Clostridium
 - Coxiella
-
-## Virulence Factors
-
-|Factor|Bacteria|
-|-|-|
-|A protein|Staphylococcus aureus|
-|Biofilm|-|
-|Capsule|-|
-|Endotoxin|Gram negative bacteria|
-|Exotoxin|Gram positive & negative bacteria|
-|Fimbria|Gram negative bacteria|
-|IgA protease|-|
-|M protein|Streptococcus pyogenes|
-|Pili|-|
-|Teichoic acid|Gram positive bacteria|
-
-## Exotoxins
-
-|Bacteria|Exotoxin|Target|Mechanism|
-|-|-|-|-|
-|Corynebacterium diphtheriae|Diphtheria toxin|Elongation factor (EF-2)|↓ Protein synthesis|
-|Pseudomonas aeruginosa|Exotoxin A|Elongation factor (EF-2)|↓ Protein synthesis|
-|Shigella|Shiga toxin|60S ribosome|↓ Protein synthesis|
-|EHEC|Shiga-like toxin|60S ribosome|↓ Protein synthesis|
-|ETEC|Heat-stable toxin (ST)|↑ G<sub>s</sub>PCR|↑ cGMP → ↑ fluid secretion|
-|ETEC|Heat-labile toxin (LT)|↑ G<sub>s</sub>PCR|↑ cAMP → ↑ fluid secretion|
-|Vibrio cholerae|Cholera toxin|↑ G<sub>s</sub>PCR|↑ cAMP → ↑ fluid secretion|
-|Bacillus anthracis|Edema toxin|↑ G<sub>s</sub>PCR|↑ cAMP → ↑ fluid secretion|
-|Bordetella pertussis|Pertussis toxin|↓ G<sub>i</sub>PCR|↑ cAMP → ↓ phagocytosis|
-|Clostridium botulinum|Botulinum toxin|SNARE|↓ ACh release|
-|Clostridium tetani|Tetanus toxin|SNARE|↓ GABA & Glycine release|
-
-## Pathogens Producing Shiga Toxin
-
-- Shigella dysenteriae serotype 1
-- Shiga-toxin-producing Escherichia coli (STEC)
-
-## Pathogens with Toxins Carried on Lysogenic Phages {ABCDE}
-
-|Toxin|Bacteria|
-|-|-|
-|Shiga-like toxin|EHEC|
-|Botulinum toxin|Clostridium botulinum|
-|Cholera toxin|Vibrio cholera|
-|Diphtheria toxin|Corynebacterium diphtheria|
-|Erythrogenic toxin|Streptococcus pyogenes|
 
 ## Classification of Fungi
 
@@ -312,96 +257,6 @@
   - Epidermophyton
   - Microsporum
   - Trichophyton
-
-## Classification of Parasites
-
-### Protozoan Parasites
-
-#### GI Infections {ECG}
-
-|Parasite|Disease|Treatment|
-|-|-|-|
-|Entamoeba histolytica|Amebiasis & Bloody diarrhea|Metronidazole|
-|Cryptosporidium|Watery diarrhea|Nitazoxanide|
-|Giardia lamblia|Giardiasis & Fatty diarrhea|Metronidazole|
-
-#### CNS Infections {ANT}
-
-|Parasite|Disease|Treatment|
-|-|-|-|
-|Acanthamoeba|Amebic meningoencephalitis|-Conazoles|
-|Naegleria fowleri|Amebic meningoencephalitis|Amphotericin B|
-|Toxoplasma gondii|Toxoplasmosis|Pyrimethamine<br>Sulfadiazine|
-|Trypanosoma brucei|African sleeping sickness|Suramin<br>Melarsoprol|
-
-#### Hematologic Infections {BP}
-
-|Parasite|Disease|Treatment|
-|-|-|-|
-|Babesia|Babesiosis|Atovaquone<br>Azithromycin|
-|Plasmodium|Malaria|Chloroquine<br>Primaquine<br>Mefloquine<br>Atovaquone-Proguanil<br>Artemisinin|
-
-#### Visceral Infections
-
-|Parasite|Disease|Treatment|
-|-|-|-|
-|Trypanosoma cruzi|Chagas disease|Benznidazole<br>Nifurtimox|
-|Leishmania donovani|Leishmaniasis|Amphotericin B<br>Stibogluconate|
-
-#### Sexually Transmitted Diseases (STD)
-
-|Parasite|Disease|Treatment|
-|-|-|-|
-|Trichomonas vaginalis|Vaginitis|Metronidazole|
-
-### Animalian Parasites
-
-#### Cestodes [Tapeworms]
-
-|Parasite|Disease|Treatment|
-|-|-|-|
-|Taenia solium|Neurocysticercosis|Praziquantel|
-|Taenia saginata|Cysticercosis|Praziquantel|
-|Echinococcus|Hydatid cyst disease|Benzimidazole|
-|Diphyllobothrium latum|Vitamin B<sub>12</sub> deficiency|Praziquantel|
-
-#### Trematodes [Flukes]
-
-|Parasite|Disease|Treatment|
-|-|-|-|
-|Clonorchis sinensis|Biliary Tract Infection (BTI)<br>Cholangiocarcinoma|Praziquantel|
-|Paragonimus westermani|Respiratory symptoms|Praziquantel|
-|Schistosoma|Katayama fever|Praziquantel|
-|Schistosoma haematobium|Hematuria<br>Bladder cancer|Praziquantel|
-|Schistosoma mansoni|Portal hypertension|Praziquantel|
-|Schistosoma japonicum|Portal hypertension|Praziquantel|
-
-#### Nematodes [Roundworms] :: Fecal-oral Transmission {EAT}
-
-|Parasite|Disease|Treatment|
-|-|-|-|
-|Enterobius vermicularis|Perianal pruritis|Benzimidazole<br>Pyrantel pamoate|
-|Ascaris lumbricoides|GI symptoms<br>Respiratory symptoms|Benzimidazole<br>Pyrantel pamoate|
-|Trichuris trichiura|GI symptoms|Benzimidazole|
-|Trichinella spiralis|Myalgia & Periorbital edema|Benzimidazole|
-|Toxocara|Visceral larva migrans|Benzimidazole|
-
-#### Nematodes [Roundworms] :: Contact Transmission {SAN}
-
-|Parasite|Disease|Treatment|
-|-|-|-|
-|Strongyloides stercoralis|GI symptoms|Benzimidazole<br>Ivermectin|
-|Ancylostoma duodenale|Iron deficiency anemia (IDA)<br>Cutaneous larva migrans|Benzimidazole<br>Pyrantel pamoate|
-|Necator americanus|Iron deficiency anemia (IDA)|Benzimidazole<br>Pyrantel pamoate|
-
-#### Nematodes [Roundworms] :: Arthropod-Borne {WOLD}
-
-|Parasite|Disease|Treatment|
-|-|-|-|
-|Wucheria bancrofti|Elephantiasis|Diethylcarbamazine|
-|Onchocerca volvulus|River blindness|Ivermectin|
-|Loa loa|Calabar swelling|Diethylcarbamazine|
-|Dracunculus medinensis|Skin ulceration|Niridazole|
 
 ## Characteristics of Parasites
 
@@ -508,11 +363,11 @@
 - Coxsackievirus
 - HAV
 
-## Pathogen Detection Techniques
+## Microbe Detection Techniques
 
 ### Special Stain
 
-|Stain|Pathogens|
+|Stain|Microbes|
 |-|-|
 |PAS|Tropheryma|
 |Giemsa|Chlamydia<br>Borrelia<br>Rickettsia<br>Trypanosoma<br>Plasmodium|
@@ -522,7 +377,7 @@
 
 ### Special Culture
 
-|Agar|Pathogens|
+|Agar|Microbes|
 |-|-|
 |Loffler<br>Tellurite|Corynebacterium|
 |Lowenstein-Jensen<br>Middlebrook|Mycobacterium|
@@ -536,7 +391,7 @@
 
 ### Special Laboratory Tests
 
-|Test|Pathogens|
+|Test|Microbes|
 |-|-|
 |Amine whiff test|Gardnerella vaginalis|
 |CAMP test|GBS :: Streptococcus agalactiae|
@@ -555,27 +410,3 @@
 |Urine antigen test|Streptococcus pneumoniae<br>Legionella<br>Histoplasma|
 |Dark-field<br>VDRL/RPR<br>FTA-ABS|Treponema pallidum|
 |Weil-Felix test|Rickettsia|
-
-## Arthropod-Borne Pathogens
-
-|Pathogen|Arthropod|Disease|
-|-|-|-|
-|Babesia|Tick|Babesiosis|
-|Borrelia burgdorferi|Tick|Lyme disease|
-|Borrelia recurrentis|Louse|Relapsing fever|
-|Francisella tularensis|Tick|Tularemia|
-|Ehrlichia chaffeensis|Tick|Ehrlichiosis|
-|Rickettsia rickettsii|Tick|Rocky Mountain spotted fever (RMSF)|
-|Rickettsia tsutsugamushi|Mite|Scrub typhus|
-|Rickettsia prowazekii|Louse|Epidemic typhus|
-|Rickettsia typhi|Flea|Endemic typhus|
-|Yersinia pestis|Flea|Plague|
-|Yellow fever virus|Mosquito :: Aedes|Yellow fever|
-|Dengue virus|Mosquito :: Aedes|Dengue fever|
-|Chikungunya virus|Mosquito :: Aedes|Chikungunya fever|
-|Zika virus|Mosquito :: Aedes|Zika fever|
-|Japanese encephalitis virus|Mosquito :: Culix|Japanese encephalitis|
-|Plasmodium|Mosquito :: Anopheles|Malaria|
-|Trypanosoma brucei|Tsetse fly|African sleeping sickness|
-|Trypanosoma cruzi|Reduviid bug [Kissing bug]|Chagas disease|
-|Leishmania donovani|Sandfly|Leishmaniasis|

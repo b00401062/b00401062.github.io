@@ -141,16 +141,3 @@
 |2|Tonsil|
 |3|Thymus<br>Inferior parathyroids|
 |4|Superior parathyroids<br>Parafollicular [C] cells|
-
-## Hormone Changes During Pregnancy
-
-|Item|Hormones|Sources|
-|-|-|-|
-|W|Human chorionic gonadotropin (hCG)|Placenta|
-||17-Hydroxyprogesterone|Corpus luteum|
-|X|Human placental lactogen (hPL)|Placenta|
-||Progesterone|Corpus luteum<br>Placenta|
-||Estriol|Placenta|
-|Y|Corticotropin-releasing hormone (CRH)|Placenta|
-
-![](../Figures/Hormone%20Change%20During%20Pregnancy.png)
