@@ -12,29 +12,6 @@
 
 ![](../Figures/Craniosynostosis.jpg)
 
-## Neurologic Examination
-
-### Muscle Power (MP)
-
-|Grade|ROM|Anti-Gravity|Anti-Resistance|
-|-|-|-|-|
-|0|-|-|-|
-|1|+/-|-|-|
-|2|+|-|-|
-|3|+|+|-|
-|4|+|+|+|
-|**5**|++|+|+|
-
-### Deep Tendon Reflex (DTR)
-
-|Grade|Response|
-|-|-|
-|0|None|
-|1|Low|
-|**2**|Normal|
-|3|High|
-|4|Clonus|
-
 ## Indications for CT Imaging for Head Trauma
 
 ### PECARN Rule
