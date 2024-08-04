@@ -217,131 +217,6 @@
 - Cardiac :: AV nodal block
 - Erythema migrans
 
-## Serological Test for HBV Infection
-
-|Diagnosis|HBsAg|Anti-HBs|Anti-HBc|
-|-|-|-|-|
-|Infection :: acute|+|-|IgM|
-|Infection :: chronic|+|-|IgG|
-|Window|-|-|IgM / IgG|
-|Recovery|-|+|IgG|
-|Vaccination|-|+|-|
-
-![](../Figures/Serological%20Test%20for%20HBV%20Infection.jpg)
-
-## Serological Test for EBV Infection
-
-![](../Figures/Serological%20Test%20for%20EBV%20Infection.jpg)
-
-## Presentation of Mumps Virus Infection {MOPS}
-
-- Meningitis
-- Orchitis
-- Parotitis
-- Sterility
-
-## Presentation of Measles Virus Infection {3C1K1R}
-
-- Conjunctivitis
-- Coryza
-- Cough
-- Koplik spot
-- Rash :: downward
-
-## Presentation of Rubella Virus Infection {RUBELLA}
-
-- Rash :: downward
-- -
-- Blueberry muffin rash
-- Eyes :: cataract
-- Ears :: deafness
-- Lymphadenopathy
-- -
-- Arthritis
-
-## Highly Active Antiretroviral Therapy (HAART) for HIV Infection
-
-- 2 NRTI
-- NNRTI / INSTI / PI
-
-## Urgent Indications for Highly Active Antiretroviral Therapy (HAART)
-
-- CD4 < 200/mm<sup>3</sup>
-- Acute HIV infection
-- AIDS-defining illnesses
-- Pregnancy
-
-## Systemic inflammatory response syndrome (SIRS)
-
-- Temperature > 38°C / < 36°C
-- Heart rate > 90
-- Respiratory rate > 20 / PaCO<sub>2</sub> < 32 mmHg
-- WBC > 12,000/mm<sup>3</sup> / < 4,000/mm<sup>3</sup> / > 10% bands
-
-## Infections Causing Rashes Beginning on the Palms & Soles {CARS}
-
-|Microbe|Rash|
-|-|-|
-|Coxsackie A virus|Hand-foot-mouth disease|
-|Rickettsia rickettsii|Rocky Mountain spotted fever (RMSF)|
-|Treponema pallidum|Syphilis|
-
-## Sporotrichoid Lymphocutaneous Infection {LMNS}
-
-- Leishmania brasiliensis
-- Mycobacterium
-- Nocardia brasiliensis
-- Sporothrix schenckii
-
-## Vaccines
-
-|Type|Vaccines|
-|-|-|
-|Live attenuated|BCG<br>Rotavirus<br>Varicella zoster virus (VZV)<br>Mumps & Measles & Rubella (MMR)<br>Yellow fever|
-|Inactivated|Poliovirus<br>Hepatitis A virus (HAV)<br>Influenza<br>Rabies|
-|Subunit|Hepatitis B virus (HBV)<br>Human papillomavirus (HPV)<br>Pneumococcus<br>Meningococcus<br>Haemophilus influenzae type B (Hib)<br>Pertusis|
-|Toxoid|Diphtheria<br>Tetanus|
-
-## Contraindications to Live Attenuated Vaccines
-
-- Pregnancy
-- Immunodeficiency
-- IVIG within a year
-
-## Levels of Isolation Precautions
-
-- Contact precaution
-- Droplet precaution
-- Airborne precaution
-
-## Infections Requiring Airborne Precaution
-
-- Tuberculosis
-- Chickenpox
-- Disseminated herpes zoster
-- Measles
-- SARS
-
-## Post-Exposure Prophylaxis
-
-|Microbe|Source|Immunity|Management|
-|-|-|-|-|
-|HBV|+|-/?|Vaccine & IVIG|
-||?|-/?|Vaccine|
-|VZV|+|-/?|Vaccine / IVIG|
-|Measles|+|-/?|Vaccine / IVIG|
-|Rubella|+|-/?|Vaccine / IVIG|
-|Rabies|+/?|-|Vaccine & IVIG|
-|||?|Vaccine|
-|HIV|+/?|-/?|HAART|
-|Meningitis|+|-/?|Rifampicin<br>3° Cephalosporins|
-|Pertusis|+|-/?|Antibiotics|
-|Tetanus|+|-|Vaccine & IVIG|
-|||?|Vaccine|
-||?|-/?|Vaccine|
-|Tuberculosis|+|-/?|Antibiotics|
-|Anthrax|+|-/?|Vaccine & Antibiotics|
-
 ## Antibiotics
 
 ### Cell Wall Inhibitors
@@ -588,6 +463,60 @@
 |Loa loa|Calabar swelling|Diethylcarbamazine|
 |Dracunculus medinensis|Skin ulceration|Niridazole|
 
+## Serological Test for HBV Infection
+
+|Diagnosis|HBsAg|Anti-HBs|Anti-HBc|
+|-|-|-|-|
+|Infection :: acute|+|-|IgM|
+|Infection :: chronic|+|-|IgG|
+|Window|-|-|IgM / IgG|
+|Recovery|-|+|IgG|
+|Vaccination|-|+|-|
+
+![](../Figures/Serological%20Test%20for%20HBV%20Infection.jpg)
+
+## Serological Test for EBV Infection
+
+![](../Figures/Serological%20Test%20for%20EBV%20Infection.jpg)
+
+## Presentation of Mumps Virus Infection {MOPS}
+
+- Meningitis
+- Orchitis
+- Parotitis
+- Sterility
+
+## Presentation of Measles Virus Infection {3C1K1R}
+
+- Conjunctivitis
+- Coryza
+- Cough
+- Koplik spot
+- Rash :: downward
+
+## Presentation of Rubella Virus Infection {RUBELLA}
+
+- Rash :: downward
+- -
+- Blueberry muffin rash
+- Eyes :: cataract
+- Ears :: deafness
+- Lymphadenopathy
+- -
+- Arthritis
+
+## Highly Active Antiretroviral Therapy (HAART) for HIV Infection
+
+- 2 NRTI
+- NNRTI / INSTI / PI
+
+## Urgent Indications for Highly Active Antiretroviral Therapy (HAART)
+
+- CD4 < 200/mm<sup>3</sup>
+- Acute HIV infection
+- AIDS-defining illnesses
+- Pregnancy
+
 ## Antivirals
 
 |Mechanism|Medication|Indications|
@@ -613,6 +542,42 @@
 
 ![](../Figures/Mechanisms%20of%20Action%20of%20Antivirals.png)
 
+## Systemic inflammatory response syndrome (SIRS)
+
+- Temperature > 38°C / < 36°C
+- Heart rate > 90
+- Respiratory rate > 20 / PaCO<sub>2</sub> < 32 mmHg
+- WBC > 12,000/mm<sup>3</sup> / < 4,000/mm<sup>3</sup> / > 10% bands
+
+## Infections Causing Rashes Beginning on the Palms & Soles {CARS}
+
+|Microbe|Rash|
+|-|-|
+|Coxsackie A virus|Hand-foot-mouth disease|
+|Rickettsia rickettsii|Rocky Mountain spotted fever (RMSF)|
+|Treponema pallidum|Syphilis|
+
+## Sporotrichoid Lymphocutaneous Infection {LMNS}
+
+- Leishmania brasiliensis
+- Mycobacterium
+- Nocardia brasiliensis
+- Sporothrix schenckii
+
+## Levels of Isolation Precautions
+
+- Contact precaution
+- Droplet precaution
+- Airborne precaution
+
+## Infections Requiring Airborne Precaution
+
+- Tuberculosis
+- Chickenpox
+- Disseminated herpes zoster
+- Measles
+- SARS
+
 ## Arthropod-Borne Microbes
 
 |Microbe|Arthropod|Disease|
@@ -636,3 +601,38 @@
 |Trypanosoma brucei|Tsetse fly|African sleeping sickness|
 |Trypanosoma cruzi|Reduviid bug [Kissing bug]|Chagas disease|
 |Leishmania donovani|Sandfly|Leishmaniasis|
+
+## Vaccines
+
+|Type|Vaccines|
+|-|-|
+|Live attenuated|BCG<br>Rotavirus<br>Varicella zoster virus (VZV)<br>Mumps & Measles & Rubella (MMR)<br>Yellow fever|
+|Inactivated|Poliovirus<br>Hepatitis A virus (HAV)<br>Influenza<br>Rabies|
+|Subunit|Hepatitis B virus (HBV)<br>Human papillomavirus (HPV)<br>Pneumococcus<br>Meningococcus<br>Haemophilus influenzae type B (Hib)<br>Pertusis|
+|Toxoid|Diphtheria<br>Tetanus|
+
+## Contraindications to Live Attenuated Vaccines
+
+- Pregnancy
+- Immunodeficiency
+- IVIG within a year
+
+## Post-Exposure Prophylaxis
+
+|Microbe|Source|Immunity|Management|
+|-|-|-|-|
+|HBV|+|-/?|Vaccine & IVIG|
+||?|-/?|Vaccine|
+|VZV|+|-/?|Vaccine / IVIG|
+|Measles|+|-/?|Vaccine / IVIG|
+|Rubella|+|-/?|Vaccine / IVIG|
+|Rabies|+/?|-|Vaccine & IVIG|
+|||?|Vaccine|
+|HIV|+/?|-/?|HAART|
+|Meningitis|+|-/?|Rifampicin<br>3° Cephalosporins|
+|Pertusis|+|-/?|Antibiotics|
+|Tetanus|+|-|Vaccine & IVIG|
+|||?|Vaccine|
+||?|-/?|Vaccine|
+|Tuberculosis|+|-/?|Antibiotics|
+|Anthrax|+|-/?|Vaccine & Antibiotics|
