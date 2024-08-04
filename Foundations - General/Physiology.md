@@ -1,5 +1,14 @@
 # Physiology
 
+## LaPlace's Law
+
+|Parameter|γ ∝ P × R ÷ T|
+|-|-|
+|γ|Surface tension|
+|P|Pressure difference|
+|R|Radius|
+|T|Thickness|
+
 ## Body Fluid Distribution
 
 |Total|Proportion|Part|Measurement|
@@ -19,6 +28,74 @@
 |Isotonic gain|↑|↓|↓|
 |Hypotonic gain|↑|↓|↓|
 |Hypertonic gain|↑|↓|↑|
+
+## Right Shift of Oxygen-Hemoglobin Dissociation Curve {BAT-ACE}
+
+- 2,3-BPG
+- Altitude
+- Temperature
+- Acid
+- CO<sub>2</sub>
+- Exercise
+
+## Oxygen Content
+
+|Parameter|CaO<sub>2</sub> = 1.34 × Hb × SaO<sub>2</sub> + 0.0031 × PaO<sub>2</sub>|
+|-|-|
+|CaO<sub>2</sub>|Arterial O<sub>2</sub> content (mL-O<sub>2</sub>/dL)|
+|Hb|Hemoglobin concentration (g/dL)|
+|SaO<sub>2</sub>|Arterial O<sub>2</sub> saturation (%)|
+|PaO<sub>2</sub>|Arterial O<sub>2</sub> pressure (mmHg)|
+
+## Fick Principle
+
+|Parameter|CO = VO<sub>2</sub> ÷ (CaO<sub>2</sub> - CvO<sub>2</sub>)|
+|-|-|
+|CO|Cardiac output (dL/min)|
+|VO<sub>2</sub>|O<sub>2</sub> consumption rate (mL-O<sub>2</sub>/min)|
+|CaO<sub>2</sub>|Arterial O<sub>2</sub> content (mL-O<sub>2</sub>/dL)|
+|CvO<sub>2</sub>|Venous O<sub>2</sub> content (mL-O<sub>2</sub>/dL)|
+
+## Respiratory Quotient (RQ)
+
+|Source|Quotient|
+|-|-|
+|Anaerobic|> 1|
+|Carbohydrates|1|
+|Protein|0.8|
+|Fat|0.7|
+
+## Plasma Osmolality
+
+|Parameter|2 × Na + Glucose ÷ 18 + BUN ÷ 2.8|
+|-|-|
+|Na|Serum sodium (mEq/L)|
+|Glucose|Serum glucose (mg/dL)|
+|BUN|Serum BUN (mg/dL)|
+
+## Anion Gap (AG)
+
+|Parameter|Na - (Cl + HCO<sub>3</sub>)|
+|-|-|
+|Na|Serum sodium (mEq/L)|
+|Cl|Serum chloride (mEq/L)|
+|HCO<sub>3</sub>|Serum bicarbonate (mEq/L)|
+
+## Urine Anion Gap (UAG)
+
+|Parameter|(Na + K) - Cl|
+|-|-|
+|Na|Urine sodium (mEq/L)|
+|K|Urine potassium (mEq/L)|
+|Cl|Urine chloride (mEq/L)|
+
+## Stool Osmotic Gap
+
+|Parameter|P<sub>Osmolality</sub> - 2 × (Na + K)|
+|-|-|
+|S<sub>Osmolality</sub>|Stool osmolality (mOsm/kg)|
+|Na|Stool sodium (mEq/L)|
+|K|Stool potassium (mEq/L)|
 
 ## Physiological Effects of Electrolyte Disturbances
 
@@ -67,23 +144,49 @@
 ||Kidney|↑ Reabsorption of Ca & phosphate|
 ||Intestine|↑ Absorption of Ca & phosphate|
 
-## Right Shift of Oxygen-Hemoglobin Dissociation Curve {BAT-ACE}
+## Devine Formula of Ideal Body Weight (IBW)
 
-- 2,3-BPG
-- Altitude
-- Temperature
-- Acid
-- CO<sub>2</sub>
-- Exercise
+### Female
 
-## Respiratory Quotient (RQ)
-
-|Source|Quotient|
+|Parameter|IBW = 45.5 + 2.3 × (H - 60)|
 |-|-|
-|Anaerobic|> 1|
-|Carbohydrates|1|
-|Protein|0.8|
-|Fat|0.7|
+|IBW|Ideal body weight (kg)|
+|H|Height (inch)|
+
+### Male
+
+|Parameter|IBW = 50 + 2.3 × (H - 60)|
+|-|-|
+|IBW|Ideal body weight (kg)|
+|H|Height (inch)|
+
+## Basal Energy Expenditure (BEE)
+
+### Female
+
+|Parameter|BEE = (9.563 × W) + (1.850 × H) - (4.676 × Age) + 655.1|
+|-|-|
+|BEE|Basal energy expenditure (kcal/day)
+|W|Weight (kg)|
+|H|Height (cm)|
+|Age|Age (year)|
+
+### Male
+
+|Parameter|(13.75 × W) + (5.003 × H) - (6.775 × Age) + 66.5|
+|-|-|
+|BEE|Basal energy expenditure (kcal/day)
+|W|Weight (kg)|
+|H|Height (cm)|
+|Age|Age (year)|
+
+## Harris-Benedict Adjustment of Energy Expenditure
+
+|Condition|Calorie (BEE)|Protein (g/kg)|
+|-|-|-|
+|Sedentary|1.2|0.8 ~ 1|
+|Postoperation|1.3 ~ 1.5|1.2 ~ 1.6|
+|Burns|1.6 ~ 2.0|1.5 ~ 2|
 
 ## Skeletal Muscle Contraction
 

@@ -352,6 +352,38 @@
 - Vasodilators
 - Diuretics
 
+## Free Water Deficit (FWD)
+
+|Parameter|0.6 × W × (Na ÷ 140 - 1)|
+|-|-|
+|W|Weight (kg)|
+|Na|Serum sodium (mEq/L)|
+
+## Rate of Fluid Administration
+
+|Weight (kg)|Rate (mL/kg/h)|Rate (mL/kg/d)|
+|-|-|-|
+|< 10|4|100|
+|10 ~ 20|2|50|
+|> 20|1|20|
+
+## Parkland Formula of Fluid Requirements for Burns
+
+|Parameter|W × TBSA × 4|
+|-|-|
+|W|Weight (kg)|
+|TBSA|Total body surface area (%)|
+
+- 1/2 in the 1st 8 hours
+- 1/2 in the next 16 hours
+
+## Curreri Formula of Energy Expenditure for Burns
+
+|Parameter|25 × W + 40 × TBSA|
+|-|-|
+|W|Weight (kg)|
+|TBSA|Total body surface area (%)|
+
 ## Etiology of Dyspnea
 
 - Anemia
@@ -447,6 +479,13 @@
 - Shortened QT interval
 - Tachycardia
 
+## Sodium Correction for Hyperglycemia
+
+|Parameter|Na + 0.024 × (Glucose - 100)|
+|-|-|
+|Na|Serum sodium (mEq/L)|
+|Glucose|Serum glucose (mg/dL)|
+
 ## Workup of Hyponatremia
 
 - Serum osmolality < 280 mOsm/kg [Hypotonic]
@@ -534,6 +573,13 @@
 - Calcium
 - Polystyrene sulfonate: Kalimate & Kayexalate
 - Diuretics :: Loop diuretics
+
+## Calcium Correction for Hypoalbuminemia
+
+|Parameter|0.8 × (4 - Albumin) + Ca |
+|-|-|
+|Ca|Serum calcium (mg/dL)|
+|Albumin|Serum albumin (g/dL)|
 
 ## Presentation of Hypocalcemia
 

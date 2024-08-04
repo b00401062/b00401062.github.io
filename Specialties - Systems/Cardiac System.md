@@ -95,6 +95,13 @@
 - Mean arterial pressure (MAP)
 - Inotropic equivalent (IE)
 
+## Inotropic Equivalent (IE)
+
+|Parameter|Σ(E × R)|
+|-|-|
+|E|Equivalent|
+|R|Rate (µg/kg/min)|
+
 ## Medications Slowing Conduction {ABCD}
 
 - Adenosine

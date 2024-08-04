@@ -79,6 +79,13 @@
 - Interval
 - Morphology
 
+## Bazett's Formula of Corrected QT Interval (QTc)
+
+|Parameter|QTc = QT ÷ √RR|
+|-|-|
+|QT|QT interval|
+|RR|RR interval|
+
 ## ECG Localization of Coronary Blood Supply
 
 |Location|Artery|Leads|

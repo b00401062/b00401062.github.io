@@ -511,6 +511,15 @@
 |TB & Fungal|↑|↑ Lymphocytes|↓|↑|
 |Viral|↑|↑ Lymphocytes|-|↑|
 
+## IgG Index
+
+|Parameter|(CSF<sub>IgG</sub> ÷ CSF<sub>Albumin</sub>) ÷ (P<sub>IgG</sub> ÷ P<sub>Albumin</sub>)|
+|-|-|
+|CSF<sub>IgG</sub>|CSF IgG|
+|CSF<sub>Albumin</sub>|CSF albumin|
+|P<sub>IgG</sub>|Serum IgG|
+|P<sub>Albumin</sub>|Serum albumin|
+
 ## Routes of Brain Abscess Transmission
 
 - Hematogenous spread

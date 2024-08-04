@@ -391,6 +391,14 @@
 
 ![](../Figures/Barcelona%20Clinic%20Liver%20Cancer%20(BCLC)%20Staging.gif)
 
+## Model for End Stage Liver Disease (MELD)
+
+|Parameter|(0.957 × ln Cr + 0.378 × ln Bilirubin + 1.120 × ln INR) × 10|
+|-|-|
+|Cr|Serum creatinine|
+|Bilirubin|Serum bilirubin|
+|INR|Serum INR|
+
 ## Makuuchi Criteria for Hepatectomy
 
 ![](../Figures/Makuuchi%20Criteria%20for%20Hepatectomy.png)
