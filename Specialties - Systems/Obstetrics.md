@@ -14,6 +14,16 @@
 |28 ~ 32|± Corticosteroids|
 |35 ~ 37|GBS culture|
 
+## Classification of Gestational Ages (GA)
+
+|Classification|GA (weeks)|
+|-|-|
+|Early preterm|< 24|
+|Preterm|24 ~ 34|
+|Late preterm|34 ~ 37|
+|Term|37 ~ 42|
+|Postterm|> 42|
+
 ## Causes of Size/Date Discrepancy
 
 - Inaccurate dating

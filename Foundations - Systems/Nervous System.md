@@ -308,6 +308,19 @@
 |L5|Big toe extension|-|
 |S1|Ankle plantar flexion<br>Hip extension|Achilles reflex|
 
+## Primitive Reflexes
+
+- Babinski reflex
+- Galant reflex
+- Grasping reflex
+  - Palmar reflex
+  - Plantar reflex
+- Moro reflex
+- Parachute reflex
+- Rooting reflex
+- Sucking reflex
+- Tonic neck reflex
+
 ## Factors Affecting Cerebral Blood Flow
 
 ![](../Figures/Factors%20Affecting%20Cerebral%20Blood%20Flow.jpg)

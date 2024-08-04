@@ -54,6 +54,16 @@
 |Seborrheic dermatitis|Parkinson disease<br>HIV infection|Anywhere|
 |Seborrheic keratosis<br>Leser-Trélat sign|Visceral malignancy|Trunk|
 
+## Benign Skin Rashes in Newborns
+
+- Cradle cap
+- Diaper rash
+- Erythema toxicum
+- Milia
+- Mongolian spots
+- Nevus simplex
+- Strawberry angioma
+
 ## Etiology of Erythema Nodosum {DOSUM}
 
 - Drugs
