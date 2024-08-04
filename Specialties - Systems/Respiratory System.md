@@ -1,34 +1,6 @@
 # Respiratory System
 
-## Respiratory Tract Embryology Stages {EPCSA}
-
-- Embryonic
-- Pseudoglandular
-- Canalicular
-- Saccular
-- Alveolar
-
-## Lung Volumes and Measurements
-
-|Indices|Methods|
-|-|-|
-|IRV<br>TV<br>ERV|Spirometry|
-|RV|Helium dilution method<br>Plethysmography|
-
-![](../Figures/Lung%20Volumes.png)
-
-## Perfusion and Diffusion Limited Pulmonary Circulation
-
-![](../Figures/Perfusion%20and%20Diffusion%20Limited%20Pulmonary%20Circulation.png)
-
-## Ventilation/Perfusion (V/Q) Ratio
-
-|Ratio|Conditions|
-|-|-|
-|0|Shunt|
-|Low|Lung base|
-|High|Lung apex|
-|∞|Dead space|
+## Abnormal Ventilation/Perfusion (V/Q) Ratio
 
 ### Shunt [↓ V/Q]
 
@@ -58,7 +30,7 @@
   - Neuromuscular disorders
   - Chest wall deformities
 
-## Physical Examination Findings
+## Abnormal Findings on Physical Examination
 
 |Finding|Mechanism|Conditions|
 |-|-|-|
@@ -67,7 +39,7 @@
 |↓ Fremitus|Accumulation in pleural space|Pleural effusion|
 |↑ Fremitus|Accumulation in lung|Lung consolidation|
 
-## Breathing Patterns
+## Abnormal Breathing Patterns
 
 ![](../Figures/Respiratory%20Patterns.png)
 
