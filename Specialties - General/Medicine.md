@@ -359,6 +359,16 @@
 |W|Weight (kg)|
 |Na|Serum sodium (mEq/L)|
 
+## Crystalloids
+
+|Solution|Na (mEq/L)|K (mEq/L)|Ca (mg/dL)|Cl (mEq/L)|Glucose (g/dL)|pH|
+|-|-|-|-|-|-|-|
+|5% dextrose in water (D5W)|0|0|0|0|5|3.5 ~ 6.5|
+|5% dextrose in normal saline (D5NS)|154|0|0|154|5|3.5 ~ 6.5|
+|Normal saline (NS)|154|0|0|154|0|4.5 ~ 7|
+|Ringer's lactate|130|4|1.35|109|0|6 ~ 7.5|
+|Ringer's acetate|130|5|1|112|0|6 ~ 8|
+
 ## Rate of Fluid Administration
 
 |Weight (kg)|Rate (mL/kg/h)|Rate (mL/kg/d)|

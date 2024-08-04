@@ -64,6 +64,67 @@
 - Nevus simplex
 - Strawberry angioma
 
+## Degrees of Skin Burns
+
+|Degree|Thickness|Depth|Blanchable|Painful|Blistered|Color|
+|-|-|-|-|-|-|-|
+|1|Superficial|Epidermis|+|+|-|Erythema|
+|2|Superficial partial|Papillary dermis|+|+|+|Erythema|
+||Deep partial|Reticular dermis|±|±|±|Erythema<br>White|
+|3|Full|Subcutis|-|-|-|White<br>Eschar|
+
+## Types of Skin Grafts
+
+![](../Figures/Skin%20Grafts.jpg)
+
+## Types of Flaps
+
+### Blood Supply
+
+- Random
+- Axial
+  - Pedicled
+  - Free
+
+### Proximity
+
+- Local
+  - Advancement
+  - Rotation
+  - Transposition
+- Regional
+- Distant
+
+### Composition
+
+- Cutaneous
+- Fasciocutaneous
+- Musculocutaneous
+- Osteocutaneous
+
+## Stages of Ulcers
+
+|Stage|Thickness|Depth|
+|-|-|-|
+|1|Superficial|Epidermis|
+|2|Partial|Dermis|
+|3|Full|Subcutis|
+|4|Full|Muscle & Bones|
+
+## Wagner Classification for Ulcers
+
+|Stage|Description|
+|-|-|
+|1|Skin|
+|2|Deep w/o abscess|
+|3|Osteomyelitits|
+|4|Localized gangrene|
+|5|Extensive gangrene|
+
+## Wallace Rule of Nines
+
+![](../Figures/Wallace%20Rule%20of%20Nines.jpg)
+
 ## Etiology of Erythema Nodosum {DOSUM}
 
 - Drugs
