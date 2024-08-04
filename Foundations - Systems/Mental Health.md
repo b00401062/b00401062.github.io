@@ -1,4 +1,4 @@
-# Psychology
+# Mental Health
 
 ## Freud's Psychosexual Development {OAPLG}
 

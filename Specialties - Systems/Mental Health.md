@@ -1,4 +1,4 @@
-# Psychiatry
+# Mental Health
 
 ## Mini-Mental State Examination (MMSE) {OMAMLC}
 
