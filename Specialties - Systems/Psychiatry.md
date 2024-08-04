@@ -18,7 +18,7 @@
 - Mental status
 - Thinking
 
-## Disorders in Psychiatry
+## Psychiatric Disorders
 
 ### Neurodevelopmental Disorders
 

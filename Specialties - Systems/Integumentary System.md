@@ -1,8 +1,8 @@
 # Integumentary System
 
-## Dermatological Findings Under Microscope
+## Abnormal Microscopic Findings
 
-|Findings|Description|Diseases|
+|Finding|Description|Diseases|
 |-|-|-|
 |Hyperkeratosis|↑ Stratum corneum|Psoriasis|
 |Parakeratosis|Nucleus in stratum corneum|Psoriasis|

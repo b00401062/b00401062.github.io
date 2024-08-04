@@ -30,7 +30,7 @@
   - Neuromuscular disorders
   - Chest wall deformities
 
-## Abnormal Findings on Physical Examination
+## Abnormal Physical Examination Findings
 
 |Finding|Mechanism|Conditions|
 |-|-|-|

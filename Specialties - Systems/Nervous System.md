@@ -137,7 +137,7 @@
 |Lower pons|Cluster respiration|
 |Medulla|Ataxic [Biot] respiration|
 
-## Neurologic Examination for Hemineglect
+## Abnormal Neurologic Examination Findings in Hemineglect
 
 - Cancellation test
 - Reading test
@@ -419,7 +419,7 @@
 - Upper motor neuron (UMN)
 - Lower motor neuron (LMN)
 
-## Physical Examination for Nerve Injuries
+## Abnormal Physical Examination Findings in Nerve Injuries
 
 |Exam|Injury|
 |-|-|

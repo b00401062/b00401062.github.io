@@ -1,6 +1,6 @@
 # Special Senses
 
-## Fundoscopic Findings
+## Abnormal Fundoscopic Findings
 
 |Finding|Diseases|
 |-|-|
@@ -82,7 +82,7 @@
 - Punctal occlusion
 - Autologous serum tears
 
-## Physical Examination for Hearing Loss
+## Abnormal Physical Examination Findings in Hearing Loss
 
 |Hearing Loss|Rinne Test|Weber Test|
 |-|-|-|
@@ -93,7 +93,7 @@
 - Air conduction (AC)
 - Bone conduction (BC)
 
-## Abnormal Audiogram
+## Abnormal Audiographic Findigs
 
 ### Conductive Hearing Loss
 
