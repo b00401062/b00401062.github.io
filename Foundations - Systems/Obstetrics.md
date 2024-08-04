@@ -1,6 +1,6 @@
 # Obstetrics
 
-## Fetal Biometric Parameters on Ultrasonagraphy
+## Fetal Sonographic Parameters
 
 - Crown-rump length (CRL)
 - Biparietal diameter (BPD)
