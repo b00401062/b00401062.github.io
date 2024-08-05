@@ -64,6 +64,12 @@
 - Affection
 - Resolve
 
+## Lethal Triad {CAH}
+
+- Coagulopathy
+- Acidosis
+- Hypothermia
+
 ## Leading Causes of Death in General Population
 
 - Heart :: cardiovascular disease
@@ -91,12 +97,6 @@
 - Low birth weight
 - Sleep environment
 - Smoke exposure
-
-## Lethal Triad {CAH}
-
-- Coagulopathy
-- Acidosis
-- Hypothermia
 
 ## Complications of Prematurity
 
