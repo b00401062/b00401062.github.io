@@ -21,29 +21,6 @@
 - Trauma & Toxins
 - Endocrine & Exocrine
 
-## Classification of Birth Weights (BW)
-
-|Classification|BW (g)|
-|-|-|
-|Extremely low (ELBW)|< 1000|
-|Very low (VLBW)|1000 ~ 1500|
-|Low (LBW)|1500 ~ 2500|
-|Normal (NBW)|2500 ~ 4000|
-|High (HBW)|> 4000|
-
-## Apgar Score
-
-![](../Figures/Apgar%20Score.jpg)
-
-## New Ballard Score {HAPPSS}
-
-- Heel to ear
-- Arm recoil
-- Popliteal angle
-- Posture
-- Scarf sign
-- Square window
-
 ## Activities of Daily Living (ADL) {DEATH}
 
 - Dressing
@@ -117,6 +94,29 @@
 - Polycythemia
 - Meconium aspiration syndrome (MAS)
 - Persistent pulmonary hypertension of the newborn (PPHN)
+
+## Classification of Birth Weights (BW)
+
+|Classification|BW (g)|
+|-|-|
+|Extremely low (ELBW)|< 1000|
+|Very low (VLBW)|1000 ~ 1500|
+|Low (LBW)|1500 ~ 2500|
+|Normal (NBW)|2500 ~ 4000|
+|High (HBW)|> 4000|
+
+## Apgar Score
+
+![](../Figures/Apgar%20Score.jpg)
+
+## New Ballard Score {HAPPSS}
+
+- Heel to ear
+- Arm recoil
+- Popliteal angle
+- Posture
+- Scarf sign
+- Square window
 
 ## Contraindications to Breastfeeding
 
