@@ -96,33 +96,6 @@
 |Iron profile|Normal|Abnormal|
 |Blood smear|Target cells|-|
 
-## Heme Synthesis Disorders
-
-- Lead poisoning
-- Sideroblastic anemia
-  - Alcoholism
-  - ALA synthase deficiency
-  - Vitamin B<sub>6</sub> deficiency
-  - Copper deficiency
-- Porphyria
-
-## Types of Porphyria
-
-- Acute intermittent porphyria (AIP)
-- Porphyria cutanea tarda (PCT)
-- Erythropoietic protoporphyria (EPP)
-
-## Presentation of Acute Intermittent Porphyria (AIP) {5P}
-
-- Pain :: abdomen
-- Port wine-colored urine
-- Peripheral neuropathy
-- Psychological disturbances
-- Precipitation
-  - Starvation
-  - Alcohol
-  - Cytochrome P-450 (CYP450) inducers
-
 ## Etiology of Aplastic Anemia
 
 - Fanconi anemia
@@ -180,6 +153,43 @@
   - Hydroxyurea
   - Interferon
   - Busulfan
+
+## Abnormal Hemoglobin Variants
+
+||α-Globin|Disease|α-Globin Defect|Disease|
+|-|-|-|-|-|
+|β-Globin|α<sub>2</sub>β<sub>2</sub> [HbA]|-|β<sub>4</sub> [HbH]|α-thalassemia :: 3 deletion|
+|γ-Globin|α<sub>2</sub>γ<sub>2</sub> [HbF]|β-thalassemia major|γ<sub>4</sub> [Hb Barts]|α-thalassemia :: 4 deletion|
+|δ-Globin|α<sub>2</sub>δ<sub>2</sub> [HbA<sub>2</sub>]|β-thalassemia minor|-|-|
+|s-Globin|α<sub>2</sub>s<sub>2</sub> [HbS]|Sickle cell disease|-|-|
+|c-Globin|α<sub>2</sub>c<sub>2</sub> [HbC]|HbC disease|-|-|
+
+## Heme Synthesis Disorders
+
+- Lead poisoning
+- Sideroblastic anemia
+  - Alcoholism
+  - ALA synthase deficiency
+  - Vitamin B<sub>6</sub> deficiency
+  - Copper deficiency
+- Porphyria
+
+## Types of Porphyria
+
+- Acute intermittent porphyria (AIP)
+- Porphyria cutanea tarda (PCT)
+- Erythropoietic protoporphyria (EPP)
+
+## Presentation of Acute Intermittent Porphyria (AIP) {5P}
+
+- Pain :: abdomen
+- Port wine-colored urine
+- Peripheral neuropathy
+- Psychological disturbances
+- Precipitation
+  - Starvation
+  - Alcohol
+  - Cytochrome P-450 (CYP450) inducers
 
 ## Types of Transfusion Reactions
 

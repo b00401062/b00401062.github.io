@@ -1,15 +1,6 @@
-# Infectious Diseases
+# Infection
 
-## Routes of Transmission
-
-- Airborne
-- Blood
-- Contact
-- Droplet
-- Fecal-oral
-- Vector-borne
-
-## Virulence Factors
+## Bacterial Virulence Factors
 
 |Factor|Bacteria|
 |-|-|
@@ -24,7 +15,7 @@
 |Pili|-|
 |Teichoic acid|Gram positive bacteria|
 
-## Exotoxins
+## Bacterial Exotoxins
 
 |Bacteria|Exotoxin|Target|Mechanism|
 |-|-|-|-|
@@ -542,14 +533,14 @@
 
 ![](../Figures/Mechanisms%20of%20Action%20of%20Antivirals.png)
 
-## Systemic inflammatory response syndrome (SIRS)
+## Systemic Inflammatory Response Syndrome (SIRS)
 
 - Temperature > 38°C / < 36°C
 - Heart rate > 90
 - Respiratory rate > 20 / PaCO<sub>2</sub> < 32 mmHg
 - WBC > 12,000/mm<sup>3</sup> / < 4,000/mm<sup>3</sup> / > 10% bands
 
-## Infections Causing Rashes Beginning on the Palms & Soles {CARS}
+## Infections Causing Palms & Soles Rashes {CARS}
 
 |Microbe|Rash|
 |-|-|
@@ -557,12 +548,35 @@
 |Rickettsia rickettsii|Rocky Mountain spotted fever (RMSF)|
 |Treponema pallidum|Syphilis|
 
-## Sporotrichoid Lymphocutaneous Infection {LMNS}
+## Lymphocutaneous Infections {LMNS}
 
 - Leishmania brasiliensis
 - Mycobacterium
 - Nocardia brasiliensis
 - Sporothrix schenckii
+
+## Perinatal Infections {TORCH}
+
+|Pathogen|Presentation|Transmission|
+|-|-|-|
+|Toxoplasma|Intracranial calcifications<br>Hydrocephalus<br>Chorioretinitis|Transplacental|
+|Rubella|Cataracts<br>Deafness<br>PDA|Transplacental|
+|CMV|Periventricular calcifications<br>Chorioretinitis<br>Deafness|Transplacental|
+|HSV|Encephalitis<br>Herpetic whitlow|Intrapartum|
+|HIV|AIDS|Intrapartum<br>Breastfeeding|
+|Syphilis|Deafness<br>Saddle nose<br>Hutchinson teeth<br>Saber shins|Transplacental<br>Intrapartum|
+|Parvovirus B19|Hydrops fetalis|Transplacental|
+|GBS<br>Escherichia coli<br>Listeria|Pneumonia<br>Meningitis|Intrapartum|
+|Neisseria gonorrhoea<br>Chlamydia trachomatis|Conjunctivitis|Intrapartum|
+
+## Routes of Transmission
+
+- Airborne
+- Blood
+- Contact
+- Droplet
+- Fecal-oral
+- Vector-borne
 
 ## Levels of Isolation Precautions
 
@@ -616,6 +630,24 @@
 - Pregnancy
 - Immunodeficiency
 - IVIG within a year
+
+## Childhood Vaccination
+
+|Vaccine|Month|
+|-|-|
+|BCG|0|
+|Hepatitis B virus (HBV)|0 & 1 & 6|
+|Rotavirus|2 & 4 & 6|
+|Pneumococcus|2 & 4 & 6 & 12|
+|Haemophilus influenzae type B (Hib)|2 & 4 & 6 & 12|
+|Diphtheria & Tetanus & Pertussis (DTaP)|2 & 4 & 6 & 18 & 48|
+|Poliovirus|2 & 4 & 6 & 48|
+|Hepatitis A virus (HAV)|12 & 18|
+|Varicella zoster virus (VZV)|12 & 48|
+|Mumps & Measles & Rubella (MMR)|12 & 48|
+|Japanese encephalitis (JE)|15 & 27|
+
+![](../Figures/Childhood%20Immunization.gif)
 
 ## Post-Exposure Prophylaxis
 

@@ -32,15 +32,16 @@
 
 ![](../Figures/Hemoglobin%20Genes.jpg)
 
-## Hemoglobin Variants
+## Oxygen-Hemoglobin Dissociation Curve
 
-||α-Globin|Disease|α-Globin Defect|Disease|
-|-|-|-|-|-|
-|β-Globin|α<sub>2</sub>β<sub>2</sub> [HbA]|-|β<sub>4</sub> [HbH]|α-thalassemia :: 3 deletion|
-|γ-Globin|α<sub>2</sub>γ<sub>2</sub> [HbF]|β-thalassemia major|γ<sub>4</sub> [Hb Barts]|α-thalassemia :: 4 deletion|
-|δ-Globin|α<sub>2</sub>δ<sub>2</sub> [HbA<sub>2</sub>]|β-thalassemia minor|-|-|
-|s-Globin|α<sub>2</sub>s<sub>2</sub> [HbS]|Sickle cell disease|-|-|
-|c-Globin|α<sub>2</sub>c<sub>2</sub> [HbC]|HbC disease|-|-|
+### Causes of Right Shift {BAT-ACE}
+
+- 2,3-BPG
+- Altitude
+- Temperature
+- Acid
+- CO<sub>2</sub>
+- Exercise
 
 ## WBC Differential Counts
 

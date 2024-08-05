@@ -24,6 +24,15 @@
 |3|K current|K current|
 |4|Funny current: Na & K current|Leak current: K current|
 
+## Fick Principle
+
+|Parameter|CO = VO<sub>2</sub> ÷ (CaO<sub>2</sub> - CvO<sub>2</sub>)|
+|-|-|
+|CO|Cardiac output (dL/min)|
+|VO<sub>2</sub>|O<sub>2</sub> consumption rate (mL-O<sub>2</sub>/min)|
+|CaO<sub>2</sub>|Arterial O<sub>2</sub> content (mL-O<sub>2</sub>/dL)|
+|CvO<sub>2</sub>|Venous O<sub>2</sub> content (mL-O<sub>2</sub>/dL)|
+
 ## Factors Affecting Stroke Volume {CAP}
 
 - Contractility

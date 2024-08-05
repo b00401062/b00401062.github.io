@@ -10,6 +10,15 @@
 |Internal elastic layer|-|Elastin|-|
 |Tunica intima|+|+|+|
 
+## LaPlace's Law
+
+|Parameter|γ ∝ P × R ÷ T|
+|-|-|
+|γ|Surface tension|
+|P|Pressure difference|
+|R|Radius|
+|T|Thickness|
+
 ## Hormones Acting on Vessels
 
 |Hormone|Receptor|Effect|

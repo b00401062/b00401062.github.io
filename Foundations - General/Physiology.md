@@ -1,14 +1,5 @@
 # Physiology
 
-## LaPlace's Law
-
-|Parameter|γ ∝ P × R ÷ T|
-|-|-|
-|γ|Surface tension|
-|P|Pressure difference|
-|R|Radius|
-|T|Thickness|
-
 ## Body Fluid Distribution
 
 |Total|Proportion|Part|Measurement|
@@ -28,42 +19,6 @@
 |Isotonic gain|↑|↓|↓|
 |Hypotonic gain|↑|↓|↓|
 |Hypertonic gain|↑|↓|↑|
-
-## Right Shift of Oxygen-Hemoglobin Dissociation Curve {BAT-ACE}
-
-- 2,3-BPG
-- Altitude
-- Temperature
-- Acid
-- CO<sub>2</sub>
-- Exercise
-
-## Oxygen Content
-
-|Parameter|CaO<sub>2</sub> = 1.34 × Hb × SaO<sub>2</sub> + 0.0031 × PaO<sub>2</sub>|
-|-|-|
-|CaO<sub>2</sub>|Arterial O<sub>2</sub> content (mL-O<sub>2</sub>/dL)|
-|Hb|Hemoglobin concentration (g/dL)|
-|SaO<sub>2</sub>|Arterial O<sub>2</sub> saturation (%)|
-|PaO<sub>2</sub>|Arterial O<sub>2</sub> pressure (mmHg)|
-
-## Fick Principle
-
-|Parameter|CO = VO<sub>2</sub> ÷ (CaO<sub>2</sub> - CvO<sub>2</sub>)|
-|-|-|
-|CO|Cardiac output (dL/min)|
-|VO<sub>2</sub>|O<sub>2</sub> consumption rate (mL-O<sub>2</sub>/min)|
-|CaO<sub>2</sub>|Arterial O<sub>2</sub> content (mL-O<sub>2</sub>/dL)|
-|CvO<sub>2</sub>|Venous O<sub>2</sub> content (mL-O<sub>2</sub>/dL)|
-
-## Respiratory Quotient (RQ)
-
-|Source|Quotient|
-|-|-|
-|Anaerobic|> 1|
-|Carbohydrates|1|
-|Protein|0.8|
-|Fat|0.7|
 
 ## Plasma Osmolality
 
@@ -144,6 +99,15 @@
 ||Kidney|↑ Reabsorption of Ca & phosphate|
 ||Intestine|↑ Absorption of Ca & phosphate|
 
+## Oxygen Content
+
+|Parameter|CaO<sub>2</sub> = 1.34 × Hb × SaO<sub>2</sub> + 0.0031 × PaO<sub>2</sub>|
+|-|-|
+|CaO<sub>2</sub>|Arterial O<sub>2</sub> content (mL-O<sub>2</sub>/dL)|
+|Hb|Hemoglobin concentration (g/dL)|
+|SaO<sub>2</sub>|Arterial O<sub>2</sub> saturation (%)|
+|PaO<sub>2</sub>|Arterial O<sub>2</sub> pressure (mmHg)|
+
 ## Devine Formula of Ideal Body Weight (IBW)
 
 ### Female
@@ -180,13 +144,14 @@
 |H|Height (cm)|
 |Age|Age (year)|
 
-## Harris-Benedict Adjustment of Energy Expenditure
+## Respiratory Quotient (RQ)
 
-|Condition|Calorie (BEE)|Protein (g/kg)|
-|-|-|-|
-|Sedentary|1.2|0.8 ~ 1|
-|Postoperation|1.3 ~ 1.5|1.2 ~ 1.6|
-|Burns|1.6 ~ 2.0|1.5 ~ 2|
+|Source|Quotient|
+|-|-|
+|Anaerobic|> 1|
+|Carbohydrates|1|
+|Protein|0.8|
+|Fat|0.7|
 
 ## Skeletal Muscle Contraction
 
