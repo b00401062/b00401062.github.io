@@ -1,4 +1,4 @@
-# Microbiology
+![image](https://github.com/user-attachments/assets/32297974-8358-4aa8-8759-4e42adafb7a7)# Microbiology
 
 ## Gram Positive Lab Algorithm
 
@@ -138,7 +138,7 @@
 |Real|Rickettsia|
 |Color|Chlamydia|
 
-## Hemolysis
+## Microbial Hemolysis Test
 
 ![](../Figures/Hemolysis.png)
 
