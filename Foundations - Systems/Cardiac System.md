@@ -4,7 +4,7 @@
 
 ![](../Figures/Fetal%20Circulation.png)
 
-## Heart Development
+## Heart Embryology
 
 |Mnemonic|Embryonic structure|Derivatives|
 |-|-|-|
@@ -13,6 +13,8 @@
 |Produces|Primitive ventricle|Trabeculated part of RV & LV|
 |Big|Bulbus cordis|Smooth part of RV & LV|
 |Turbulence|Truncus arteriosus|Aortic & Pulmonary trunk|
+
+![](../Figures/Heart%20Embryology.jpg)
 
 ## Action Potential of Cardiac Muscle Cells
 
