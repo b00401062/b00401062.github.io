@@ -146,6 +146,7 @@
 |-|-|-|
 |Alport syndrome|COL4|Type 4 collagen|
 |Fragile X syndrome|FMR1|FMR protein|
+|Rett syndrome|MECP2|Methyl-CpG binding protein 2 (MeCP2)|
 
 ### X-linked Recessive (XR)
 
