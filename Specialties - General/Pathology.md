@@ -27,6 +27,10 @@
 |Endocervix|Columnar epithelium|Squamous epithelium|Low pH|Cervical SCC|
 |Muscle|Muscle|Bone|Trauma|Myositis ossificans|
 
+## Cell Necrosis
+
+![](../Figures/Cell%20Necrosis.jpg)
+
 ## Tissue Necrosis
 
 |Tissue|Infection|Non-infection|
