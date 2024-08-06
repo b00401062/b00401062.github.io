@@ -1,5 +1,9 @@
 # Physiology
 
+## Cell Cycle Regulation
+
+![](../Figures/Cell%20Cycle%20Regulation.jpg)
+
 ## Body Fluid Distribution
 
 |Total|Proportion|Part|Measurement|
