@@ -344,6 +344,7 @@
 - ↑ NaCl in sweat glands
 
 ![](../Figures/Cystic%20Fibrosis%20Airways.jpg)
+
 ![](../Figures/Cystic%20Fibrosis%20Sweat%20Glands.jpg)
 
 ## Presentation of Vitamin Deficiency
