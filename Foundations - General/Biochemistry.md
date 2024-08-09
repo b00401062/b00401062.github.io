@@ -52,7 +52,9 @@
 |B<sub>9</sub>|Folate|-|
 |B<sub>12</sub>|Cobalamin|-|
 
-## Vitamin as Cofactors
+## Vitamin D Synthesis
+
+## Vitamins as Cofactors
 
 |Vitamin|Enzyme|Deficiency|
 |-|-|-|
