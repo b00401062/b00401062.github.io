@@ -54,6 +54,8 @@
 
 ## Vitamin D Synthesis
 
+![](../Figures/Vitamin%20D%20Synthesis.jpg)
+
 ## Vitamins as Cofactors
 
 |Vitamin|Enzyme|Deficiency|
