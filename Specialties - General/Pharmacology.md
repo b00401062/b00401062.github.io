@@ -342,7 +342,7 @@
 |Renin inhibitors|Aliskiren|Hypertension|
 |ACE inhibitors (ACEI)|-Prils|Hypertension<br>Heart failure (HF)|
 |AT<sub>1</sub> antagonists (ARB)|-Sartans|Hypertension<br>Heart failure (HF)|
-|Aldosterone antagonists|Spironolactone<br>Eplerenone|Diuretics|
+|Mineralocorticoid receptor antagonists (MRA)|Spironolactone<br>Eplerenone|Diuretics|
 
 ## Medications Targeting Vasopressin Receptor
 
