@@ -43,7 +43,7 @@
 |Na-K-2Cl sympoter blockers|Loss|Loop diuretics:<br>Furosemide<br>Bumetanide<br>Torsemide|Ascending loop of Henle|↓|↓|↓|
 |Na-Cl sympoter blockers|Through|Thiazides:<br>Hydrochlorothiazide<br>Chlorthalidone|Distal convoluted tubule (DCT)|↓|↓|↑|
 |Na channel blockers|Kidney|K-sparing diuretics:<br>Amiloride<br>Triamterene|Collecting tubule (CT)|↑|↑|-|
-|Aldosterone antagonists|Kidney|K-sparing diuretics:<br>Spironolactone<br>Eplerenone|Collecting tubule (CT)|↑|↑|-|
+|Mineralocorticoid receptor antagonists (MRA)|Kidney|K-sparing diuretics:<br>Spironolactone<br>Eplerenone|Collecting tubule (CT)|↑|↑|-|
 
 ## Indications for Acute Dialysis {AEIOU}
 
