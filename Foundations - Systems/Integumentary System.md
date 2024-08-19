@@ -10,6 +10,8 @@
 |Sun|Stratum spinosum|
 |Burned|Stratum basalis|
 
+![](../Figures/Layers%20of%20Epidermis.jpg)
+
 ## Epithelial Cell Junctions {TAGDH}
 
 |Type|Synonym|Units|
