@@ -64,16 +64,6 @@
 |Asherman syndrome|-|-|-|
 |Outflow obstruction|-|-|-|
 
-## Presentation of Turner Syndrome
-
-- Streak gonads
-- Amenorrhea
-- Webbed neck
-- Shield chest
-- Bicuspid aortic valve
-- Coarctation of the aorta
-- Cystic hygroma
-
 ## Indicators of Ovarian Reserve
 
 |Indicator|Normal|
