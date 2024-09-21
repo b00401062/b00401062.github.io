@@ -96,10 +96,13 @@
 
 - Short stature
 - Webbed neck
-- Coarctation of the aorta
+- Shield chest
 - Bicuspid aortic valve
+- Coarctation of the aorta
+- Cystic hygroma
 - Horseshoe kidney
 - Streak ovaries
+- Amenorrhea
 
 ## Hereditary Disorders
 
