@@ -521,7 +521,7 @@
 
 |Product|Indications|
 |-|-|
-|FFP / PCC|Warfarin toxicity|
+|FFP / PCC|Warfarin toxicity<br>Factor 10a inhibitors toxicity|
 |Cryoprecipitate|tPA toxicity<br>Fibrinogen deficiency<br>Hemophilia A<br>Von Willebrand disease (VWD)<br>Uremic bleeding|
 |Factor concentrate|Factor deficiency|
 
