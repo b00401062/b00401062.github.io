@@ -317,23 +317,23 @@
 
 ## Classification of RNA Viruses
 
-|Mnemonic|Virus|Strand|Nucleic Acid|Capsid|Envelope|
-|-|-|-|-|-|-|
-|Hippy|Hepevirus|+|Linear|Icosahedral|-|
-|Cardiac|Calicivirus|+|Linear|Icosahedral|-|
-|Pulmonary|Picornavirus|+|Linear|Icosahedral|-|
-|Resuscitation|Reovirus|2|Linear|Icosahedral|-|
-|Cystic|Coronavirus|+|Linear|Helical|+|
-|Fibrosis|Flavivirus|+|Linear|Icosahedral|+|
-|Transmembrane|Togavirus|+|Linear|Icosahedral|+|
-|Regulator|Retrovirus|+|Linear|Icosahedral|+|
-|Always|Arenavirus|-|Circular|Helical|+|
-|Bring|Bunyavirus|-|Circular|Helical|+|
-|Dirty|Deltavirus|-|Circular|Helical|+|
-|Polymerase|Paramyxovirus|-|Linear|Helical|+|
-|Or|Orthomyxovirus|-|Linear|Helical|+|
-|Fail|Filovirus|-|Linear|Helical|+|
-|Replication|Rhabdovirus|-|Linear|Helical|+|
+|Virus|Strand|Nucleic Acid|Capsid|Envelope|
+|-|-|-|-|-|
+|Hepevirus|+|Linear|Icosahedral|-|
+|Calicivirus|+|Linear|Icosahedral|-|
+|Picornavirus|+|Linear|Icosahedral|-|
+|Reovirus|2|Linear|Icosahedral|-|
+|Coronavirus|+|Linear|Helical|+|
+Flavivirus|+|Linear|Icosahedral|+|
+|Togavirus|+|Linear|Icosahedral|+|
+|Retrovirus|+|Linear|Icosahedral|+|
+|Arenavirus|-|Circular|Helical|+|
+|Bunyavirus|-|Circular|Helical|+|
+|Deltavirus|-|Circular|Helical|+|
+|Paramyxovirus|-|Linear|Helical|+|
+|Orthomyxovirus|-|Linear|Helical|+|
+|Filovirus|-|Linear|Helical|+|
+|Rhabdovirus|-|Linear|Helical|+|
 
 ## Segmented RNA Viruses {BOAR}
 
