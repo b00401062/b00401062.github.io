@@ -344,7 +344,7 @@
 |AT<sub>1</sub> antagonists (ARB)|-Sartans|Hypertension<br>Heart failure (HF)|
 |Mineralocorticoid receptor antagonists (MRA)|Spironolactone<br>Eplerenone|Diuretics|
 
-![](../Medications%20Targeting%20Mineralocorticoid.jpg)
+![](../Figures/Medications%20Targeting%20Mineralocorticoid.jpg)
 
 ## Medications Targeting Vasopressin Receptor
 
