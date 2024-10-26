@@ -1,9 +1,0 @@
-# How to formulate a medical research question?
-
-Medical research is all about expanding our knowledge in medical science and advancing the health of human beings. Some researchers work on developing cutting-edge techniques to diagnose or treat patients, while others design experiments to look for the causes and effects of a disease. I prefer to categorize medical research into two major fields, which I will further explain as follows.
-
-Firstly, developing a new biochemical technique or data analytics is an essential area of medical research. This type of research is termed basic research which sharpens our tools to further explore the unknowns or treat the patients. For example, the invention of the nucleic acid amplification test has helped to diagnose a number of diseases, including the notorious COVID-19. Also, developing a new medication or vaccine belongs to this type of research. Mathematicians can also do great help to the advancement of medical research by deriving statistical formulas and devising statistical tests that other researchers can leverage.
-
-Apart from basic medical research, some other researchers focus on establishing the causal relationship between clinical variables. This type of study is called applied medical research, which applies biochemical techniques and/or data analytics to solve clinical problems. Questions that interest researchers can be the causes and prognosis of a disease, how to diagnose a disease, the efficacy of a new medicine or treatment technique, and so on. These clinical questions can further be categorized into case-control studies, cohort studies, and randomized trials based on how researchers collect data.
-
-In summary, there are two major types of medical research, basic research, and applied research. Both fields are equally important, and require certain levels of expertise. Together, researchers advance the well-being of humans and create a healthier life for everyone.

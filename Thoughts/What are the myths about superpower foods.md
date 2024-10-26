@@ -1,9 +1,0 @@
-# What are the myths about superpower foods?
-
-People tend to believe that certain foods contain superpowers and convey therapeutic effects on illness. The phenomenon perhaps stems from scientific research that is misleading in nature and causes confusing interpretations of the research results. There are two major pitfalls of past research that readers should be cognizant of before jumping into any myths about superpower foods.
-
-First, animal models, instead of humans, are often the subject of study. While researchers observe convincing results from such studies, generalizing such results to humans remains questionable and worthy of careful investigation. After all, humans and other animals are all different species and their responses to foods also vary from one species to another. Only studies that involve humans as the subject can make reliable inferences about the effects of so-called superpower foods on humans.
-
-Second, differentiating between direct evidence and speculative association is overlooked in scientific research. While some foods contain vital elements that human bodies require, their effects on the overall health of humans should be doubted. Moreover, the effects of superpower foods can be, in fact, a coincidence in some situations when healthier people prefer to take those foods. There is just no direct evidence to support how those foods change our bodies or lower the risk of illness.
-
-To sum up, as readers and interpreters of scientific studies, we should be careful of the pitfalls and suspicious of the proposed conclusions. We should not generalize studies on animal models to humans. Furthermore, only with direct evidence can we imply a causal relationship between the foods and their health effects. Otherwise, we should never jump to any conclusions that exaggerated research findings.

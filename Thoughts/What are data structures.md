@@ -1,9 +1,0 @@
-# What are data structures?
-
-A data structure is a collection of data values in simple terms. Data structures are different from each other in the ways of accessing the data values, and clients have to abide by its access rules. Data structures also vary in a lot of aspects in terms of low-level implementation, space and time cost, and usage scenarios.
-
-At the lowest level, data structures are implemented using either arrays or pointers. A pointer can constitute more complex structures, including linked lists, trees, and graphs. The storage of data values does not dictate how clients access the data. Instead, it is the data structure that gives life to the data storage. Worth mentioning is that one data structure can be implemented in various ways, using either arrays or pointers. For example, a list collection can be represented as either an array or linked pointers.
-
-Of course, the ways we implement the data structure affect the efficiency of operation on the data structure. Common operations allowed by a data structure include indexed access, search, insertion, deletion, traversal, etc. And there is no single answer as to the best data implementation for a data structure. In fact, each implementation has its unique role and works better in certain scenarios. Let's take the list collection for example again. Array implementation enables random access to its element in constant time but requires linear time to insert an element at an arbitrary position. In contrast, Linked list implementation takes linear time to access an element but inserts an element at the head of the list in constant time.
-
-The data structure is a marvelous and magnificent field of study that takes students several semesters to get a glimpse of its beauty. It is also a subject worth thousands of pages in a textbook. There is a long journey to master data structures, from using to implementing your custom data structures.
