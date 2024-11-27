@@ -13,17 +13,7 @@
 |Vasopressin|↑ ACTH|
 |Oxytocin|-|
 
-## Endocrine Glands
-
-### Central
-
-|Gland|Hormone|Effect|
-|-|-|-|
-|Hypothalamus|Vasopressin|↓ Na & ↑ BP|
-||Oxytocin|Contraction|
-|Pineal|Melatonin|Circadian rhythm|
-
-### Peripheral
+## Peripheral Endocrine Glands
 
 |Gland|3° Stimulation|2° Stimulation|1° Hormones|Effect|
 |-|-|-|-|-|
@@ -48,7 +38,7 @@
 |Glucocorticoid|↑|Protein & Lipid|Glucose|
 |Catecholamine|↑|Glycogen & Lipid|Glucose|
 |Glucagon|↑|Glycogen & Lipid|Glucose|
-|Insulin|s↓|Glucose|Glycogen & Protein & Lipid|
+|Insulin|↓|Glucose|Glycogen & Protein & Lipid|
 
 ## Layers of Adrenal Cortex
 
