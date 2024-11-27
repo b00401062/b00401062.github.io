@@ -1,5 +1,9 @@
 # Nervous System
 
+## Types of Neurons
+
+![](../Figures/Types%20of%20Neurons.jpg)
+
 ## Neurotransmitters
 
 |Neurotransmitter|Location|Precursor|Metabolites|
@@ -113,8 +117,6 @@
 |Emboliform nucleus|-|-|
 |Globose nucleus|-|-|
 |Fastigial nucleus|-|-|
-
-## Cerebellum
 
 ![](../Figures/Cerebellum.png)
 
