@@ -34,6 +34,8 @@
 - Fusiform cell
 - Martinotti cell
 
+![](../Figures/Layers%20of%20Cerebral%20Cortex.jpg)
+
 ## Cerebral Medulla
 
 ### Projections
