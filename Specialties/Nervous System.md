@@ -577,8 +577,8 @@
 
 |Cell|Origin|Tumors|
 |-|-|-|
-|Neurons|Neural crest|Neuroblastoma|
-|Schwann cells|Neural crest|Schwannoma|
+|Neurons|Neural crest|Ganglioneuroma<br>Neuroblastoma|
+|Schwann cells|Neural crest|Schwannoma<br>Neurofibroma<br>Malignant peripheral nerve sheath tumor (MPNST)|
 |Neuroendocrine cells|Neural crest|Pheochromocytoma<br>Paraganglioma|
 
 ## WHO Grading of Astrocytoma
@@ -590,14 +590,16 @@
 |3|Anaplastic astrocytoma|
 |4|Glioblastoma multiforme|
 
-## Neural Crest Tumors
+## Pathologic Workup of Meningioma
 
-- Neuroblastoma
-- Pheochromocytoma
-- Paraganglioma
-- Schwannoma
-- Neurofibroma
-- Melanoma
+- Mitotic index
+- Brain invasion
+- Atypical features
+  - Necrosis
+  - Sheeted architecture
+  - Small cell change
+  - Hypercellularity
+  - Macronuclei
 
 ## Management of Pituitary Adenoma
 
