@@ -56,3 +56,16 @@
 ## Coombs Tests
 
 ![](../Figures/Coombs%20Tests.png)
+
+## Coagulation Pathway
+
+![](../Figures/Coagulation%20Pathway.png)
+
+## Enzymes Targeting Coagulation Factors
+
+|Enzyme|Targets|
+|-|-|
+|VKOR|↑ Factor 2 & **7** & 9 & 10 & **Protein C/S**|
+|Antithrombin|↓ Factor **2** & 7 & 9 & **10** & 11 & 12|
+|Protein C/S|↓ Factor 5 & 8|
+|Plasmin|↓ Factor 1|

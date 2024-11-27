@@ -351,19 +351,6 @@
 |Essential thrombocytosis|JAK2|-|-|↑|
 |Myelofibrosis|JAK2|↓|↑/↓|↑/↓|
 
-## Coagulation Pathway
-
-![](../Figures/Coagulation%20Pathway.png)
-
-## Enzymes Targeting Coagulation Factors
-
-|Enzyme|Targets|
-|-|-|
-|VKOR|↑ Factor 2 & **7** & 9 & 10 & **Protein C/S**|
-|Antithrombin|↓ Factor **2** & 7 & 9 & **10** & 11 & 12|
-|Protein C/S|↓ Factor 5 & 8|
-|Plasmin|↓ Factor 1|
-
 ## Virchow Triad for Thrombosis {SHE}
 
 |Cause|Effect|
