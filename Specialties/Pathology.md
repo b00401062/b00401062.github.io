@@ -96,6 +96,14 @@
 - Nodular glomerulosclerosis
 - Whipple disease
 
+## Differential Diagnoses of Pagetoid Cells
+
+- Paget's disease
+- Extramammary Paget's disease (EMPD)
+- Bowen's disease
+- Melanoma
+- Sebaceous carcinoma
+
 ## Laboratory Tests
 
 |Test|Target|Disease|
