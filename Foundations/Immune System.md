@@ -21,7 +21,7 @@
 
 |Step|Endothelium|Leukocyte|
 |-|-|-|
-|Rolling|Selectin|SLX|
+|Rolling|Selectin|Sialyl-Lewis X (SLX)|
 |Adhesion|CAM|Integrin|
 |Diapedesis|PECAM-1 [CD31]|PECAM-1 [CD31]|
 |Migration|C5a & IL-8|-|
