@@ -590,7 +590,7 @@
 |3|Anaplastic astrocytoma|
 |4|Glioblastoma multiforme|
 
-## Pathologic Workup of Meningioma
+## Pathological Workup of Meningioma
 
 - Mitotic index
 - Brain invasion
