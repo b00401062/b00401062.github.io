@@ -125,3 +125,11 @@
 |Prussian blue stain|Iron|Hemochromatosis<br>Sideroblastic anemia|
 |Tartrate-resistant acid phosphatase (TRAP) stain|Tartrate-resistant acid phosphatase (TRAP)|Hairy cell leukemia|
 |Warm agglutinin test|Anti-RBC IgG|CLL & SLE|
+
+## Pathological Grading of Tumors
+
+|Grade|Hyperplasia|Atypia|Dysplasia|Invasion|
+|-|-|-|-|-|
+|Benign|+|-|-|-|
+|Pre-malignant|+|+|+|-|
+|Malignant|+|+|+|+|
