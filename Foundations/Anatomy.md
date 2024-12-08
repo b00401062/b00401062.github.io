@@ -31,25 +31,6 @@
 - Palatine canal
 - Pterygomaxillary fissure
 
-## Cranial Parasympathetic Ganglia
-
-|Ganglion|Nerve|Innervation|
-|-|-|-|
-|Ciliary ganglion|CN III|Sphincter pupillae<br>Ciliary muscle|
-|Pterygopalatine ganglion|CN VII|Lacrimal gland<br>Nasal glands|
-|Submandibular ganglion|CN VII|Submandibular gland<br>Sublingual glands|
-|Otic ganglion|CN IX|Parotid gland|
-
-## Branches of Facial Nerve
-
-|Mnemonic|Branch|
-|-|-|
-|The|Temporal nerve|
-|Zebra|Zygomatic nerve|
-|Brought|Buccal nerve|
-|My|Masseteric nerve|
-|Car|Cervical nerve|
-
 ## Muscles of Head & Neck
 
 ### Mastication
