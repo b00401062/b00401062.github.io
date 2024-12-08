@@ -410,6 +410,8 @@
 |Factor 2a inhibitors|Hirudin<br>Bivalirudin<br>Argatroban<br>Dabigatran|
 |Tissue plasminogen activators (tPAs)|Urokinase<br>Streptokinase<br>Alteplase<br>Reteplase<br>Tenecteplase|
 
+![](../Figures/Anticoagulants.png)
+
 ## Heparin Variants
 
 ||UFH|LMWH|
