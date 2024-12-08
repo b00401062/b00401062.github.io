@@ -1,25 +1,5 @@
 # Anatomy
 
-## Vertebral Ligaments {SIFPA}
-
-- Supraspinous ligament
-- Interspinous ligament
-- Flavum ligament
-- Posterior longitudinal ligament
-- Anterior longitudinal ligament
-
-## Layers of Scalp {SCALP}
-
-- Skin
-- Connective tissue
-- Aponeurosis
-- Loose connective tissue
-- Periosteum
-
-## Brain Sutures and Fontanels
-
-![](../Figures/Brain%20Sutures%20and%20Fontanels.jpg)
-
 ## Orbital Bones
 
 |Mnemonic|Bone|Sinus|
@@ -50,28 +30,6 @@
 - Pharyngeal canal
 - Palatine canal
 - Pterygomaxillary fissure
-
-## Cavernous Sinus
-
-![](../Figures/Cavernous%20Sinus.png)
-
-## Cranial Passages
-
-|Passage|Nerves|Vessels|
-|-|-|-|
-|Cribriform plate|CN I|-|
-|Optic canal|CN II|Ophthalmic artery|
-|Superior orbital fissure|CN III & IV & V<sub>1</sub> & VI|Ophthalmic vein|
-|Inferior orbital fissure|CN V<sub>2</sub>|Ophthalmic vein|
-|Foramen rotundum|CN V<sub>2</sub>|-|
-|Foramen ovale|CN V<sub>3</sub>|-|
-|Foramen spinosum|-|Middle meningeal artery|
-|Internal auditory meatus|CN VII & VIII|-|
-|Jugular foramen|CN IX & X & XI|Jugular vein|
-|Hypoglossal canal|CN XII|-|
-|Foramen magnum|Brainstem|Vertebral artery|
-|Common tendinous ring|CN II & III & V<sub>1</sub> & VI|Ophthalmic artery|
-|Cavernous sinus|CN III & IV & V<sub>1</sub> & V<sub>2</sub> & VI|Internal carotid artery|
 
 ## Cranial Parasympathetic Ganglia
 
