@@ -37,6 +37,7 @@
 
 ### Surface Ectoderm
 
+- Ameloblasts
 - Anterior pituitary<br>[Adenohypophysis]
 - Epidermis
 - Lens
