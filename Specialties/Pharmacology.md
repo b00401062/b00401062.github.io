@@ -93,7 +93,7 @@
 |ACh esterase inhibitors|Edrophonium|Myasthenia diagnosis|
 ||Pyridostigmine|Myasthenia|
 ||Neostigmine|Muscle relaxant reversal|
-||Physostigmine|Atropine antidote|
+||Physostigmine|Anticholinergics antidote|
 ||Rivastigmine<br>Galantamine<br>Donepezil|Alzheimer disease|
 ||Organophosphates<br>Sarin|Glaucoma|
 |ACh reuptake inhibitors|-|
