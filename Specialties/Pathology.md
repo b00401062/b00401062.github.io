@@ -126,6 +126,14 @@
 |Tartrate-resistant acid phosphatase (TRAP) stain|Tartrate-resistant acid phosphatase (TRAP)|Hairy cell leukemia|
 |Warm agglutinin test|Anti-RBC IgG|CLL & SLE|
 
+## Pathological Grading of Neoplasm
+
+|Grade|Hyperplasia|Atypia|Invasion|
+|-|-|-|-|
+|Benign|+|-|-|
+|Dysplastic|+|+|-|
+|Malignant|+|+|+|
+
 ## Pathological Features of Dysplasia
 
 - Hypercellularity
@@ -135,11 +143,3 @@
 - Pleomorphic nuclei
 - Prominent nucleoli
 - Increased mitosis
-
-## Pathological Grading of Tumors
-
-|Grade|Hyperplasia|Atypia|Dysplasia|Invasion|
-|-|-|-|-|-|
-|Benign|+|-|-|-|
-|Pre-malignant|+|+|+|-|
-|Malignant|+|+|+|+|
