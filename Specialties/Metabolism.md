@@ -370,7 +370,13 @@
 - Ataxia
 - Ophthalmoplegia
 
-## Etiology of Folate Deficiency
+## Etiology of Vitamin B<sub>3</sub> (Niacin) Deficiency
+
+- Carcinoid syndrome
+- Hartnup disease
+- Vitamin B<sub>6</sub> (Pyridoxine) deficiency
+
+## Etiology of Vitamin B<sub>9</sub> (Folate) Deficiency
 
 - Alcoholism
 - Crohn disease
