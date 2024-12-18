@@ -426,6 +426,10 @@
 
 ![](../Figures/Amino%20Acid%20Catabolism.jpg)
 
+## Homocysteine Metabolism
+
+![](../Figures/Homocysteine%20Metabolism.jpg)
+
 ## Catecholamine Metabolism
 
 ![](../Figures/Catecholamine%20Metabolism.png)
