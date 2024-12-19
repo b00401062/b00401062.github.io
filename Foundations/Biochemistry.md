@@ -316,14 +316,14 @@
 
 ### Hydrophobic :: Aliphatic {GAVLIP}
 
-|Mnemonic|Abbrevation|Amino acid|
-|-|-|-|
-|G|G|Glycine|
-|A|A|Alanine|
-|V|V|Valine|
-|L|L|Leucine|
-|I|I|Isoleucine|
-|P|P|Proline|
+|Abbrevation|Amino acid|
+|-|-|
+|G|Glycine|
+|A|Alanine|
+|V|Valine|
+|L|Leucine|
+|I|Isoleucine|
+|P|Proline|
 
 ### Hydrophobic :: Aromatic
 
