@@ -327,37 +327,37 @@
 
 ### Hydrophobic :: Aromatic
 
-|Mnemonic|Abbrevation|Amino acid|
-|-|-|-|
-|Wait|W|Tryptophan|
-|For|F|Phenylalanine|
-|You|Y|Tyrosine|
+|Abbrevation|Amino acid|
+|-|-|
+|W|Tryptophan|
+|F|Phenylalanine|
+|Y|Tyrosine|
 
 ### Hydrophilic :: Positive-charged
 
-|Mnemonic|Abbrevation|Amino acid|
-|-|-|-|
-|Hao|H|Histidine|
-|Ren|R|Arginine|
-|Ka|K|Lysine|
+|Abbrevation|Amino acid|
+|-|-|
+|H|Histidine|
+|R|Arginine|
+|K|Lysine|
 
 ### Hydrophilic :: Negative-charged
 
-|Mnemonic|Abbrevation|Amino acid|
-|-|-|-|
-|D|D|Aspartate|
-|E|E|Glutamate|
+|Abbrevation|Amino acid|
+|-|-|
+|D|Aspartate|
+|E|Glutamate|
 
 ### Hydrophilic :: Uncharged
 
-|Mnemonic|Abbrevation|Amino acid|
-|-|-|-|
-|N|N|Asparagine|
-|Q|Q|Glutamine|
-|Taiwan|T|Threonine|
-|Semiconductor|S|Serine|
-|Manufacturing|M|Methionine|
-|Corporation|C|Cysteine|
+|Abbrevation|Amino acid|
+|-|-|
+|N|Asparagine|
+|Q|Glutamine|
+|T|Threonine|
+|S|Serine|
+|M|Methionine|
+|C|Cysteine|
 
 ## Characteristics of Amino Acids
 
@@ -478,8 +478,6 @@
 ||Guanosine (G)|Deoxyguanosine (dG)|
 |Uridine (U)|Deoxyuridine (dU)|Deoxythymidine (dT)|
 ||Cytidine (C)|Deoxycytidine (dC)|
-
-## De Novo Pathways for Purines and Pyrimidines
 
 ![](../Figures/De%20Novo%20Pathways%20for%20Purines%20and%20Pyrimidines.png)
 
