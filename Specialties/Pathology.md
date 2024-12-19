@@ -96,6 +96,13 @@
 - Nodular glomerulosclerosis
 - Whipple disease
 
+## Types of Giant Cells
+
+- Foreign-body giant cells
+- Langhans giant cells
+- Touton giant cells
+- Giant-cell arteritis
+
 ## Differential Diagnoses of Pagetoid Cells
 
 - Paget's disease
