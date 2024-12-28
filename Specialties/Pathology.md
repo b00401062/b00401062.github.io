@@ -46,7 +46,7 @@
 - Mitochondrial [Intrinsic] pathway
 - Death receptor [Extrinsic] pathway
 
-![](../Figures/Pathways%20of%20Apoptosis.jpg)
+![](../Figures/Pathways%20of%20Apoptosis.png)
 
 ## Nuclear Changes in Apoptosis
 
