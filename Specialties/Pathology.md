@@ -48,6 +48,14 @@
 
 ![](../Figures/Pathways%20of%20Apoptosis.jpg)
 
+## Nuclear Changes in Apoptosis
+
+- Pyknosis
+- Karyorrhexis
+- Karyolysis
+
+![](../Figures/Nuclear%20Changes%20in%20Apoptosis.png)
+
 ## Pathological Findings
 
 |Finding|Ingredients|Indications|
