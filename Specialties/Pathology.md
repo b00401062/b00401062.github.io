@@ -41,6 +41,13 @@
 |Fat|Fatty|Fatty|
 |Limbs<br>GI tract|Wet gangrene|Dry gangrene|
 
+## Pathways of Apoptosis
+
+- Mitochondrial [Intrinsic] pathway
+- Death receptor [Extrinsic] pathway
+
+![](../Figures/Pathways%20of%20Apoptosis.jpg)
+
 ## Pathological Findings
 
 |Finding|Ingredients|Indications|
