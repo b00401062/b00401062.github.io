@@ -48,13 +48,13 @@
 
 ![](../Figures/Pathways%20of%20Apoptosis.png)
 
-## Nuclear Changes in Apoptosis
+## Nuclear Changes in Cell Death
 
 - Pyknosis
 - Karyorrhexis
 - Karyolysis
 
-![](../Figures/Nuclear%20Changes%20in%20Apoptosis.png)
+![](../Figures/Nuclear%20Changes%20in%20Cell%20Death.png)
 
 ## Pathological Findings
 
