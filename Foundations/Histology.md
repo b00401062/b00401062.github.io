@@ -35,6 +35,16 @@
 |Microfilament|Actin|Adherens junction<br>Microvilli|
 ||Actin<br>Myosin<br>Tropomyosin|Muscle cells|
 
+## Epithelial Cell Junctions {TAGDH}
+
+|Type|Synonym|Units|
+|-|-|-|
+|Tight junction|Zona occludens|Claudin & Occludin|
+|Adherens junction|Zona adherens|Cadherin & Actin|
+|Gap junction|-|Connexon & Connexin|
+|Desmosome|Macula adherens|Desmoglein & Keratin|
+|Hemidesmosome|-|Desmopenetrin & Keratin|
+
 ## Layers of Basement Membrane {LDR}
 
 - Lamina lucida
