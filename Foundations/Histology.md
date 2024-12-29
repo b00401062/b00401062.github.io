@@ -34,3 +34,11 @@
 ||GFAP|Glial cells|
 |Microfilament|Actin|Adherens junction<br>Microvilli|
 ||Actin<br>Myosin<br>Tropomyosin|Muscle cells|
+
+## Layers of Basement Membrane {LDR}
+
+- Lamina lucida
+- Lamina densa
+- Reticular lamina
+
+![](../Figures/Layers%20of%20Basement%20Membrane.png)
