@@ -116,7 +116,12 @@
 
 ## Development of Lymphocytes
 
+### T Cell Development
+
 ![](../Figures/T%20Cell%20Development.png)
+
+### B Cell Development
+
 ![](../Figures/B%20Cell%20Development.png)
 
 ## Activation of Lymphocytes
