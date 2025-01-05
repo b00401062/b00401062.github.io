@@ -1,5 +1,9 @@
 # Respiratory System
 
+## Anatomy of Respiratory Tree
+
+![](../Figures/Anatomy%20of%20Respiratory%20Tree.png)
+
 ## Respiratory Tract Embryology Stages {EPCSA}
 
 - Embryonic
