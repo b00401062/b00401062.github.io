@@ -370,13 +370,13 @@
 - Ataxia
 - Ophthalmoplegia
 
-## Etiology of Vitamin B<sub>3</sub> (Niacin) Deficiency
+## Etiology of Vitamin B<sub>3</sub> [Niacin] Deficiency
 
 - Carcinoid syndrome
 - Hartnup disease
 - Vitamin B<sub>6</sub> (Pyridoxine) deficiency
 
-## Etiology of Vitamin B<sub>9</sub> (Folate) Deficiency
+## Etiology of Vitamin B<sub>9</sub> [Folate] Deficiency
 
 - Alcoholism
 - Crohn disease
@@ -387,7 +387,7 @@
   - Sulfonamides
   - Trimethoprim
 
-## Etiology of Vitamin B<sub>12</sub> Deficiency
+## Etiology of Vitamin B<sub>12</sub> [Cobalamin] Deficiency
 
 - Achlorhydria
 - Crohn disease
