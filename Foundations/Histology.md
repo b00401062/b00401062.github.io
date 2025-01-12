@@ -49,6 +49,6 @@
 
 - Lamina lucida
 - Lamina densa
-- Reticular lamina
+- Lamina reticularis
 
 ![](../Figures/Layers%20of%20Basement%20Membrane.png)
