@@ -95,7 +95,7 @@
 
 - Horizontal [Cajal] cell
 - Granular cell
-- Pyramidal cella
+- Pyramidal cell
 - Fusiform cell
 - Martinotti cell
 
