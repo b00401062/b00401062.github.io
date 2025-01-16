@@ -8,6 +8,10 @@
 |CYP2|CYP2A6<br>CYP2B6<br>CYP2C8<br>CYP2C9<br>CYP2C19<br>CYP2D6<br>CYP2E1|
 |CYP3|CYP3A4<br>CYP3A5<br>CYP3A7|
 
+## Phases of Mitoses
+
+![](../Figures/Phases%20of%20Mitoses.png)
+
 ## Cell Cycle Regulation
 
 ![](../Figures/Cell%20Cycle%20Regulation.jpg)
