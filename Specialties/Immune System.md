@@ -91,6 +91,7 @@
 |Pernicious anemia|Anti-parietal cell<br>Anti-intrinsic factor|
 |Rheumatic fever|Anti-M protein|
 |Transfusion reaction :: hemolytic|Anti-ABO<br>Anti-Rh|
+|Transfusion reaction :: febrile non-hemolytic|Anti-WBC|
 |Transplant reaction :: hyperacute|Anti-graft|
 
 ### Immune Complex-Mediated [Type 3]

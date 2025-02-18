@@ -197,7 +197,7 @@
 |-|-|-|
 |Allergic|Anti-plasma proteins IgE<br>Anti-IgA IgE|Minutes ~ Hours|
 |Hemolytic (HTR)|Anti-ABO<br>Anti-Rh|Minutes ~ Days|
-|Febrile non-hemolytic (FNHTR)|Cytokines|Hours|
+|Febrile non-hemolytic (FNHTR)|Anti-WBC|Hours|
 
 ## Leukemia & Lymphoma
 
