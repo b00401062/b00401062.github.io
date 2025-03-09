@@ -2,6 +2,14 @@
 
 ## Structure of Lymph Node
 
+- Cortex
+	- Follicle
+		- Germinal center
+		- Mantle zone
+		- Marginal zone
+- Paracortex
+- Medulla
+
 ![](../Figures/Structure%20of%20Lymph%20Node.png)
 
 ## Structure of Spleen
