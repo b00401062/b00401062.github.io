@@ -1,8 +1,12 @@
 # Immune System
 
-## Secondary Lymphoid Tissues
+## Structure of Lymph Node
 
-![](../Figures/Secondary%20Lymphoid%20Tissues.png)
+![](../Figures/Structure%20of%20Lymph%20Node.png)
+
+## Structure of Spleen
+
+![](../Figures/Structure%20of%20Spleen.png)
 
 ## Derivatives of Monocytes
 
