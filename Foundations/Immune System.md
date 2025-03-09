@@ -128,6 +128,14 @@
 
 ![](../Figures/Activation%20of%20Lymphocytes.png)
 
+## Differentiation of T Helper Cells
+
+|Th|Inducers|Secretion|
+|-|-|-|
+|Th1|IL-12|IFN-γ|
+|Th2|IL-4|IL-4 & IL-5 & IL-13|
+|Th17|IL-6 & IL-23 & TGF-β|IL-17|
+
 ## Immunoglobulins {MDGEA}
 
 |Immunoglobulin|Members|
