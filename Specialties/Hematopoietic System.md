@@ -247,8 +247,8 @@
 |Hodgkin lymphoma|-|-|
 |Burkitt lymphoma|t(8;14)|C-MYC/IGH|
 |Diffuse large B-cell lymphoma (DLBCL)|-|-|
-|Marginal zone lymphoma<br>MALT lymphoma (MALToma)|-|-|
 |Mantle cell lymphoma|t(11;14)|Cyclin D (CCND)|
+|Marginal zone lymphoma<br>MALT lymphoma (MALToma)|-|-|
 |Follicular lymphoma|t(14;18)|BCL2|
 
 ## Workup of Leukemia
