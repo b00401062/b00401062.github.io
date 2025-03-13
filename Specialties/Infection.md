@@ -427,7 +427,9 @@
 |Schistosoma mansoni|Portal hypertension|Praziquantel|
 |Schistosoma japonicum|Portal hypertension|Praziquantel|
 
-#### Nematodes [Roundworms] :: Fecal-oral Transmission {EAT}
+#### Nematodes [Roundworms]
+
+##### Fecal-oral Transmission {EAT}
 
 |Parasite|Disease|Treatment|
 |-|-|-|
@@ -437,7 +439,7 @@
 |Trichinella spiralis|Myalgia & Periorbital edema|Benzimidazole|
 |Toxocara|Visceral larva migrans|Benzimidazole|
 
-#### Nematodes [Roundworms] :: Contact Transmission {SAN}
+##### Contact Transmission {SAN}
 
 |Parasite|Disease|Treatment|
 |-|-|-|
@@ -445,7 +447,7 @@
 |Ancylostoma duodenale|Iron deficiency anemia (IDA)<br>Cutaneous larva migrans|Benzimidazole<br>Pyrantel pamoate|
 |Necator americanus|Iron deficiency anemia (IDA)|Benzimidazole<br>Pyrantel pamoate|
 
-#### Nematodes [Roundworms] :: Arthropod-Borne {WOLD}
+##### Arthropod-Borne {WOLD}
 
 |Parasite|Disease|Treatment|
 |-|-|-|
