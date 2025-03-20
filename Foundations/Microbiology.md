@@ -235,20 +235,57 @@
 
 ## Bacterial Virulence Factors
 
+### Adhesion
+
 |Factor|Bacteria|
 |-|-|
-|A protein|Staphylococcus aureus|
 |Biofilm|-|
-|Capsule|-|
-|Endotoxin|Gram negative bacteria|
-|Exotoxin|Gram positive & negative bacteria|
-|Fimbria|Gram negative bacteria|
-|IgA protease|-|
-|M protein|Streptococcus pyogenes|
+|Fimbria|-|
 |Pili|-|
 |Teichoic acid|Gram positive bacteria|
 
+### Immunoevasion
+
+|Factor|Bacteria|
+|-|-|
+|Capsule|-|
+|A protein|Staphylococcus aureus|
+|M protein|Streptococcus pyogenes|
+|IgA protease|-|
+
+### Destruction
+
+|Factor|Bacteria|
+|-|-|
+|Hyaluronidase|-|
+|Collagenase|-|
+
+### Toxins
+
+|Factor|Bacteria|
+|-|-|
+|Endotoxin|Gram negative bacteria|
+|Exotoxin|Gram positive & negative bacteria|
+
 ## Bacterial Exotoxins
+
+### Cell Surface-Active [Type 1]
+
+|Bacteria|Exotoxin|
+|-|-|
+|Staphylococcus auerus|Toxic shock syndrome toxin-1 (TSST-1)<br>Enterotoxin|
+|Streptococcus pyogenes|Erythrogenic toxin|
+
+### Membrane Damaging [Type 2]
+
+|Bacteria|Exotoxin|
+|-|-|
+|Staphylococcus aureus|Leucocidin|
+|Streptococcus pyogenes|Streptolysin|
+|Clostridium perfringens|α-toxin|
+|Listeria monocytogenes|Listeriolysin|
+
+### Intracellular [Type 3]
 
 |Bacteria|Exotoxin|Target|Mechanism|
 |-|-|-|-|
