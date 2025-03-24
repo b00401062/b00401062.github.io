@@ -341,6 +341,68 @@
   - Microsporum
   - Trichophyton
 
+## Classification of Parasites
+
+### Protozoan Parasites
+
+#### Amoebae
+
+- Acanthamoeba
+- Entamoeba
+- Naegleria
+
+#### Flagellates
+
+- Giardia
+- Leishmania
+- Trichomonas
+- Trypanosoma
+
+#### Ciliates
+
+#### Sporozoans
+
+- Babesia
+- Cryptosporidium
+- Plasmodium
+- Toxoplasma
+
+### Animalian Parasites
+
+#### Cestodes [Tapeworms]
+
+- Taenia
+  - Taenia solium
+  - Taenia saginata
+- Echinococcus
+- Diphyllobothrium
+
+#### Trematodes [Flukes]
+
+- Clonorchis
+- Paragonimus
+- Schistosoma
+  - Schistosoma haematobium
+  - Schistosoma mansoni
+  - Schistosoma japonicum
+
+#### Nematodes [Roundworms]
+
+- Enterobius vermicularis
+- Ascaris lumbricoides
+- Trichuris trichiura
+- Trichinella spiralis
+- Toxocara
+  - Toxocara canis
+  - Toxocara catis
+- Strongyloides stercoralis
+- Ancylostoma duodenale
+- Necator americanus
+- Wucheria bancrofti
+- Onchocerca volvulus
+- Loa loa
+- Dracunculus medinensis
+
 ## Characteristics of Parasites
 
 ### Autoinfection

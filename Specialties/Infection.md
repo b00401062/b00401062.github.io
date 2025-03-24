@@ -327,7 +327,7 @@
 |Parasite|Disease|Treatment|
 |-|-|-|
 |Entamoeba histolytica|Amebiasis & Bloody diarrhea|Metronidazole|
-|Cryptosporidium|Watery diarrhea|Nitazoxanide|
+|Cryptosporidium parvum|Watery diarrhea|Nitazoxanide|
 |Giardia lamblia|Giardiasis & Fatty diarrhea|Metronidazole|
 
 #### CNS Infections {ANT}
