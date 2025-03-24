@@ -62,7 +62,7 @@
 - Milia
 - Mongolian spots
 - Nevus simplex
-- Strawberry angioma
+- Strawberry hemanangioma
 
 ## Degrees of Skin Burns
 
