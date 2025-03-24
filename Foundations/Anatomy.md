@@ -333,9 +333,9 @@
 ## Pelvic Diaphragm
 
 - Levator ani
-  - Puborectalis
-  - Pubococcygeus
-  - Iliococcygeus
+	- Puborectalis
+	- Pubococcygeus
+	- Iliococcygeus
 - Coccygeus
 
 ## Perineum
@@ -343,12 +343,12 @@
 ### Urogenital Triangle
 
 - Deep perineal pouch
-  - Deep transverse perineal muscle
-  - External urethral sphincter
+	- Deep transverse perineal muscle
+	- External urethral sphincter
 - Superficial perineal pouch
-  - Superficial transverse perineal muscle
-  - Ischiocavernosus
-  - Bulbospongiosus
+	- Superficial transverse perineal muscle
+	- Ischiocavernosus
+	- Bulbospongiosus
 
 ### Middle
 

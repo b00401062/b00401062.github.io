@@ -98,13 +98,13 @@
 ## Treatment of Hyperthyroidism
 
 - Thyroid peroxidase inhibitors
-  - Propylthiouracil
-  - Methimazole
-  - Iodine [Lugol] solution
+	- Propylthiouracil
+	- Methimazole
+	- Iodine [Lugol] solution
 - Deiodinase inhibitors
-  - Propylthiouracil
-  - Propranolol
-  - Corticosteroids
+	- Propylthiouracil
+	- Propranolol
+	- Corticosteroids
 - β antagonists :: Propranolol
 - Radioiodine ablation
 - Surgery
@@ -207,21 +207,21 @@
 ## Etiology of Nephrogenic Diabetes Insipidus (DI)
 
 - Mutations
-  - Vasopressin receptor
-  - Aquaporin
+	- Vasopressin receptor
+	- Aquaporin
 - Electrolyte disturbances
-  - Hypercalcemia
-  - Hypokalemia
+	- Hypercalcemia
+	- Hypokalemia
 - Hematologic disorders
-  - Sickle cell disease
-  - Multiple myeloma
+	- Sickle cell disease
+	- Multiple myeloma
 - Autoimmune diseases
-  - Sjogren syndrome
-  - Sarcoidosis
+	- Sjogren syndrome
+	- Sarcoidosis
 - Amyloidosis
 - Drugs
-  - Lithium
-  - Demeclocycline
+	- Lithium
+	- Demeclocycline
 
 ## Medications for Nephrogenic Diabetes Insipidus (DI)
 
@@ -233,20 +233,20 @@
 - Malignancies :: small cell carcinoma
 - CNS disorders
 - Pulmonary diseases
-  - Tuberculosis
-  - Pneumonia
+	- Tuberculosis
+	- Pneumonia
 - Drugs
-  - Carbamazepine
-  - Cyclophosphamide
-  - SSRIs
+	- Carbamazepine
+	- Cyclophosphamide
+	- SSRIs
 
 ## Treatment of Syndrome of Inappropriate Secretion of ADH (SIADH)
 
 - Fluid restriction
 - V<sub>2</sub> antagonists :: -Vaptans
 - Nephrogenic DI-inducing drugs
-  - Lithium
-  - Demeclocycline
+	- Lithium
+	- Demeclocycline
 
 ## Insulin Disorders
 

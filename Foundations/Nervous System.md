@@ -378,8 +378,8 @@
 - Babinski reflex
 - Galant reflex
 - Grasping reflex
-  - Palmar reflex
-  - Plantar reflex
+	- Palmar reflex
+	- Plantar reflex
 - Moro reflex
 - Parachute reflex
 - Rooting reflex

@@ -160,26 +160,26 @@
 ## Etiology of Acute Interstitial Nephritis (AIN)
 
 - Drugs
-  - Analgesics :: NSAIDs
-  - Antibiotics
-  - Proton pump inhibitors (PPI)
+	- Analgesics :: NSAIDs
+	- Antibiotics
+	- Proton pump inhibitors (PPI)
 - Infections
-  - Tuberculosis
-  - Legionella
-  - CMV
+	- Tuberculosis
+	- Legionella
+	- CMV
 - Autoimmune
-  - SLE
-  - Sjogren syndrome
-  - Sarcoidosis
+	- SLE
+	- Sjogren syndrome
+	- Sarcoidosis
 
 ## Etiology of Acute Tubular Necrosis (ATN)
 
 - Ischemia
 - Drug-induced nephrotoxicity
-  - Analgesics :: NSAIDs
-  - Antibiotics :: Vancomycin & Aminoglycosides & Amphotericin B
-  - Antivirals :: DNA polymerase inhibitors
-  - Antineoplastics :: Platinums [-Platins]
+	- Analgesics :: NSAIDs
+	- Antibiotics :: Vancomycin & Aminoglycosides & Amphotericin B
+	- Antivirals :: DNA polymerase inhibitors
+	- Antineoplastics :: Platinums [-Platins]
 - Contrast-induced nephropathy
 - Hematuria :: hemoglobinuria & myoglobinuria
 - Light chain deposition disease (LCDD)

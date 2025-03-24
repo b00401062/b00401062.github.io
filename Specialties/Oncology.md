@@ -237,11 +237,11 @@
 ### Turcot Syndrome
 
 - Colorectal cancer
-  - Familial adenomatous polyposis (FAP)
-  - Hereditary nonpolyposis colorectal cancer (HNPCC)
+	- Familial adenomatous polyposis (FAP)
+	- Hereditary nonpolyposis colorectal cancer (HNPCC)
 - CNS tumors
-  - Medulloblastoma
-  - Glioma
+	- Medulloblastoma
+	- Glioma
 
 ### Lynch Syndrome
 

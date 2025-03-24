@@ -200,8 +200,8 @@
 
 - Diuretics :: Lasix
 - Venodilators
-  - Morphine
-  - Nitrates
+	- Morphine
+	- Nitrates
 - Oxygen
 - Position
 
@@ -209,9 +209,9 @@
 
 - ACEI & ARB
 - β<sub>1</sub> antagonists
-  - Carvedilol
-  - Bisoprolol
-  - Metoprolol
+	- Carvedilol
+	- Bisoprolol
+	- Metoprolol
 - Vasodilators :: Nitrates
 - Diuretics :: Spironolactone
 - Digitalis
@@ -255,8 +255,8 @@
 
 - Automaticity
 - Triggered activity
-  - Early after-depolarization (EAD)
-  - Delayed after-depolarization (DAD)
+	- Early after-depolarization (EAD)
+	- Delayed after-depolarization (DAD)
 - Reentry
 - Conduction delay
 
@@ -270,8 +270,8 @@
 ### Supraventricular Arrhythmias :: Atrial
 
 - Atrial tachycardia (AT)
-  - Focal atrial tachycardia (FAT)
-  - Multifocal atrial tachycardia (MAT)
+	- Focal atrial tachycardia (FAT)
+	- Multifocal atrial tachycardia (MAT)
 - Atrial flutter
 - Atrial fibrillation (AF)
 
@@ -319,17 +319,17 @@
 ## Treatment of Atrial Fibrillation
 
 - Cardioversion
-  - Hemodynamic instability
-  - Persistence
-    - Duration < 48 hours
-    - Anticoagulated
-    - No atrial thrombus on TEE
+	- Hemodynamic instability
+	- Persistence
+		- Duration < 48 hours
+		- Anticoagulated
+		- No atrial thrombus on TEE
 - Anticoagulants
-  - Duration > 48 hours
-  - CHA<sub>2</sub>DS<sub>2</sub>-VASc ≥ 2
+	- Duration > 48 hours
+	- CHA<sub>2</sub>DS<sub>2</sub>-VASc ≥ 2
 - Antiarrhythmics
-  - Rate control :: Class 2 & 4 & Digitalis
-  - Rhythm control :: Class 1C & 3
+	- Rate control :: Class 2 & 4 & Digitalis
+	- Rhythm control :: Class 1C & 3
 
 ## Rules of Malignancy for PVC
 
@@ -343,9 +343,9 @@
 
 - Drugs {ABCDE}
 - Electrolyte disturbances
-  - Hypokalemia
-  - Hypocalcemia
-  - Hypomagnesemia
+	- Hypokalemia
+	- Hypocalcemia
+	- Hypomagnesemia
 - Congenital long QT syndrome
 
 ## Antiarrhythmics
@@ -374,8 +374,8 @@
 - Sinus bradycardia :: < 40/min
 - Sick sinus syndrome
 - AV blocks
-  - 2nd degree Mobitz II
-  - 3rd degree
+	- 2nd degree Mobitz II
+	- 3rd degree
 - Pre-excitation syndrome
 - QT prolongation
 
@@ -400,16 +400,16 @@
 
 - History of cardiac arrest due to ventricular arrhythmia w/o reversible cause
 - Reduced ejection fraction
-  - LV ejection fraction < 35% & NYHA class II / III
-  - LV ejection fraction < 30% & History of MI
+	- LV ejection fraction < 35% & NYHA class II / III
+	- LV ejection fraction < 30% & History of MI
 
 ## Indications for Permanent Pacemaker
 
 - Symptomatic sinus bradycardia :: < 40/min
 - Symptomatic sick sinus syndrome
 - AV blocks
-  - 2nd degree Mobitz II
-  - 3rd degree
+	- 2nd degree Mobitz II
+	- 3rd degree
 
 ## Etiology of ST Segment Elevation
 
@@ -437,8 +437,8 @@
 ## Risk Factors for Coronay Artery Disease (CAD)
 
 - Elderly
-  - Age ≥ 45 years in males
-  - Age ≥ 55 years in females
+	- Age ≥ 45 years in males
+	- Age ≥ 55 years in females
 - Family history
 - Diabetes
 - Hypertension
@@ -448,11 +448,11 @@
 ## Diagnosis of STEMI
 
 - ST elevation
-  - In all leads except V2 and V3: > 1 mm
-  - In V2 and V3
-    - In females: > 1.5 mm
-    - In males age ≥ 40 years: > 2 mm
-    - In males age < 40 years: > 2.5 mm
+	- In all leads except V2 and V3: > 1 mm
+	- In V2 and V3
+		- In females: > 1.5 mm
+		- In males age ≥ 40 years: > 2 mm
+		- In males age < 40 years: > 2.5 mm
 - Left bundle branch block (LBBB)
 
 ## TIMI Risk Score (TRS) for Unstable Angina and NSTEMI {ACS}
@@ -476,18 +476,18 @@
 
 - Oxygen
 - Venodilators
-  - Morphine
-  - Nitrates
+	- Morphine
+	- Nitrates
 - Antiplatelets
-  - Aspirin
-  - ADP antagonists
-  - Gp2b/3a inhibitors
+	- Aspirin
+	- ADP antagonists
+	- Gp2b/3a inhibitors
 - Anticoagulants :: Heparin
 - β<sub>1</sub> antagonists
 - Revascularization
-  - Thrombolysis if duration < 12 ~ 24 hours
-  - Percutaneous intervention (PCI)
-  - Coronary artery bypass grafting (CABG)
+	- Thrombolysis if duration < 12 ~ 24 hours
+	- Percutaneous intervention (PCI)
+	- Coronary artery bypass grafting (CABG)
 
 ### Long-Term
 
@@ -512,8 +512,8 @@
 
 - Saphenous vein
 - Internal mammary artery (IMA)
-  - Left internal mammary artery (LIMA)
-  - Right internal mammary artery (RIMA)
+	- Left internal mammary artery (LIMA)
+	- Right internal mammary artery (RIMA)
 - Radial artery
 
 ## Complications of Myocardial Infarction
@@ -602,7 +602,7 @@
 
 - Coronay artery disease (CAD)
 - Valvular heart disease
-  - Aortic regurgitation (AR)
-  - Aortic stenosis (AS)
+	- Aortic regurgitation (AR)
+	- Aortic stenosis (AS)
 - Restrictive cardiomyopathy (RCMP)
 - Constrictive pericarditis

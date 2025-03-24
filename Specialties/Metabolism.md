@@ -47,40 +47,40 @@
 ## Workup of Metabolic Acidosis
 
 - Anion gap :: normal
-  - Urine anion gap :: negative
-    - **Saline**
-    - **Diarrhea**
-    - **VIPoma**
-  - Urine anion gap :: positive {HARD}
-    - **Hypoaldosteronism**
-    - **Adrenal insufficiency**
-    - **Renal tubular acidosis (RTA)**
-    - **Renal failure**
-    - **Diuretics** :: Acetazolamide & K-sparing diuretics
+	- Urine anion gap :: negative
+		- **Saline**
+		- **Diarrhea**
+		- **VIPoma**
+	- Urine anion gap :: positive {HARD}
+		- **Hypoaldosteronism**
+		- **Adrenal insufficiency**
+		- **Renal tubular acidosis (RTA)**
+		- **Renal failure**
+		- **Diuretics** :: Acetazolamide & K-sparing diuretics
 - Anion gap :: high {MUDPILES}
-  - **Methanol**
-  - **Uremia**
-  - **Diabetic ketoacidosis (DKA)**
-  - **Propylene glycol**
-  - **Iron & Isoniazid**
-  - **Lactate**
-  - **Ethanol & Ethylene glycol**
-  - **Salicylates**
+	- **Methanol**
+	- **Uremia**
+	- **Diabetic ketoacidosis (DKA)**
+	- **Propylene glycol**
+	- **Iron & Isoniazid**
+	- **Lactate**
+	- **Ethanol & Ethylene glycol**
+	- **Salicylates**
 
 ## Workup of Metabolic Alkalosis
 
 - Urine Cl < 20 [Saline-responsive]
-  - **Vomiting**
-  - **Cystic fibrosis**
+	- **Vomiting**
+	- **Cystic fibrosis**
 - Urine Cl > 20 [Saline-resistant]
-  - Normotensive
-    - **Diuretics** :: Loop diuretics & Thiazides
-    - **Bartter syndrome**
-    - **Gitelman syndrome**
-  - Hypertensive
-    - **Hyperaldosteronism**
-    - **Liddle syndrome**
-    - **Syndrome of apparent mineralocorticoid excess (SAME)**
+	- Normotensive
+		- **Diuretics** :: Loop diuretics & Thiazides
+		- **Bartter syndrome**
+		- **Gitelman syndrome**
+	- Hypertensive
+		- **Hyperaldosteronism**
+		- **Liddle syndrome**
+		- **Syndrome of apparent mineralocorticoid excess (SAME)**
 
 ## ECG Changes in Electrolyte Disturbances
 
@@ -116,31 +116,31 @@
 ## Workup of Hyponatremia
 
 - Serum osmolality < 280 mOsm/kg [Hypotonic]
-  - Volume status :: hypovolemic
-    - Urine Na < 20 & FE<sub>Na</sub> < 1%
-      - **GI losses**
-      - **Skin losses**
-      - **Third spacing**
-    - Urine Na > 20 & FE<sub>Na</sub> > 1%
-      - **Diuretics**
-      - **Adrenal insufficiency**
-  - Volume status :: euvolemic
-    - Urine osmolality < 100 mOsm/kg
-      - **Polydipsia**
-    - Urine osmolality > 100 mOsm/kg
-      - **SIADH**
-      - **Hypothyroidism**
-  - Volume status :: hypervolemic
-    - Urine Na < 20 & FE<sub>Na</sub> < 1%
-      - **Heart failure**
-      - **Hepatic failure**
-    - Urine Na > 20 & FE<sub>Na</sub> > 1%
-      - **Renal failure**
+	- Volume status :: hypovolemic
+		- Urine Na < 20 & FE<sub>Na</sub> < 1%
+			- **GI losses**
+			- **Skin losses**
+			- **Third spacing**
+		- Urine Na > 20 & FE<sub>Na</sub> > 1%
+			- **Diuretics**
+			- **Adrenal insufficiency**
+	- Volume status :: euvolemic
+		- Urine osmolality < 100 mOsm/kg
+			- **Polydipsia**
+		- Urine osmolality > 100 mOsm/kg
+			- **SIADH**
+			- **Hypothyroidism**
+	- Volume status :: hypervolemic
+		- Urine Na < 20 & FE<sub>Na</sub> < 1%
+			- **Heart failure**
+			- **Hepatic failure**
+		- Urine Na > 20 & FE<sub>Na</sub> > 1%
+			- **Renal failure**
 - Serum osmolality 280 ~ 295 mOsm/kg [Isotonic]
-  - **Hyperlipidemia**
-  - **Hyperproteinemia**
+	- **Hyperlipidemia**
+	- **Hyperproteinemia**
 - Serum osmolality > 295 mOsm/kg [Hypertonic]
-  - **Hyperglycemia**
+	- **Hyperglycemia**
 
 ## Management of Hyponatremia
 
@@ -153,32 +153,32 @@
 ## Workup of Hypernatremia
 
 - Urine osmolality < 600 mOsm/kg
-  - **Diabetes insipidus**
-  - **Diuretics** :: osmotic
+	- **Diabetes insipidus**
+	- **Diuretics** :: osmotic
 - Urine osmolality > 600 mOsm/kg
-  - Urine Na < 25
-    - **GI losses**
-    - **Skin losses**
-    - **Seizures**
-    - **Eexercise**
-  - Urine Na > 100
-    - **Fluids** :: hypertonic saline
+	- Urine Na < 25
+		- **GI losses**
+		- **Skin losses**
+		- **Seizures**
+		- **Eexercise**
+	- Urine Na > 100
+		- **Fluids** :: hypertonic saline
 
 ## Etiology of Hypokalemia
 
 - Extra-renal losses
-  - Vomiting
-  - Cystic fibrosis
-  - Diarrhea
-  - VIPoma
+	- Vomiting
+	- Cystic fibrosis
+	- Diarrhea
+	- VIPoma
 - Renal losses
-  - Hyperaldosteronism
-  - Renal tubular acidosis (RTA) :: type 1 & 2
-  - Diuretics :: Acetazolamide & Loop diuretics & Thiazides
-  - Bartter syndrome
-  - Gitelman syndrome
-  - Liddle syndrome
-  - Syndrome of apparent mineralocorticoid excess (SAME)
+	- Hyperaldosteronism
+	- Renal tubular acidosis (RTA) :: type 1 & 2
+	- Diuretics :: Acetazolamide & Loop diuretics & Thiazides
+	- Bartter syndrome
+	- Gitelman syndrome
+	- Liddle syndrome
+	- Syndrome of apparent mineralocorticoid excess (SAME)
 
 ## Etiology of Hyperkalemia
 
@@ -279,9 +279,9 @@
 - Koilonychia
 - Pica
 - Plummer-Vinson syndrome
-  - Dysphagia
-  - Esophageal web
-  - Squamous cell carcinoma
+	- Dysphagia
+	- Esophageal web
+	- Squamous cell carcinoma
 - Restless legs syndrome (RLS)
 
 ## Presentation of Hemochromatosis
@@ -299,9 +299,9 @@
 
 - Phlebotomy
 - Chelation
-  - Deferasirox
-  - Deferoxamine
-  - Deferiprone
+	- Deferasirox
+	- Deferoxamine
+	- Deferiprone
 
 ## Presentation of Copper Deficiency
 
@@ -323,8 +323,8 @@
 
 - Zinc
 - Chelation
-  - Penicillamine
-  - Trientine
+	- Penicillamine
+	- Trientine
 
 ## Presentation of Zinc Deficiency
 
@@ -382,10 +382,10 @@
 - Crohn disease
 - Malabsorption syndromes
 - Drugs
-  - Methotrexate
-  - Phenytoin
-  - Sulfonamides
-  - Trimethoprim
+	- Methotrexate
+	- Phenytoin
+	- Sulfonamides
+	- Trimethoprim
 
 ## Etiology of Vitamin B<sub>12</sub> [Cobalamin] Deficiency
 
@@ -500,8 +500,8 @@
 - Hyperglycemia: FBG ≥ 100 mg/dL
 - Hypertriglycemia: triglyceride ≥ 150 mg/dL
 - Low HDL cholesterol
-  - HDL < 40 mg/dL in men
-  - HDL < 50 mg/dL in women
+	- HDL < 40 mg/dL in men
+	- HDL < 50 mg/dL in women
 
 ## Presentation of Hyperlipidemia
 

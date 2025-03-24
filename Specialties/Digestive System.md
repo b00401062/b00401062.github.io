@@ -14,8 +14,8 @@
 - Nitrates :: Nitroglycerin & Isosorbide
 - Balloon tamponade
 - Endoscopy
-  - Endoscopic variceal ligation (EVL)
-  - Endoscopic sclerotherapy (ES)
+	- Endoscopic variceal ligation (EVL)
+	- Endoscopic sclerotherapy (ES)
 
 ## Management of Abdominal Trauma
 
@@ -46,8 +46,8 @@
 - Brain injury → Cushing ulcer
 - Burns → Curling ulcer
 - Drugs
-  - NSAIDs
-  - Corticosteroids
+	- NSAIDs
+	- Corticosteroids
 - Ischemia
 - Smoking
 - Stress
@@ -113,13 +113,13 @@
 - Internal hernia
 - Marginal ulcer
 - Dumping syndrome
-  - Early dumping syndrome
-  - Late dumping syndrome
+	- Early dumping syndrome
+	- Late dumping syndrome
 - Postvagotomy diarrhea
 - Alkaline gastritis
 - Nutritional deficiencies
-  - Vitamin B<sub>12</sub> deficiency
-  - Iron deficiency
+	- Vitamin B<sub>12</sub> deficiency
+	- Iron deficiency
 
 ## Types of Bariatric Surgery
 
@@ -193,8 +193,8 @@
 - Osmotic
 - Secretory
 - Exudative
-  - Infectious
-  - Inflammatory
+	- Infectious
+	- Inflammatory
 - Dysmotility
 
 ## Malabsorption Syndromes
@@ -337,9 +337,9 @@
 - Spider angioma
 - Palmar erythema
 - Varices
-  - Esophageal varices
-  - Caput medusae
-  - Hemorrhoid
+	- Esophageal varices
+	- Caput medusae
+	- Hemorrhoid
 - Hepatic encephalopathy
 - Hepatopulmonary syndrome
 - Hepatorenal syndrome
@@ -408,16 +408,16 @@
 ### Milan Criteria
 
 - Resectable tumor(s):
-  - 1 tumor: < 5 cm
-  - ≤ 3 tumors: each < 3 cm
+	- 1 tumor: < 5 cm
+	- ≤ 3 tumors: each < 3 cm
 - No vascular invasion
 - No extrahepatic metastasis
 
 ### UCSF Criteria
 
 - Resectable tumor(s):
-  - 1 tumor: < 6.5 cm
-  - ≤ 3 tumors: each < 4.5 cm & total < 8 cm
+	- 1 tumor: < 6.5 cm
+	- ≤ 3 tumors: each < 4.5 cm & total < 8 cm
 - No vascular invasion
 - No extrahepatic metastasis
 
@@ -433,17 +433,17 @@
 |Clay-colored stool|-|+|+|
 
 - Indirect
-  - Gilbert syndrome
-  - Crigler-Najjar syndrome
-  - Neonatal jaundice
-  - Extravascular hemolysis
+	- Gilbert syndrome
+	- Crigler-Najjar syndrome
+	- Neonatal jaundice
+	- Extravascular hemolysis
 - Direct
-  - Dubin-Johnson syndrome
-  - Rotor syndrome
-  - Obstructive jaundice
+	- Dubin-Johnson syndrome
+	- Rotor syndrome
+	- Obstructive jaundice
 - Mixed
-  - Hepatitis
-  - Cirrhosis
+	- Hepatitis
+	- Cirrhosis
 
 ## Comparison Between Biliary Diseases
 

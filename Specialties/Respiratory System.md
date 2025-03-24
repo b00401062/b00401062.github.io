@@ -5,12 +5,12 @@
 ### Shunt [↓ V/Q]
 
 - Anatomic shunt
-  - Intracardiac shunt
-  - Pulmonary arteriovenous malformation (AVM)
-  - Hepatopulmonary syndrome
+	- Intracardiac shunt
+	- Pulmonary arteriovenous malformation (AVM)
+	- Hepatopulmonary syndrome
 - Physiologic shunt
-  - Obstructive lung diseases
-  - Alveolar lung diseases
+	- Obstructive lung diseases
+	- Alveolar lung diseases
 
 ### Dead Space [↑ V/Q]
 
@@ -27,8 +27,8 @@
 
 - ↓ Respiratory drive
 - ↓ Tidal volume
-  - Neuromuscular disorders
-  - Chest wall deformities
+	- Neuromuscular disorders
+	- Chest wall deformities
 
 ## Abnormal Physical Examination Findings
 
@@ -90,13 +90,13 @@
 
 - Asthma
 - Chronic obstructive pulmonary disease (COPD)
-  - Chronic bronchitis
-  - Emphysema
-    - Centriacinar emphysema
-    - Panacinar emphysema
+	- Chronic bronchitis
+	- Emphysema
+		- Centriacinar emphysema
+		- Panacinar emphysema
 - Bronchiectasis
-  - Central bronchiectasis
-  - Peripheral bronchiectasis
+	- Central bronchiectasis
+	- Peripheral bronchiectasis
 
 ## Etiology of Obstructive Lung Diseases
 
@@ -201,8 +201,8 @@
 - Anticoagulants
 - IVC filter
 - Revascularization
-  - Thrombolysis
-  - Thrombectomy
+	- Thrombolysis
+	- Thrombectomy
 
 ## Lower Respiratory Tract Infections
 

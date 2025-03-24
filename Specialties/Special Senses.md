@@ -33,25 +33,25 @@
 ## Etiology of Miosis
 
 - Drug-induced
-  - ACh esterase inhibitors
-  - M agonists
-  - α<sub>2</sub> agonists
-  - Opioids
+	- ACh esterase inhibitors
+	- M agonists
+	- α<sub>2</sub> agonists
+	- Opioids
 - Cluster headaches
 - Horner syndrome
 
 ## Etiology of Mydriasis
 
 - Drug-induced
-  - M antagonists
-  - NDRIs
+	- M antagonists
+	- NDRIs
 - CN III damage
-  - Cavernous sinus thrombosis
-  - Posterior communicating artery aneurysm
-  - Uncal herniation
+	- Cavernous sinus thrombosis
+	- Posterior communicating artery aneurysm
+	- Uncal herniation
 - ↑ Intracranial pressure (ICP)
-  - Intracranial hemorrhage
-  - Cerebral edema
+	- Intracranial hemorrhage
+	- Cerebral edema
 - ↑ Intraocular pressure (IOP)
 
 ## Presentation of Glaucoma

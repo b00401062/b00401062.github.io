@@ -91,11 +91,11 @@
 
 - ↑ Thromboembolism
 - Breast cancer
-  - ↑ if estrogen + progesterone
-  - ↓ if estrogen alone
+	- ↑ if estrogen + progesterone
+	- ↓ if estrogen alone
 - Endometrial cancer
-  - ↓ if estrogen + progesterone
-  - ↑ if estrogen alone
+	- ↓ if estrogen + progesterone
+	- ↑ if estrogen alone
 - ↓ Fractures
 
 ## Hormones Changes in PCOS
@@ -119,8 +119,8 @@
 ## Treatment of PCOS
 
 - Ovulation induction
-  - Estrogen modulators :: Clomiphene
-  - Aromatase inhibitors
+	- Estrogen modulators :: Clomiphene
+	- Aromatase inhibitors
 - Combined hormonal contraception
 - Androgen antagonists
 - 5α-Reductase inhibitors
@@ -210,14 +210,14 @@
 ## Bethesda System for Pap Smear Results
 
 - Squamous cell abnormalities
-  - Atypical squamous cell (ASC)
-  - Low-grade squamous intraepithelial lesion (LSIL)
-  - High-grade squamous intraepithelial lesion (HSIL)
-  - Squamous cell carcinoma
+	- Atypical squamous cell (ASC)
+	- Low-grade squamous intraepithelial lesion (LSIL)
+	- High-grade squamous intraepithelial lesion (HSIL)
+	- Squamous cell carcinoma
 - Glandular cell abnormalities
-  - Atypical glandular cell (AGC)
-  - Adenocarcinoma in situ (AIS)
-  - Adenocarcinoma
+	- Atypical glandular cell (AGC)
+	- Adenocarcinoma in situ (AIS)
+	- Adenocarcinoma
 
 ![](../Figures/Bethesda%20System%20for%20Pap%20Smear%20Results.jpg)
 
@@ -253,14 +253,14 @@
 
 - Barrier contraception
 - Combined hormonal contraception
-  - Oral contraceptive pills (OCPs)
-  - Contraceptive patch
-  - contraceptive ring
+	- Oral contraceptive pills (OCPs)
+	- Contraceptive patch
+	- contraceptive ring
 - Depot medroxyprogesterone
 - Progestin subdermal implant
 - Intrauterine devices
-  - Progestin intrauterine device
-  - Copper intrauterine device
+	- Progestin intrauterine device
+	- Copper intrauterine device
 
 ## Side Effects of Combined Hormonal Contraception
 

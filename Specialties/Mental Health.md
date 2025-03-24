@@ -27,8 +27,8 @@
 - Autism spectrum disorder
 - Attention-deficit hyperactivity disorder (ADHD)
 - Motor disorder
-  - Tic disorder
-  - Tourette syndrome
+	- Tic disorder
+	- Tourette syndrome
 
 ### Neurocognitive Disorders
 
@@ -69,11 +69,11 @@
 - Post-traumatic stress disorder (PTSD): > 1 month
 - Panic disorder: > 1 month
 - Phobias: > 6 months
-  - Agoraphobia
-  - Social anxiety disorder
-  - Specific phobias
+	- Agoraphobia
+	- Social anxiety disorder
+	- Specific phobias
 - Obsessive-compulsive disorder (OCD)
-  - Body dysmorphic disorder
+	- Body dysmorphic disorder
 - Separation anxiety disorder
 - Selective mutism
 

@@ -83,15 +83,15 @@
 
 - Random
 - Axial
-  - Pedicled
-  - Free
+	- Pedicled
+	- Free
 
 ### Proximity
 
 - Local
-  - Advancement
-  - Rotation
-  - Transposition
+	- Advancement
+	- Rotation
+	- Transposition
 - Regional
 - Distant
 
@@ -128,17 +128,17 @@
 ## Etiology of Erythema Nodosum {DOSUM}
 
 - Drugs
-  - Sulfa drugs
-  - NSAIDs
-  - Iodides
+	- Sulfa drugs
+	- NSAIDs
+	- Iodides
 - Oral contraceptive pills (OCPs)
 - Inflammatory bowel disease (IBD)
 - Sarcoidosis
 - Non-Hodgkins lymphoma
 - Microbiology
-  - Tuberculosis
-  - Leprosy
-  - Histoplasmosis
+	- Tuberculosis
+	- Leprosy
+	- Histoplasmosis
 
 ## Presentation of Lichen Planus {6P}
 

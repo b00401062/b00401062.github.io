@@ -18,15 +18,15 @@
 |GDS :: Enterococcus|6.5% NaCl|R|
 
 - Streptococcus viridans
-  - Streptococcus anginosus
-  - Streptococcus mitis
-  - Streptococcus sanguinis
-  - Streptococcus salivarius
-  - Streptococcus mutans
+	- Streptococcus anginosus
+	- Streptococcus mitis
+	- Streptococcus sanguinis
+	- Streptococcus salivarius
+	- Streptococcus mutans
 - Streptococcus bovis
-  - Streptococcus equinus
-  - Streptococcus gallolyticus
-  - Streptococcus infantarius
+	- Streptococcus equinus
+	- Streptococcus gallolyticus
+	- Streptococcus infantarius
 
 ### Gram-Positive Bacilli (GPB)
 
@@ -337,9 +337,9 @@
 - Mucor & Rhizopus
 - Malassezia
 - Dermatophytes
-  - Epidermophyton
-  - Microsporum
-  - Trichophyton
+	- Epidermophyton
+	- Microsporum
+	- Trichophyton
 
 ## Classification of Parasites
 
@@ -372,8 +372,8 @@
 #### Cestodes [Tapeworms]
 
 - Taenia
-  - Taenia solium
-  - Taenia saginata
+	- Taenia solium
+	- Taenia saginata
 - Echinococcus
 - Diphyllobothrium
 
@@ -382,9 +382,9 @@
 - Clonorchis
 - Paragonimus
 - Schistosoma
-  - Schistosoma haematobium
-  - Schistosoma mansoni
-  - Schistosoma japonicum
+	- Schistosoma haematobium
+	- Schistosoma mansoni
+	- Schistosoma japonicum
 
 #### Nematodes [Roundworms]
 
@@ -393,8 +393,8 @@
 - Trichuris trichiura
 - Trichinella spiralis
 - Toxocara
-  - Toxocara canis
-  - Toxocara catis
+	- Toxocara canis
+	- Toxocara catis
 - Strongyloides stercoralis
 - Ancylostoma duodenale
 - Necator americanus

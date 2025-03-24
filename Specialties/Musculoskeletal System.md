@@ -86,13 +86,13 @@
 - Clavicle fracture
 - Rotator cuff injury
 - Monteggia fracture
-  - Proximal ulnar fracture
-  - Radial head dislocation
+	- Proximal ulnar fracture
+	- Radial head dislocation
 - Galeazzi fracture
-  - Distal radial fracture
-  - Distal radioulnar joint dislocation
+	- Distal radial fracture
+	- Distal radioulnar joint dislocation
 - Colles fracture
-  - Distal radial fracture
+	- Distal radial fracture
 - Scaphoid fracture
 - Hook of hamate fracture
 
@@ -173,10 +173,10 @@
 ## Indications for Bisphosphonate Therapy
 
 - Osteopenia w/
-  - History of fracture
-  - 10-year risk for
-    - Major osteoporotic fracture > 20%
-    - Hip fracture > 3%
+	- History of fracture
+	- 10-year risk for
+		- Major osteoporotic fracture > 20%
+		- Hip fracture > 3%
 - Osteoporosis
 - Paget disease
 - Multiple myeloma

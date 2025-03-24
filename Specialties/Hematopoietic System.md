@@ -49,10 +49,10 @@
 - Infusion
 - Macroangiopathic hemolytic anemia (MAHA)
 - Microangiopathic hemolytic anemia (MAHA)
-  - Disseminated intravascular coagulation (DIC)
-  - Thrombotic thrombocytopenic purpura (TTP)
-  - Hemolytic uremic syndrome (HUS)
-  - HELLP syndrome
+	- Disseminated intravascular coagulation (DIC)
+	- Thrombotic thrombocytopenic purpura (TTP)
+	- Hemolytic uremic syndrome (HUS)
+	- HELLP syndrome
 - Paroxysmal nocturnal hematuria (PNH)
 
 ##### Extravascular Hemolytic Anemia {PHAGES}
@@ -100,17 +100,17 @@
 
 - Fanconi anemia
 - Virus
-  - Parvovirus B19
-  - EBV
-  - CMV
-  - HIV
-  - Hepatitis virus
+	- Parvovirus B19
+	- EBV
+	- CMV
+	- HIV
+	- Hepatitis virus
 - Drugs
-  - Carbamazepine
-  - Methimazole
-  - Propylthiouracil
-  - NSAIDs
-  - Chloramphenicol
+	- Carbamazepine
+	- Methimazole
+	- Propylthiouracil
+	- NSAIDs
+	- Chloramphenicol
 - Toxins :: Benzene
 - Radiation
 
@@ -150,9 +150,9 @@
 - Phlebotomy
 - Antiplatelets :: Aspirin
 - Cytoreductive agents
-  - Hydroxyurea
-  - Interferon
-  - Busulfan
+	- Hydroxyurea
+	- Interferon
+	- Busulfan
 
 ## Abnormal Hemoglobin Variants
 
@@ -168,10 +168,10 @@
 
 - Lead poisoning
 - Sideroblastic anemia
-  - Alcoholism
-  - ALA synthase deficiency
-  - Vitamin B<sub>6</sub> deficiency
-  - Copper deficiency
+	- Alcoholism
+	- ALA synthase deficiency
+	- Vitamin B<sub>6</sub> deficiency
+	- Copper deficiency
 - Porphyria
 
 ## Types of Porphyria
@@ -187,9 +187,9 @@
 - Peripheral neuropathy
 - Psychological disturbances
 - Precipitation
-  - Starvation
-  - Alcohol
-  - Cytochrome P-450 (CYP450) inducers
+	- Starvation
+	- Alcohol
+	- Cytochrome P-450 (CYP450) inducers
 
 ## Types of Transfusion Reactions
 
@@ -319,17 +319,17 @@
 ## Diagnosis of Multiple Myeloma
 
 - Histology of bone marrow
-  - Clonal bone marrow plasma cells > 10%
-  - Plasmacytoma
+	- Clonal bone marrow plasma cells > 10%
+	- Plasmacytoma
 - Evidence of end-organ damages {CRAB}
-  - Hypercalcemia
-  - Renal failure
-  - Anemia
-  - Bone lesions
+	- Hypercalcemia
+	- Renal failure
+	- Anemia
+	- Bone lesions
 - Evidence of inevitable end-organ damages
-  - Free light chain (FLC) ratio > 100
-  - Clonal bone marrow plasma cell > 60%
-  - Bone lesions on MRI > 1
+	- Free light chain (FLC) ratio > 100
+	- Clonal bone marrow plasma cell > 60%
+	- Bone lesions on MRI > 1
 
 ## Presentation of Hemophagocytic Lymphohisticytosis (HLH)
 
@@ -465,8 +465,8 @@
 
 - Plasmapheresis
 - Immunosuppression
-  - Corticosteroids
-  - Rituximab
+	- Corticosteroids
+	- Rituximab
 
 ## Triad of Hemolytic Uremic Syndrome (HUS)
 
@@ -477,21 +477,21 @@
 ## Treatment of Immune Thrombocytopenic Purpura (ITP)
 
 - Immunosuppression
-  - Corticosteroids
-  - Rituximab
+	- Corticosteroids
+	- Rituximab
 - Intravenous immunoglobulin (IVIG)
 - Splenectomy
 
 ## Indications for Thrombolytics
 
 - ST-elevation myocardial infarction (STEMI)
-  - Duration < 12 ~ 24 hours
-  - Door-to-bolloon > 2 hours
+	- Duration < 12 ~ 24 hours
+	- Door-to-bolloon > 2 hours
 - Ischemic stroke
-  - Duration < 3 ~ 4.5 hours
-  - BP < 185/110 mmHg
+	- Duration < 3 ~ 4.5 hours
+	- BP < 185/110 mmHg
 - Pulmonary embolism (PE)
-  - Hemodynamic instability
+	- Hemodynamic instability
 
 ## Contraindications to Thrombolytics
 

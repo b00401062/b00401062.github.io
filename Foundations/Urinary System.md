@@ -5,8 +5,8 @@
 - Pronephros
 - Mesonephros
 - Metanephros
-  - Metanephric blastema
-  - Metanephric diverticulum
+	- Metanephric blastema
+	- Metanephric diverticulum
 
 ### Metanephric Blastema
 

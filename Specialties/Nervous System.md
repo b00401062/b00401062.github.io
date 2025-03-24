@@ -83,8 +83,8 @@
 - Age > 60 years
 - BP > 140/90 mmHg
 - Clinical features
-  - Unilateral weakness
-  - Speech impairment
+	- Unilateral weakness
+	- Speech impairment
 - Duration
 - Diabetes
 
@@ -114,13 +114,13 @@
 ## Treatment of Ischemic Stroke
 
 - Antihypertensives
-  - BP < 185/110 mmHg if revascularization
-  - BP < 220/120 mmHg otherwise
+	- BP < 185/110 mmHg if revascularization
+	- BP < 220/120 mmHg otherwise
 - Antihyperglycemic if glucose > 140 ~ 180 mg/dL
 - Antiplatelets
 - Revascularization
-  - Thrombolysis if duration < 3 ~ 4.5 hours
-  - Thrombectomy if duration < 6 ~ 24 hours
+	- Thrombolysis if duration < 3 ~ 4.5 hours
+	- Thrombectomy if duration < 6 ~ 24 hours
 
 ## Ideal Door-to-Reperfusion Time for Ischemic Stroke
 
@@ -167,9 +167,9 @@
 ## Presentation of Elevated Intracranial Pressure (ICP)
 
 - Cushing triad
-  - Pressure :: hypertension & ↑ pulse pressure
-  - Pulse :: bradycardia
-  - Respiration :: pattern change
+	- Pressure :: hypertension & ↑ pulse pressure
+	- Pulse :: bradycardia
+	- Respiration :: pattern change
 - ↓ Consciousness
 - Headache
 - Nausea ± vomiting
@@ -189,8 +189,8 @@
 
 - Weight loss
 - Diuretics
-  - Acetazolemide
-  - Loop diuretics
+	- Acetazolemide
+	- Loop diuretics
 - Topiramate
 - Lumbar puncture
 - Shunting
@@ -255,11 +255,11 @@
 ## Treatment of Neuropathic Pain
 
 - Ca channel blockers
-  - Gabapentin
-  - Pregabalin
+	- Gabapentin
+	- Pregabalin
 - Reuptake inhibitors
-  - TCAs
-  - SNRIs
+	- TCAs
+	- SNRIs
 
 ## Treatment of Essential Tremor
 
@@ -308,12 +308,12 @@
 ## Treatment of Restless Legs Syndrome (RLS)
 
 - Ca channel blockers
-  - Gabapentin
-  - Pregabalin
+	- Gabapentin
+	- Pregabalin
 - Levodopa
 - D<sub>2</sub> agonists
-  - Pramipexole
-  - Ropinirole
+	- Pramipexole
+	- Ropinirole
 
 ## Medications for Huntington Disease
 
@@ -447,18 +447,18 @@
 ## Etiology of Myopathy
 
 - Inflammatory myopathy
-  - Polymyositis
-  - Dermatomyositis
+	- Polymyositis
+	- Dermatomyositis
 - Endocrine
-  - Hypothyroidism
-  - Cushing syndrome
+	- Hypothyroidism
+	- Cushing syndrome
 - Metabolic myopathy
-  - Glycogen storage diseases (GSD)
-  - Lysosomal storage diseases (LSD)
+	- Glycogen storage diseases (GSD)
+	- Lysosomal storage diseases (LSD)
 - Muscular dystrophy
-  - Duchenne muscular dystrophy (DMD)
-  - Myotonic dystrophy
-  - Limb-girdle muscular dystrophy
+	- Duchenne muscular dystrophy (DMD)
+	- Myotonic dystrophy
+	- Limb-girdle muscular dystrophy
 - Drug-induced myopathy
 - Rhabdomyolysis
 
@@ -476,8 +476,8 @@
 ## Etiology of Horner Syndrome
 
 - Ischemic stroke
-  - Anterior inferior cerebellar artery (AICA)
-  - Posterior inferior cerebellar artery (PICA)
+	- Anterior inferior cerebellar artery (AICA)
+	- Posterior inferior cerebellar artery (PICA)
 - Pancoast tumor
 - Carotid dissection
 
@@ -524,10 +524,10 @@
 
 - Hematogenous spread
 - Direct spread
-  - Paranasal sinusitis
-  - Otitis media
-  - Mastoiditis
-  - Dental infection
+	- Paranasal sinusitis
+	- Otitis media
+	- Mastoiditis
+	- Dental infection
 - Direct innoculation
 
 ## Pathogens of Encephalitis
@@ -595,11 +595,11 @@
 - Mitotic index
 - Brain invasion
 - Atypical features
-  - Necrosis
-  - Sheeted architecture
-  - Small cell change
-  - Hypercellularity
-  - Macronuclei
+	- Necrosis
+	- Sheeted architecture
+	- Small cell change
+	- Hypercellularity
+	- Macronuclei
 
 ## Management of Pituitary Adenoma
 

@@ -52,19 +52,19 @@
 ## Etiology of Elevated AFP
 
 - Inaccurate dating
--  Germ cell tumors (GCT)
-  - Endodermal sinus tumor (EST)
-  - Embryonal carcinoma
-  - Teratoma
+	- Germ cell tumors (GCT)
+	- Endodermal sinus tumor (EST)
+	- Embryonal carcinoma
+	- Teratoma
 - Neural tube defects :: open
-  - Anencephaly
-  - Encephalocele
-  - Spina bifida aperta
-    - Meningocele
-    - Myelomeningocele
+	- Anencephaly
+	- Encephalocele
+	- Spina bifida aperta
+		- Meningocele
+		- Myelomeningocele
 - Abdominal wall defects
-  - Gastroschisis
-  - Omphalocele
+	- Gastroschisis
+	- Omphalocele
 - Fetal demise
 - Multiple gestation
 - Placental abruption
@@ -105,10 +105,10 @@
 
 - Expectant management
 - Medical evacuation
-  - Misoprostol
+	- Misoprostol
 - Surgical evacuation
-  - Manual uterine aspiration (MUA) if < 12 weeks
-  - Dilatation and curettage (D&C) if > 12 weeks
+	- Manual uterine aspiration (MUA) if < 12 weeks
+	- Dilatation and curettage (D&C) if > 12 weeks
 
 ## Management of Intrauterine Fetal Demise (IUFD)
 
@@ -120,9 +120,9 @@
 ### First Trimester
 
 - Medical abortion
-  - Misoprostol
-  - Misoprostol & Mifepristone
-  - Misoprostol & Methotrexate
+	- Misoprostol
+	- Misoprostol & Mifepristone
+	- Misoprostol & Methotrexate
 - Manual uterine aspiration (MUA)
 
 ### Second Trimester
@@ -133,14 +133,14 @@
 ## Gestational Trophoblastic Diseases (GTD)
 
 - Hydatidiform moles
-  - Complete mole
-  - Partial mole
+	- Complete mole
+	- Partial mole
 - Gestational trophoblastic neoplasia (GTN)
-  - Choriocarcinoma
-  - Invasive mole
-  - Trophoblastic tumor
-    - Placental-site trophoblastic tumor
-    - Epithelioid trophoblastic tumor
+	- Choriocarcinoma
+	- Invasive mole
+	- Trophoblastic tumor
+		- Placental-site trophoblastic tumor
+		- Epithelioid trophoblastic tumor
 
 ## Hydatidiform Moles
 
@@ -215,8 +215,8 @@
 - Delivery at 34 weeks
 - Corticosteroids if < 34 weeks
 - Antibiotics if < 34 weeks
-  - Penicillinase-sensitive penicillin
-  - Macrolides
+	- Penicillinase-sensitive penicillin
+	- Macrolides
 - Magnesium sulfate if < 32 weeks
 
 ## Fetal Heart Rate (FHR)
@@ -268,8 +268,8 @@
 ## Management of Preterm Labor
 
 - Delivery at 34 weeks
-  - Tocolysis if < 34 weeks
-  - Expectant management if > 34 weeks
+	- Tocolysis if < 34 weeks
+	- Expectant management if > 34 weeks
 - Corticosteroids if < 34 weeks
 - Magnesium sulfate if < 32 weeks
 
@@ -308,8 +308,8 @@
 ## Etiology of Prolonged Labor
 
 - Cephalopelvic disproportion
-  - Macrosomia
-  - Unfavorable pelvis
+	- Macrosomia
+	- Unfavorable pelvis
 - Malpresentation
 - Uterine atony
 - Uterine rupture
@@ -343,8 +343,8 @@
 
 - Prolonged labor
 - Cephalopelvic disproportion
-  - Macrosomia
-  - Unfavorable pelvis
+	- Macrosomia
+	- Unfavorable pelvis
 - Malpresentation
 - Non-reassuring fetal status
 - Placenta accreta
@@ -372,8 +372,8 @@
 ## Indications for RhoGAM
 
 - Invasive prenatal diagnosis
-  - Amniocentesis
-  - Chorionic villus biopsy
+	- Amniocentesis
+	- Chorionic villus biopsy
 - Intrauterine procedures
 - External cephalic version (ECV)
 - Ectopic pregnancy

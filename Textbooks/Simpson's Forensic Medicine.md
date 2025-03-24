@@ -207,8 +207,8 @@ known as the **Bolam test**.
 - The nature of capacity may vary dependent on the task.
 - The MCA assumed that every person has the capacity to make a decision themselves, unless it is proved otherwise.
 - The Act sets out a 2-stage test of capacity:
-  - Does the person have an impairment of their mind or brain, whether as a result of an illness, or external factors such as alcohol or drug use?
-  - Does the impairment mean the person is unable to make a specific decision when they need to?
+	- Does the person have an impairment of their mind or brain, whether as a result of an illness, or external factors such as alcohol or drug use?
+	- Does the impairment mean the person is unable to make a specific decision when they need to?
 - Mental capacity can also fluctuate with time.
 - The determination of capacity is made by determining whether the person is able to *understand*, *retain* and *evaluate* the information, and *communicate* their decision.
 
@@ -244,7 +244,7 @@ known as the **Bolam test**.
 #### Cellular death
 
 - **Cellular death** implies the cessation of respiration (the utilisation of oxygen) and the normal metabolic activity in the body tissues and cells.
--  Cessation of respiration is soon followed by autolysis and decay, which, if it affects the whole body, is unchallengeable evidence of true death.
+- Cessation of respiration is soon followed by autolysis and decay, which, if it affects the whole body, is unchallengeable evidence of true death.
 - Skin and bone can remain metabolically active
 and thus 'living' for many hours and their cells can be
 successfully cultured days after somatic death.
@@ -263,7 +263,7 @@ successfully cultured days after somatic death.
 ### Prolonged disorders of consciousness
 
 - Disorders of consciousness (DOC) include: coma, vegetative state (VS), and minimally conscious state (MCS).
-- VS may be judged to be 'permanent' 12  months after traumatic brain injury or 3 months after non-traumatic brain injury.
+- VS may be judged to be 'permanent' 12	months after traumatic brain injury or 3 months after non-traumatic brain injury.
 - **Human Rights Act 1998**: the 'right to life' and the right not to be subjected to inhuman and degrading treatment.
 - Legal permission from the **Court of Protection** is no longer needed to end life support for patients in a permanent VS.
 
@@ -309,10 +309,10 @@ regulate it.
 
 ### Cause of death determination and certification
 
-- The degree of certainty with which the doctor is  required to decide the cause of death may vary between  jurisdictions.
+- The degree of certainty with which the doctor is required to decide the cause of death may vary between jurisdictions.
 - The outcome would not have occurred 'but for' the occurrence of the illness, disease or alleged action/omission of another person.
 - In general, if a doctor knows the cause of death, and that cause of death is **natural** (without any suspicious or unusual features), they may issue a **medical certificate of cause of death (MCCD)**.
-- The format for certifying the cause of death was  defined by the World Health Organisation (WHO) in 1979.
+- The format for certifying the cause of death was defined by the World Health Organisation (WHO) in 1979.
 - **Part I** is divided into subsections and generally three: (a), (b) and (c), are printed on the certificate.
 - Doctors should not record the **mode of death** in isolation.
 - If a mode is specified, it should be qualified by indicating the underlying pathological abnormality leading to that mode of death.
@@ -414,8 +414,8 @@ homicide.
 - Rigor is generally first detectable in the smaller muscle groups.
 - On its own, rigor mortis has very little utility as a marker of the PMI because of the large number of factors that influence it.
 - In temperate conditions, rigor can commonly be detected
-  - In the face between approximately 1 and 4 hours after death.
-  - In the limbs between approximately 3 and 6 hours after death.
+	- In the face between approximately 1 and 4 hours after death.
+	- In the limbs between approximately 3 and 6 hours after death.
 - The strength of rigor increases to a maximum by approximately 18 hours after death.
 - Once established, rigor can remain for up to 2 days or so after death until autolysis and decomposition of muscle cells intervene and muscles become flaccid again.
 - It is best to test for rigor across a joint using very gentle pressure from one or two fingers only.
@@ -445,9 +445,9 @@ homicide.
 
 - It cannot be viewed solely as a simple physical property of a warm object in a cooler environment.
 - Three basic forensic assumption must be made in order to use body temperature as an indicator of the time of death:
-  - The body temperature was 37°C at the time of death.
-  - The post mortem body temperature readings can be taken.
-  - The body has lain in a thermally static environment.
+	- The body temperature was 37°C at the time of death.
+	- The post mortem body temperature readings can be taken.
+	- The body has lain in a thermally static environment.
 
 ### Other post mortem changes
 
@@ -470,8 +470,8 @@ homicide.
 - Immersion in water or burial will slow the process of decomposition.
 - **Casper's law**: if all other factors are equal, then, when there is free access of air, a body decomposes twice as fast than if immersed in water and eight times faster than if buried in earth.
 - The most common position of a body in water is
-  - Face down with the air-containing chest nearest the surface and
-  - The head and limbs hanging dependently lower in the water.
+	- Face down with the air-containing chest nearest the surface and
+	- The head and limbs hanging dependently lower in the water.
 - The first change that affects the body in water is the loss of epidermis.
 - Exposure to water can, in some cases, predipose to the formation of adipocere.
 
@@ -532,22 +532,22 @@ homicide.
 - Bleeding may occur into a plaque, and be seen as sub-intimal haemorrhage at autopsy.
 - The compromised area of myocardium may rupture between 3 days and 1 week after the clinical onset of the infarction.
 - SCD is defined as the unexpected death without an obvious noncardiac cause that occurs:
-  - within 1 hour of witnessed symptom onset (established SCD).
-  - within 24 hours of unwitnessed symptom onset (probable SCD).
+	- within 1 hour of witnessed symptom onset (established SCD).
+	- within 24 hours of unwitnessed symptom onset (probable SCD).
 - Dysfunctions of the cardiac conduction and autonomic nervous systems are known to contribute to SCD pathogenesis.
 
 #### Hypertensive heart disease
 
 - Long-standing hypertension can result in cardiac remodeling.
 - While exercise and hypertension can both be associated with development of LVH,
-  - The cardiac remodeling from hypertension is pathological with associated fibrosis and risk of heart failure and mortality.
-  - LVH in athletes in generally non-pathological and lacks the fibrosis.
+	- The cardiac remodeling from hypertension is pathological with associated fibrosis and risk of heart failure and mortality.
+	- LVH in athletes in generally non-pathological and lacks the fibrosis.
 
 #### Aortic stenosis
 
 - Aortic stenosis is seen:
-  - in the elder with calcified aortic valves.
-  - in youngesters who have a congenital bicuspic aortic valve.
+	- in the elder with calcified aortic valves.
+	- in youngesters who have a congenital bicuspic aortic valve.
 - Angina, exertional syncope and heart failure are key symptoms indicating a need for intervention.
 
 #### Senile myocardial degeneration
@@ -615,29 +615,29 @@ homicide.
 
 - The causes of many stillbirths remain unknown, but may include maternal infections in pregnancy, maternal disorders, intrauterine infections, birth trauma or congenital abnormalities.
 - If death occurs more than a couple of days before birth
-  - The fetus is commonly macerated.
-  - The skin is discolored, usually a pinkish-brown or red, with extensive desquamation of the skin.
-  - The tissue has a soft and slimy transluence.
-  - There may be partial collapse of the head with overriding of the skull plates.
+	- The fetus is commonly macerated.
+	- The skin is discolored, usually a pinkish-brown or red, with extensive desquamation of the skin.
+	- The tissue has a soft and slimy transluence.
+	- There may be partial collapse of the head with overriding of the skull plates.
 - A 'stillbirth certificate' can be completed either by a doctor or a midwife.
 
 ### Infanticide
 
-- **Infanticide** is the act where a mother kills  her child during its first year of life.
+- **Infanticide** is the act where a mother kills	her child during its first year of life.
 - Infanticide is a less serious charge than murder and does not result in the mandatory penalty of life imprisonment.
 - There is a legal presumption that all deceased babies are stillborn and so the onus is on the prosecution.
 - The viability or otherwise of a baby at the momenet of complete expulsion is not easy to determine.
 - Proof of a live birth must show that the infant breathed or other signs of life such as movement or pulsation of the umbilical cord.
 - The **lung floatation test** was reliable in 98% of cases.
-  - Not a single false-positive result where the lungs of a stillborn individual floated.
-  - There are cases of false-negative result where a live born child's lungs did not float.
-  - Lungs that don't float cannot be taken as a proof that a newborn never breathed at all.
+	- Not a single false-positive result where the lungs of a stillborn individual floated.
+	- There are cases of false-negative result where a live born child's lungs did not float.
+	- Lungs that don't float cannot be taken as a proof that a newborn never breathed at all.
 - Common feature of lungs from stillbirths
-  - Lungs are firm and no crepitation when squeezed.
-  - Microscopy shows partial expansion of terminal air spaces as a consequence of hypoxia-induced inspiratory efforts.
+	- Lungs are firm and no crepitation when squeezed.
+	- Microscopy shows partial expansion of terminal air spaces as a consequence of hypoxia-induced inspiratory efforts.
 - Some other indicators of life:
-  - Confirmed milk in the stomach.
-  - The umbilical cord is shrivelled or shows an inflammatory ring of impending separation.
+	- Confirmed milk in the stomach.
+	- The umbilical cord is shrivelled or shows an inflammatory ring of impending separation.
 
 ### The estimation of maturity of a newborn baby or fetus
 
@@ -673,8 +673,8 @@ homicide.
 #### Skeletal injury
 
 - Imaging recommended for different age groups:
-  - Skeletal survey in children under two years of age.
-  - Skeletal survey and CT head scan in children under one year.
+	- Skeletal survey in children under two years of age.
+	- Skeletal survey and CT head scan in children under one year.
 - Rib fractures is a feature of the application of substantial force and are rarely accidental in children.
 - One particular pattern is areas of callus on the posterior ribs, often lying in a line adjacent to the vertebrae, and giving a **string-of-beads** appearance.
 - Abusive skull fractures are more likely to be multiple, comminuted, bilateral and cross sutures.
@@ -693,8 +693,8 @@ homicide.
 
 - All children suspected of being physically abused should have their eyes examined by an ophthalmologist.
 - Possible occular findings in AHT:
-  - **Cherry hemorrhage**: isolated and elevated circular bleeds, typically in the equatorial retina.
-  - **Perimacular ridges**: elevated and circular retinal folds with a canopy of internal limiting membrane (ILM).
+	- **Cherry hemorrhage**: isolated and elevated circular bleeds, typically in the equatorial retina.
+	- **Perimacular ridges**: elevated and circular retinal folds with a canopy of internal limiting membrane (ILM).
 - Survivors had optic nerve atrophy and macular ganglion cell loss.
 
 #### Oral injuries
@@ -725,8 +725,8 @@ homicide.
 - Murder and manslaughter are two of the offences that constitute homicide.
 - Manslaughter can be commited in one of three ways:
 	 - Killing with the intent for murder but where a partial defence applies.
-  - **Gross negligence manslaughter**: conduct that was grossly negligent given the risk of death, and did kill.
-  - **Unlawful and dangerous act manslaughter**: conduct taking the form of an unlawful act involving a danger of some harm, that resulted in death.
+	- **Gross negligence manslaughter**: conduct that was grossly negligent given the risk of death, and did kill.
+	- **Unlawful and dangerous act manslaughter**: conduct taking the form of an unlawful act involving a danger of some harm, that resulted in death.
 - The term **involuntary manslaughter** is commonly used to describe a manslaughter falling within (2) and (3) while (1) is referred to as **voluntary manslaughter**.
 - A **wound** is an injury that breaks the continuity of the skin.
 - The crime of **murder** is committed where a person of sound mind and discretion unlawfully kills with intent to kill or cause **grievous bodily harm (GBH)**.
@@ -735,15 +735,15 @@ homicide.
 
 #### How does the body respond to injury?
 
-- Damaged or dead cells express molecules that are recognized by the immune system: **damage-associated molecular patterns (DAMP)**  and **alarmins**.
+- Damaged or dead cells express molecules that are recognized by the immune system: **damage-associated molecular patterns (DAMP)**	and **alarmins**.
 - An efficient and effective coordinated localized resopnse leads to resolution of the inflammatory environment, healing/repair of damaged tissue, and restoration of normal function.
 - These processes assist in the microscopic **ageing** of injury.
 - The following factors may all influence whether the trauma sustained is likely to have a fatal outcome:
-  - The **trauma load**: the nature and severity of the injury(s).
-  - The mechanism of injury.
-  - The rapidity with which emergency medical care is provided, and the availability of modern trauma care/intensive care facilities.
-  - The age and health status of the injured person.
-  - The body's physiological response to injury.
+	- The **trauma load**: the nature and severity of the injury(s).
+	- The mechanism of injury.
+	- The rapidity with which emergency medical care is provided, and the availability of modern trauma care/intensive care facilities.
+	- The age and health status of the injured person.
+	- The body's physiological response to injury.
 - The physiological response to injury is not only complicated but complex, and the behavior of the response is non-linear.
 
 ### Types of injury

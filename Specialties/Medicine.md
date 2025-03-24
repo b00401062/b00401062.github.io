@@ -166,12 +166,12 @@
 
 - Burns
 - Fractures
-  - Rib fractures
-  - Corner [Bucket handle] fractures
-  - Spiral fractures
+	- Rib fractures
+	- Corner [Bucket handle] fractures
+	- Spiral fractures
 - Hemorrhage
-  - Subdural hemorrhage
-  - Retinal hemorrhage
+	- Subdural hemorrhage
+	- Retinal hemorrhage
 - Neisseria gonorrhoeae
 
 ## Levels of Consciousness {ALOSC}
@@ -242,8 +242,8 @@
 - Cardiac
 - Neurologic
 - Reflex
-  - Vasovagal [Neurocardiogenic]
-  - Situational
+	- Vasovagal [Neurocardiogenic]
+	- Situational
 - Psychogenic
 
 ## Etiology of Fever
@@ -341,9 +341,9 @@
 - ACEI :: Captopril
 - β<sub>1</sub> antagonists :: Labetalol
 - Venodilators & Vasodilators
-  - Ca channel blockers
-  - α<sub>2</sub> agonists
-  - Nitrates
+	- Ca channel blockers
+	- α<sub>2</sub> agonists
+	- Nitrates
 
 ### Hypertension {ABVD}
 
@@ -363,12 +363,12 @@
 ## Etiology of Hypoxemia [↓ PaO<sub>2</sub>]
 
 - PaCO<sub>2</sub> :: normal
-  - A-a gradient :: normal [**Low FiO<sub>2</sub>**]
-  - A-a gradient :: high
-    - O<sub>2</sub> :: uncorrectable [**Shunt**]
-    - O<sub>2</sub> :: correctable
-      - V/Q :: normal [**Diffusion limitation**]
-      - V/Q :: mismatch [**Dead space**]
+	- A-a gradient :: normal [**Low FiO<sub>2</sub>**]
+	- A-a gradient :: high
+		- O<sub>2</sub> :: uncorrectable [**Shunt**]
+		- O<sub>2</sub> :: correctable
+			- V/Q :: normal [**Diffusion limitation**]
+			- V/Q :: mismatch [**Dead space**]
 - PaCO<sub>2</sub> :: high [**Hypoventilation**]
 
 ## Etiology of Hypercapnia [↑ PaCO<sub>2</sub>]

@@ -51,8 +51,8 @@
 
 - Make conditionals, loops, and other changes to control flow as “natural” as possible.
 - A guideline that can be useful:
-  - Left-hand side: The expression “being interrogated,” whose value is more in flux.
-  - Right-hand side: The expression being compared against, whose value is more constant.
+	- Left-hand side: The expression “being interrogated,” whose value is more in flux.
+	- Right-hand side: The expression being compared against, whose value is more constant.
 - Instead of minimizing the number of lines, a better metric is to minimize the time needed for someone to understand it.
 - By default, use an if/else. The ternary ?: should be used only for the simplest cases.
 - Look at your code from a fresh perspective when you’re making changes. Step back and look at it as a whole.

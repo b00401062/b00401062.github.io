@@ -35,8 +35,8 @@
 - Carotid artery stenosis (CAS)
 - Renal artery stenosis (RAS)
 - Peripheral artery disease (PAD)
-  - Chronic limb ischemia (CLI)
-  - Acute limb ischemia (ALI)
+	- Chronic limb ischemia (CLI)
+	- Acute limb ischemia (ALI)
 - Intestinal ischemia (II)
 - Ischemic stroke (IS)
 
@@ -70,15 +70,15 @@
 ## Treatment of Peripheral Artery Disease (PAD)
 
 - Antiplatelets
-  - Aspirin
-  - ADP antagonists
+	- Aspirin
+	- ADP antagonists
 - Anticoagulants :: Heparin
 - Statins
 - Supervised exercise therapy
 - PDE inhibitors :: Cilostazol
 - Revascularization
-  - Percutaneous transluminal angioplasty (PTA)
-  - Arterial bypass surgery
+	- Percutaneous transluminal angioplasty (PTA)
+	- Arterial bypass surgery
 
 ## Vasculitis
 
@@ -123,6 +123,6 @@
 - Telangiectasia
 - Epistaxis
 - Arteriovenous malformation (AVM)
-  - Cerebral AVM
-  - Pulmonary AVM
+	- Cerebral AVM
+	- Pulmonary AVM
 - Paradoxical embolism

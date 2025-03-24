@@ -5,10 +5,10 @@
 - Zygote
 - Morula
 - Blastocyst
-  - Embryoblast [Inner cell mass]
-  - Trophoblast [Outer cell mass]
-    - Cytotrophoblast
-    - Syncitiotrophoblast
+	- Embryoblast [Inner cell mass]
+	- Trophoblast [Outer cell mass]
+		- Cytotrophoblast
+		- Syncitiotrophoblast
 
 ## Embryonic Development
 
@@ -52,9 +52,9 @@
 
 - CNS neurons
 - CNS glial cells
-  - Astrocytes
-  - Ependymal cells
-  - Oligodendrocytes
+	- Astrocytes
+	- Ependymal cells
+	- Oligodendrocytes
 - Olfactory nerve
 - Optic nerve
 - Pineal gland
@@ -80,17 +80,17 @@
 - Cardiovascular
 - Dermis
 - Genital ducts
-  - Mullerian duct<br>[Paramesonephric duct]
-  - Wolffian duct<br>[Mesonephric duct]
+	- Mullerian duct<br>[Paramesonephric duct]
+	- Wolffian duct<br>[Mesonephric duct]
 - Gonads
 - Kidney
 - Lymphatics
 - Muscle
 - Notochord
 - Serosa
-  - Pleura
-  - Pericardium
-  - Peritoneum
+	- Pleura
+	- Pericardium
+	- Peritoneum
 - Spleen
 
 ## Endoderm
@@ -103,8 +103,8 @@
 - Parathyroid
 - Thymus
 - Thyroid
-  - Follicular cell
-  - Parafollicular [C] cell
+	- Follicular cell
+	- Parafollicular [C] cell
 - Urethra :: prostatic & membranous
 - Urinary bladder
 - Urogenital sinus

@@ -40,8 +40,8 @@
 
 - Almost all of science is fitting models to data.
 - In statistics:
-  - Going from particular observations to general descriptions is called *inference*.
-  - Learning is called *estimation*.
+	- Going from particular observations to general descriptions is called *inference*.
+	- Learning is called *estimation*.
 
 ### Related Topics
 
@@ -75,8 +75,8 @@
 ### Vapnik-Chervonenkis Dimension
 
 - $H$ **shatters** $N$ points if:
-  - For any learning problem definable by $N$ examples.
-  - It can be learned with no error by a hypothesis drawn from $H$.
+	- For any learning problem definable by $N$ examples.
+	- It can be learned with no error by a hypothesis drawn from $H$.
 - **Vapnik-Chervonenkis (VC) dimension** of $H$, VC($H$), is the maximum number of points that can be shattered by $H$.
 - VC dimension is independent of the probability distribution from which instances are drawn.
 - VC dimension may seem pessimistic.
@@ -90,9 +90,9 @@
 
 - **Noise** is any unwanted anomaly in the data.
 - There are several interpretations of noise:
-  - Imprecision in recording the input attributes.
-  - Errors in labeling the data points.
-  - *Hidden* or *latent* attributes not taken into account.
+	- Imprecision in recording the input attributes.
+	- Errors in labeling the data points.
+	- *Hidden* or *latent* attributes not taken into account.
 - **Occam's razor**: simpler explanations are more plausible and any unnecessary complexity should be shaved off.
 
 ### Learning Multiple Classes
@@ -114,18 +114,18 @@
 - **Underfitting** is when $H$ is less complex than the function.
 - **Overfitting** is when an overcomplex hypothesis learns not only the underlying function but also the noise in the data.
 - **Triple trade-off** is a trade-off between three factors in all learning algorithms:
-  - The complexity of the hypothesis.
-  - The amount of training data.
-  - The generalization error on new examples.
+	- The complexity of the hypothesis.
+	- The amount of training data.
+	- The generalization error on new examples.
 - **Validation set** and is used to test the generalization ability.
 - A **test set**, sometimes also called the publication set, contains examples not used in training or validation.
 
 ### Dimensions of a Supervised Machine Learning Algorithm
 
 - Three decisions we must make during machine learning:
-  - Model used in learning, $\hat{f}(x\|θ)$.
-  - Loss function, $L(·)$.
-  - Optimization procedure to find $θ^\*$ that minimizes the total error.
+	- Model used in learning, $\hat{f}(x\|θ)$.
+	- Loss function, $L(·)$.
+	- Optimization procedure to find $θ^\*$ that minimizes the total error.
 
 ### Notes
 
@@ -136,9 +136,9 @@
 ### Introduction
 
 - In reality, we have $x$ = $f(z)$, where:
-  - $x$ is the observable variables.
-  - $z$ is the unobservable variables.
-  - $f(·)$ is the deterministic function that defines the outcome from the unobservable pieces of knowledge.
+	- $x$ is the observable variables.
+	- $z$ is the unobservable variables.
+	- $f(·)$ is the deterministic function that defines the outcome from the unobservable pieces of knowledge.
 
 ### Classification
 
@@ -159,9 +159,9 @@
 - An association rule is an implication of the form $X → Y$.
 - One example of association rules is in basket analysis.
 - Three measures in learning association rules:
-  - **Support**: $P(X,Y)$
-  - **Confidence**: $P(Y\|X)$
-  - **Lift** or **interest**: $P(Y\|X)/P(Y)$
+	- **Support**: $P(X,Y)$
+	- **Confidence**: $P(Y\|X)$
+	- **Lift** or **interest**: $P(Y\|X)/P(Y)$
 
 ## Parametric Methods
 
@@ -197,9 +197,9 @@
 - The **bias** of an estimator is given as $b_θ(\hat{θ})$ = $E[\hat{θ}]-θ$.
 - $\hat{θ}$ is an **unbiased estimator** of $θ$ if $b_θ(\hat{θ})$ = 0 for all $θ$ values.
 - In Gaussian density:
-  - $s^2$ is a biased estimator of $σ^2$.
-  - $(N/(N−1))s^2$ is an unbiased estimator.
-  - $s^2$ is an *asymptotically unbiased estimator* whose bias goes to 0 as $N$ goes to infinity.
+	- $s^2$ is a biased estimator of $σ^2$.
+	- $(N/(N−1))s^2$ is an unbiased estimator.
+	- $s^2$ is an *asymptotically unbiased estimator* whose bias goes to 0 as $N$ goes to infinity.
 - $r(\hat{θ},θ)$ = $E[(\hat{θ}-θ)^2]$ = $(E[\hat{θ}]-θ)^2 + E[(\hat{θ}-E[\hat{θ}])^2]$ = $b_θ(\hat{θ})^2 + \text{Var}(\hat{θ})$.
 - MSE = bias squared + variance.
 
@@ -221,16 +221,16 @@
 - Their estimates are plugged in to get the estimate for the discriminant function.
 - Decision: $\hat{y}$ = $C_i$ that maximizes $f_i(x)$.
 - *Likelihood-based approach* to classification:
-  1. Estimate the densities separately.
-  2. Calculate posterior densities using Bayes' rule.
-  3. Get the discriminant.
+	1. Estimate the densities separately.
+	2. Calculate posterior densities using Bayes' rule.
+	3. Get the discriminant.
 - *Discriminant-based approach* directly estimates the discriminants.
 
 ### Regression
 
 - $y$ = $f(x) + ϵ$ where:
-  - $f(x)$ is some unknown function whose estimator is $\hat{f}(x\|θ)$.
-  - $ϵ$ is zero mean Gaussian with constant variance $σ^2$.
+	- $f(x)$ is some unknown function whose estimator is $\hat{f}(x\|θ)$.
+	- $ϵ$ is zero mean Gaussian with constant variance $σ^2$.
 - $p(y\|x) \sim N(\hat{f}(x\|θ),σ^2)$.
 - Use maximum likelihood to learn the parameters $θ$.
 - Decision: $\hat{y}$ = $\hat{f}(x\|\hat{θ})$.
@@ -245,20 +245,20 @@
 
 - MSE = bias squared + variance.
 - The bias/variance dilemma and is true for any machine learning system:
-  - **Underfitting**: If there is bias, this indicates that the model class does not contain the solution.
-  - **Overfitting**: If there is variance, the model class is too general and also learns the noise.
+	- **Underfitting**: If there is bias, this indicates that the model class does not contain the solution.
+	- **Overfitting**: If there is variance, the model class is too general and also learns the noise.
 - The optimal model is the one that has the best trade-off between the bias and the variance.
 
 ### Model Selection Procedures
 
 - One approach to find the optimal complexity is **cross-validation**.
 - Another approach that is used frequently is **regularization**.
-  - Regularization penalizes complex models with large variance.
-  - Regularization can be seen as an *optimism* term estimating the discrepancy between training and test error.
+	- Regularization penalizes complex models with large variance.
+	- Regularization can be seen as an *optimism* term estimating the discrepancy between training and test error.
 - **Akaike's information criterion (AIC)** and **Bayesian information criterion (BIC)**:
-  - Estimating the optimism.
-  - Adding the optimism to the training error to estimate test error.
-  - No need for validation.
+	- Estimating the optimism.
+	- Adding the optimism to the training error to estimate test error.
+	- No need for validation.
 - **Structural risk minimization (SRM)** uses a set of models ordered in terms of their complexities.
 - **Minimum description length (MDL)** is based on an information theoretic measure.
 - **Bayesian model selection** is used when there is prior knowledge about the class of approximating functions.
@@ -267,9 +267,9 @@
 
 ### Multivariate Data
 
--  The sample may be viewed as a *data matrix*
-  - Columns represent inputs, features, or attributes.
-  - Rows represent observations, examples, or instances.
+- The sample may be viewed as a *data matrix*
+	- Columns represent inputs, features, or attributes.
+	- Rows represent observations, examples, or instances.
 - Typically these variables are correlated; otherwise; there is no need for a multivariate analysis.
 
 ### Parameter Estimation
@@ -285,31 +285,31 @@
 
 - **Mahalanobis distance** is given as $(x−μ)^⊤Σ^{−1}(x−μ)$.
 - $(x−μ)^⊤Σ^{−1}(x−μ)$ = $c^2$ is the multi-dimensional hyperellipsoid:
-  - It is centered at $μ$.
-  - Its shape and orientation are defined by $Σ$.
+	- It is centered at $μ$.
+	- Its shape and orientation are defined by $Σ$.
 
 ### Multivariate Classification
 
 - The class-conditional densities, $p(x\|C_i)$, are taken as normal density, $N(μ_i,Σ_i)$.
 - Reducing covariance matrix through simplifying assumptions:
-  - **Quadratic discriminant**
-  - **Linear discriminant**
-    - The covariance matrix is shared by all classes.
-  - **Naive Bayes' classifier**
-    - The covariance matrix is shared by all classes.
-    - All off-diagonals of the covariance matrix are 0.
-  - **Nearest mean classifier**
-    - The covariance matrix is shared by all classes.
-    - All off-diagonals of the covariance matrix are 0.
-    - All variances are equal.
+	- **Quadratic discriminant**
+	- **Linear discriminant**
+		- The covariance matrix is shared by all classes.
+	- **Naive Bayes' classifier**
+		- The covariance matrix is shared by all classes.
+		- All off-diagonals of the covariance matrix are 0.
+	- **Nearest mean classifier**
+		- The covariance matrix is shared by all classes.
+		- All off-diagonals of the covariance matrix are 0.
+		- All variances are equal.
 
 ### Tuning Complexity
 
 - **Regularized discriminant analysis (RDA)**: $S_i'$ = $ασ^2I + βS + (1-α-β)S_i$
-  - When $α$ = $β$ = 0: quadratic discriminant.
-  - When $α$ = 0 and $β$ = 1: linear discriminant. 
-  - When $α$ = 1 and $β$ = 0: nearest mean classifier.
-  - In between these extremes, $α$ and $β$ are optimized by cross-validation.
+	- When $α$ = $β$ = 0: quadratic discriminant.
+	- When $α$ = 0 and $β$ = 1: linear discriminant.
+	- When $α$ = 1 and $β$ = 0: nearest mean classifier.
+	- In between these extremes, $α$ and $β$ are optimized by cross-validation.
 
 ### Discrete Features
 
@@ -323,15 +323,15 @@
 ### Introduction
 
 - Two main methods for reducing dimensionality:
-  - **Feature selection**: finding $k$ of the $d$ dimensions that give the most information.
-  - **Feature extraction**: finding a new set of $k$ dimensions that are combinations of the original $d$ dimensions.
+	- **Feature selection**: finding $k$ of the $d$ dimensions that give the most information.
+	- **Feature extraction**: finding a new set of $k$ dimensions that are combinations of the original $d$ dimensions.
 - These methods may be supervised or unsupervised.
 
 ### Subset Selection
 
 - Two approaches: **forward selection** and **backward selection**.
 - Checking the error should be done on a validation set.
-- The *sequential* selection algorithm is also known as **wrapper** approach. 
+- The *sequential* selection algorithm is also known as **wrapper** approach.
 - The features we select at the end depend heavily on the classifier we use.
 - This process of testing features one by one may be costly.
 - Subset selection is supervised.
@@ -359,9 +359,9 @@
 - $x_i-μ_i$ = $\sum_{j=1}^k v_{ij}z_j+ϵ_i$: Each input dimension is a weighted sum of the factors plus the residual term.
 - Residual terms $ϵ$ have the properties: $E[ϵ_i]$ = 0, $\text{Var}(ϵ_i)$ = $ψ_i$, and $\text{Cov}(ϵ_i,ϵ_j)$ = 0.
 - $Σ$ = $WW^⊤+Ψ$ where:
-  - $Σ$ is the covariance matrix of $X$
-  - $W$ is the **factor loadings**, the $d × k$ matrix of weights that transform latent factors to input dimension.
-  - $Ψ$ is a diagonal matrix with $ψ_i$ on the diagonals.
+	- $Σ$ is the covariance matrix of $X$
+	- $W$ is the **factor loadings**, the $d × k$ matrix of weights that transform latent factors to input dimension.
+	- $Ψ$ is a diagonal matrix with $ψ_i$ on the diagonals.
 - **Probabilistic PCA** is when all $ψ_i$ are equal, namely, $Ψ$ = $ψI$.
 - Conventional PCA is when $Ψ$ = 0.
 - For dimensionality reduction, FA offers no advantage over PCA.
@@ -369,9 +369,9 @@
 ### Singular Value Decomposition and Matrix Factorization
 
 - **Singular value decomposition** $X$ = $UΛV^⊤$ where:
-  - $U$ contains the eigenvectors of $XX^⊤$.
-  - $V$ contains the eigenvectors of $X^⊤X$.
-  - $Λ$ contains the $k$ = $\text{min}(N,d)$ singular values on its diagonal.
+	- $U$ contains the eigenvectors of $XX^⊤$.
+	- $V$ contains the eigenvectors of $X^⊤X$.
+	- $Λ$ contains the $k$ = $\text{min}(N,d)$ singular values on its diagonal.
 - **Matrix factorization** decomposes a large matrix into a product of (generally) two matrices.
 
 ### Multidimensional Scaling
@@ -410,7 +410,7 @@
 
 ### Laplacian Eigenmaps
 
-- Similar to Isomap and LLE,  Laplacian eigenmaps care for similarities only locally.
+- Similar to Isomap and LLE, Laplacian eigenmaps care for similarities only locally.
 - The Laplacian eigenmap is also a feature embedding method.
 
 ### t-Distributed Stochastic Neighbor Embedding
@@ -435,9 +435,9 @@
 ### Mixture Densities
 
 - The **mixture density** is written as $p(x)$ = $\sum_{i=1}^k p(x\|G_i)P(G_i)$ where:
-  - $G_i$ are the **mixture components** or **group** or **clusters**.
-  - $p(x\|G_i)$ are the **component densities**.
-  - $P(G_i)$ are the **mixture proportions**.
+	- $G_i$ are the **mixture components** or **group** or **clusters**.
+	- $p(x\|G_i)$ are the **component densities**.
+	- $P(G_i)$ are the **mixture proportions**.
 - Parametric classification is a bona fide mixture model where groups $G_i$ correspond to classes $C_i$.
 
 ### k-Means Clustering
@@ -446,21 +446,21 @@
 - The reference vector is set to the mean of all the instances that it represents.
 - There are also algorithms for adding new centers incrementally or deleting empty ones.
 - **Leader cluster algorithm**:
-  - An instance that is far away from existing centers causes the creation of a new center.
-  - A center that covers a large number of instances can be split into two.
+	- An instance that is far away from existing centers causes the creation of a new center.
+	- A center that covers a large number of instances can be split into two.
 
 ### Expectation-Maximization Algorithm
 
 - EM looks for the component density parameters that maximize the likelihood of the sample.
 - EM has no analytical solution and needs to resort to iterative optimization.
 - The EM algorithm works as follows:
-  - **E-step**: estimate these labels given our current knowledge of components.
-  - **M-step**: update component knowledge given the labels estimated in the E-step.
+	- **E-step**: estimate these labels given our current knowledge of components.
+	- **M-step**: update component knowledge given the labels estimated in the E-step.
 - EM is initialized by k-means.
 - k-means clustering is a special case of EM applied to Gaussian mixtures where:
-  - Inputs have equal and shared variances.
-  - All components have equal priors.
-  - Labels are hardened.
+	- Inputs have equal and shared variances.
+	- All components have equal priors.
+	- Labels are hardened.
 
 ### Mixtures of Latent Variable Models
 
@@ -484,9 +484,9 @@
 - Two approaches to hierarchical clustering: **agglomerative clustering** and **divisive clustering**.
 - At each iteration of an agglomerative algorithm, the two closest groups are merged.
 - The distance between two groups is defined as:
-  - **Single-link**: the smallest distance between all possible pairs of elements of the two groups.
-  - **Complete-link**: the largest distance between all possible pairs.
-  - Other possibilities: **average-link** and **centroid-link**.
+	- **Single-link**: the smallest distance between all possible pairs of elements of the two groups.
+	- **Complete-link**: the largest distance between all possible pairs.
+	- Other possibilities: **average-link** and **centroid-link**.
 - A hierarchical structure is usually represented as a dendrogram.
 
 ### Choosing the Number of Clusters
@@ -505,8 +505,8 @@
 - In parametric methods, a model is valid over the whole input space.
 - In nonparametric estimation, it is assumed that similar inputs have similar outputs.
 - The algorithm is composed of:
-  - Finding similar past instances from the training set using a suitable distance measure.
-  - Interpolating from them to find the right output.
+	- Finding similar past instances from the training set using a suitable distance measure.
+	- Interpolating from them to find the right output.
 - Nonparametric methods are also called **instance-based** or **memory-based** learning algorithms.
 - Its complexity depends on the size of the training set.
 
@@ -526,8 +526,8 @@
 
 - A kernel function is used to get a smooth estimate.
 - The **kernel estimator**, also called **Parzen windows**, is defined as $\hat{p}(x)$ = $\sum_i K(\frac{x-x_i}{h})/Nh$ where:
-  - The **kernel function** $K(·)$ determines the shape of the influences.
-  - The window width $h$ determines the width.
+	- The **kernel function** $K(·)$ determines the shape of the influences.
+	- The window width $h$ determines the width.
 - Various adaptive methods have been proposed to tailor $h$ as a function of the density around $x$.
 
 #### k-Nearest Neighbor Estimator
@@ -548,8 +548,8 @@
 
 - The class-conditional densities, $p(x\|C_i)$, is estimated using the nonparametric approach.
 - For the special case of k-nn estimator, $\hat{p}(x\|C_i)$ = $k_i/N_iV^k(x)$ where:
-  - $k_i$ is the number of neighbors out of the $k$ nearest that belong to $C_i$.
-  - $V^k(x)$ is the volume of the $d$-dimensional hypersphere centered at $x$.
+	- $k_i$ is the number of neighbors out of the $k$ nearest that belong to $C_i$.
+	- $V^k(x)$ is the volume of the $d$-dimensional hypersphere centered at $x$.
 - The **k-nn classifier** has a posterior density $\hat{p}(C_i\|x)$ = $k_i/k$.
 - A special case of k-nn is the **nearest neighbor classifier** where $k$ = 1.
 
@@ -590,15 +590,15 @@
 #### Running Line Smoother
 
 - **Running line smoother**:
-  - Uses the data points in the neighborhood, as defined by $h$ or $k$.
-  - Fits a local regression line.
+	- Uses the data points in the neighborhood, as defined by $h$ or $k$.
+	- Fits a local regression line.
 - **Locally weighted running line smoother**, known as **loess**, uses kernel weighting.
 
 ### How to Choose the Smoothing Parameter
 
 - The critical parameter is the smoothing parameter as used in:
-  - Bin width or kernel spread $h$.
-  - The number of neighbors $k$.
+	- Bin width or kernel spread $h$.
+	- The number of neighbors $k$.
 - A regularized cost function is used in **smoothing splines**.
 - Cross-validation is used to tune $h$, $k$, or $λ$.
 
@@ -662,9 +662,9 @@
 - **Rule induction** does a depth-first search and generates one path (rule) at a time.
 - A rule is said to *cover* an example if the example satisfies all the conditions of the rule.
 - **Sequential covering**:
-  - Once a rule is grown and pruned, it is added to the rule base.
-  - All the training examples covered by the rule are removed from the training set.
-  - The process continues until enough rules are added.
+	- Once a rule is grown and pruned, it is added to the rule base.
+	- All the training examples covered by the rule are removed from the training set.
+	- The process continues until enough rules are added.
 - A rule is pruned back by deleting conditions in reverse order to find the rule that maximizes the **rule value metric**.
 
 ### Multivariate Trees
@@ -713,8 +713,8 @@
 
 - $\log(y/(1−y))$ is known as the logit transformation or log odds of $y$.
 - In case of two classes, $\text{logit}(P(C_1\|x))$ = $w^⊤x+w_0$ where:
-  - $w$ = $Σ^{-1}(μ_1-μ_2)$.
-  - $w_0$ = $-\frac{1}{2}(μ_1+μ_2)^⊤Σ^{-1}(μ_1-μ_2)+\log\frac{P(C_1)}{P(C_2)}$.
+	- $w$ = $Σ^{-1}(μ_1-μ_2)$.
+	- $w_0$ = $-\frac{1}{2}(μ_1+μ_2)^⊤Σ^{-1}(μ_1-μ_2)+\log\frac{P(C_1)}{P(C_2)}$.
 - The inverse of logit is the **logistic function**, also called the **sigmoid function**.
 - $P(C_i\|x)$ = $\text{sigmoid}(w^⊤x+w_0)$.
 - Sigmoid transforms the discriminant value to a posterior probability.

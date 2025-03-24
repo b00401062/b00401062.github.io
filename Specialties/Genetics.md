@@ -3,27 +3,27 @@
 ## Single Gene Disorders
 
 - Single nucleotide polymorphism (SNP)
-  - Silent mutation
-  - Missense mutation
-  - Nonsense mutation
+	- Silent mutation
+	- Missense mutation
+	- Nonsense mutation
 - Indel mutation
-  - Frameshift mutation
-  - Tandem repeat: microsatellite & minisatellite
+	- Frameshift mutation
+	- Tandem repeat: microsatellite & minisatellite
 
 ## Chromosomal Disorders
 
 - Numerical mutation
-  - Autosomal monosomy
-  - Autosomal trisomy
-  - Sex chromosome monosomy :: Turner syndrome
-  - Sex chromosome trisomy :: Klinefelter syndrome
+	- Autosomal monosomy
+	- Autosomal trisomy
+	- Sex chromosome monosomy :: Turner syndrome
+	- Sex chromosome trisomy :: Klinefelter syndrome
 - Structural mutation
-  - Inversion
-  - Duplication
-  - Insertion & Deletion
-  - Translocation: Robertsonian & reciprocal
-  - Isochromosome
-  - Ring chromosome
+	- Inversion
+	- Duplication
+	- Insertion & Deletion
+	- Translocation: Robertsonian & reciprocal
+	- Isochromosome
+	- Ring chromosome
 
 ## Trinucleotide Repeat Expansion Disorders
 

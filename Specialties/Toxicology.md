@@ -126,7 +126,7 @@
 - Yellow halos
 - Bradycardia
 - ECG changes
-  - AV blocks
-  - Scooped ST segment
-  - Bidirectional VT
+	- AV blocks
+	- Scooped ST segment
+	- Bidirectional VT
 - GI symptoms
