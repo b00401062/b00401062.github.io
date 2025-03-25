@@ -254,8 +254,17 @@
 ||Calcitonin & PTH & Glucagon|
 |G<sub>i</sub>PCR|-|
 |RTK|Insulin & GF|
-|NRTK|GH & PRL & Cytokines|
+|NRTK|GH & PRL & Cytokines & EPO|
 |Steroid receptor|TH & Mineralocorticoid & Glucocorticoid & SH|
 
 - Receptor tyrosine kinase (RTK)
 - Non-receptor tyrosine kinase (NRTK)
+
+## Families of NRTK
+
+- ABL
+- FAK
+- JAK
+- SRC
+- SYK
+- TEC
