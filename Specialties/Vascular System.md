@@ -101,7 +101,7 @@
 
 ![](../Figures/Vasculitis.png)
 
-## ANCA-associated vasculitis (AAV)
+## ANCA-associated Vasculitis (AAV)
 
 |Vasculitis|Antibodies|Affected Organs|
 |-|-|-|
