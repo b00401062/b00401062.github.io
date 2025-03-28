@@ -1,12 +1,12 @@
 # Biochemistry
 
-## Antioxidants {GCSV}
+## Antioxidants
 
 |Antioxidant|Reaction|
 |-|-|
+|Superoxide dismutase|2O<sub>2</sub><sup>-</sup> + 2H<sup>+</sup> → H<sub>2</sub>O<sub>2</sub> + O<sub>2</sub>|
 |Glutathione peroxidase|H<sub>2</sub>O<sub>2</sub> + 2GSH → 2H<sub>2</sub>O + GSSG|
 |Catalase|2H<sub>2</sub>O<sub>2</sub> → 2H<sub>2</sub>O + O<sub>2</sub>|
-|Superoxide dismutase|2O<sub>2</sub><sup>-</sup> + 4H<sup>+</sup> → 2H<sub>2</sub>O + O<sub>2</sub>|
 |Vitamin A & C & E|-|
 
 ## Collagen Synthesis
