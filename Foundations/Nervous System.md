@@ -65,6 +65,10 @@
 
 ![](../Figures/Types%20of%20Neurons.jpg)
 
+## Blood Brain Barrier
+
+![](../Figures/Blood%20Brain%20Barrier.png)
+
 ## Neurotransmitters
 
 |Neurotransmitter|Location|Precursor|Metabolites|
