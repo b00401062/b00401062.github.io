@@ -475,6 +475,7 @@
 |Mechanism|Medication|Species|
 |-|-|-|
 |↓ RNA polymerase|Rifampin|Mycobacterium|
+||Sofosbuvir|Virus|
 ||α-Amanitin|Human|
 
 ### Microtubule Inhibitors
