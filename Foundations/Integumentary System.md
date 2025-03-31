@@ -11,3 +11,11 @@
 |Burned|Stratum basalis|
 
 ![](../Figures/Layers%20of%20Epidermis.jpg)
+
+## Stages of Wound Healing
+
+- Hemostasis
+- Inflammation
+- Epithelialization
+- Fibroplasia
+- Maturation
