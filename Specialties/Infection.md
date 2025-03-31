@@ -291,14 +291,13 @@
 |Treponema pallidum|Penicillin<br>Tetracyclines<br>3° Cephalosporins|
 |Chlamydia|Tetracyclines<br>Macrolides|
 |Rickettsia|Tetracyclines<br>Macrolides|
-|Pneumocystis jiroveci|TMP/SMX|
 |Anaerobes|β-lactams & β-lactamase inhibitors<br>Carbapenems<br>Clindamycin<br>Metronidazole|
 
 ## Therapeutic Antibiotics for Drug-resistant Bacteria
 
 |Microbe|Antibiotics|
 |-|-|
-|MRSA|Clindamycin<br>TMP-SMX<br>Ceftaroline<br>Vancomycin<br>Teicoplanin<br>Linezolid<br>Daptomycin|
+|MRSA|Clindamycin<br>TMP/SMX<br>Ceftaroline<br>Vancomycin<br>Teicoplanin<br>Linezolid<br>Daptomycin|
 |VRE|Teicoplanin<br>Linezolid<br>Daptomycin|
 |ESBL|Carbapenems<br>Tigecycline<br>Polymyxins|
 |CRE|Tigecycline<br>Polymyxins|
@@ -315,6 +314,8 @@
 |↓ Demethylase|-Conazoles|Fungus|
 |↓ Thymidylate synthase|Flucytosine|Cryptococcus|
 |↓ Microtubule assembly|Griseofulvin|Dermatophytes|
+|↓ Dihydrofolate reductase|Trimethoprim|Pneumocystis jiroveci|
+|↓ Dihydropteroate synthase|Sulfonamides|Pneumocystis jiroveci|
 
 ![](../Figures/Mechanisms%20of%20Action%20of%20Antifungals.png)
 
@@ -485,6 +486,7 @@
 ||Ganciclovir|CMV|
 ||Cidofovir|HSV & CMV|
 ||Foscarnet|HSV & CMV|
+|↓ RNA polymerase|Sofosbuvir|HCV|
 |↓ Protein synthesis|IFN-α|HBV & HCV|
 
 ![](../Figures/Mechanisms%20of%20Action%20of%20Antivirals.png)
