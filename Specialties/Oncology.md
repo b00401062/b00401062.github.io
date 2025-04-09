@@ -65,7 +65,7 @@
 |FANC|DNA repair|Fanconi anemia|
 |MEN1|Menin|MEN 1|
 |MLH1<br>MSH2|DNA repair|Lynch syndrome|
-|NF1<br>NF2|RAS activators|<br>Neurofibromatosis (NF) type 1<br>Neurofibromatosis (NF) type 2|
+|NF1<br>NF2|RAS activators|Neurofibromatosis (NF) type 1<br>Neurofibromatosis (NF) type 2|
 |P16|CDK inhibitors|Melanoma|
 |P53|Transcription factor for P21|Li-Fraumeni syndrome|
 |PTEN|-|Breast cancer<br>Prostate cancer<br>Endometrial cancer|
