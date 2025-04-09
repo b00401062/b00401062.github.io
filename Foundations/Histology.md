@@ -52,3 +52,9 @@
 - Lamina reticularis
 
 ![](../Figures/Layers%20of%20Basement%20Membrane.png)
+
+## Types of Exocrine Glands by Secretion Method
+
+- Merocrine
+- Apocrine
+- Holocrine

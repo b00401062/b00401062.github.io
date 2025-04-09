@@ -12,6 +12,12 @@
 
 ![](../Figures/Layers%20of%20Epidermis.jpg)
 
+## Types of Sweat Glands
+
+- Eccrine
+- Apoeccrine
+- Apocrine
+
 ## Stages of Wound Healing
 
 - Hemostasis

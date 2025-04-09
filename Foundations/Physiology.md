@@ -1,5 +1,10 @@
 # Physiology
 
+## Types of Endocytosis
+
+![](../Figures/Types%20of%20Endocytosis.png)
+
+
 ## Cytochrome P-450 (CYP450)
 
 |Family|Members|
