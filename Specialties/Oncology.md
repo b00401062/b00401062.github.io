@@ -58,17 +58,18 @@
 
 |Gene|Products|Tumors|
 |-|-|-|
-|APC|-|Familial adenomatous polyposis (FAP)|
+|APC|WNT inhibitors|Familial adenomatous polyposis (FAP)|
 |ATM|DNA repair|Ataxia telangiectasia|
 |BRCA|DNA repair|Breast cancer<br>Ovarian cancer|
 |ERCC|DNA repair|Xeroderma pigmentosum|
 |FANC|DNA repair|Fanconi anemia|
 |MEN1|Menin|MEN 1|
 |MLH1<br>MSH2|DNA repair|Lynch syndrome|
-|NF1<br>NF2|RAS activators|Neurofibromatosis (NF) type 1<br>Neurofibromatosis (NF) type 2|
+|NF1|RAS inhibitors|Neurofibromatosis (NF) type 1|
+|NF2|Cytoskeleton|Neurofibromatosis (NF) type 2|
 |P16|CDK inhibitors|Melanoma|
 |P53|Transcription factor for P21|Li-Fraumeni syndrome|
-|PTEN|-|Breast cancer<br>Prostate cancer<br>Endometrial cancer|
+|PTEN|PI3K inhibitors|Breast cancer<br>Prostate cancer<br>Endometrial cancer|
 |RB|E2F inhibitors|Retinoblastoma<br>Osteosarcoma|
 |TSC1<br>TSC2|Hamartin<br>Tuberlin|Tuberous sclerosis|
 |VHL|HIF inhibitors|Von Hippel-Lindau (VHL) disease|
