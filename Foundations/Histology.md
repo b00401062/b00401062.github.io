@@ -45,6 +45,21 @@
 |Desmosome|Macula adherens|Desmoglein & Keratin|
 |Hemidesmosome|-|Desmopenetrin & Keratin|
 
+## Composition of Extracellular Matrix (ECM)
+
+- Fibrous proteins
+    - Collagen
+    - Elastin
+- Adhesive proteins
+    - Fibronectin
+    - Laminin
+- Glycosaminoglycans & Proteoglycans
+    - Chondroitin sulfate
+    - Dermatan sulfate
+    - Keratan sulfate
+    - Heparan sulfate
+    - Hyaluronic acid [Hyaluronan]
+
 ## Layers of Basement Membrane {LDR}
 
 - Lamina lucida
