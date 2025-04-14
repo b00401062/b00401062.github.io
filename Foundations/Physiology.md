@@ -265,6 +265,11 @@
 - Receptor tyrosine kinase (RTK)
 - Non-receptor tyrosine kinase (NRTK)
 
+## Downstream Pathways of RTK
+
+- RAS → MAPK pathway
+- PI3K → Akt → mTOR pathway
+
 ## Families of NRTK
 
 - ABL
