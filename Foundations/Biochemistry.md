@@ -430,9 +430,13 @@
 
 ![](../Figures/Homocysteine%20Metabolism.jpg)
 
-## Catecholamine Metabolism
+## Phenylalanine Metabolism
 
-![](../Figures/Catecholamine%20Metabolism.png)
+![](../Figures/Phenylalanine%20Metabolism.png)
+
+## Tryptophan Metabolism
+
+![](../Figures/Tryptophan%20Metabolism.png)
 
 ## Urea Cycle
 
