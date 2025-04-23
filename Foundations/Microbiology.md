@@ -293,11 +293,11 @@
 |Pseudomonas aeruginosa|Exotoxin A|Elongation factor (EF-2)|↓ Protein synthesis|
 |Shigella|Shiga toxin|60S ribosome|↓ Protein synthesis|
 |EHEC|Shiga-like toxin|60S ribosome|↓ Protein synthesis|
-|ETEC|Heat-stable toxin (ST)|↑ G<sub>s</sub>PCR|↑ cGMP → ↑ fluid secretion|
-|ETEC|Heat-labile toxin (LT)|↑ G<sub>s</sub>PCR|↑ cAMP → ↑ fluid secretion|
-|Vibrio cholerae|Cholera toxin|↑ G<sub>s</sub>PCR|↑ cAMP → ↑ fluid secretion|
-|Bacillus anthracis|Edema toxin|↑ G<sub>s</sub>PCR|↑ cAMP → ↑ fluid secretion|
-|Bordetella pertussis|Pertussis toxin|↓ G<sub>i</sub>PCR|↑ cAMP → ↓ phagocytosis|
+|ETEC|Heat-stable toxin (ST)|↑ G<sub>s</sub>PCR|↑ cGMP → ↑ Fluid secretion|
+|ETEC|Heat-labile toxin (LT)|↑ G<sub>s</sub>PCR|↑ cAMP → ↑ Fluid secretion|
+|Vibrio cholerae|Cholera toxin|↑ G<sub>s</sub>PCR|↑ cAMP → ↑ Fluid secretion|
+|Bacillus anthracis|Edema toxin|↑ G<sub>s</sub>PCR|↑ cAMP → ↑ Fluid secretion|
+|Bordetella pertussis|Pertussis toxin|↓ G<sub>i</sub>PCR|↑ cAMP → ↓ Phagocytosis|
 |Clostridium botulinum|Botulinum toxin|SNARE|↓ ACh release|
 |Clostridium tetani|Tetanus toxin|SNARE|↓ GABA & Glycine release|
 
