@@ -329,6 +329,7 @@
 - Blastomyces
 - Coccidioides
 - Histoplasma
+- Paracoccidioides
 - Sporothrix
 
 ### Mold
