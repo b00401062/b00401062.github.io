@@ -245,7 +245,7 @@
 |Tumor|Mutation|Gene|
 |-|-|-|
 |Hodgkin lymphoma|-|-|
-|Burkitt lymphoma|t(8;14)|C-MYC/IGH|
+|Burkitt lymphoma|t(8;14)|C-MYC|
 |Diffuse large B-cell lymphoma (DLBCL)|-|-|
 |Mantle cell lymphoma|t(11;14)|Cyclin D (CCND)|
 |Marginal zone lymphoma<br>MALT lymphoma (MALToma)|-|-|

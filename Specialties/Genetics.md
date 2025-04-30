@@ -108,19 +108,20 @@
 
 ### Autosomal Dominant (AD)
 
-|Disease|Gene|Product|
-|-|-|-|
-|ADPKD|PKD1<br>PKD2|Polycystin 1<br>Polycystin 2|
-|Acute intermittent porphyria|-|Porphobilinogen deaminase|
-|Familial hypercholesterolemia|LDLR|LDL receptor|
-|Huntington disease|HTT|Huntingtin|
-|Marfan syndrome|FBN1|Fibrillin|
-|Multiple endocrine neoplasia (MEN) 1|MEN1|Tyrosine kinase|
-|Multiple endocrine neoplasia (MEN) 2|RET|Menin|
-|Neurofibromatosis (NF) type 1<br>Neurofibromatosis (NF) type 2|NF1<br>NF2|RAS activators|
-|Porphyria cutanea tarda|-|Uroporphyrinogen decarboxylase|
-|Tuberous sclerosis|TSC1<br>TSC2|Hamartin<br>Tuberlin|
-|Von Hippel-Lindau (VHL) disease|VHL|HIF inhibitors|
+|Disease|Gene|Product|Function|
+|-|-|-|-|
+|ADPKD|PKD1<br>PKD2|Polycystin 1<br>Polycystin 2|-|
+|Acute intermittent porphyria|-|Porphobilinogen deaminase|-|
+|Familial hypercholesterolemia|LDLR|LDL receptor|-|
+|Huntington disease|HTT|Huntingtin|-|
+|Marfan syndrome|FBN1|Fibrillin|-|
+|Multiple endocrine neoplasia (MEN) 1|MEN1|Menin|Scaffold protein|
+|Multiple endocrine neoplasia (MEN) 2|RET|RET|Tyrosine kinase|
+|Neurofibromatosis (NF) type 1|NF1|Neurofibromin|RAS inhibitors|
+|Neurofibromatosis (NF) type 2|NF2|Merlin|Cytoskeleton|
+|Porphyria cutanea tarda|-|Uroporphyrinogen decarboxylase|-|
+|Tuberous sclerosis|TSC1<br>TSC2|Hamartin<br>Tuberlin|-|
+|Von Hippel-Lindau (VHL) disease|VHL|VHL protein|HIF inhibitors|
 
 ### Autosomal Recessive (AR)
 
