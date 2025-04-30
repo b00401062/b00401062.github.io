@@ -116,7 +116,7 @@
 |Huntington disease|HTT|Huntingtin|-|
 |Marfan syndrome|FBN1|Fibrillin|-|
 |Multiple endocrine neoplasia (MEN) 1|MEN1|Menin|Scaffold protein|
-|Multiple endocrine neoplasia (MEN) 2|RET|RET|Tyrosine kinase|
+|Multiple endocrine neoplasia (MEN) 2|RET|RET protein|Tyrosine kinase|
 |Neurofibromatosis (NF) type 1|NF1|Neurofibromin|RAS inhibitors|
 |Neurofibromatosis (NF) type 2|NF2|Merlin|Cytoskeleton|
 |Porphyria cutanea tarda|-|Uroporphyrinogen decarboxylase|-|
