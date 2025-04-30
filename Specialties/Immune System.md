@@ -348,10 +348,6 @@
 
 ## Immunosuppressants
 
-![](../Figures/Mechanisms%20of%20Action%20of%20Immunosuppressants.png)
-
-## Immunosuppressants
-
 |Mechanism|Medication|Indications|
 |-|-|-|
 |COX inhibitors|NSAIDs|Immunosuppression|
@@ -366,3 +362,5 @@
 |TNF-α inhibitors|Etanercept|Immunosuppression|
 ||Infliximab<br>Adalimumab|Immunosuppression|
 |CD20 inhibitors|Rituximab|Immunosuppression|
+
+![](../Figures/Mechanisms%20of%20Action%20of%20Immunosuppressants.png)
