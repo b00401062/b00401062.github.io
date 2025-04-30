@@ -71,10 +71,11 @@
 |IL-1|Fever|
 |IL-2|T cell growth|
 |IL-3|Bone marrow growth|
-|IL-4|IgE production|
-|IL-5|IgA production|
+|IL-4|Th1 cell differentiation<br>IgE production|
+|IL-5|Eosinophil activation<br>IgA production|
 |IL-6|Acute-phase protein production|
 |IL-8|Chemotaxis|
+|IL-12|Th2 cell differentiation|
 
 ## Cytokine Secretion
 
