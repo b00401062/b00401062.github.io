@@ -33,7 +33,7 @@
 
 |Disease|Gene|Inheritance|IgM|IgG|IgE|IgA|
 |-|-|-|-|-|-|-|
-|Chronic mucocutaneous candidiasis|-|-|-|-|-|-|
+|Chronic mucocutaneous candidiasis|AIRE|AR|-|-|-|-|
 |Hyper-IgE [Job] syndrome|STAT3|AD|-|-|↑|-|
 |IL-12R deficiency|IL-12R|AR|-|-|-|-|
 |DiGeorge syndrome|22q11|AD|-|-|-|-|
