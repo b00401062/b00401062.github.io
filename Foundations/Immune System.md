@@ -152,6 +152,10 @@
 |Th17|IL-6 & IL-23 & TGF-β|IL-17 & IL-21 & IL-22|
 |Treg|IL-10 & TGF-β|IL-10 & TGF-β|
 
+## Activation of B Cells
+
+![](../Figures/Activation%20of%20B%20Cells.jpg)
+
 ## Immunoglobulins {MDGEA}
 
 |Immunoglobulin|Members|
