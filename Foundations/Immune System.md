@@ -143,7 +143,7 @@
 
 ![](../Figures/Activation%20of%20Lymphocytes.png)
 
-## Differentiation of CD4+ Cells
+## Differentiation of CD4+ T Cells
 
 |Th|Inducers|Secretion|
 |-|-|-|
