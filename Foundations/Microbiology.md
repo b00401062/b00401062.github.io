@@ -361,6 +361,8 @@
 
 #### Ciliates
 
+- Balantidium
+
 #### Sporozoans
 
 - Babesia
