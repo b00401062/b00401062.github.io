@@ -24,16 +24,16 @@
 
 ## Cytoskeletons
 
-|Type|Subtypes|Locations|
-|-|-|-|
-|Microtubule|Kinesin<br>Dynein|Centrioles<br>Cilia<br>Flagella|
-|Intermediate filament|Keratin|Epithelial cells<br>Desmosome<br>Hemidesmosome|
-||Vimentin|Mesenchymal cells|
-||Desmin|Muscle cells|
-||Neurofilament|Neurons|
-||GFAP|Glial cells|
-|Microfilament|Actin|Adherens junction<br>Microvilli|
-||Actin<br>Myosin<br>Tropomyosin|Muscle cells|
+|Type|Subtypes|Intracellular Locations|Cells|
+|-|-|-|-|
+|Microtubule|-|Centrioles<br>Cilia<br>Flagella|-|
+|Intermediate filament|Keratin|Desmosome<br>Hemidesmosome|Epithelial cells|
+||Vimentin|-|Mesenchymal cells|
+||Desmin|-|Muscle cells|
+||Neurofilament|-|Neurons|
+||GFAP|-|Glial cells|
+|Microfilament|Actin|Adherens junction<br>Microvilli|-|
+||Myosin|-|Muscle cells|
 
 ## Epithelial Cell Junctions {TAGDH}
 
