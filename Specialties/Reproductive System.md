@@ -189,7 +189,7 @@
 |-|-|-|
 |Dysgerminoma|Seminoma|ALP & LDH|
 |Choriocarcinoma|Choriocarcinoma|hCG|
-|Endodermal sinus tumor (EST)|Endodermal sinus tumor (EST)|AFP|
+|Yolk sac tumor|Yolk sac tumor|AFP|
 |Embryonal carcinoma|Embryonal carcinoma|hCG & AFP|
 |Teratoma|Teratoma|hCG & AFP|
 
