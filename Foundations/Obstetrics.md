@@ -1,5 +1,9 @@
 # Obstetrics
 
+## Placenta Anatomy
+
+![](../Figures/Placenta%20Anatomy.png)
+
 ## Fetal Sonographic Parameters
 
 - Crown-rump length (CRL)

@@ -1,9 +1,5 @@
 # Obstetrics
 
-## Placenta Anatomy
-
-![](../Figures/Placenta%20Anatomy.png)
-
 ## Prenatal Care
 
 |GA (weeks)|Testing|
