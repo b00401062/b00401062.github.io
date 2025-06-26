@@ -245,6 +245,13 @@
 - Chlamydia
 - Mycoplasma
 
+## Phases of Pneumonia
+
+- Congestion
+- Red hepatization
+- Grey hepatization
+- Resolution
+
 ## Empirical Antibiotics for Pneumonia
 
 |Patient|Antibiotics|
