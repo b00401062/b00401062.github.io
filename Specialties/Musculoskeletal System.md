@@ -256,3 +256,5 @@
 ||Chondrosarcoma|Metaphysis|
 |PNET|Ewing sarcoma|Diaphysis|
 |Marrow|Multiple myeloma|Diaphysis|
+
+![](../Figures/Bone%20Tumors.png)
