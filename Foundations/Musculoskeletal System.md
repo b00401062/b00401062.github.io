@@ -147,13 +147,13 @@
 
 ## Muscles of Leg
 
-### Lateral compartment
+### Lateral Compartment
 
 |Muscle|Nerve|
 |-|-|
 |Fibularis|Superficial fibular nerve|
 
-### Anterior compartment
+### Anterior Compartment
 
 |Muscle|Nerve|
 |-|-|
@@ -161,7 +161,7 @@
 |Extensor hallucis longus|Deep fibular nerve|
 |Extensor digitorum longus|Deep fibular nerve|
 
-### Posterior compartment
+### Posterior Compartment
 
 |Muscle|Nerve|
 |-|-|
@@ -189,3 +189,8 @@
 |Guyon canal|-|Ulnar nerve<br>Ulnar artery|
 |Carpal tunnel|Flexor retinaculum|Median nerve<br>Flexor digitorum superficialis<br>Flexor digitorum profundus<br>Flexor pollicis longus|
 |Tarsal tunnel|Flexor retinaculum|Tibialis posterior<br>Flexor digitorum longus<br>Tibial artery<br>Tibial nerve<br>Flexor hallucis longus|
+
+## Microscopic Classification of Bone
+
+- Woven bone
+- Lamellar bone
