@@ -36,7 +36,7 @@
 
 ## Muscles of Anterior Compartment of Forearm
 
-### Superficial layer
+### Superficial Layer
 
 |Muscle|Nerve|
 |-|-|
@@ -46,7 +46,7 @@
 |Flexor carpi ulnaris|Ulnar nerve|
 |Flexor digitorum superficialis|Median nerve|
 
-### Deep layer
+### Deep Layer
 
 |Muscle|Nerve|
 |-|-|
@@ -57,7 +57,7 @@
 
 ## Muscles of Posterior Compartment of Forearm
 
-### Superficial layer
+### Superficial Layer
 
 |Muscle|Nerve|
 |-|-|
@@ -67,14 +67,14 @@
 |Extensor carpi radialis brevis|Radial nerve|
 |Extensor carpi ulnaris|Radial nerve|
 
-### Intermediate layer
+### Intermediate Layer
 
 |Muscle|Nerve|
 |-|-|
 |Extensor digitorum|Radial nerve|
 |Extensor digiti minimi|Radial nerve|
 
-### Deep layer
+### Deep Layer
 
 |Muscle|Nerve|
 |-|-|
@@ -110,7 +110,7 @@
 
 ## Muscles of Thigh
 
-### Medial compartment
+### Medial Compartment
 
 |Muscle|Nerve|
 |-|-|
@@ -120,7 +120,7 @@
 |Gracilis|Obturator nerve|
 |Obturator externus|Obturator nerve|
 
-### Anterior compartment
+### Anterior Compartment
 
 |Muscle|Nerve|
 |-|-|
@@ -129,7 +129,7 @@
 |Quadriceps femoris|Femoral nerve|
 |Sartorius|Femoral nerve|
 
-### Posterior compartment
+### Posterior Compartment
 
 |Muscle|Nerve|
 |-|-|
