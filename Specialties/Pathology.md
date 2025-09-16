@@ -165,3 +165,9 @@
 - Pleomorphic nuclei
 - Prominent nucleoli
 - Increased mitosis
+
+## Types of Giant Cells
+
+- Foreign-body giant cells 
+- Langhan giant cells 
+- Touton giant cells
