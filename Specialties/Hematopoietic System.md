@@ -199,7 +199,7 @@
 |Hemolytic (HTR)|Anti-ABO<br>Anti-Rh|Minutes ~ Days|
 |Febrile non-hemolytic (FNHTR)|Anti-WBC|Hours|
 
-## Leukemia & Lymphoma
+## Classificaiton of Leukemia
 
 ### Myeloid Leukemia
 
@@ -233,6 +233,27 @@
 - Chronic lymphocytic leukemia (CLL)
 - Hairy cell leukemia (HCL)
 
+## Workup of Leukemia
+
+- Peripheral blood smear
+- Bone marrow smear
+- Cytochemistry
+- Immunophenotyping
+- Karyotyping
+- Genotyping
+
+## Treatment of Leukemia
+
+|Leukemia|Treatment|
+|-|-|
+|AML|Anthracyclines<br>Cytarabine<br>All-trans retinoic acid (ATRA)|
+|CML|Imatinib|
+|ALL|-|
+|CLL|Fludarabine<br>Cyclophosphamide<br>Rituximab|
+|HCL|Cladribine|
+
+## Classificaiton of Lymphoma
+
 ### T-cell Lymphoma
 
 |Tumor|Mutation|Gene|
@@ -251,30 +272,11 @@
 |Marginal zone lymphoma<br>MALT lymphoma (MALToma)|-|-|
 |Follicular lymphoma|t(14;18)|BCL2|
 
-## Workup of Leukemia
-
-- Peripheral blood smear
-- Bone marrow smear
-- Cytochemistry
-- Immunophenotyping
-- Karyotyping
-- Genotyping
-
 ## B Symptoms of Lymphoma
 
 - Fever
 - Night sweats
 - Weight loss
-
-## Treatment of Leukemia
-
-|Leukemia|Treatment|
-|-|-|
-|AML|Anthracyclines<br>Cytarabine<br>All-trans retinoic acid (ATRA)|
-|CML|Imatinib|
-|ALL|-|
-|CLL|Fludarabine<br>Cyclophosphamide<br>Rituximab|
-|HCL|Cladribine|
 
 ## Treatment of Hodgkin Lymphoma {ABVD}
 
