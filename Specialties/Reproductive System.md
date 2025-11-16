@@ -205,7 +205,7 @@
 ## Types of Endometrial Cancer
 
 |Type|1|2|
-|-|-|
+|-|-|-|
 |Histology|Endometrioid|Non-endometrioid|
 |Risk factors|Estrogen|-|
 |Prognosis|Favorable|Poor|
