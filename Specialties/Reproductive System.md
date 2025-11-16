@@ -171,9 +171,7 @@
 - Mucinous cystadenoma & cystadenocarcinoma
 - Endometrioid carcinoma
 - Clear cell carcinoma
-- Mixed cell carcinoma
 - Transitional cell carcinoma [Brenner tumor]
-- Carcinosarcoma [Malignant mixed Mullerian tumor (MMMT)]
 
 ### Stromal Tumors
 
@@ -192,6 +190,10 @@
 |Yolk sac tumor|Yolk sac tumor|AFP|
 |Embryonal carcinoma|Embryonal carcinoma|hCG & AFP|
 |Teratoma|Teratoma|hCG & AFP|
+
+### Mixed Epithelial and Stromal Tumor 
+
+- Carcinosarcoma [Malignant mixed Mullerian tumor (MMMT)]
 
 ## Triad of Meigs Syndrome
 
