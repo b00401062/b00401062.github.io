@@ -278,3 +278,11 @@
 - SRC
 - SYK
 - TEC
+
+## Stages of Wound Healing
+
+- Hemostasis
+- Inflammation
+- Epithelialization
+- Fibroplasia
+- Maturation
