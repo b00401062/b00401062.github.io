@@ -190,7 +190,7 @@
 |Carpal tunnel|Flexor retinaculum|Median nerve<br>Flexor digitorum superficialis<br>Flexor digitorum profundus<br>Flexor pollicis longus|
 |Tarsal tunnel|Flexor retinaculum|Tibialis posterior<br>Flexor digitorum longus<br>Tibial artery<br>Tibial nerve<br>Flexor hallucis longus|
 
-## Microscopic Classification of Bone
+## Histologic Types of Bone Matrix
 
 - Woven bone
 - Lamellar bone
