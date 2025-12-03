@@ -520,7 +520,7 @@
 
 |Time (days)|Histology|Complications|
 |-|-|-|
-|< 1|Coagulative necrosis<br>Contraction bank<br>Wavy fiber|Cardiogenic shock<br>Arrhythmia<br>Heaert failure|
+|< 1|Coagulative necrosis<br>Contraction band<br>Wavy fiber|Cardiogenic shock<br>Arrhythmia<br>Heaert failure|
 |1 ~ 3|Neutrophilic infiltrate|Fibrinous pericarditis|
 |3 ~ 14|Granulation tissue|Pseudo-aneurysm<br>Free wall rupture<br>Papillary muscle rupture|
 |> 14|Contracted scar|Aneurysm<br>Mural thrombus<br>Dressler syndrome|
