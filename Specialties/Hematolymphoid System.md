@@ -564,69 +564,47 @@
 |Hemolytic (HTR)|Anti-ABO<br>Anti-Rh|Minutes ~ Days|
 |Febrile non-hemolytic (FNHTR)|Anti-WBC|Hours|
 
-## Classificaiton of Leukemia
+## Classificaiton of Myeloid Neoplasms
 
-### Myeloid Leukemia
+### Acute Myelogenous Leukemia (AML)
 
-|Tumor|Mutation|Gene|
-|-|-|-|
-|AML|t(15;17)|PML/RARA|
-||t(8;21)|RUNX1/RUNX1T1|
-||t(16;16)|CBFB/MYH11|
-||-|NPM1|
-||-|CEBPA|
-||-|FLT3|
-|CML|t(9;22)|BCR/ABL1|
+- AML with defining genetic abnormalities
+- AML with myelodysplasia-related changes (AML-MRC)
+- Therapy-related AML (t-AML)
+- AML, not otherwise specified (NOS)
+	- M0: Minimally differentiated
+	- M1: Without maturation
+	- M2: With maturation
+	- M3: Acute promyelocytic leukemia (now classified by its genetic marker)
+	- M4: Acute myelomonocytic leukemia
+	- M5: Acute monocytic leukemia
+	- M6: Acute erythroid leukemia
+	- M7: Acute megakaryoblastic leukemia
 
-- Acute myelogenous leukemia (AML)
-- Chronic myelogenous leukemia (CML)
+### Myelodysplastic Syndromes/Neoplasms (MDS)
 
-### Lymphoid Leukemia
+- Myelodysplastic neoplasms with defining genetic abnormalities
+- Myelodysplastic neoplasms, morphologically defined
 
-|Tumor|Mutation|Gene|
-|-|-|-|
-|ALL|t(12;21)|ETV6/RUNX1|
-||t(1;19)|TCF3/PBX1|
-||t(9;22)|BCR/ABL1|
-||t(4;11)|MLL/AF4|
-||Hyperdiploidy > 50|-|
-||Hypodiploidy < 44|-|
-|CLL|-|-|
-|HCL|-|-|
+### Myeloproliferative Neoplasms (MPN)
 
-- Acute lymphocytic leukemia (ALL)
-- Chronic lymphocytic leukemia (CLL)
-- Hairy cell leukemia (HCL)
+|Tumors|Genetics|RBC|WBC|PLT|
+|-|-|-|-|-|
+|Polycythemia vera|JAK2|↑|↑|↑|
+|Chronic myelogenous leukemia (CML)|t(9;22)|↓|↑|↑|
+|Essential thrombocytosis|JAK2|-|-|↑|
+|Myelofibrosis|JAK2|↓|↑/↓|↑/↓|
 
-## Workup of Leukemia
+## Classificaiton of Lymphoid Neoplasms
 
-- Peripheral blood smear
-- Bone marrow smear
-- Cytochemistry
-- Immunophenotyping
-- Karyotyping
-- Genotyping
-
-## Treatment of Leukemia
-
-|Leukemia|Treatment|
-|-|-|
-|AML|Anthracyclines<br>Cytarabine<br>All-trans retinoic acid (ATRA)|
-|CML|Imatinib|
-|ALL|-|
-|CLL|Fludarabine<br>Cyclophosphamide<br>Rituximab|
-|HCL|Cladribine|
-
-## Classificaiton of Lymphoma
-
-### T-cell Lymphoma
+### T-cell Neoplasms
 
 |Tumor|Mutation|Gene|
 |-|-|-|
 |Adult T-cell lymphoma|-|-|
 |Cutaneous T-cell lymphoma|-|-|
 
-### B-cell Lymphoma
+### B-cell Neoplasms
 
 |Tumor|Mutation|Gene|
 |-|-|-|
@@ -636,6 +614,15 @@
 |Mantle cell lymphoma|t(11;14)|Cyclin D (CCND)|
 |Marginal zone lymphoma<br>MALT lymphoma (MALToma)|-|-|
 |Follicular lymphoma|t(14;18)|BCL2|
+
+## Workup of Leukemia
+
+- Peripheral blood smear
+- Bone marrow smear
+- Cytochemistry
+- Immunophenotyping
+- Karyotyping
+- Genotyping
 
 ## B Symptoms of Lymphoma
 
@@ -708,15 +695,6 @@
 - Pancytopenia
 - Rashes
 - Splenomegaly
-
-## Myeloproliferative Disorders
-
-|Tumors|Genetics|RBC|WBC|PLT|
-|-|-|-|-|-|
-|Polycythemia vera|JAK2|↑|↑|↑|
-|Chronic myelogenous leukemia (CML)|t(9;22)|↓|↑|↑|
-|Essential thrombocytosis|JAK2|-|-|↑|
-|Myelofibrosis|JAK2|↓|↑/↓|↑/↓|
 
 ## Virchow Triad for Thrombosis {SHE}
 
