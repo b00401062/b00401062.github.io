@@ -101,7 +101,7 @@
 |ANCA-associated vasculitis (AAV)|Anti-PR3 [c-ANCA]<br>Anti-MPO [p-ANCA]|
 |Antiphospholipid syndrome (APS)|Anti-cardiolipin<br>Anti-β2-glycoprotein I<br>Lupus anticoagulant|
 |Arthus reaction|-|
-|Autoimmune hepatitis|Anti-smooth muscle<br>Anti-liver cytosol|
+|Autoimmune hepatitis|Anti-smooth muscle<br>Anti-Liver kidney microsomal (Anti-LKM)<br>Anti-liver cytosol (Anti-LC)|
 |Crohn disease|ASCA|
 |Dermatitis herpetiformis|Anti-tissue transglutaminase (Anti-tTG) IgA|
 |Drug-induced lupus|Anti-histone|
