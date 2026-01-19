@@ -143,13 +143,12 @@
 
 |Glomerulopathy|Nephritis|Nephrosis|LM/IF/EM|IC Shape|IC Location|C3|Associations|
 |-|-|-|-|-|-|-|-|
-|IgA nephropathy [Berger disease]|+|-|Mesangial proliferation|Granular|Mesangial|-|HSP|
 |Alport syndrome|+|-|GBM thinning<br>GBM splitting<br>Basket-weave appearance|-|-|-|-|
 |Anti-GBM disease [Goodpasture syndrome]|+|-|Crescent proliferation|Linear|GBM|-|Anti-GBM|
 |ANCA-associated vasculitis (AAV)|+|-|Crescent proliferation|-|-|-|ANCA|
-|Acute proliferative glomerulonephritis (APGN)|+|-|Lumpy-bumpy appearance<br>Starry sky appearance|Granular|Subepithelial|↓|GAS|
-|Membranoproliferative glomerulonephritis (MPGN)|+|+|Mesangial proliferation<br>GBM thickening<br>GBM splitting<br>Tram-track appearance|Granular|Subendothelial|↓|SLE<br>HBV<br>HCV|
-|Diffuse proliferative glomerulonephritis (DPGN)|+|+|Wire looping appearance|Granular|Subendothelial|↓|SLE|
+|Infection-associated glomerulonephritis|+|-|Lumpy-bumpy appearance<br>Starry sky appearance|Granular|Subepithelial|↓|GAS|
+|IgA nephropathy [Berger disease]|+|-|Mesangial proliferation|Granular|Mesangial|-|HSP|
+|Lupus nephritis|+|-|Mesangial proliferation<br>GBM thickening<br>GBM splitting<br>Tram-track appearance<br>Wire looping appearance|Granular|Subendothelial|↓|SLE|
 |Membranous nephropathy|-|+|GBM thickening<br>Spike-and-dome appearance|Granular|Subepithelial|-|Anti-PLA2R<br>SLE<br>HBV<br>HCV|
 |Minimal change disease (MCD)|-|+|Podocyte effacement|-|-|-|-|
 |Focal segmental glomerulosclerosis (FSGS)|-|+|Segmental sclerosis<br>Hyalinosis<br>Podocyte effacement|-|-|-|HIV<br>SCD|
