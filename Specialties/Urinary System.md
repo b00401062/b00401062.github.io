@@ -143,7 +143,7 @@
 
 |Glomerulopathy|Nephritis|Nephrosis|LM/IF/EM|IC Shape|IC Location|C3|Associations|
 |-|-|-|-|-|-|-|-|
-|IgA nephropathy [Berger disease]|+|-|Mesangial proliferation|Mesangial|Mesangial|-|HSP|
+|IgA nephropathy [Berger disease]|+|-|Mesangial proliferation|Granular|Mesangial|-|HSP|
 |Alport syndrome|+|-|GBM thinning<br>GBM splitting<br>Basket-weave appearance|-|-|-|-|
 |Anti-GBM disease [Goodpasture syndrome]|+|-|Crescent proliferation|Linear|GBM|-|Anti-GBM|
 |ANCA-associated vasculitis (AAV)|+|-|Crescent proliferation|-|-|-|ANCA|
