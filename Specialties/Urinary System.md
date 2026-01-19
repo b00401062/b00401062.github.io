@@ -146,8 +146,8 @@
 |Alport syndrome|+|-|GBM thinning<br>GBM splitting<br>Basket-weave appearance|-|-|-|-|
 |Anti-GBM disease [Goodpasture syndrome]|+|-|Crescent proliferation|Linear|GBM|-|Anti-GBM|
 |ANCA-associated vasculitis (AAV)|+|-|Crescent proliferation|-|-|-|ANCA|
-|Infection-associated glomerulonephritis|+|-|Lumpy-bumpy appearance<br>Starry sky appearance|Granular|Subepithelial|↓|GAS|
 |IgA nephropathy [Berger disease]|+|-|Mesangial proliferation|Granular|Mesangial|-|HSP|
+|Infection-associated glomerulonephritis|+|-|Lumpy-bumpy appearance<br>Starry sky appearance|Granular|Subepithelial|↓|GAS|
 |Lupus nephritis|+|-|Mesangial proliferation<br>GBM thickening<br>GBM splitting<br>Tram-track appearance<br>Wire looping appearance|Granular|Subendothelial|↓|SLE|
 |Membranous nephropathy|-|+|GBM thickening<br>Spike-and-dome appearance|Granular|Subepithelial|-|Anti-PLA2R<br>SLE<br>HBV<br>HCV|
 |Minimal change disease (MCD)|-|+|Podocyte effacement|-|-|-|-|
