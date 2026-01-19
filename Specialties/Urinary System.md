@@ -139,15 +139,14 @@
 - Hypercoagulability
 - Hyperlipidemia
 
-## Classification of Glomerulopathy {IAA-RAMD-MMF-DA}
+## Classification of Glomerulopathy {IAAAAMD-MMFDA}
 
 |Glomerulopathy|Nephritis|Nephrosis|LM/IF/EM|IC Shape|IC Location|C3|Associations|
 |-|-|-|-|-|-|-|-|
 |IgA nephropathy [Berger disease]|+|-|Mesangial proliferation|Mesangial|Mesangial|-|HSP|
 |Alport syndrome|+|-|GBM thinning<br>GBM splitting<br>Basket-weave appearance|-|-|-|-|
-|Anti-GBM disease [Goodpasture syndrome]|+|-|Crescent proliferation|Linear|GBM|-|-|
-|ANCA-associated vasculitis (AAV)|+|-|Crescent proliferation|-|-|-|-|
-|Rapidly progressive glomerulonephritis (RPGN)|+|-|Crescent proliferation|-|-|-|Anti-GBM<br>ANCA|
+|Anti-GBM disease [Goodpasture syndrome]|+|-|Crescent proliferation|Linear|GBM|-|Anti-GBM|
+|ANCA-associated vasculitis (AAV)|+|-|Crescent proliferation|-|-|-|ANCA|
 |Acute proliferative glomerulonephritis (APGN)|+|-|Lumpy-bumpy appearance<br>Starry sky appearance|Granular|Subepithelial|↓|GAS|
 |Membranoproliferative glomerulonephritis (MPGN)|+|+|Mesangial proliferation<br>GBM thickening<br>GBM splitting<br>Tram-track appearance|Granular|Subendothelial|↓|SLE<br>HBV<br>HCV|
 |Diffuse proliferative glomerulonephritis (DPGN)|+|+|Wire looping appearance|Granular|Subendothelial|↓|SLE|
