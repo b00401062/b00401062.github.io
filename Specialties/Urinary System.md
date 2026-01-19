@@ -139,7 +139,7 @@
 - Hypercoagulability
 - Hyperlipidemia
 
-## Classification of Glomerulopathy {IAAAAMD-MMFDA}
+## Classification of Glomerulopathy {AIL-MMFDA}
 
 |Glomerulopathy|Nephritis|Nephrosis|LM/IF/EM|IC Shape|IC Location|C3|Associations|
 |-|-|-|-|-|-|-|-|
