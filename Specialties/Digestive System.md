@@ -272,7 +272,7 @@
 |Depth|Transmural|Mucosal<br>Submucosal|
 |Radiography|String sign|Lead pipe|
 |Colonoscopy|Cobblestones|Pseudopolyps|
-|Histology|Noncaseating granuloma|Crypt abscess|
+|Histology|Granuloma|Crypt abscess|
 |Immunology|Th1|Th2|
 |Autoantibody|ASCA|Anti-MPO [p-ANCA]|
 |Risk of colorectal cancer|↑|↑↑|
